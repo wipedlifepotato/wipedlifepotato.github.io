@@ -1,0 +1,118 @@
+package main
+
+import (
+	"fmt"
+	"os"
+	"time"
+
+	"github.com/mjibson/go-dsp/fft"
+	"hz.tools/rf"
+	s "hz.tools/sdr"
+	rtl "hz.tools/sdr/rtl"
+
+	//"scientificgo.org/fft"
+	"web.savemyh/waterfall"
+)
+
+func infoAboutRTLs() {
+	fmt.Printf("Count of your rtl devices: %d\n", rtl.DeviceCount())
+	for i := uint(0); i < rtl.DeviceCount(); i++ {
+		//InfoByDeviceIndex(index uint) (*sdr.HardwareInfo, error)
+		hinfo, err := rtl.InfoByDeviceIndex(i)
+		if err != nil {
+			fmt.Errorf(err.Error())
+		}
+		fmt.Printf("Manufacture: %s\nProduct: %s\nSerial: %s\n\n", hinfo.Manufacturer, hinfo.Product, hinfo.Serial)
+	}
+	//idx, _ := rtl.DeviceIndexBySerial("00001090")
+	//fmt.Println(idx)
+}
+
+func testFM() {
+	Hz := int64(445093000)
+	sdr, err := rtl.New(0, 1024)
+	if err != nil {
+		panic(err)
+	}
+
+	sdr.SetSampleRate(3200000)
+	//sdr.SetSampleRate(512000)
+	err = sdr.SetCenterFrequency(rf.Hz(Hz)) // (446093000)
+	if err != nil {
+		fmt.Fprint(os.Stderr, "Can't to set freq of 88 mhz\n")
+	}
+	// GainStageTypeUnknown GainStageType = 0x0000
+	gainStages, _ := sdr.GetGainStages()
+	sdr.SetGain(gainStages[0], 32.0) // ?
+	readcloser, err := sdr.StartRx()
+	if err != nil {
+		panic(err)
+	}
+	win := waterfall.Win{}
+	win.InitSDL()
+	win.InitWin("Spectrum", 640, 480)
+	go win.DrawSpectrumGoroutine()
+	win.Running = true
+	win.Hz = Hz
+	for win.Running {
+		//sdr.SetCenterFrequency(rf.Hz(Hz + 100))
+		//f:=readcloser.SampleFormat()
+		mSamples := make(s.SamplesU8, 512) // 3200000) //
+		readcloser.Read(mSamples)
+		//fmt.Println(mSamples)
+		mSamplesC64 := make(s.SamplesC64, 1024) //8129*8
+		mSamples.ToC64(mSamplesC64)
+		//fmt.Println(mSamplesC64)
+		mSamplesC128 := make([]complex128, 1024)
+		for i := 0; i < len(mSamplesC64); i++ {
+			//		fmt.Println(mSamplesC64[i])
+			mSamplesC128[i] = complex128(mSamplesC64[i])
+		}
+		amplitudes := fft.FFT(mSamplesC128)
+		win.Amplitudes = amplitudes
+		/*//waterfall.PlotSpectrumPNG(amplitudes, 92800000.0, 3200000.0)
+		for i := 0; i < 1024; i++ {
+			r, o := cmplx.Polar(amplitudes[i])
+			o *= 360.0 / (2 * math.Pi)
+			if dsputils.Float64Equal(r, 0) {
+				o = 0 //  (When the magnitude is close to 0, the angle is meaningless)
+			}
+			fmt.Printf("mSamples(%d) = %.1f ∠ %.1f°\n", (0)+i, r, o)
+		}*/
+		time.Sleep(time.Millisecond * 50)
+		if Hz != win.Hz {
+			fmt.Println("Change hz")
+			Hz = win.Hz
+			readcloser.Close()
+			sdr.Close()
+			//time.Sleep(time.Second * 3)
+			sdr = nil
+			readcloser = nil
+			sdr, err = rtl.New(0, 1024)
+			if err != nil {
+				panic(err)
+			}
+
+			sdr.SetSampleRate(3200000)
+			//sdr.SetSampleRate(512000)
+			err = sdr.SetCenterFrequency(rf.Hz(Hz)) // (446093000)
+			if err != nil {
+				fmt.Fprint(os.Stderr, "Can't to set freq of 88 mhz\n")
+			}
+			readcloser, err = sdr.StartRx()
+			if err != nil {
+				panic(err)
+			}
+		}
+	}
+	win.DestroyWin()
+	//fmt.Println(mSamples)
+	readcloser.Close()
+	sdr.Close()
+}
+
+func main() {
+	//infoAboutRTLs()
+	testFM()
+
+}

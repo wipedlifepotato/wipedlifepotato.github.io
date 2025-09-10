@@ -1,0 +1,137 @@
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strconv"
+	"strings"
+	"time"
+
+	"github.com/mjibson/go-dsp/fft"
+	rtl "hz.tools/sdr/rtl"
+	mRtl "web.savemyh/rtl"
+
+	//"scientificgo.org/fft"
+	"web.savemyh/waterfall"
+
+	"flag"
+
+	"github.com/spf13/pflag"
+	"github.com/spf13/viper"
+)
+
+func infoAboutRTLs() {
+	fmt.Printf("Count of your rtl devices: %d\n", rtl.DeviceCount())
+	for i := uint(0); i < rtl.DeviceCount(); i++ {
+		//InfoByDeviceIndex(index uint) (*sdr.HardwareInfo, error)
+		hinfo, err := rtl.InfoByDeviceIndex(i)
+		if err != nil {
+			fmt.Errorf(err.Error())
+		}
+		fmt.Printf("Manufacture: %s\nProduct: %s\nSerial: %s\n\n", hinfo.Manufacturer, hinfo.Product, hinfo.Serial)
+	}
+	//idx, _ := rtl.DeviceIndexBySerial("00001090")
+	//fmt.Println(idx)
+}
+
+type Command map[string]func(com string, args ...string)
+
+var DCommands Command
+var r mRtl.Rtl
+var win waterfall.Win
+
+func testFM() {
+	Hz := int64(viper.GetInt("initialHz"))
+	r = mRtl.Rtl{}
+	r.InitSDR(1, Hz, 32.0)
+	win = waterfall.Win{}
+	win.InitSDL()
+	win.InitWin("Spectrum", 640, 480)
+	f := viper.GetFloat64("scaleFactor")
+	go win.DrawSpectrumAndWaterfallGoroutine(f)
+	win.Running = true
+	win.Hz = Hz
+	for win.Running {
+		mSamplesC128 := r.GetIQ()
+		mSamplesC128Slice := mSamplesC128[:]
+		win.IQ = mSamplesC128
+		amplitudes := fft.FFT(mSamplesC128Slice)
+		win.Amplitudes = amplitudes
+		/*
+			// From documentation about FFT
+			for i := 0; i < 1024; i++ {
+				r, o := cmplx.Polar(amplitudes[i])
+				o *= 360.0 / (2 * math.Pi)
+				if dsputils.Float64Equal(r, 0) {
+					o = 0 //  (When the magnitude is close to 0, the angle is meaningless)
+				}
+				fmt.Printf("mSamples(%d) = %.1f ∠ %.1f°\n", (0)+i, r, o)
+			}
+		*/
+		time.Sleep(time.Millisecond * 50)
+		if Hz != win.Hz {
+			fmt.Println("Change hz")
+			Hz = win.Hz
+			r.ReInitSDR(Hz)
+		}
+	}
+	win.DestroyWin()
+	r.Close()
+}
+
+func main() {
+	DCommands = make(Command)
+	DCommands["sFreq"] = func(com string, args ...string) {
+		if len(args) == 0 {
+			fmt.Fprint(os.Stderr, "Args not enough\n")
+			return
+		}
+		v, err := strconv.Atoi(args[0])
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "can't convert %s\n", args[0])
+			return
+		}
+		fmt.Println("set freq to ", v)
+		win.Hz = int64(v)
+	}
+	go func() {
+		var command string
+		scan := bufio.NewScanner(os.Stderr)
+		for {
+			fmt.Println("WComand: ")
+			if scan.Scan() {
+				command = scan.Text()
+				if len(command) == 0 {
+					continue
+				}
+				c := strings.Split(command, " ")
+				fmt.Println("Command: ", c[0])
+				k, e := DCommands[c[0]]
+				if e {
+					fmt.Println("command found")
+					k(c[0], c[1:]...)
+				}
+			}
+		}
+	}()
+
+	flag.Int("initialHz", 445093000, "Initial Hz frequency")
+	pflag.CommandLine.AddGoFlagSet(flag.CommandLine) // an another
+
+	flag.Bool("help", false, "Print help")
+	pflag.CommandLine.AddGoFlagSet(flag.CommandLine) // an another
+	flag.Float64("scaleFactor", 1.0, "amplifa spectrum/waterfall (use only if you have bad signal, or not have a signal amplifa)")
+	pflag.CommandLine.AddGoFlagSet(flag.CommandLine) // an another
+
+	pflag.Parse()
+	viper.BindPFlags(pflag.CommandLine)
+
+	if viper.GetBool("help") {
+		flag.Usage()
+		return
+	}
+	//infoAboutRTLs()
+	testFM()
+
+}

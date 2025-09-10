@@ -1,0 +1,6 @@
+package rtl
+
+// TODO
+type Rtl struct {
+	SampleRate uint
+}
