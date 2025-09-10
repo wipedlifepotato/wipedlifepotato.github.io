@@ -7,7 +7,10 @@ title: Contacts
 [![GPG Key](https://img.shields.io/badge/GPG-Download-blue?logo=gnuprivacyguard)](#my-gpg-key)
 [![Linux](https://img.shields.io/badge/Linux-Lover-black?logo=linux&logoColor=white)](#)
 [![Overlay Networks](https://img.shields.io/badge/Overlay-Networks-orange?logo=torproject)](#)
+
 GitHub: [wipedlifepotato](https://github.com/wipedlifepotato)
+
+Mail: glowblow@mail.i2p / glowblow@i2pmail.org
 
 ---
 
