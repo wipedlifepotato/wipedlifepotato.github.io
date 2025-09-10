@@ -10,8 +10,6 @@ title: Tesla K80 для игр на Windows
 - Использование в новых ядрах линукса драйвера Tesla k80, нужен патч - https://gist.github.com/joanbm/d0cb8790ca610fbd2c2e43f30707ce18
 - Перевод статьи [reddit](https://www.reddit.com/r/pcmods/comments/nhfwh7/guide_using_an_nvidia_tesla_k80_datacenter_gpu)
 
-Конечно! Вот мой перевод руководства из Reddit: **"(Guide) Using an NVIDIA Tesla K80 Datacenter GPU for Gaming"** – сокращённая, но чёткая версия на русском:
-
 ---
 
 ## Руководство: как использовать NVIDIA Tesla K80 (серверный GPU) для игр на Windows
