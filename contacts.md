@@ -1,38 +1,38 @@
 ---
 layout: default
-title: Contacts
+title: Контакты
 ---
 
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-LifeWiped-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/LifeWiped)
-[![GPG Key](https://img.shields.io/badge/GPG-Download-blue?logo=gnuprivacyguard)](#my-gpg-key)
-[![Linux](https://img.shields.io/badge/Linux-Lover-black?logo=linux&logoColor=white)](#)
-[![Overlay Networks](https://img.shields.io/badge/Overlay-Networks-orange?logo=torproject)](#)
+[![GPG Ключ](https://img.shields.io/badge/GPG-Загрузить-blue?logo=gnuprivacyguard)](#my-gpg-key)
+[![Linux](https://img.shields.io/badge/Linux-Любитель-black?logo=linux&logoColor=white)](#)
+[![Overlay Networks](https://img.shields.io/badge/Overlay-Сети-orange?logo=torproject)](#)
 
 GitHub: [wipedlifepotato](https://github.com/wipedlifepotato)
 
-Mail: glowblow@mail.i2p / glowblow@i2pmail.org
+Почта: glowblow@mail.i2p / glowblow@i2pmail.org
 
 ---
 
-- 🔭 I’m currently working on overlay networks like **Yggdrasil**, **I2P**, **Tor**, and maintaining relays/floodfills/peers, as well as developing related software.
-- 🌱 I’m currently learning **Machine Learning** for a now.
-- ⚗ I’m interested in **chemistry**, **radio**, and **programming**.
-- 🐧 I like working with **Linux systems** and **AI**.
-- 💻 I can read and understand **C/C++**, **Golang**, **JavaScript**, **Python**, and also have some experience with **Kotlin** and **Java** and another languages.
+- 🔭 Сейчас я работаю над оверлей-сетями, такими как **Yggdrasil**, **I2P**, **Tor**, а также поддерживаю реле/флудфиллы/пиры и разрабатываю связанное ПО.
+- 🌱 В настоящее время изучаю **машинное обучение**.
+- ⚗ Интересуюсь **химией**, **радио** и **программированием**.
+- 🐧 Люблю работать с **Linux-системами** и **ИИ**.
+- 💻 Читаю и понимаю **C/C++**, **Golang**, **JavaScript**, **Python**, а также имею некоторый опыт с **Kotlin** и **Java**, а также другими языками.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Статистика GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wipedlifepotato&show_icons=true&theme=github_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipedlifepotato&layout=compact&theme=radical)
 
 ---
 
-# Contacts
+# Контакты
 
-### 🔑 My GPG Key
+### 🔑 Мой GPG Ключ
 <details>
-<summary>Click to view</summary>
+<summary>Нажмите, чтобы посмотреть</summary>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQSuBGifPLIRDACXRzcIUjz91afKQf72feIdQuH15xzP/EY6pGAxEuZnYYsPiqR+
