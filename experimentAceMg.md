@@ -86,7 +86,7 @@ nOH-C-COOH
 ![timelater](experimets/AceMg/timelater.jpg)
 
 Можно заметить окраску раствора, можно предположить, что в побочках что-то органическое или металлы побочной подгруппы
-![reaction.gif](experiments/AceMg/reaction.gif)
+![reaction.gif](experimets/AceMg/reaction.gif)
 
 ---
 
@@ -94,39 +94,39 @@ nOH-C-COOH
 Тогда для обменной реакциии Ацетата кальция и магния сульфата нам нужно довольно много грамм сульфата магния. По примерным расчетам 10 грамм. 
 
 Взял магния сульфат
-![sulfateMg](experiments/AceMg/sulfateMg.jpg)
+![sulfateMg](experimets/AceMg/sulfateMg.jpg)
 
-![reaction.gif](experiments/AceMg/reaction1.gif)
+![reaction.gif](experimets/AceMg/reaction1.gif)
 
 Как итог кальция не оказалось толком. Идём другим путём и ищем мел.
 ---
 
 Реакция муки известняковой и лимонной кислотой 
-![reaction_citratacid_caco3.gif](experiments/AceMg/reaction_citratacid_caco3.gif)
+![reaction_citratacid_caco3.gif](experimets/AceMg/reaction_citratacid_caco3.gif)
 
 По сравнению с тем, когда у меня закончилась лимонная кислота, я налил соляной конц. У меня резко прошла реакция. Органические кислоты реагруют медленно
 Реакция экзотермическая по наблюдениям
 
-![result_caco3_acid.jpg](experiments/AceMg/result_caco3_acid.jpg)
+![result_caco3_acid.jpg](experimets/AceMg/result_caco3_acid.jpg)
 
 У меня получился коллоидный раствор карбоната кальция с чем-то в воде, с предпологаемым цитратом.
 Убедиться в этом можно добавив уксусную кислоту
 
-![acidcco3.mp4.gif](experiments/AceMg/acidcco3.mp4.gif)
+![acidcco3.mp4.gif](experimets/AceMg/acidcco3.mp4.gif)
 
 Более наглядный коллоидный раствор седиментированный - 
-![coloide.jpg](experiments/AceMg/coloide.jpg)
+![coloide.jpg](experimets/AceMg/coloide.jpg)
 
 Налил прозрачный раствор сульфата магния и ацетата кальция, осадок не выпал. Решил что из-за кислотности и стал убирать излишнию кислоту пищевой содой. Выпадал моментами какой-то осадок, возможно соды:
 
-![reaction.gif](experiments/AceMg/reaction3.gif)
+![reaction.gif](experimets/AceMg/reaction3.gif)
 Осадок не был похож на гипс. По итогу растворим. Попытался сделать раствор, но не разбавлять кислотой. Тоже безуспешно. Решил проверить с соляной кислотой. С соляной кислотой реакция произошла быстро с карбонатом и появился осадок.
 
-![HCI](experiments/AceMg/HCI.jpg)
-![HCI](experiments/AceMg/HCI1.jpg)
+![HCI](experimets/AceMg/HCI.jpg)
+![HCI](experimets/AceMg/HCI1.jpg)
 
 Результат:
-![result](experiments/AceMg/result.jpg)
+![result](experimets/AceMg/result.jpg)
 ---
 
 - Вывод, либо у меня очень мало концетрации ацетата кальция, что в виде сульфата он выпадал в осадок, либо в следах органических кислот не выпадает осадок. 
