@@ -10,7 +10,7 @@ title: Контакты
 
 GitHub: [wipedlifepotato](https://github.com/wipedlifepotato)
 
-Почта: glowblow@mail.i2p / glowblow@i2pmail.org
+Почта: glowblow@mail.i2p для I2P-сети. existentialglue@proton.me
 
 ---
 
