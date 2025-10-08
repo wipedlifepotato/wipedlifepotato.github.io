@@ -35,7 +35,7 @@ title: (часть 2) Попытка получения цитрата магн�
 
 ## Реакция Авака, которую он мне прислал (Na2CO3 + MgSO4)
 
-![Na2CO3_and_MgSO4.png](experimets/AceMg/2/Na2CO3_and_MgSO4.png)
+![Na2CO3_and_MgSO4.png](experimets/AceMg/2/Avak/Na2CO3_and_MgSO4.png)
 
 
 <video width="640" height="360" controls>
