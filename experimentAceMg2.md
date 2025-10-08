@@ -39,7 +39,7 @@ title: (часть 2) Попытка получения цитрата магн�
 
 
 <video width="640" height="360" controls>
-  <source src="{{ '/experimets/AceMg/2/Na2CO3_and_MgSO4_web.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/experimets/AceMg/2/Avak/Na2CO3_and_MgSO4_web.mp4' | relative_url }}" type="video/mp4">
   Ваш браузер не поддерживает видео.
 </video>
 
