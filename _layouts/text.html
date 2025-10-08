@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="style.css"/>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #f0f4f8, #ffffff);
+      color: #333;
+    }
+
+    .content {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    nav {
+      background-color: #2a2a2a;
+      padding: 10px 20px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #76c7c0;
+    }
+
+    main {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      margin-top: 20px;
+      font-size: 1.1rem;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #777;
+    }
+
+    footer a {
+      color: #76c7c0;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: #58b7b2;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="content">
+    <nav>
+      <a href="/index.html">Главная</a> |
+      <a href="/contacts.html">Контакты</a>
+    </nav>
+
+    <main>
+      <h1>{{ page.title }}</h1>
+      <div>{{ content }}</div>
+    </main>
+
+    <footer>
+    </footer>
+  </div>
+
+</body>
+</html>
+
