@@ -61,8 +61,8 @@ title: Эксперимент основные соли 1
 
 ## Те самые видео
 
-![1](https://www.youtube.com/watch?v=70mLVytWdNk)
-![2](https://www.youtube.com/watch?v=MZwYG6dG8CY)
+1 - https://www.youtube.com/watch?v=70mLVytWdNk
+2 - https://www.youtube.com/watch?v=MZwYG6dG8CY
 
 
 ## Следующий этап 
