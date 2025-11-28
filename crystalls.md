@@ -16,4 +16,10 @@ title: Кристаллы [черновик]
 
 ![3](misc/CaSO4AutoHydratation.jpg)
 
+# Кристаллогидрат нитрата меди
 
+![1](images/NitrateCuprum.jpg)
+
+# Ацетат Серебра (по краям)
+
+![1](images/AcetatAg.jpg)
