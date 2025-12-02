@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="161.04 179.5 125.31 115.9"
+   preserveAspectRatio="xMidYMid"
+   width="100%"
+   height="100%"
+   version="1.1"
+   id="svg296"
+   sodipodi:docname="Kekulene.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata302">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs300" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="897"
+     inkscape:window-height="632"
+     id="namedview298"
+     showgrid="false"
+     height="4"
+     width="4"
+     inkscape:zoom="2.5191891"
+     inkscape:cx="62.655"
+     inkscape:cy="49.718308"
+     inkscape:window-x="151"
+     inkscape:window-y="59"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg296" />
+  <clipPath
+     id="556">
+    <rect
+       x="0.3"
+       y="0.3"
+       width="539.4"
+       height="719.15"
+       id="rect2" />
+  </clipPath>
+  <rect
+     style="fill:#ffffff;fill-opacity:0"
+     id="rect5"
+     height="100%"
+     width="100%"
+     y="179.5"
+     x="161.03999" />
+  <g
+     id="Solid">
+    <path
+       d="m 185.98,186.88 v 0 l 0.3,0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,-0.17 z"
+       id="path7"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g14">
+    <path
+       d="m 186.28,201.8 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="186.28"
+       y1="204.44"
+       x2="196.16"
+       y2="210.14999"
+       id="line12"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g18">
+    <path
+       d="m 199.05,208.82 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision"
+     inkscape:connector-curvature="0"
+     id="path20"
+     d="m 211.52,201.28 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z" />
+  <line
+     style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto"
+     id="line22"
+     y2="188.89693"
+     x2="214.00131"
+     y1="200.29692"
+     x1="214.00131" />
+  <g
+     id="g28">
+    <path
+       d="m 211.22,186.7 v 0 0.35 l -0.3,0.17 -12.17,-7.02 v -0.35 -0.35 z"
+       id="path26"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g34">
+    <path
+       d="m 198.75,179.5 v 0 0.35 0.35 l -12.17,7.02 -0.3,-0.17 -0.3,-0.17 z"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="198.75"
+       y1="182.84"
+       x2="188.87"
+       y2="188.55"
+       id="line32"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g38">
+    <path
+       d="m 211.22,201.8 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 0.35 z"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g44">
+    <path
+       d="m 223.69,209 v 0 -0.35 -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path40"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="223.69"
+       y1="205.66"
+       x2="233.57001"
+       y2="199.95"
+       id="line42"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g48">
+    <path
+       d="m 236.46,201.28 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g54">
+    <path
+       d="m 236.16,186.7 v 0 0.35 l -0.3,0.17 -12.17,-7.02 v -0.35 -0.35 z"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="233.57001"
+       y1="188.55"
+       x2="223.69"
+       y2="182.84"
+       id="line52"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g58">
+    <path
+       d="m 223.69,179.5 v 0 0.35 0.35 l -12.17,7.02 -0.3,-0.17 v -0.35 z"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g62">
+    <path
+       d="m 236.16,201.8 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path60"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g68">
+    <path
+       d="m 248.93,208.82 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path64"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="251.22"
+       y1="210.14999"
+       x2="261.10001"
+       y2="204.44"
+       id="line66"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g72">
+    <path
+       d="m 261.4,201.28 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,-0.17 z"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g78">
+    <path
+       d="m 261.4,186.88 v 0 l -0.3,0.17 -0.3,0.17 -12.17,-7.02 v -0.35 -0.35 z"
+       id="path74"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="258.51001"
+       y1="188.55"
+       x2="248.63"
+       y2="182.84"
+       id="line76"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g82">
+    <path
+       d="m 248.63,179.5 v 0 0.35 0.35 l -12.17,7.02 -0.3,-0.17 v -0.35 z"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g86">
+    <path
+       d="m 185.98,201.28 v 0 l 0.3,0.17 v 0.35 l -12.17,7.02 -0.3,-0.17 -0.3,-0.17 z"
+       id="path84"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g92">
+    <path
+       d="m 173.51,208.48 v 0 l 0.3,0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,-0.17 z"
+       id="path88"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="176.39999"
+       y1="210.14999"
+       x2="176.39999"
+       y2="221.55"
+       id="line90"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g96">
+    <path
+       d="m 173.81,223.4 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path94"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g102">
+    <path
+       d="m 186.58,230.42 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 0.3,0.17 z"
+       id="path98"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="186.28"
+       y1="227.25999"
+       x2="196.16"
+       y2="221.55"
+       id="line100"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g106">
+    <path
+       d="m 199.05,223.22 v 0 l -0.3,-0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g110">
+    <path
+       d="m 173.51,222.88 v 0 l 0.3,0.17 v 0.35 l -12.17,7.02 -0.3,-0.17 -0.3,-0.17 z"
+       id="path108"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g116">
+    <path
+       d="m 161.04,230.08 v 0 l 0.3,0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,0.17 z"
+       id="path112"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="163.92999"
+       y1="231.75"
+       x2="163.92999"
+       y2="243.14999"
+       id="line114"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g120">
+    <path
+       d="m 161.04,244.82 v 0 l 0.3,-0.17 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path118"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g126">
+    <path
+       d="m 174.11,252.02 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 V 245 Z"
+       id="path122"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="176.39999"
+       y1="253.35001"
+       x2="186.28"
+       y2="247.64"
+       id="line124"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g130">
+    <path
+       d="m 186.58,244.48 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path128"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g134">
+    <path
+       d="m 173.51,252.02 v 0 l 0.3,-0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,0.17 z"
+       id="path132"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g140">
+    <path
+       d="m 173.51,266.42 v 0 l 0.3,-0.17 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path136"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="176.39999"
+       y1="264.75"
+       x2="186.28"
+       y2="270.45999"
+       id="line138"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g144">
+    <path
+       d="m 186.58,273.62 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path142"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g150">
+    <path
+       d="m 199.05,266.08 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,-0.17 z"
+       id="path146"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="196.16"
+       y1="264.75"
+       x2="196.16"
+       y2="253.35001"
+       id="line148"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g154">
+    <path
+       d="m 199.05,251.68 v 0 l -0.3,0.17 -0.3,0.17 -12.17,-7.02 v -0.35 l 0.3,-0.17 z"
+       id="path152"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g158">
+    <path
+       d="m 185.98,273.62 v 0 l 0.3,-0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,0.17 z"
+       id="path156"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g164">
+    <path
+       d="m 185.98,288.02 v 0 l 0.3,-0.17 0.3,-0.17 12.17,7.02 v 0.35 0.35 z"
+       id="path160"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="188.87"
+       y1="286.35001"
+       x2="198.75"
+       y2="292.06"
+       id="line162"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g168">
+    <path
+       d="m 198.75,295.4 v 0 -0.35 -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path166"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g174">
+    <path
+       d="m 211.52,287.68 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path170"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="213.81"
+       y1="286.35001"
+       x2="213.81"
+       y2="274.95001"
+       id="line172"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g178">
+    <path
+       d="m 211.22,273.1 v 0 0.35 l -0.3,0.17 -12.17,-7.02 v -0.35 l 0.3,-0.17 z"
+       id="path176"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g182">
+    <path
+       d="m 211.22,288.2 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 0.35 z"
+       id="path180"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g188">
+    <path
+       d="m 223.69,295.4 v 0 -0.35 -0.35 l 12.17,-7.02 0.3,0.17 v 0.35 z"
+       id="path184"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="223.69"
+       y1="292.06"
+       x2="233.57001"
+       y2="286.35001"
+       id="line186"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g192">
+    <path
+       d="m 236.46,287.68 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path190"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g198">
+    <path
+       d="m 236.16,273.1 v 0 0.35 l -0.3,0.17 -12.17,-7.02 v -0.35 -0.35 z"
+       id="path194"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="233.57001"
+       y1="274.95001"
+       x2="223.69"
+       y2="269.23999"
+       id="line196"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g202">
+    <path
+       d="m 223.69,265.9 v 0 0.35 0.35 l -12.17,7.02 -0.3,-0.17 v -0.35 z"
+       id="path200"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g206">
+    <path
+       d="m 236.16,288.2 v 0 -0.35 l 0.3,-0.17 12.17,7.02 v 0.35 0.35 z"
+       id="path204"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g212">
+    <path
+       d="m 248.63,295.4 v 0 -0.35 -0.35 l 12.17,-7.02 0.3,0.17 0.3,0.17 z"
+       id="path208"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="248.63"
+       y1="292.06"
+       x2="258.51001"
+       y2="286.35001"
+       id="line210"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g216">
+    <path
+       d="m 261.4,288.02 v 0 l -0.3,-0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path214"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g220">
+    <path
+       d="m 261.1,273.1 v 0 0.35 l -0.3,0.17 -12.17,-7.02 v -0.35 l 0.3,-0.17 z"
+       id="path218"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g224">
+    <path
+       d="m 248.33,266.08 v 0 l 0.3,0.17 v 0.35 l -12.17,7.02 -0.3,-0.17 v -0.35 z"
+       id="path222"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g230">
+    <path
+       d="m 261.4,273.62 v 0 l -0.3,-0.17 v -0.35 l 12.17,-7.02 0.3,0.17 0.3,0.17 z"
+       id="path226"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="261.10001"
+       y1="270.45999"
+       x2="270.98001"
+       y2="264.75"
+       id="line228"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g234">
+    <path
+       d="m 273.87,266.42 v 0 l -0.3,-0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,0.17 z"
+       id="path232"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g240">
+    <path
+       d="m 273.57,251.5 v 0 0.35 l -0.3,0.17 L 261.1,245 v -0.35 l 0.3,-0.17 z"
+       id="path236"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="270.98001"
+       y1="253.35001"
+       x2="261.10001"
+       y2="247.64"
+       id="line238"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g244">
+    <path
+       d="m 260.8,244.48 v 0 l 0.3,0.17 V 245 l -12.17,7.02 -0.3,-0.17 -0.3,-0.17 z"
+       id="path242"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g250">
+    <path
+       d="m 248.33,251.68 v 0 l 0.3,0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,-0.17 z"
+       id="path246"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="251.22"
+       y1="253.35001"
+       x2="251.22"
+       y2="264.75"
+       id="line248"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g254">
+    <path
+       d="m 273.87,252.02 v 0 l -0.3,-0.17 v -0.35 l 12.18,-7.02 0.3,0.17 0.3,0.17 z"
+       id="path252"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g260">
+    <path
+       d="m 286.35,244.82 v 0 l -0.3,-0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,-0.17 z"
+       id="path256"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="283.45999"
+       y1="243.14999"
+       x2="283.45999"
+       y2="231.75"
+       id="line258"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g264">
+    <path
+       d="m 286.35,230.08 v 0 l -0.3,0.17 -0.3,0.17 -12.18,-7.02 v -0.35 l 0.3,-0.17 z"
+       id="path262"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g268">
+    <path
+       d="m 273.27,222.88 v 0 l 0.3,0.17 v 0.35 l -12.17,7.02 -0.3,-0.17 v -0.35 z"
+       id="path266"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g272">
+    <path
+       d="m 260.8,230.42 v 0 l 0.3,-0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,-0.17 z"
+       id="path270"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g278">
+    <path
+       d="m 273.87,222.88 v 0 l -0.3,0.17 -0.3,-0.17 v -14.06 l 0.3,-0.17 0.3,-0.17 z"
+       id="path274"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="270.98001"
+       y1="221.55"
+       x2="270.98001"
+       y2="210.14999"
+       id="line276"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+  <g
+     id="g282">
+    <path
+       d="m 273.87,208.48 v 0 l -0.3,0.17 -0.3,0.17 -12.17,-7.02 v -0.35 l 0.3,-0.17 z"
+       id="path280"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g286">
+    <path
+       d="m 248.33,208.82 v 0 l 0.3,-0.17 0.3,0.17 v 14.06 l -0.3,0.17 -0.3,0.17 z"
+       id="path284"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+  </g>
+  <g
+     id="g292">
+    <path
+       d="m 248.33,223.22 v 0 l 0.3,-0.17 0.3,-0.17 12.17,7.02 v 0.35 l -0.3,0.17 z"
+       id="path288"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:miter;shape-rendering:geometricPrecision" />
+    <line
+       x1="251.22"
+       y1="221.55"
+       x2="261.10001"
+       y2="227.25999"
+       id="line290"
+       style="stroke:#000000;stroke-width:0.60000002;shape-rendering:auto" />
+  </g>
+</svg>
