@@ -1,13 +1,18 @@
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    letter-spacing: 0.33vw;
-    text-shadow: 1px 1px 2px aquamarine;
+    letter-spacing: 0.02vw;
+   /* text-shadow: 1px 1px 2px aquamarine;*/
+    font-weight: bold;
     color: #61cf5a;
     padding: 0 auto;
     margin: 0 auto;
-    text-align: center;
+    background: ;
     background-color: black;
     z-index:1;
+    background-image: url('Kekulene.svg'), linear-gradient(#364c80, #082844);
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
 }
 a:visited {
     color: #3e6a3d;
@@ -15,14 +20,30 @@ a:visited {
 a {
     color: #63ad58;
 }
-#matrix {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  z-index: -1;
-  opacity: 0.999;
+a:hover {
+    color: #666;
+}
+ol, li {
+    list-style: none;
+}
+nav {
+padding: 0 auto;
+/*border: medium solid green;*/
+}
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    display:inline-block;
+   border-right: medium solid green;
+   border-left: medium solid green;
+    
+}
+nav a:last-child {
+    /*border-right: none;*/
+}
+header {
+    display: block ruby;
+    text-align:center;
 }
 .content {
     position: relative;
@@ -31,10 +52,10 @@ a {
     color: aquamarine;
     padding: 40px 30px;
     border-radius: 20px;
-    box-shadow: 0 0 30px rgba(0, 255, 0, 0.5);
+   /* box-shadow: 0 0 30px rgba(0, 255, 0, 0.5); */
     max-width: 1200px; 
     width: 90%;  
-    text-align: center;
+
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -48,6 +69,4 @@ a {
 }
 
 
-html {
-    
-}
+
