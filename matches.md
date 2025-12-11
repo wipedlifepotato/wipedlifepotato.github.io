@@ -47,66 +47,61 @@ https://en.wikipedia.org/wiki/Match
 <br/>
 <div class='pair'>
     <p>Ацетон (для важности записи, на*уй не нужная тут фотка:</p>
-    ![acetone.jpg](/experimets/matches/acetone.jpg)
+    <img src="/experimets/matches/acetone.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Полученный антимонит (Sb2S3), осадок от реакции щелочи с теркой, а потом раствор в переизбыток кислоты и дать осадится:</p>
-    ![acetone.jpg](/experimets/matches/antimonite1.jpg)
-</div>
-<br/>
-<div class='pair'>
-    <p>Полученный антимонит, осадок от реакции щелочи с теркой, а потом раствор в переизбыток кислоты и дать осадится:</p>
-    ![acetone.jpg](/experimets/matches/antimonite1.jpg)
+    <img src="/experimets/matches/antimonite1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Свеже полученный антимонит:</p>
-    ![acetone.jpg](/experimets/matches/antimonite.jpg)
+    <img src="/experimets/matches/antimonite.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Комментарий на форуме, по поводу политики ОЧЕНЬ УМНОГО государства:</p>
-    ![acetone.jpg](/experimets/matches/commentaboutpolicy.jpg)
+    <img src="/experimets/matches/commentaboutpolicy.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Комментарий на форуме, по поводу очень умных видео, где получают красный фосфор возгонкой красного фосфора в лампочке (наркоманы может солевые):</p>
-    ![acetone.jpg](/experimets/matches/commentaboutyoutube1.jpg)
+    <img src="/experimets/matches/commentaboutyoutube1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Грязный фосфор, полученный:</p>
-    ![acetone.jpg](/experimets/matches/grazniphosphore.jpg)
+    <img src="/experimets/matches/grazniphosphore.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Грязь в кислоте/щелочи уже не помню, но газы пошли и всплыло (газы в щелочи идут, газы в кислоте идут, фосфин может. В горячей щелочи вообще нормально идут. Запах не идентифицировал, запаха нет почему-то. Нос прям подносил, никак не пахнет):</p>
-    ![acetone.jpg](/experimets/matches/grazvkislote.jpg)
+    <img src="/experimets/matches/grazvkislote.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Растворение терок спичечных в каустической соде (NaOH)</p>
-    ![acetone.jpg](/experimets/matches/naohterka.jpg)
+    <img src="/experimets/matches/naohterka.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Остаток терок</p>
-    ![acetone.jpg](/experimets/matches/ostatok.jpg)
+    <img src="/experimets/matches/ostatok.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Остаток фосфора в кружке, где смачивался черкаш для отделения. Можно получается так сделать коллоид</p>
-    ![acetone.jpg](/experimets/matches/phosphorevkruzke.jpg)
+    <img src="/experimets/matches/phosphorevkruzke.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Можно ваткой вот так чиркать и фосфор размазывать. Не знаю зачем так можно делать.</p>
-    ![acetone.jpg](/experimets/matches/sloji.jpg)
+    <img src="/experimets/matches/sloji.jpg"/>
 </div>
 <br/>
 <div class='pair'>
     <p>Пустая картонка, после ватки с аммиаком: </p>
-    ![acetone.jpg](/experimets/matches/sohkrabanodimethilketone.jpg)
+    <img src="/experimets/matches/sohkrabanodimethilketone.jpg"/>
 </div>
 <br/>
