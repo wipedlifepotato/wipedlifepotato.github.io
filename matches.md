@@ -101,7 +101,7 @@ https://en.wikipedia.org/wiki/Match
 </div>
 <br/>
 <div class='pair'>
-    <p>Пустая картонка, после ватки с аммиаком: </p>
+    <p>Пустая картонка, после ватки с ацетоном: </p>
     <img src="/experimets/matches/sohkrabanodimethilketone.jpg"/>
 </div>
 <br/>
