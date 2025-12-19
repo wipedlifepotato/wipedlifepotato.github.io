@@ -126,7 +126,7 @@ https://wipedlifepotato.github.io/experimets/Coffeine/2/murexidetest2_web.mp4 �
 
 Кто-то может подумать, что горел спирт, но сам спирт больше горит желтым пламенем, вот пример изопропилового спирта:
 
-![experimets/Alkylhallogenidfromspirit/gorelka.jpg](experimets/Alkylhallogenidfromspirit/experimets/Alkylhallogenidfromspirit/gorelka.jpg)
+![experimets/Alkylhallogenidfromspirit/gorelka.jpg](experimets/Alkylhallogenidfromspirit/gorelka.jpg)
 
 Да и для получения этилена нужно аж сильная концетрация или выход будет настолько маленький...
 Кстати, вот про упрощения, вот как пример:
