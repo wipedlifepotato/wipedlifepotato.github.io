@@ -47,11 +47,7 @@ title: Проверка байки из СССР про колеса самол�
 </div>
 <br/>
 <div class='pair'>
-    <p>После заведения спиртом, горит и издает звуки (уже лучше слышно, тут чуть больше взято):</p>
-    <video width="640" height="360" controls>
-      <source src="{{ 'experimets/metalotermija/test_after_spirit_2_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
-    </video>
+    <p>После заведения спиртом, горит и издает звуки (уже лучше слышно, тут чуть больше взято): видео нет</p>
 </div>
 <br/>
 <div class='pair'>
@@ -71,11 +67,7 @@ title: Проверка байки из СССР про колеса самол�
 </div>
 <br/>
 <div class='pair'>
-    <p>Проверка заведется ли смесь от спички? (не завелась. может мало):</p>
-    <video width="640" height="360" controls>
-      <source src="{{ 'experimets/metalotermija/test_match_sostav_mg_1_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
-    </video>
+    <p>Проверка заведется ли смесь от спички? (не завелась. может мало) [смесь без добавок]: нет видео</p>
 </div>
 <br/>
 <div class='pair'>
