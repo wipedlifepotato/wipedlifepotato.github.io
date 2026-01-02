@@ -65,7 +65,7 @@ p.s вонять будет йодоформ знатно
 <br/>
 <div class='pair'>
     <p>Перегретый йодоформ: </p>
-    <img src="/experimets/Alkylhallogenidfromspirit/peregretijiodophorm1.jpg"/>
+    <img src="/experimets/Alkylhallogenidfromspirit/peregretijodophorm1.jpg"/>
 </div>
 <br/>
 <div class='pair'>

@@ -188,3 +188,30 @@ H-OSO3H + H2C=CH2 => H3C-H2C-OSO3H; H3C-H2C-OSO3H + HOH => H3C-H2C-OH + H2SO4; O
 То есть, после протонирования появляется заряд положительный на углероде и туда отрицательно заряженное цепляется. А потом оно гидролизуется водой
 (мог что-то напутать)
 При этом это происходит при температуре, потом этилен плохо растворим в воде. Диэтиловый эфир ещё мог, но у нас ортофосфорная, она похуже серной будет в этом плане. Тогда вопрос что горит пока-что открыт, нужно проверять. На меня не действует этот запах прям сильно что бы, не понятно, толи действует, то ли нет. 
+<hr/>
+<div class='pair'>
+    <p>Йод (с опыта получения йодэтан): </p>
+    <img src="/experimets/Alkylhallogenidfromspirit/iode.jpg"/>
+</div>
+<br/>
+<div class='pair'>
+    <p>Бумага и йод: </p>
+    <img src="/images/iodeandpappeer.jpg"/>
+</div>
+<br/>
+
+При реакции йода с фосфором + 38% водка появляется слой, или что-то похожее на слой и ДХМ когда он в воде смешан, как бензин. Через 2 суток йод частично обесцвечивается и выпадает осадок, похожий на фосфор. А сам слой видно при свечении. 
+
+![фосфор](experimets/Alkylhallogenidfromspirit/phosphore.jpg)
+![фосфориводка](experimets/Alkylhallogenidfromspirit/phosphoriodevodka.jpg)
+![фосфорвдка](experimets/Alkylhallogenidfromspirit/phosphorandvodka1.jpg)
+![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpi1.jpg)
+![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpi2.jpg)
+![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpibanka1.jpg)
+![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpibanka21.jpg)
+<video width="640" height="360" controls>
+  <source src="{{ 'experimets/Alkylhallogenidfromspirit/gas_web.mp4' | relative_url }}" type="video/mp4">
+  Ваш браузер не поддерживает видео.
+</video>
+
+Стоит пробовать ещё, но уже в пробирке и экономя реактивы. Не нужно для тестов много брать, даже если кажется, что реакция пройдет успешно.
