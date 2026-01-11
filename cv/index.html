@@ -40,7 +40,7 @@
         button:hover { background: #bdc3c7; }
         button.active { background: #3498db; color: white; }
 
-        #CV1, #CV2 {
+        #CV1, #CV2, #CV3 {
             width: 800px; 
             min-height: 1000px;
             padding: 50px;
@@ -78,14 +78,15 @@
         @media print {
             .controls { display: none; }
             body { background: none; padding: 0; }
-            #CV1, #CV2 { box-shadow: none; width: 100%; }
+            #CV1, #CV2, #CV3 { box-shadow: none; width: 100%; }
         }
     </style>
 </head>
 <body class="pangolin-regular">
     <div class="controls">
         <button id='btn1' class="active">Version: Developer</button>
-        <button id='btn2'>Version: DevOps / Security</button>
+        <button id='btn2'>Version: DevOps / Security / SysAdmin</button>
+        <button id='btn3'>Version: Laboratory Assistant / Research Technician</button>
     </div>
 
     <div id="CV1">
@@ -102,7 +103,7 @@
             <ul>
                 <li><strong>Languages:</strong> Go, Rust, C/C++, Python (Pandas/NumPy), Bash</li>
                 <li><strong>Databases:</strong> PostgreSQL, MySQL, SQLite</li>
-                <li><strong>Protocols & APIs:</strong> JSON-RPC, cURL, P2P (I2P, Yggdrasil)</li>
+                <li><strong>Protocols & APIs:</strong> JSON-RPC, cURL, P2P (I2P, Yggdrasil), basic protocols. Know how to edit configs</li>
                 <li><strong>Systems:</strong> Debian/Fedora administration, configuration management</li>
             </ul>
         </section>
@@ -159,32 +160,69 @@
             </ul>
         </section>
     </div>
+    <div id="CV3">
+        <section id='header'>
+            <h1>Alexandr</h1>
+            <h2>Laboratory Assistant / Research Technician</h2>
+            <h3>Email: <a href="mailto:existentialglue@proton.me">existentialglue@proton.me</a> | Website: <a href="https://wipedlifepotato.github.io/">wipedlifepotato.github.io</a></h3>
+        </section>
 
+        <section id="about">
+            <p>Analytical researcher with a strong foundation in inorganic and organic chemistry. Experienced in observational chemistry, precise reagent preparation, and systematic documentation. High discipline in data management and safety protocols, backed by a background in systems engineering.</p>
+        </section>
+
+        <section id="skills">
+            <p class="section-title">Laboratory Skills</p>
+            <ul>
+                <li><strong>Solution Preparation:</strong> Calculating and preparing molar and mass concentrations; working with soluble and insoluble salts.</li>
+                <li><strong>Phase Separation:</strong> Manual liquid-liquid extraction (using syringes/pipettes for phase isolation), decantation, and gravity filtration.</li>
+                <li><strong>Temperature Control:</strong> Managing reaction rates using ice baths and monitoring exothermic processes.</li>
+                <li><strong>Inorganic Synthesis:</strong> Working with noble metals (Silver salts), precipitation of carbonates and oxides, complex formation.</li>
+                <li><strong>Analytical Documentation:</strong> Logging experimental steps, photo-fixation, and detailed failure analysis (Root Cause Analysis).</li>
+            </ul>
+        </section>
+
+        <section id='exp'>
+            <p class="section-title">Applied Chemical Projects</p>
+            <ul>
+                <li><strong>Haloform Reaction Study:</strong> Practical observation of Iodoform and Chloroform synthesis; analyzing the impact of pH and temperature on yield stability.</li>
+                <li><strong>Biochemical Tests:</strong> Conducting Biuret tests for protein identification; studying alkaline degradation of organic fibers.</li>
+                <li><strong>Silver Chemistry:</strong> Synthesizing Silver Chloride and Silver Oxide from metallic sources; observing precipitation equilibria.</li>
+                <li><strong>Multi-stage Salt Synthesis:</strong> Preparing Magnesium Citrate and basic Copper Carbonate (Malachite) through substitution and precipitation reactions.</li>
+            </ul>
+        </section>
+
+        <section id='certs'>
+            <p class="section-title">Education & Certifications</p>
+            <ul>
+                <li><strong>Self-Education:</strong> In-depth study of fundamental textbooks (Remy, Chichibabin, Fieser, Teylor, Etc).</li>
+                <li><strong>CSI Linux:</strong> Certified Investigator (Advanced methodology for precise data collection).</li>
+                <li><strong>FreeCodeCamp:</strong> Scientific Computing with Python (Automating stoichiometric and lab calculations).</li>
+            </ul>
+        </section>
+    </div>
     <script>
         const cv1 = document.getElementById("CV1");
         const cv2 = document.getElementById("CV2");
+        const cv3 = document.getElementById("CV3");
         const btn1 = document.getElementById('btn1');
         const btn2 = document.getElementById('btn2');
+        const btn3 = document.getElementById('btn3');
 
-        const showCV1 = () => {
-            cv1.style.display = "block";
-            cv2.style.display = "none";
-            btn1.classList.add('active');
-            btn2.classList.remove('active');
-        };
-
-        const showCV2 = () => {
-            cv2.style.display = "block";
+        const hideAll = () => {
             cv1.style.display = "none";
-            btn2.classList.add('active');
+            cv2.style.display = "none";
+            cv3.style.display = "none";
             btn1.classList.remove('active');
+            btn2.classList.remove('active');
+            btn3.classList.remove('active');
         };
 
-        btn1.onclick = showCV1;
-        btn2.onclick = showCV2;
+        btn1.onclick = () => { hideAll(); cv1.style.display = "block"; btn1.classList.add('active'); };
+        btn2.onclick = () => { hideAll(); cv2.style.display = "block"; btn2.classList.add('active'); };
+        btn3.onclick = () => { hideAll(); cv3.style.display = "block"; btn3.classList.add('active'); };
 
-
-        showCV1();
+        btn1.onclick();
     </script>
 </body>
 </html>
