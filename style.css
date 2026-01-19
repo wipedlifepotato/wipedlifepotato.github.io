@@ -1,79 +1,102 @@
 body {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 0.02vw;
-   /* text-shadow: 1px 1px 2px aquamarine;*/
     font-weight: bold;
     color: #61cf5a;
-    padding: 0 auto;
-    margin: 0 auto;
-    background: ;
+    margin: 0;
+    padding: 0;
     background-color: black;
-    z-index:1;
-    background-image: url('Kekulene.svg'), linear-gradient(#364c80, #082844);
-    background-size: contain;
-    background-position: center;
-    background-attachment: fixed;
+
+    background: url('Kekulene.svg') no-repeat center / contain fixed, 
+                linear-gradient(#364c80, #082844) fixed;
+    min-height: 100vh;
 }
-a:visited {
-    color: #3e6a3d;
-}
+
+
 a {
     color: #63ad58;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
+
+a:visited {
+    color: #88c484; 
+}
+
 a:hover {
-    color: #666;
+    color: #aquamarine;
 }
-ol, li {
-    list-style: none;
-}
+
+
 nav {
-padding: 0 auto;
-/*border: medium solid green;*/
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
 }
+
 nav a {
     text-transform: uppercase;
-    text-decoration: none;
-    display:inline-block;
-   border-right: medium solid green;
-   border-left: medium solid green;
-    
+    padding: 10px 20px;
+    border: 2px solid green;
+    margin-left: -2px; 
 }
-nav a:last-child {
-    /*border-right: none;*/
-}
+
+
 header {
-    display: block ruby;
-    text-align:center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0;
 }
+
+
 .content {
     position: relative;
     margin: 50px auto;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     color: aquamarine;
-    padding: 40px 30px;
+    padding: 40px;
     border-radius: 20px;
-   /* box-shadow: 0 0 30px rgba(0, 255, 0, 0.5); */
+    border: 1px solid rgba(97, 207, 90, 0.3);
     max-width: 1200px; 
     width: 90%;  
+    box-sizing: border-box;
+}
 
-    font-family: Georgia, 'Times New Roman', Times, serif;
+/* Списки и детали */
+ol, ul, li {
+    list-style: none;
+    padding: 0;
+}
+
+ul, details {
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+details {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 @media (max-width: 600px) {
     .content {
-        padding: 20px 15px;
-        font-size: 14px;
+        padding: 20px;
+        font-size: 16px; 
         width: 95%;
-        max-width: none;
+        margin: 20px auto;
+    }
+    
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    nav a {
+        margin: 5px 0;
+        width: 80%;
+        text-align: center;
     }
 }
-
-ul {
- overflow-wrap: break-word;
-}
-details {
-    white-space: pre-wrap;
-    overflow-wrap: break-word;
-}
-
-
