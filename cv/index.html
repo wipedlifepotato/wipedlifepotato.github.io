@@ -229,8 +229,21 @@
         btn1.onclick = () => { hideAll(); cv1.style.display = "block"; btn1.classList.add('active'); };
         btn2.onclick = () => { hideAll(); cv2.style.display = "block"; btn2.classList.add('active'); };
         btn3.onclick = () => { hideAll(); cv3.style.display = "block"; btn3.classList.add('active'); };
-
-        btn1.onclick();
+    switch(document.URL.split("#")[1]) {
+        default:
+            btn1.click();
+    		console.log('123');
+            break;
+    	case "CV2":
+            btn2.click();
+            break;
+        case "CV1":
+              btn1.click();
+              break;
+        case "CV3":
+              btn3.click();
+              break;
+    }
     </script>
 </body>
 </html>
