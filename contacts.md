@@ -11,6 +11,9 @@ title: Контакты
 GitHub: [wipedlifepotato](https://github.com/wipedlifepotato)
 
 Почта: unevil@mail.i2p / <a href="mailto:unevil@i2pmail.org" target="_blank">unevil@i2pmail.org</a>
+<p>
+    JID: user@bybyh.de - OTR *(drevnijrus.i2p)*
+</p>
 
 ---
 
