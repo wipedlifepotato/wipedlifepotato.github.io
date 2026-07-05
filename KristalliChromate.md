@@ -137,4 +137,17 @@ images/chromate/
 </div>
 <br/>
 
+<hr/>
+
+<p> UDP 06 07 2026. ПРоявились кристаллы. (начиналось ~20 марта кристаллизация)</p>
+<pre>
+datetime.now() - datetime(year=2026, month=3,day=20)
+datetime.timedelta(days=108, seconds=2773, microseconds=736014)
+</pre>
+
+<video width="640" height="360" controls>
+  <source src="{{ '/videos/Chromate060726.mp4' | relative_url }}" type="video/mp4">
+  Ваш браузер не поддерживает видео.
+</video>
+
 
