@@ -1,0 +1,33 @@
+a {
+    cursor: url("bottle.cur"), auto;
+}
+html,body
+{
+    scrollbar-color: red orange;
+    scrollbar-width: 1em;
+}
+
+.hidden:not(:target) {
+    display:none;
+}
+
+.hidden:target {
+    display:block;
+}
+.message_to, .message_from {
+    margin: 2em;
+    border-bottom: 2px solid red;
+}
+.message_from:before {
+    content: ">>>";
+}
+.message_to:before {
+    content: "<<<";
+}
+.message {
+    border: 2px solid red;
+}
+
+ul {
+      display: grid;
+}
