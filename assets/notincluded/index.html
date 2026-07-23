@@ -9,6 +9,7 @@
         <div id='leftnav'>
             <nav>
                 <img src="icons/world-2.png" id='wordicon' width='32px' height='32px' />
+                <label for="key">Ключ: </label><input id='key'/><button id='decryptBtn'>Дешифровать</button>
                 <ul id="leftnavelements">
 
                 </ul>
@@ -841,6 +842,42 @@ VNC40InQj9Gx0YTRgEXQsNGB0LjRs9CM0bLQs9GC0KXRjNGJ0YkfOA==
 
         }*/
     }
+    // https://stackoverflow.com/questions/30106476/using-javascripts-atob-to-decode-base64-doesnt-properly-decode-utf-8-strings
+    function b64DecodeUnicode(str) {
+        // Going backwards: from bytestream, to percent-encoding, to original string.
+        return decodeURIComponent(atob(str).split('').map(function(c) {
+            return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+        }).join(''));
+    }
+
+    const decrypt = (text,key) => {
+        let t = b64DecodeUnicode(text);
+        //console.log(t)
+        let out = "";
+        for(i =0; i < t.length;i++)
+        {
+            out += String.fromCharCode( t.charCodeAt(i)^key.charCodeAt(i%key.length) );
+        }
+        return out
+    }
+    const decryptBtn = document.getElementById('decryptBtn');
+    decryptBtn.addEventListener("click", () => {
+        const key = document.getElementById('key');
+        const messages_to = document.getElementsByClassName('message_to');
+        const messages_from = document.getElementsByClassName('message_from');
+        for(i=0; i < messages_to.length;i++)
+        {
+            let text = messages_to[i].textContent.trim().replaceAll(" ", "").replaceAll('\n','');
+            messages_to[i].textContent = decrypt(text, key.value)
+        }
+        for(i=0; i < messages_from.length;i++)
+        {
+            let text = messages_from[i].textContent.trim().replaceAll(" ", "").replaceAll('\n','');
+            messages_from[i].textContent = decrypt(text, key.value)
+        }
+
+        console.log(`decrypt`)
+    });
 </script>
     </body>
 </html>
