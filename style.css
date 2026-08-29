@@ -57,6 +57,11 @@ header {
     width: 90%;  
 
     font-family: Georgia, 'Times New Roman', Times, serif;
+    /* todo fix*/
+    overflow: scroll;
+    word-wrap: break-word;
+    word-break: break-all;
+
 }
 
 @media (max-width: 600px) {
