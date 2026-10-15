@@ -72,11 +72,11 @@ title: СегHетовая соль / Фелинговая жидкость
 То есть, Cu(OH)2 какое-то время выдает не чистый CuO, а что-то другое, но это показывает, что сегметова соль и сахара проявляют себя по другому
 
 # Комментарий Авака
+- 
 <code>
 Глянул. Во–первых, «сегНетова» (там «Н»). :−)
 Во–вторых, там есть интересный «нонсенс», о котором мало кто пишет. Именно присутствие соды (карбоната) приводит к тому, что даже просто при хранении выделяется CuO (чёрный оксид ДВУХвалентной меди). Я с этим сталкивался, когда получал хальконатронит и гидроксосòли меди 2+. Подробно об этом — читайте в моём докладе про хальконатронит (на стр. 6), скачать его ТУТ:
 https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf
-<a href="https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">archive org</a>
 > https://privatebin.wildberries.ru/?e872845....
 > (пароль ...)
 > https://wipedlifepotato.github.io/SegmeticSalt.html
@@ -89,6 +89,10 @@ https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatro
 >
 > По итогу такой раствор за ночь стал, то есть растворилось.
 </code>
+
+- 
+
+<a href="https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">archive org</a>
 <a href="https://wipedlifepotato.github.io/docs/Avak/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">Документ исследования</a>
 
 ## Мои наблюдения
