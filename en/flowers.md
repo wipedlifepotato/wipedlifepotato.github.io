@@ -3,153 +3,153 @@ layout: text
 lang: en
 title: Bittersweet nightshade, broad-leaved water-parsnip, and irises
 ---
-# Важно
+# Important
 
-⚠️ ВНИМАНИЕ: Описанные растения и методы не являются медицинской рекомендацией. 
-Информация носит исключительно исследовательский/литературный характер. 
-Не повторяйте описанные действия без консультации с врачом. 
-Автор лично не испытывал все дозировки и не несет ответственности за последствия.
-Сайт носит исключительно информационно-просветительский характер. Описанные растения не являются психоактивными или запрещёнными веществами. Не предназначено для медицинского применения
+⚠️ WARNING: The plants and methods described here are not medical advice. 
+The information is for research/literary purposes only. 
+Do not repeat the described actions without consulting a doctor. 
+The author has not personally tried all the dosages and is not responsible for the consequences.
+The site is for informational and educational purposes only. The plants described are not psychoactive or prohibited substances. Not intended for medical use.
 
-# Предыстория
+# Background
 
-Какое-то время я изучал всеразличные методы вызова осознанных/люцидных снов. Для этого я делал свои дневники снов, иногда карты сновидений. Лучше всего у меня получалось получить осознанный сон через поиск руки во сне и настройки себя перед сном на то, что я выйду в ОС. Проблема лишь заключалась в том, что когда появляется понимание, что я находился во сне, то либо резко переключался сон, либо через какое-то время я терял контроль или терял возможность управлять сном. То есть, есть какая-то защита во снах, что бы не нарушать эти процессы. Из моих исследований, мне показали во сне, что сон заранее имеет сюжет и описание всего чего должно происходить. Что сны своего рода это последовательные функции вызывающие сами себя. Так же, когда появляется осознанность сна можно убивать и воскрешать "NPC" с помощью даже рук, но вот сгенерировать телефон словами у меня не получалось. То есть, словами на сон можно влиять, например, для воскрешения "NPC", а вот создать таким образом телефон, который нужен был мне по сюжету не получится. Ещё я заметил, что в зеркале совсем другая личность во снах и что выключатели света в большинстве случаев не работают. Очень интересно, что открыв глаза во сне, когда осознаешь сон, можно проснуться внутри сна ещё одного сна. И думать что не спишь.
+For a while I studied all kinds of methods for inducing lucid dreams. For this I kept my own dream journals, sometimes dream maps. What worked best for me was getting a lucid dream through hand-searching in the dream and setting myself up before sleep to go into an LD. The only problem was that when the realization came that I had been dreaming, either the dream switched abruptly, or after a while I lost control or lost the ability to steer the dream. In other words, there is some kind of protection in dreams, so as not to disturb these processes. In my research, I was shown in a dream that a dream has a plot and a description of everything that is supposed to happen in advance. That dreams are a kind of sequential functions that call themselves. Also, when dream awareness appears, you can kill and resurrect "NPC" even with your hands, but I couldn't generate a phone with words. That is, words can influence a dream, for example to resurrect an "NPC", but you can't create a phone that I needed for the plot that way. I also noticed that in a mirror in dreams there is a completely different personality, and that light switches don't work in most cases. It's very interesting that by opening your eyes in a dream, when you realize it's a dream, you can wake up inside the dream of another dream. And think that you're not asleep.
 
-## Примеры моих снов:
-На 10 сентяря 2025 года они всё ещё окрепают и в ближайшее время я собираюсь испытать и дополнить эту страницу данными.
-При этом, за последние несколько дней я снова делал записи сновидений и мне пришли некоторые мысли, во снах: 
-- что атропин при приеме ВВ может вызывать глаукому.
-- что должны существовать икс-/ух- формы мышьяка где он стоит комплексным содинением то ли в три-форме, то ли 4 O и Me по середине. и должен вызывать сильное разрушение организма до инвалидизации как и производные "трихрома" и "трифосфора"
-- Какой-то ядовитый орех дерева, наверное то было про стрихнин
-Из осознанных снов, было лишь так, что я куда-то с кем-то бежал по лестнице, забежал в какой-то отель, потом все пропали и мне нужен был телефон. Я просто осознал что я во сне и начал пытаться создать телефон, но он не появлялся и мен тянуло в белый коридор, я решил сопротивляться этому и открыл ближайшую дверь. Была просто пустая комната квадратная с диваном и тумбой. На тумбе была кошка и почему-то когда я её увидел, то перестал иметь возможность произносить звуки во сне. Я решил открыть глаза от слабого страха и оказался у себя в квартире и думал что проснулся. Включаю свет и он не включается. В банке Вульфа была кислота, которая дымила и я обжогся. В какой-то момент я стал понимать, что я и не просыпался и в комнату вбегает собака и ругается на меня. Я ещё раз открыл глаза и снова оказался в ещё одном сне и стал спрашивать что нужно от меня. Голос во сне сказал мне просто проснуться и после чего я проснулся.
-Ещё один люцидный сон мне снился, когда я ходил по каким-то катакомбам и просто понял что я во сне и начал стрелять из рук. Но сон быстро переключился
-Имеется ещё множество других снов где я через поиск руки во сне осознавал себя во сне и даже сон где я проживал опыт паралелльных жизней самого себя и общался непонятно с кем весь сон. И все эти сны понимал что я во снах. Проспал тогда меньше 4 часов, а казалось, когда я сказал во сне что всё мне хватит и проснулся, буд-то все 16 часов.
-Мне снятся и обычные сны где я просто разрабатывал Big Math библиотеку методом не байтовым, а неким геометрическим и непонятным мне до конца способом и даже про новый трек одного музыката про яхты.
+## Examples of my dreams:
+As of September 10, 2025, they are still gaining strength, and in the near future I plan to test and add data to this page.
+At the same time, over the last few days I started keeping dream records again, and some thoughts came to me, in dreams: 
+- that atropine when taken IV can cause glaucoma.
+- that there must be x-/u- forms of arsenic where it sits as a complex compound, either in a tri-form, or with 4 O and Me in the middle. and it should cause severe destruction of the body up to disability, like derivatives of "trichrome" and "triphosphorus"
+- Some poisonous nut of a tree, probably it was about strychnine
+Among my lucid dreams, there was only this: I was running somewhere with someone up the stairs, ran into some hotel, then everyone disappeared and I needed a phone. I simply realized that I was in a dream and started trying to create a phone, but it didn't appear and I was pulled toward a white corridor; I decided to resist this and opened the nearest door. It was just an empty square room with a couch and a nightstand. There was a cat on the nightstand and for some reason, when I saw it, I lost the ability to make sounds in the dream. I decided to open my eyes out of mild fear and found myself in my own apartment, thinking I had woken up. I turn on the light and it doesn't turn on. In Woulff's bottle there was acid that was smoking and I got burned. At some point I started to realize that I hadn't woken up at all, and a dog runs into the room and scolds me. I opened my eyes again and again found myself in yet another dream and started asking what was wanted of me. The voice in the dream told me simply to wake up, and after that I woke up.
+Another lucid dream I had was when I was walking through some catacombs and simply realized I was in a dream and started shooting from my hands. But the dream switched quickly
+There are many other dreams where I recognized myself in a dream through hand-searching, and even a dream where I lived through the experience of parallel lives of myself and talked with who-knows-who the whole dream. And in all these dreams I understood that I was in dreams. I slept less than 4 hours then, but when I said in the dream that I'd had enough and woke up, it felt as if all 16 hours had passed.
+I also have ordinary dreams where I simply developed the Big Math library not by a byte-based method, but in some geometric and not fully understood way, and even about a new track by some musician about yachts.
 
-## Мухоморы для ОС
-Мухоморы для ОС не принесли мне пользы, в микро и макродозах он улучшает мыслительные способности и вызывает повышенную агрессивность и чувство энергии. В чуть больших вызывает галлюцинации. В одной галлюцинации я ощущал себя грибом и соединялся в гексы и ощущал левое и правое полушарие. В ещё чуть больших дозах я ощущал петлю смерти и видел прошлые и будущи жизни и сколько вообще я жизней прожил. Состояние от галлюцинаций этого гриба такие, что приходится смеряться со смертью и это очень страшно. Годятся больше, в неправильном пользовании, для вызова смерти (реальной), чем ОС.
+## Fly agarics for LDs
+Fly agarics brought me no benefit for LDs; in micro and macro doses it improves thinking and causes increased aggressiveness and a sense of energy. In slightly larger ones it causes hallucinations. In one hallucination I felt like a mushroom and joined into hexes and felt the left and right hemispheres. In slightly larger doses I felt the death loop and saw past and future lives and how many lives I had lived in total. The states caused by this mushroom's hallucinations are such that you have to come to terms with death, and it's very scary. When misused, they are better suited to bringing about death (real death) than LDs.
 
-## Психоделики для ОС
-Психоделики такие как 2C-, Амиды лизергина и псило не давали осознанных сновидений, под ними почт нереально уснуть, а с закрытыми глазами происходит просто потеря связи с реальностью и галлюцинации всеразличные. Следовательно, они годятся больше для вызова психоза и разрушения психики в неправильном пользовании, чем вызов ОС.
+## Psychedelics for LDs
+Psychedelics such as 2C-, lysergic acid amides and psilo did not give me lucid dreams; under them it's almost impossible to fall asleep, and with your eyes closed there is simply a loss of contact with reality and all kinds of hallucinations. Consequently, when misused they are better suited to inducing psychosis and destroying the psyche than inducing LDs.
 
-## Предыстория
-Я делился своими опытами с Авак Авакяном, иногда мы находили в моих снах связь с Марой и другими мифологиями. Я пытался использовать множество средств, которые должны вызывать осознанные сновидения. Вот некоторые из них:
+## Background
+I shared my experiences with Avak Avakyan; sometimes we found a connection in my dreams with Mara and other mythologies. I tried to use many means that were supposed to induce lucid dreams. Here are some of them:
 
 
-![бобэтнады](/images/bobyetnada.png)
-![мухоморы](/images/muchrooms.png)
+![bobetnady](/images/bobyetnada.png)
+![fly agarics](/images/muchrooms.png)
 ![sanaga](/images/sanaga.png)
-![закачечичи](/images/zakachechihi.png)
+![zakachechichi](/images/zakachechihi.png)
 
-Все они не дали какого-то волшебного результата. В один день, Авак Авакян, известный мне как выдающийся химик, религиовед, исследователь мира, композитор, программист, ботаник, композитор... короче говоря, выдающийся ученый выслал мне сообщение, что нашёл средство для внетелесных путешествий. Всё разом я копировать не буду, скопирую суть (рассаду мне выслал Авак по почте РФ очень умно, тк за лето я не смог найти самостоятельно эти растения):
+None of them gave any magical result. One day, Avak Avakyan, known to me as an outstanding chemist, religious studies scholar, explorer of the world, composer, programmer, botanist, composer... in short, an outstanding scientist, sent me a message that he had found a means for out-of-body travel. I'm not going to copy everything at once, I'll copy the essence (Avak sent me the seedlings by Russian mail very cleverly, since over the summer I couldn't find these plants on my own):
 
-> ПРИМЕНЕНИЕ:
-> ➡️ ПАСЛЁН СЛАДКО−ГОРЬКИЙ: ПЕРВУЮ пробу ОБЯЗАТЕЛЬНО нужно взять квадратик со стороной 7мм из свежего листа (вырезать маникюрными ножницами), растереть в фарфоровой ступке с 8 каплями растительного масла и втереть в запястья (наносим пальцем на запястье одной руки и С СИЛОЙ ДО РАЗОГРЕВА втираем трением запястья одной руки о запястье другой руки, будто желаем получить огонь трением; от разогрева поры кожи раскрываются, и мазь лучше впитывается). Первую пробу нужно брать квадратик со стороной 7мм (НЕ БОЛЬШЕ!), потому что ОТ ПЕРВОЙ пробы будет немного СЕРДЦЕБИЕНИЕ (от дулькамарина). Последующие пробы НЕ дают сердцебиения, потому что получается привыкание. БАЗОВАЯ ДОЗА: — ДВА КВАДРАТНЫХ САНТИМЕТРА свежего листа с 11 каплями растительного масла. Я беру оливковое (это аутентично — так делали ведьмы Италии 16 века), но подсолнечное тоже сгодится. В ступке нужно ДОЛГО тереть до тех пор, пока частицы растения не станут визуально незаметными, то есть пока продукт не станет выглядеть как «зелёное масло». Некачественно разотрёте — НЕ будет результатов! РЕЗУЛЬТАТ начинается через полтора часа и становится сильным через два часа после втирания — это СНОТВОРНЫЙ эффект. Ведьмы добавляли паслён сладко–горький в качестве СНОТВОРНОГО компонента в свои мази. Этот паслён даёт именно здоровый качественный эффект и заменит Вам мириады психотропов. Если НЕ ПРЕВЫШАТЬ дозу в 2 квадратных см, то токсических эффектов НЕ будет вообще.
-> ➡️ ПОРУЧЕЙНИК ШИРОКОЛИСТНЫЙ:
-ДОЗА — два его «ивовых» листочка, каждый длиной 10см, с 40 каплями растительного масла. Растираем и втираем так же, как описано выше. Эффект включается через полтора часа (становится легко войти в сон); максимальный эффект (выход в Астрал) получается через 2 часа после втирания. Две недавно родившихся метёлки бутонов с 15 каплями растительного масла дают эффект радикально БОЛЕЕ сильный.
+> APPLICATION:
+> ➡️ BITTERSWEET NIGHTSHADE (Solanum dulcamara): For the FIRST trial you MUST take a square with a side of 7 mm from a fresh leaf (cut it with manicure scissors), grind it in a porcelain mortar with 8 drops of vegetable oil and rub it into your wrists (apply with a finger to the wrist of one hand and rub FORCEFULLY UNTIL IT WARMS UP, rubbing the wrist of one hand against the wrist of the other, as if you wanted to make fire by friction; the heat opens the pores of the skin and the ointment is absorbed better). The first trial must be a square with a side of 7 mm (NO MORE!), because FROM THE FIRST trial there will be a slight RACING HEART (from dulcamarin). Subsequent trials do NOT cause a racing heart, because tolerance develops. BASE DOSE: — TWO SQUARE CENTIMETERS of fresh leaf with 11 drops of vegetable oil. I take olive oil (that's authentic — that's how the witches of 16th-century Italy did it), but sunflower oil will do too. In the mortar you need to grind FOR A LONG TIME until the plant particles become visually imperceptible, that is, until the product looks like "green oil". Grind it poorly — and there will be NO results! The RESULT begins an hour and a half later and becomes strong two hours after rubbing — this is a SLEEP-INDUCING effect. Witches added bittersweet nightshade to their ointments as a SLEEP-INDUCING component. This nightshade gives precisely a healthy, high-quality effect and will replace myriads of psychotropics for you. If you DO NOT EXCEED the dose of 2 square cm, there will be no toxic effects at all.
+> ➡️ BROAD-LEAVED WATER-PARSNIP (Sium latifolium):
+DOSE — two of its "willow" leaves, each 10 cm long, with 40 drops of vegetable oil. Grind and rub in the same way as described above. The effect kicks in after an hour and a half (it becomes easy to fall asleep); the maximum effect (going out to the Astral) occurs 2 hours after rubbing. Two freshly sprouted panicles of buds with 15 drops of vegetable oil give a radically MORE powerful effect.
 
-> ⚠️⚠️⚠️ АНТИДОТ (ОБЯЗАТЕЛЬНО!!!). Утром ПОСЛЕ паслёна ОБЯЗАТЕЛЬНО необходимо съесть таблетку или капсулу с солью магния; я рекомендую цитрат магния ВОТ ЭТОТ на ОЗОНЕ:
+> ⚠️⚠️⚠️ ANTIDOTE (MANDATORY!!!). In the morning AFTER nightshade you MUST eat a tablet or capsule with a magnesium salt; I recommend THIS magnesium citrate on OZON:
 https://www.ozon.ru/product/turamin-magniy-kapsuly-0-5g-90-943948875/
-Он самый дешёвый и, главное, ЛУЧШИЙ (это цитрат магния под коммерческим названием «Турамин магний»).
-Утром ПОСЛЕ поручейника ОБЯЗАТЕЛЬНО необходимо съесть таблетку АСПАРКАМА, вот он на ОЗОНЕ (это самый лучший от УБФ!!):
+It's the cheapest and, most importantly, THE BEST (it's magnesium citrate under the commercial name "Turamin Magnesium").
+In the morning AFTER water-parsnip you MUST eat an ASPARKAM tablet, here it is on OZON (this is the best one from UBF!!):
 https://www.ozon.ru/product/asparkam-ubf-tabletki-175-mg-175-mg-50-sht-1618970282/
-Это вообще «дешёвка», но он НЕОБХОДИМ после поручейника!
-Дело в том, что паслён убирает из кровотока МАГНИЙ, а поручейник даёт МОЧЕГОННЫЙ эффект, от которого уходят и магний, и калий. Если НЕ восполнять оные, как я указал выше, — будут побочки: от паслёна со временем начнёт страдать СЕРДЦЕ, а от поручейника — начнёт скакать давление и периодически ускоряться пульс, что может со временем дать инфаркт.
+It's a total bargain, but it's NECESSARY after water-parsnip!
+The thing is, nightshade removes MAGNESIUM from the bloodstream, and water-parsnip has a DIURETIC effect that carries away both magnesium and potassium. If you do NOT replenish them, as I indicated above, there will be side effects: over time the HEART will start to suffer from nightshade, and from water-parsnip blood pressure will start jumping and the pulse will periodically speed up, which over time can lead to a heart attack.
 
-> ➡️ КАК САЖАТЬ:
-ПОРУЧЕЙНИК ШИРОКОЛИСТНЫЙ посадите в аквариум либо в пищевой контейнер в землю; затем налейте воду так, чтобы над землёй было полтора сантиметра воды. Когда он ещё подрастёт, делайте 2 см постоянно стоящей над землёй воды. Ему необходимо такое «болото» с постоянно стоящей водой. Я послал растения на разных стадиях: есть и совсем крошечные, есть и крупные.
-> ПАСЛЁН СЛАДКО−ГОРЬКИЙ просто посадите в землю. Ёмкость нужна не маленькая: он растёт быстро и корней даёт очень много. Болота из стоящей воды ему делать НЕ НУЖНО, но поливать его необходимо ОЧЕНЬ ОБИЛЬНО, чтобы почва всегда была как грязь. Избыток солнца он НЕ любит (от жары на солнцепёке будет «опускать голову», привядать несмотря на полив). Он ЗАВИВАЕТСЯ как вьюнок. Когда пойдёт в рост, натяните ему шпагаты; он будет ветвиться и завиваться как фасоль (это многолетняя ЛИАНА). И паслён, и поручейник МОЖНО круглый год держать в квартире.
-> By Авакян Авак Авакович 
+> ➡️ HOW TO PLANT:
+BROAD-LEAVED WATER-PARSNIP: plant it in an aquarium or in a food container in soil; then pour in water so that there are one and a half centimeters of water above the soil. When it grows a bit more, keep 2 cm of standing water above the soil at all times. It needs this kind of "swamp" with constantly standing water. I sent plants at different stages: there are quite tiny ones and large ones.
+> BITTERSWEET NIGHTSHADE simply plant it in soil. The container needs to be not small: it grows fast and produces very many roots. You do NOT need to make a swamp of standing water for it, but it must be watered VERY GENEROUSLY so that the soil is always like mud. It does NOT like excess sun (in the heat of full sun it will "drop its head" and wilt despite watering). It CLIMBS like bindweed. When it starts growing, stretch twine for it; it will branch and twine like beans (it's a perennial VINE). Both nightshade and water-parsnip CAN be kept in an apartment year-round.
+> By Avakyan Avak Avakovich 
 
-[Avak Avakyan Avak Avakovich на Rulit.me](https://www.rulit.me/authors/avakyan-avak-avakovich)
+[Avak Avakyan Avak Avakovich on Rulit.me](https://www.rulit.me/authors/avakyan-avak-avakovich)
 
-## Растения
-- В ближайшее время я должен приступить к изучению этих растений и дополнить эту страницу данными
+## Plants
+- In the near future I have to start studying these plants and add data to this page
 
-# ПАСЛЁН СЛАДКО−ГОРЬКИЙ 
-## Соланум Сомниферум, Соланум Сомнификум, Гипнотикум, Аполлинарис Минор
-![Паслён](/images/paslen.jpg)
-### 10 сентября опыт 2 маленьких листиков, примерно 7 мм
-![Паслён](/images/паслен/10_1.jpg)
-![Паслён](/images/паслен/10_2.jpg)
-![Паслён](/images/паслен/10_3.jpg)
-![Паслён](/images/паслен/10_4.jpg)
-- Взял чашку из стекла и палку пало санто. Масло налил в пустую емкость для капель для клаз. Откапал 12 капель и 2 маленьких листика растер по 7 мм примерно в ширину. Не квадрат. Большая часть масла впиталась палкой пало санто. Растер остаток масла об запястья и потер палкой пало санто. Через некоторое время у меня появилась сухость во рту и было ощущение, что зрачки сужены и не увеличиваются в размере. Было слабое давление в сердце, возможно, эффект плацебо. Усилились мыслительные образы. Уснуть не смог и проспал меньше 4 часов. Следующий эксперимент собираюсь делать с ягодой или листиком полноценным и вместо палки пало санто использовать камень и растирать лучше. Все эффекты могут быть плацебо из-за неправильного приготовления масла или довольно маленького листика.
-# ПОРУЧЕЙНИК ШИРОКОЛИСТНЫЙ
-![поручейник](/images/poruchejnik_1.jpg)
-![поручейник](/images/poruchejnik_2.jpg)
+# BITTERSWEET NIGHTSHADE 
+## Solanum somniferum, Solanum somnificum, Hypnoticum, Apollinaris minor
+![Nightshade](/images/paslen.jpg)
+### September 10 — experiment with 2 small leaves, about 7 mm
+![Nightshade](/images/паслен/10_1.jpg)
+![Nightshade](/images/паслен/10_2.jpg)
+![Nightshade](/images/паслен/10_3.jpg)
+![Nightshade](/images/паслен/10_4.jpg)
+- Took a glass cup and a palo santo stick. Poured the oil into an empty eye-drop bottle. Dripped out 12 drops and ground 2 small leaves about 7 mm wide. Not a square. Most of the oil was absorbed by the palo santo stick. Rubbed the remaining oil onto my wrists and rubbed with the palo santo stick. After some time I developed dry mouth and had a feeling that my pupils were constricted and not increasing in size. There was a faint pressure in my heart, possibly a placebo effect. Thought images intensified. I couldn't fall asleep and slept less than 4 hours. I plan to do the next experiment with a berry or a full-sized leaf and, instead of the palo santo stick, use a stone and grind better. All effects may be placebo due to incorrectly prepared oil or a rather small leaf.
+# BROAD-LEAVED WATER-PARSNIP
+![water-parsnip](/images/poruchejnik_1.jpg)
+![water-parsnip](/images/poruchejnik_2.jpg)
 
-# Опыт и сны (14 сентября 2025)
-![поручейник](/images/poruchejnik/1.jpg)
-![поручейник](/images/poruchejnik/2.jpg)
+# Experience and dreams (September 14, 2025)
+![water-parsnip](/images/poruchejnik/1.jpg)
+![water-parsnip](/images/poruchejnik/2.jpg)
 
 ---
-**22:41** — начал растирание рук. Появились головокружение, усталость, боль в руке. На левой руке ощущалось тепло от интенсивного растирания. Лёгкое головокружение, возможно, от усердия.
-Сделал раствор: *2 капсулы аспаркама + 250 мг сульфата магния*. Время будто замедлилось, восприятие яркости усилилось (или казалось).
+**22:41** — started rubbing my hands. Dizziness, fatigue, and pain in my arm appeared. My left arm felt warmth from the intense rubbing. Slight dizziness, possibly from overdoing it.
+I made a solution: *2 capsules of asparkam + 250 mg of magnesium sulfate*. Time seemed to slow down, perception of brightness intensified (or seemed to).
 
-**22:45** — сухость во рту.
-**22:46** — пошёл курить сигарету.
-**22:50** — тяжесть в груди, сильное желание в туалет. Сходил по-маленькому.
-**22:57** — общая усталость.
-**01:34** — сухость прошла полностью.
+**22:45** — dry mouth.
+**22:46** — went to smoke a cigarette.
+**22:50** — heaviness in the chest, a strong urge to go to the toilet. Went for a pee.
+**22:57** — general fatigue.
+**01:34** — dry mouth completely gone.
 
-После этого проспал **13 часов**.
-
-
-
-## Сны
-
-### Полёт и посохи
-
-Приснилось, что я летал. Нужно было ехать на маршрутке, но я выбрал другой транспорт. В какой-то момент мне нужно было создать посох, который передавался бы родственникам в случае чего.
-Я сделал **тёмный посох** и убивал змею, вылезавшую из ботинка. Потом создал **каменный посох**. Было путешествие на лодке (или корабле) на «остров спящих». Проспал чуть больше обычного. Убивал всех подряд во сне.
-
-### Больница и диггеры
-
-Дальше снилось, что мою одежду где-то, я оказался в больнице. Потом с детьми и диггерами лазил по постройкам, пели песни.
+After that I slept **13 hours**.
 
 
-## Эксперимент на 14 сентября
 
-Принял:
+## Dreams
 
-* **1 листик паслёна**
-* **несколько листиков поручейника широколистного**
-  — всё в подсолнечном масле.
+### Flight and staffs
 
-Следующий этап: **проверка с оливковым маслом**.
+I dreamed that I was flying. I needed to go somewhere in a marshrutka, but I chose another mode of transport. At some point I needed to create a staff that would be passed on to relatives in case anything happened.
+I made a **dark staff** and killed a snake coming out of a boot. Then I created a **stone staff**. There was a trip by boat (or ship) to the "island of the sleeping". I slept a little longer than usual. I killed everyone in a row in the dream.
 
-P.s Было ещё множество моментов снов, которые я не записал или не запомнил. Например, в конце мне кто-то говорил, что проснулся и уснул (про мое состояние). Я и правда не мог проснуться. Как только я сразу же засыпал. При этом какой-либо седатации так таковой не было. Стоит перепроверить состояние без растирания и состояние ещё раз после растирания. Если повторится - не плацебо. Последние дни спал намного меньше и максимум при всем усилии 4-6 часов. P.S.p.s без данных мазей более слабый сон или отсутствует вообще. 
+### Hospital and diggers
 
-## Эксперимент на 31 окт
+Next I dreamed that my clothes were somewhere, and I ended up in a hospital. Then with children and diggers I crawled through buildings, we sang songs.
+
+
+## Experiment on September 14
+
+Took:
+
+* **1 nightshade leaf**
+* **several broad-leaved water-parsnip leaves**
+  — all in sunflower oil.
+
+Next stage: **testing with olive oil**.
+
+P.s There were many more dream moments that I didn't write down or didn't remember. For example, at the end someone told me that I had woken up and fallen asleep (about my state). I really couldn't wake up. As soon as I did, I immediately fell back asleep. At the same time, there was no sedation as such. It's worth double-checking the state without rubbing and the state once more after rubbing. If it repeats — not a placebo. The last few days I slept much less and at most, with all my effort, 4-6 hours. P.S.p.s without these ointments the sleep is weaker or absent altogether. 
+
+## Experiment on Oct 31
 - [jupyter notebook](https://github.com/wipedlifepotato/wipedlifepotato.github.io/blob/main/notebooks/paslen31okt.ipynb)
 ---
 
 
-# Ирисы
+# Irises
 
-## Ирис спурия
+## Spuria iris
 
 ![Bolotnyj](/images/IrisBolotnyj.jpg)
 ![Spuria](/images/IrisSpuria.jpg)
 
-Выслал Авак, данные Авака:
+Sent by Avak, Avak's data:
 ```
- Мои последние результаты об оных:
-1). Имеется фактор «кумуляции» (накопления в организме); когда я втёр ирис спуриа во второй вечер подряд, — наутро был наилучший результат; однако после втирания на третий вечер подряд, я НЕ смог заснуть до 10 утра: вроде, и «номинального» «взбадривания» не было, и пульс не ускорился, но получилась бессонная ночь. Речь о квадратиках 5мм×5мм. То есть ➡️ больше двух вечеров подряд втирать ирисы НЕ рекомендую. Снотворное действие ирисов включается через полтора часа после втирания и становится оптимальным ранним утром, если втирать на ночь.
-2). АСКОФЕН не безобиден: когда я три дня подряд по утрам пил одну таблетку аскофена (чтобы скомпенсировать кровозагущающее действие ириса), на третий день получилось расстройство желудка (пучило + диарея; это именно от избытка аскофена). Аскофен НЕОБХОДИМ для компенсации кровозагущающего действия ирисов; но постоянное употребление аскофена расстроит желудок (потребуется пить «Смекту»).
-3). Ирис спуриа помогает останавливать внутренний диалог и добиваться Кастанедовской «остановки мира» (это когда получается стойкая абсолютно чёткая визуализация; это когда глаза перестают двигаться от внутреннего диалога). Если втирать на ночь, — идеальное состояние получается ранним утром. Ранним утром представьте, что Вы ходите по некоей квартире на очень высоком этаже, и пристально ВСМАТРИВАЕТЕСЬ в каждую деталь обстановки, пытаясь получить «чёткую стабильную картинку». Дело в том, что внутренний диалог связан с движением глаз, и пристальное тщательное ВСМАТРИВАНИЕ останавливает глаза, и как следствие — останавливается внутренний диалог. Утром (под ирисом спуриа) расслабьтесь и визуализируйте, что Вы ходите по квартире на очень высоком этаже, и пристально ВСМАТРИВАЕТЕСЬ в каждую деталь обстановки, пытаясь сделать так, чтобы каждый рассматриваемый предмет стал выглядеть ярко и чётко, стойко, как реальный. Когда обстановка начнёт казаться реальной, плавно вылетите из окна, ярко ОЩУТИВ «страх высоты», глядя вниз, и ОЩУТИВ полёт. ОТ ЭТОГО астральное тело идеально включится. Ещё раз: Кастанеда называл «остановкой мира» момент, когда включается ИДЕАЛЬНО чёткая стабильная стойкая визуализация. Она включается, когда получается остановка внутреннего диалога; это момент наступления «внутренней тишины» (тоже Кастанедовский термин). Пока идёт внутренний диалог, глаза постоянно двигаются, поэтому идеально чёткую визуализацию надолго сделать не получается. Когда же ➡️ выключается речедвигательный центр мозга ⬅️, — глаза останавливаются («стеклянный взгляд наркомана»… 😊). ЭТОТ момент даёт о себе знать появлением абсолютно чёткой стабильной визуализации, которая выглядит абсолютно реальной. Это может быть и «3D−анимашка»: например, вдруг Вы увидите вблизи плещущуюся лужу, и она будет АБСОЛЮТНО РЕАЛЬНОЙ, в ней можно будет с идеальным качеством рассмотреть каждый камешек на дне. Это момент «остановки мира» и «наступления внутренней тишины» (остановка глаз вследствие выключения речедвигательного центра мозга). Ирис спуриа ПОМОГАЕТ сделать это выключение (под утро, если втереть на ночь квадратик 5мм×5мм с 8 каплями растительного масла в запястья). То есть, ещё раз: под утро под ирисом спуриа расслабьтесь и визуализируйте, что Вы ходите по некоей квартире на очень высоком этаже, и пристально ВСМАТРИВАЕТЕСЬ в каждую деталь обстановки. ВСМАТРИВАНИЕ с попыткой получить ЧЁТКУЮ ЯСНУЮ картинку — это очень важно. При этом внутренний диалог нужно пытаться убрать. Визуализируйте, что Вы подходите к окну и — плавно вылетаете из окна, ярко ОЩУТИВ «страх высоты», глядя вниз, и ОЩУТИВ полёт. ОТ ЭТОГО астральное тело идеально включится.
+ My latest results on these:
+1). There is a "cumulation" factor (accumulation in the body); when I rubbed spuria iris in for the second evening in a row, — in the morning there was the best result; however, after rubbing it in on the third evening in a row, I COULD NOT fall asleep until 10 am: seemingly there was no "nominal" "perking up" either, and my pulse didn't speed up, but I had a sleepless night. We're talking about 5mm×5mm squares. That is ➡️ I do NOT recommend rubbing irises in for more than two evenings in a row. The sleep-inducing effect of irises kicks in an hour and a half after rubbing and becomes optimal early in the morning if rubbed in at night.
+2). ASKOFEN is not harmless: when I drank one Askofen tablet every morning for three days in a row (to compensate for the blood-thickening effect of the iris), on the third day I got an upset stomach (bloating + diarrhea; this was precisely from the excess of Askofen). ASKOFEN is NECESSARY to compensate for the blood-thickening effect of irises; but constant use of Askofen will upset your stomach (you'll need to drink "Smecta").
+3). Spuria iris helps stop the internal dialogue and achieve Castaneda's "stopping of the world" (this is when you get a stable, absolutely clear visualization; this is when the eyes stop moving from the internal dialogue). If rubbed in at night, — the ideal state comes early in the morning. Early in the morning, imagine that you are walking through some apartment on a very high floor, and intently LOOK AT EVERY DETAIL of the furnishings, trying to get a "clear, stable picture". The thing is, the internal dialogue is linked to eye movement, and intense, careful LOOKING stops the eyes, and as a result — the internal dialogue stops. In the morning (under spuria iris) relax and visualize that you are walking through an apartment on a very high floor, and intently LOOK AT EVERY DETAIL of the furnishings, trying to make each object you examine look bright and clear, stable, like something real. When the furnishings start to seem real, smoothly fly out of the window, vividly FEELING "fear of heights" as you look down, and FEELING the flight. FROM THIS the astral body will switch on perfectly. Again: Castaneda called "stopping of the world" the moment when a PERFECTLY clear, stable, lasting visualization kicks in. It kicks in when the internal dialogue is stopped; this is the moment of "inner silence" (also a Castaneda term). While the internal dialogue is going on, the eyes keep moving constantly, so a perfectly clear visualization can't be held for long. But when ➡️ the brain's speech-motor center switches off ⬅️, — the eyes stop ("the glassy stare of a junkie"… 😊). THIS moment makes itself known by the appearance of an absolutely clear, stable visualization that looks absolutely real. It can also be a "3D animation": for example, suddenly you see a splashing puddle close by, and it will be ABSOLUTELY REAL, you'll be able to examine every pebble at the bottom with perfect quality. This is the moment of "stopping of the world" and "the onset of inner silence" (the stopping of the eyes due to the switching off of the brain's speech-motor center). Spuria iris HELPS bring about this switching off (toward morning, if you rub a 5mm×5mm square with 8 drops of vegetable oil into your wrists at night). That is, again: toward morning, under spuria iris, relax and visualize that you are walking through some apartment on a very high floor, and intently LOOK AT EVERY DETAIL of the furnishings. LOOKING with an attempt to get a CLEAR, BRIGHT picture — this is very important. At the same time, you should try to remove the internal dialogue. Visualize that you approach the window and — smoothly fly out of the window, vividly FEELING "fear of heights" as you look down, and FEELING the flight. FROM THIS the astral body will switch on perfectly.
 
 P.S.
-Утром (после ночи «под ирисом») выпейте таблетку аскофена.
+In the morning (after a night "under the iris") drink an Askofen tablet.
 P.P.S.
-ТОНОМЕТР тоже желателен; ирисы умеют разгонять пульс и поднимать давление. От ирисов нормально — это когда пульс выше 90 ударов в минуту и давление ≈ на 20 единиц выше того, которое для Вас обычное. Сбивать это не нужно; нужно летать в Астрал. 😊 Аскофен (пить его утром ПОСЛЕ полётов в Астрал) не даст дойти загущению крови до опасных параметров. ОДНАКО дело НЕ только в загущении крови; ирисы не безобидны: в них фиксируются даже «сердечные гликозиды»; это дигоксиноподобные пакости типа ядов ландыша и строфантуса. В присланных мною двух видах ириса их не убийственно много, но это такие пакости, от которых аскофен бессилен, и которые могут убить (разгон пульса в первую очередь вызван сердечными гликозидами, это как от строфантуса). Поэтому чаще двух ночей подряд НЕ втирать. ВЕДЬМЫ называли ирисы «АКОРУМ» («ACORUM»); это «растения силы» итальянских ведьм 16 века; это растения их мази для внетелесных путешествий. 🧙‍♀️
+A TONOMETER is also desirable; irises can speed up the pulse and raise blood pressure. With irises, normal is when the pulse is above 90 beats per minute and blood pressure is ≈ 20 units higher than what is usual for you. There's no need to bring this down; you need to fly to the Astral. 😊 Askofen (drink it in the morning AFTER flights to the Astral) will prevent blood thickening from reaching dangerous parameters. HOWEVER it's not only about blood thickening; irises are not harmless: even "cardiac glycosides" are fixed in them; these are digoxin-like nasties like the poisons of lily-of-the-valley and strophanthus. In the two species of iris I sent, there isn't a lethal amount of them, but these are the kind of nasties Askofen is powerless against, and which can kill (the racing pulse is caused primarily by cardiac glycosides, it's like from strophanthus). So don't rub them in more often than two nights in a row. WITCHES called irises "ACORUM" ("ACORUM"); these are the "power plants" of 16th-century Italian witches; these are the plants of their ointment for out-of-body travel. 🧙‍♀️
 ```
 
-Спурия, эффект на меня:
+Spuria, effect on me:
 ```
-Вмазал 5х5мм с 8 каплями. До этого проспал весь день. Принял где-то в 16 часов. Через час захотел спать, при закрыл глаза и было очень сильное состояние 4 часа точно, когда с закрытыми глазами состояние полусна и полу бодрствование. То есть, с закрытыми глазами мог сны видеть, которые сам же мыслями и представлял. По итогу 8 часов проспал. Помню только, что первоначально сон был про железо 
-Остальные сны забыл, но я их видел полностью не засыпая, просто закрывая глаза
+Smeared on 5x5mm with 8 drops. Before that I slept the whole day. Took it somewhere around 16:00. After an hour I wanted to sleep, closed my eyes and there was a very strong state for exactly 4 hours, when with my eyes closed it was a half-asleep, half-awake state. That is, with my eyes closed I could see dreams that I myself imagined with my thoughts. In the end I slept 8 hours. I only remember that at first the dream was about iron 
+I forgot the other dreams, but I saw them completely without falling asleep, just by closing my eyes
 ```
 
-Как итог: ирис спурия имеет довольно сильный эффект (4 часа состояние видения сна, причем большая часть без полного засыпания, а просто с закрытыми глазами. А весь сон контролировался тем, о чем сам и думал)
+As a result: spuria iris has a rather strong effect (4 hours of a dream-seeing state, with most of it without fully falling asleep, just with eyes closed. And the whole dream was controlled by what I myself was thinking)

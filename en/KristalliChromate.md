@@ -3,11 +3,11 @@ layout: default
 lang: en
 title: Attempt to grow a mineral (chromate)
 ---
-Большую часть времени я будто выпал из своего блога, но те с кем я живу очень беспокоятся и боятся деятельности дома и я решил заниматься органикой уже на даче.<br/>
-Зато, пока идет такое время, у меня оказался хромовый оксид VI, ангидрид, который превращается в воде в H2CrO4. Очень токсичная штука, нужны миллиграммы что бы откинуться, поэтому нужно осторожно с таким. Ну на самом деле, вроде оно не опасно, если в рот не сувать.<br/>
-Занимался я немного другой деятельностью и в том числе связанной с химией, но они выходят за рамки этого блога. Так же изучил более теоретическую часть. Дошёл до конформаций и кинетической скорости, рацемизации и тому подобное. Скоро закончу полностью книгу, начну читать следующие, закрепляя при этом полученные знания. Делаю задания с учебника и через ИИ пропускаю, он поправляет и объясняет, а иногда ему надо объяснять что он сам ошибается. Взаимное обучение в общем происходит. Делаю то, за что по идее платить должны<br/>
-Обычно, все мои записи в тетради успешны, Но иногда бывают не совсем корректные суждения или ошибки. А теперь про хромат...
-Сообщение Авак Авакяна на этот счёт, советовался что можно с хроматом сделать, кроме как в органике окислять вещества и так собирался малоновую кислоту попробовать сделать.
+Most of the time I felt like I had dropped out of my blog, but the people I live with worry a lot and are scared of my activities around the house, so I decided to do organic chemistry out at the dacha instead.<br/>
+Meanwhile, at this time I happened to have some chromium(VI) oxide, the anhydride, which turns into H2CrO4 in water. A very toxic thing — milligrams are enough to kick the bucket, so you need to be careful with it. Though actually, it seems it isn't dangerous as long as you don't stick it in your mouth.<br/>
+I've been busy with other activities, including chemistry-related ones, but they're beyond the scope of this blog. I also studied the more theoretical part. I got as far as conformations and kinetic rate, racemization and the like. Soon I'll finish the book completely and start reading the next ones, consolidating the knowledge I've gained along the way. I do the exercises from the textbook and run them through AI; it corrects and explains, and sometimes I have to explain to it that it's the one making a mistake. It's mutual learning, basically. I'm doing the work people should actually be paid for<br/>
+Usually all my notes in the notebook turn out well, but sometimes there are not entirely correct judgments or mistakes. And now for the chromate...
+A message from Avak Avakyan on this subject: I asked his advice on what can be done with chromate, besides oxidizing substances in organic chemistry, and I was planning to try making malonic acid with it.
 <style>
 @keyframes VeryCoolText {
     0% {text-shadow: 0px 0px aliceblue;}
@@ -28,150 +28,151 @@ code {
 </style>
 """
 ```
-CrO3 — это самое лучшее. Он из оксидов хрома самый активный, из него другие соединения хрома проще получить. Как окислитель он шикарен. Он растворим в воде, его водный раствор — хромовая кислота. Из этого раствора можно получить бесконечность хроматов, многие из которых — ценные минералы, красивые кристаллы (большинство окрашенные). Нерастворимые и малорастворимые в воде — их кристаллы можно выращивать как и все подобные драгоценные камни: берёте два открытых бутылька с водными растворами, реагирующими с образованием нужного хромата (например, Na2CrO4 в одном бутыльке и ZnSO4 в другом бутыльке); ставите эти бутыльки на дно небольшого аквариума (или подобной ёмкости) и ПЛАВНО, НЕ взбаламучивая (НЕ перемешивая!), наливаете в аквариум воду несколько выше бутыльков. Закрываете аквариум крышкой, чтобы воде не испарялась. За недели и месяцы медленная диффузия растворов приведёт с возникновению и росту шикарных кристаллов! ВОТ ТАК выращивают из воды кристаллы водонерастворимых минералов. В одном бутыльке один реагент, в другом — другой. ИДЕЯ в том, что если реагирующие с образованием нерастворимого осадка растворы смешивать БЫСТРО, — то осадок выпадает АМОРФНЫЙ, потому что не успевает кристаллизоваться. А если смешивать эти же растворы МЕДЛЕННО (неделями, месяцами), то выпадающий осадок получается в виде растущих КРИСТАЛЛОВ. Я так кристаллизовывал кальцит, например. Чаще всего один из растворов диффундирует быстрее, и кристаллы начинают расти в горлышке одного из бутыльков.
+CrO3 is the best of them. It is the most active of the chromium oxides, and the one from which other chromium compounds are easiest to obtain. As an oxidizer it's fantastic. It dissolves in water, and its aqueous solution is chromic acid. From this solution you can get an endless variety of chromates, many of which are valuable minerals, beautiful crystals (most of them colored). The ones that are insoluble or sparingly soluble in water — you can grow their crystals just like all such precious stones: take two open bottles with aqueous solutions that react to form the chromate you need (for example, Na2CrO4 in one bottle and ZnSO4 in the other); set these bottles on the bottom of a small aquarium (or a similar container) and SLOWLY, WITHOUT stirring things up (DO NOT mix!), pour water into the aquarium to slightly above the bottles. Close the aquarium with a lid so the water doesn't evaporate. Over weeks and months, the slow diffusion of the solutions will lead to the appearance and growth of gorgeous crystals! THAT'S how you grow crystals of water-insoluble minerals from water. One reagent in one bottle, the other reagent in the other. The IDEA is that if you mix the solutions that react to form an insoluble precipitate FAST, the precipitate comes out AMORPHOUS, because it doesn't have time to crystallize. But if you mix these same solutions SLOWLY (over weeks, months), the precipitate that forms comes out as growing CRYSTALS. I crystallized calcite that way, for example. Most often one of the solutions diffuses faster, and crystals start growing in the neck of one of the bottles.
 
 ...
 
- 2). Бутыльки (для кристаллизации) надо ставить в обычном положении (вверх отверстием). Твёрдых частиц нет; в двух бутыльках РАСТВОРЫ, бутыльки ОТКРЫТЫ (крышек НЕТ). Вложил картинку (во вложении), глядите. Например, в одном бутыльке водный раствор нитрата кальция; в другом — водный раствор кальцинированной соды; в аквариуме вода. В этом примере будут расти кристаллы кальцита. Раствор соды диффундирует быстрее, поэтому кристаллы будут расти вверху горлышка бутылька с раствором селитры. Реальность в том, что большинство растворов диффундируют весьма медленно, и если Вы нальёте бутыльки доверху и затем МЕДЛЕННО ПЛАВНО, НЕ ВЗБАЛАМУЧИВАЯ, нальёте чистую воду в аквариум, — диффузия растворов будет идти медленно, неделями. Узость горлышек и расстояние между бутыльками может сделать процесс совсем уж медленным; в некоторых случаях можно весьма близко друг к другу поставить даже открытые стаканы.
+ 2). The bottles (for crystallization) should be placed upright (opening upward). No solid particles; the two bottles contain SOLUTIONS, the bottles are OPEN (no lids). I've attached a picture (in the attachment), take a look. For example, one bottle contains an aqueous solution of calcium nitrate; the other, an aqueous solution of soda ash; the aquarium has water. In this example, calcite crystals will grow. The soda solution diffuses faster, so the crystals will grow at the top of the neck of the bottle with the nitrate solution. The reality is that most solutions diffuse very slowly, and if you fill the bottles to the brim and then SLOWLY AND GENTLY, WITHOUT STIRRING THINGS UP, pour clean water into the aquarium, the diffusion of the solutions will proceed slowly, over weeks. The narrowness of the necks and the distance between the bottles can make the process downright glacial; in some cases you can even put open glasses quite close to each other.
 ```
 """
 <p>(c) Avak Avakyan Avakovich</p>
 
 <div class='pair'>
-    <p>Самое важное (не хватает ещё пищевой соды):</p>
+    <p>The most important thing (still missing baking soda):</p>
     <img src="/experimets/KristalChromate/1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Сам ангидрид:</p>
+    <p>The anhydride itself:</p>
     <img src="/experimets/KristalChromate/Angydryge.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Хромат:</p>
+    <p>Chromate:</p>
     <img src="/experimets/KristalChromate/Na2CrO4.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Готовый раствор:</p>
+    <p>Finished solution:</p>
     <img src="/experimets/KristalChromate/withwater.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Цинк:</p>
+    <p>Zinc:</p>
     <img src="/experimets/KristalChromate/zinc.jpg"/>
 </div>
 <br/>
-<p>Получение хромата натрия:</p>
+<p>Preparing sodium chromate:</p>
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/KristalChromate/ChromicAcidToNaChromate.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 <br/>
-<p>Получение сульфата цинка(кстати, очень удушающий газ выделяется, не факт что просто водород. Может SO4 группа восстанавливается)</p>
-<p>Но и не пахнет сероводородом и сернистым ангидридом (запахи их знаю):</p>
+<p>Preparing zinc sulfate (by the way, a really suffocating gas is given off — not necessarily just hydrogen. Maybe the SO4 group is being reduced)</p>
+<p>But there's no smell of hydrogen sulfide or sulfur dioxide (I know their smells):</p>
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/KristalChromate/zincandsulfaricacid.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 <br/>
-<p>Концентрированный сульфат цинка(много цинка не прореагировало, после разбавления)</p>
-<p>(продолжилась реакция, видимо не хватило воды для H3O+:</p>
+<p>Concentrated zinc sulfate (a lot of zinc didn't react, after dilution)</p>
+<p>(the reaction went on, apparently there wasn't enough water for H3O+:</p>
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/KristalChromate/Zn(SO4)_Conc.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 ```
 Здравствуйте!
-НЕ надо открывать аквариум; кристаллизация НЕ от испарения происходит! Раствору НЕ надо испаряться. Пусть закрытый стоит; со временем будут расти кристаллы. Кристаллы являются результатом медленного смешивания растворов (медленная диффузия). Если смешать быстро — выпадет аморфный жёлтый порошок хромата цинка; а если же вот так, медленно, то вместо аморфного порошка осадок «выпадает» в виде растущих жёлтых кристаллов. Если весь раствор в аквариуме желтоватый (от хромата), то расти кристаллы будут где-то в горлышке бутылька с сульфатом цинка. К слову, я глянул Ваше видео про сульфат цинка. Он у Вас какой-то совсем уж грязный; он должен быть бесцветными кристаллами, а у Вас нечто землистого облика. Я бы растворил в воде, профильтровал и выпарил (для очистки). Я получал его из цинка и аккумуляторного электролита; приложил картинку (во вложении, гляньте); он должен быть вот такими бесцветными кристаллами (у меня на фото он немного мокрый от оставшегося электролита). Про едкий обжигающий газ при растворении цинка в электролите — во-первых, там может быть аэрозоль серной кислоты («дым» из микрокапелек электролита; это микробрызги от лопающихся пузырьков); во-вторых, в техническом электролите всегда есть примесь соляной кислоты, и её «едкие испарения» (хлороводород) имеют место быть.
-Во снах и в Астрале СОБАКА — это богиня смерти; В ВАННОЙ — это её любимое место в наших квартирах, она ведь стихиаль ВОДЫ. Поэтому В ВАННОЙ её чаще всего можно встретить.
-Чинить HDD — нужная и полезная вещь!
-К слову, есть такая пакость: когда CD/DVD-румы портятся, бывает так, что они портят диски: реально информация НЕ стирается, но диск помечается как RAW, и после этого на любом CD/DVD устройстве он воспринимается как чистый с форматом RAW. Знакома ли Вам такая проблема? Мне говорили, что такой якобы «RAW» диск МОЖНО прочитать; информация ведь на нём ничуть не затёрта; просто «заголовок», якобы, можно «переправить». Есть ли программы, способные это делать?
+Hello!
+YOU DON'T need to open the aquarium; crystallization is NOT caused by evaporation! The solution does NOT need to evaporate. Let it sit closed; crystals will grow over time. The crystals are the result of slow mixing of solutions (slow diffusion). If you mix them quickly — an amorphous yellow powder of zinc chromate will precipitate; but if you do it like this, slowly, then instead of an amorphous powder the precipitate "comes out" as growing yellow crystals. If all the solution in the aquarium is yellowish (from the chromate), the crystals will grow somewhere in the neck of the bottle with zinc sulfate. By the way, I watched your video about zinc sulfate. Yours is just too dirty; it should be colorless crystals, and what you have looks earthy. I would dissolve it in water, filter it and evaporate it (to purify it). I made it from zinc and battery electrolyte; I've attached a picture (in the attachment, take a look); it should be colorless crystals like these (in my photo it's a little wet from the leftover electrolyte). As for the caustic burning gas when zinc dissolves in the electrolyte — first, there may be an aerosol of sulfuric acid ("smoke" made of microdroplets of electrolyte; tiny splashes from bursting bubbles); second, technical electrolyte always contains an impurity of hydrochloric acid, and its "caustic fumes" (hydrogen chloride) are a real thing.
+In dreams and in the Astral a DOG is the goddess of death; IN THE BATHTUB is her favorite place in our apartments, after all she is an elemental of WATER. That's why in the BATHTUB is where you'll most often meet her.
+Fixing HDDs is a needed and useful thing!
+By the way, there's such a nuisance: when CD/DVD drives go bad, it happens that they spoil the discs: the information really ISN'T erased, but the disc is marked as RAW, and after that any CD/DVD device reads it as a blank disc with RAW format. Have you ever run into this problem? I've been told that such a supposedly "RAW" disc CAN be read; the information on it isn't wiped at all; you just have to "fix" the "header", supposedly. Are there programs that can do this?
 
-> Сегодня пузырьки появились, и жидкость будто немного слой как стекла. Приоткрывал крышку, давая воде испариться лишней. Буду открывать раз в день. То что оно жёлтое это одна бутыль пролилась и очень разбавленный хромат натрия. Из бутылки идут пузыри и на самой поверхности раствора. Нужно было это на балконе делать, а так это долго будет испаряться, тогда пускай будет медленно идти кристаллизация, так намного лучше кристаллизуется
+> Today bubbles appeared, and the liquid looks as if it has a sort of glassy layer. I cracked the lid open a little, letting the excess water evaporate. I'll open it once a day. The reason it's yellow is that one bottle spilled and it's a very dilute sodium chromate. Bubbles are coming from the bottle and right on the surface of the solution. I should have done this on the balcony, but as it is it'll take a long time to evaporate, so then let crystallization go slowly — that way it crystallizes much better
 P.S.
-Вы пришете важный факт: «Когда я касался предметов (камня), то картинка становилась ярче и менее размытой. Я цеплялся будто когтями за предметы/дома. ... Чем меньше я чего-то касался, тем чаще все мутнело и снова приходилось выходить из тела.». ДА, это так, и это можно использовать как «технику»: — ТЕРЕТЬ ЛАДОНИ О ПРЕДМЕТЫ в Астрале, чтобы «не выпадать» из того места, где мы находимся. ЭТО советует одна ведьма на www.livemaster.ru ; увы, сейчас не могу отыскать эту публикацию. Ещё: в Астрале надо ДУТЬ на свои глаза, используя для этого руки, сложив их «лодочкой» так, чтобы направлять выдыхаемый воздух себе на глаза. Это тоже увеличивает яркость восприятия в Астрале и продляет наше пребывание в том месте, где мы находимся.
+You cite an important fact: "When I touched objects (a stone), the picture became brighter and less blurry. I clung to objects/houses as if with claws. ... The less I touched anything, the more often everything got foggy and I had to leave the body again." YES, that's right, and it can be used as a "technique": — RUB YOUR PALMS AGAINST OBJECTS in the Astral so you don't "drop out" of the place we are in. THIS is what a certain witch advises on www.livemaster.ru ; alas, right now I can't find that publication. Another thing: in the Astral you need to BLOW on your own eyes, using your hands for this, cupped like a "boat" so as to direct your exhaled air onto your eyes. This too increases the brightness of perception in the Astral and prolongs our stay in the place where we are.
 
-> Вылет в астрал произошёл сегодня. Спал, начал чувствовать будто тянет из тела. С кем-то общался, попросил помощи выйти. Меня вытягивали-вытягивали, по итогу я смог двигать ногой и я её начал раскачивать, в один момент
-> я заметил, что как бы силой мысли могу моментально перемещаться в пространстве и передвинулся к телевизору, а потом вообще за комнату. Я видел машины, автобусы, дома. Когда я касался предметов (камня), то картинка становилась ярче и менее размытой. Я цеплялся будто когтями за предметы/дома. По итогу в один из домов вообще левых залетел и видел чужие кухни, попал в какой-то дом. Квартира, там находились люди, которые меня не замечали у кровати
-> и рядом с ними лежал на комоде или типа того какой-то ребенок и сказал ого нашёл я себе друга. То есть, он меня заметил. Я пошёл в соседнию комнату и я с кем-то там общался. Они сказали, что они призраки на мои вопрос кто они. Так же рекомендовали мне попробовать калигулу, рекомендовали этот напиток и что-то говорили про патриотов Украины. Чем меньше я чего-то касался, тем чаще все мутнело и снова приходилось выходить из тела. Я снова полетел туда, но вместо того дома уже пустое что-то было и я подумал, а что будет если полететь в космос и пообщаться с пришельцами. Летел я вверх и даже видел атмосферу и всё это закончилось тем, что стало очень ярко (видимо от солнца), по итогу вылететь дальше планеты я не смог. Меня резко вернуло в тело и с закрытыми глазами я видел как физически вижу свою комнату, только шторы немного отличались и всё будто двоилось. Я потом проснулся и я снова засыпал. Снова пытался во сне уже взлетать/падать, уже именно во сне, а не после сонного паралича. Даже с балкона прыгал во сне и падал, не разбивался, но попадал куда-то, но обратно кидало в сны. (падать/взлетать помогало на время)
-> В снах была собака, она воду пила и кровь слизывала и мы с ней в ванной были. Потом была какая-то больница, потом ещё гулял по непонятным болотам и мне сказали, что ракету можно сделать на магнитах. На 400 метров что бы полетела, найти в лесу и ещё про какой-то монитор было/комп.
+> The astral projection happened today. I slept, and began to feel as if something was pulling me out of my body. I talked with someone, asked for help getting out. They pulled and pulled me out, and in the end I could move my foot and I started rocking it, and at one point
+> I noticed that it was as if I could move instantly through space by the power of thought, and I moved over to the TV, and then beyond the room entirely. I saw cars, buses, houses. When I touched objects (a stone), the picture became brighter and less blurry. I clung to objects/houses as if with claws. In the end I flew right into one completely random house and saw strangers' kitchens, ended up in some house. An apartment; there were people there who didn't notice me by the bed
+> and next to them, lying on a dresser or something of the sort, was some child, and he said, wow, I've found myself a friend. That is, he noticed me. I went into the next room and talked with someone there. In answer to my question of who they were, they said they were ghosts. They also advised me to try caligula, recommended that drink, and said something about the patriots of Ukraine. The less I touched anything, the more often everything got foggy and I had to leave the body again. I flew there again, but instead of that house there was some empty sort of thing, and I thought, what would happen if I flew into space and talked to aliens. I flew upward and even saw the atmosphere, and it all ended with everything becoming very bright (apparently from the sun); in the end I couldn't get any farther than the planet. I was jerked sharply back into my body, and with my eyes closed I saw my room the way I see it physically, except the curtains were a little different and everything seemed doubled. Then I woke up and fell asleep again. Again I tried to take off/fall in a dream — in an actual dream this time, not after sleep paralysis. I even jumped off a balcony in a dream and fell, didn't smash to pieces, but ended up somewhere, and then got thrown back into dreams. (falling/taking off helped for a while)
+> In dreams there was a dog; it drank water and licked up blood, and we were in the bathroom together. Then there was some hospital, then I wandered around incomprehensible swamps and was told that a rocket could be made with magnets. For it to fly 400 meters, find them in the forest; and there was something about a monitor/PC too.
 ```
 <p>Avak Avakyan</p>
 
-<p>Через несколько дней</p>
+<p>A few days later</p>
 
 images/chromate/
 <div class='pair'>
-    <p>Готовый раствор:</p>
+    <p>Finished solution:</p>
     <img src="/images/chromate/1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Готовый раствор:</p>
+    <p>Finished solution:</p>
     <img src="/images/chromate/2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Готовый раствор:</p>
+    <p>Finished solution:</p>
     <img src="/images/chromate/3.jpg"/>
 </div>
 <br/>
 
 ```
 Поглядел, ужОс!!!! 😊
+I took a look — horror!!!! 😊
+In the attachment — see how it's done (you may publish this picture wherever you like). I decided to "get fancy" and used a two-liter plastic bottle lying on its side as the "aquarium". With two strips of narrow tape I tied it to a board that became the stand (see: those strips of tape are barely visible under the left and right bottles). The neck of this bottle is screwed on tight. On top (that is, in the side of this bottle) I cut a "hatch" with manicure scissors, like a submarine's (see the upper-right frame). Through this "hatch" I inserted into the bottle little jars filled to the brim with solutions: the left jar has an aqueous solution of Kalceks; the right jar has an aqueous solution of washing soda. Carefully I put these jars in the right places. And then CAREFULLY (WITHOUT STIRRING THINGS UP!!!) I poured water through the "hatch" into the common bottle so that the jars ended up UNDER water (not deeply). After that I closed the "hatch" and "walled it up" (sealed it) with a strip of wide tape. Taking Kalceks (as the calcium salt) was a mistake: the urotropine in it gave flakes of its own decomposition products. The distance between the jars turned out to be too great: the reaction was downright slow. Over time (more than a month) the neck of the left jar (the one with Kalceks) became completely overgrown with CALCITE crystals (the reaction product). The crystals came out small (see the millimeter scale of the ruler in the second frame from the bottom on the right), and their growth stopped because the overgrown neck cut off contact between the solutions.
 
-Во вложении — глядите, как это делается (можете публиковать эту картинку где угодно). Я решил «изощриться» и в роли «аквариума» взял лежащую на боку пластиковую двухлитровую бутылку. Двумя полосками узкого скотча я привязал её к доске, ставшей подставкой (см.: эти ленты скотча едва заметны под левым и под правым бутыльками). Горлышко у этой бутылки прочно завинчено. Сверху (то есть в боку этой бутылки) маникюрными ножницами я вырезал «люк» как у подлодки (см. верхний правый кадр). Через этот «люк» я вставил в эту бутылку баночки, до верха наполненные растворами: в левой баночке — водный раствор кальцекса; в правой баночке — водный раствор стиральной соды. Аккуратно я поместил эти баночки на нужные места. И затем АККУРАТНО (НЕ ВЗБАЛАМУЧИВАЯ!!!) налил через «люк» воду в общую бутыль так, что баночки оказались ПОД водой (неглубоко). После чего я закрыл «люк» и «замуровал» (залепил) его лентой широкого скотча. Кальцекс (в роли соли кальция) я взял зря: уротропин из него дал хлопья продуктов своего разложения. Расстояние между баночками оказалось слишком большим: реакция шла совсем уж медленно. Со временем (дольше месяца) горлышко левой (с кальцексом) баночки полностью заросло кристаллами КАЛЬЦИТА (продукт реакции). Кристаллы получились мелкие (см. миллиметровую шкалу линейки на втором снизу правом кадре), а их рост закончился, потому что зарастание горлышка прекратило контакт растворов.
-
-У Вас — ужОс!!!! 😊 ЗАЧЕМ такие ОГРОМНЫЕ габариты: гигантский аквариум… Просто жалко тратить столько реактивов! В аквариуме банка вверх дном (зачем?) и синий стакан, верх которого ВЫШЕ воды в аквариуме (должен быть ПОД водой, иначе ЗАЧЕМ он вообще?). На поверхности обильная рваная корка, говорящая о том, что Вы НЕ стремились «не взбаламутить», когда всё это наливали (мягко говоря). 😊 В моём эксперименте (см. выше) в общей ёмкости никаких корок и осадков не возникло, ПОТОМУ ЧТО я крайне плавно, НЕ ВЗБАЛАМУЧИВАЯ, наполнил эту ёмкость водой, после чего эта конструкция лежала в идеальной неподвижности.
+Yours — horror!!!! 😊 WHY such HUGE dimensions: a giant aquarium… It's simply a shame to waste that many reagents! In the aquarium there's a jar upside down (why?) and a blue cup whose top is ABOVE the water in the aquarium (it should be UNDER the water — otherwise WHY is it there at all?). There is an abundant ragged crust on the surface, which says that you did NOT try to "not stir things up" when you were pouring it all in (to put it mildly). 😊 In my experiment (see above), no crusts or precipitates formed in the common container, BECAUSE I filled that container with water extremely smoothly, WITHOUT STIRRING IT UP, after which the whole contraption lay in perfect stillness.
 -
-Я заполнил просто когда, понял что оно мешает и нужно передвинуть. Перевёрнутая уксуса бутылка это излишки хромата натрия были и когда заливал оно перевернулось из-за того что решило подняться над водой, а синяя крышка там осталась, тк забыл её достать. Там реактивов не сильно много, воды много 
-И покрывается крышка желтезной, то есть что-то образуется. Наверное если меньше объём, то быстрее будет и лучше, да и места меньше будет занимать. Но информация об аквариуме была принята как о большой ёмкости, поэтому я решил не мелочиться 
-неудачный путь тоже полезен. Это как история с гремучей ртутью. Когда другим путем пошли и открыли изомерию. Или вот даже браговарением заниматься, можно открыть так и стереохимию. Да и что бы другие не повторяли ошибок полезно. Так что норм, правда это сливать теперь в канализацию не очень хорошо будет, да и тяжело. Поэтому пускай стоит, пока не мешает. C бутылками я не знаю где такие достать, но тоже подумаю что-то такое. Благодарю за фото.
+I just filled it when I realized it was in the way and needed to be moved. The upside-down vinegar bottle was leftover sodium chromate, and when I was pouring [water in] it tipped over because it decided to rise above the water, and the blue cap stayed there because I forgot to take it out. There isn't much reagent in there, but lots of water 
+And the cap is getting a yellowish coating, which means something is forming. Probably if the volume were smaller it would be faster and better, and take up less space too. But the information about an aquarium was taken to mean a large container, so I decided not to skimp 
+A failed path is useful too. It's like the story with mercury fulminate: they went another way and discovered isomerism. Or take homebrewing — you can discover stereochemistry that way too. And it's useful so that others don't repeat the mistakes. So it's fine, though pouring it down the drain now wouldn't be very good, and it's hard to do as well. So let it stand as long as it isn't in the way. As for bottles, I don't know where to get ones like these, but I'll think of something too. Thanks for the photo.
 ```
-<p>с переписки</p>
+<p>from our correspondence</p>
 
 <div class='pair'>
-    <p>Кристаллизатор Авак Авакяна (гениально):</p>
+    <p>Avak Avakyan's crystallizer (brilliant):</p>
     <img src="/images/chromate/Кристаллизатор_-_эксперимент_Авака_Авакяна.PNG"/>
 </div>
 <br/>
 
 <hr/>
 
-<p> UDP 06 07 2026. ПРоявились кристаллы. (начиналось ~20 марта кристаллизация)</p>
+<p> UDP 06 07 2026. Crystals have appeared. (crystallization started around March 20)</p>
 <video width="640" height="360" controls>
   <source src="{{ '/videos/Chromate060726.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 
 ```
-Здравствуйте. Стало всё равно что-то образовываться. Если щелочь добавить, то хром выпадет в осадок гидроогисбю же? Что бы воду можно было слить спокойно не боясь отравиться и не загрязняя среду
+Hello. Something was forming anyway. If you add alkali, the chromium will precipitate as hydroxide, right? So that the water can be poured off calmly, without fear of poisoning yourself or polluting the environment
 ...
-Синяк, кстати, дает эффект сухости во рту. .... Помог визуализацию делать и немного ещё напоминает ... 2 листика вот таких растер
+Comfrey, by the way, gives a dry-mouth effect. .... It helped me do visualization and still reminds me a bit of ... 2 leaves like these, crushed
 ...
-Пишут, нужна сера или другой восстановитель. А так щелочь на 6 валетный не действует. Может время нужно. Степени окисления это же виртуальные значения. Дело в валетности и в самом химизме. Без нагрева как я понял реакция плохо идет и без щелочи
+They write that you need sulfur or some other reducing agent. And alkali doesn't act on hexavalent chromium as such. Maybe time is needed. Oxidation states are virtual values, aren't they? It's about valence and the actual chemistry. As I understand it, without heating the reaction goes poorly, and without alkali too
 ...
-в целом там маленькая концентрация, сильно разбавлено. Если оставить автоупариваться, то за какое-то время испарится 
+overall the concentration there is low, heavily diluted. If you leave it to evaporate on its own, it will evaporate after a while 
 ```
 
-Ответ:
+Answer:
 ```
-И Вам здравия!
+And good health to you too!
 
-Видел про хромат видео. Возможно, на горлышке открытой стоя̀щей (слева) бутылки — кажется, что там кристаллы наросли, но качество видео не позволяет однозначно определить.
+I saw the video about the chromate. Possibly on the neck of the open bottle standing there (on the left) — it looks as if crystals have grown there, but the quality of the video doesn't allow a definite conclusion.
 
-Про щёлочь — щёлочь осадит хром из солей, где хром 2+ или 3+, то есть где хром НЕ в составе КИСЛОТНОГО остатка (например, если речь про CrSO4 или Cr2(SO4)3). Когда же речь про хроматы — там хром в виде аниона CrO4 (2−). Щёлочи с этим анионом дают водорастворимые хроматы (жёлтый раствор будет), например, K2CrO4. Щёлочь может осадить, например, гидроксид магния из водного раствора хромата магния:
+As for alkali — alkali will precipitate chromium from salts where chromium is 2+ or 3+, that is, where chromium is NOT part of an ACID RADICAL (for example, if we're talking about CrSO4 or Cr2(SO4)3). But when it comes to chromates — there chromium is in the form of the CrO4 (2−) anion. Alkalis with this anion give water-soluble chromates (you'll get a yellow solution), for example K2CrO4. Alkali can precipitate, for example, magnesium hydroxide from an aqueous solution of magnesium chromate:
 2KOH + MgCrO4 = Mg(OH)2↓ + K2CrO4.
-Ещё раз: хром в хроматах — в кислотном остатке, который подобен сульфатному; Вы ведь серу из сульфатов «в виде гидроксида» не осàдите, потому что гидроксид шестивалентной серы — это серная кислота. Хромовая ей подобна.
+Once again: the chromium in chromates is in the acid radical, which is similar to the sulfate radical; after all, you can't precipitate sulfur from sulfates "as a hydroxide", because the hydroxide of hexavalent sulfur is sulfuric acid. Chromic acid is similar to it.
 
-ОСАДИТЬ шестивалентный хром легко в виде нерастворимых и малорастворимых хроматов малоактивных металлов; меди, например. Растворимость CuCrO4 в воде 0,034 г/100 мл.
+PRECIPITATING hexavalent chromium is easy in the form of insoluble and sparingly soluble chromates of low-activity metals; copper, for example. The solubility of CuCrO4 in water is 0.034 g/100 ml.
 
-ВОССТАНОВИТЬ шестивалентный хром — можно попробовать алюминиевой фольгой в КИСЛОЙ среде (без сильной кислоты может получиться пассивирование фольги из–за образования хромата алюминия); лучше всего брать соляную кислоту (либо электролит + NaCl), потому что с серной фольга реагирует «туговато». Железные опилки или гвозди в серной или соляной кислоте тоже могут восстановить хромат–ион (это аналогичная реакция), как и цинк. В сильных кислотах вроде серной и соляной итогом может быть раствор солей хрома, причём хром доходит до 2+, то есть в серной кислоте итогом будет раствор CrSO4. Соли двухвалентного хрома очень «полезны в хозяйстве»: они сильнейшие восстановители (в водном растворе очень медленно разлагают воду с выделением водорода!). Это будет РАСТВОР, а не осадок. Для получения осадка потребуется подщелочить итоговый раствор до выпадения гидроксида Cr(OH)2 (который будет стремиться окислиться до гидроксидов трёхвалентного хрома, тоже нерастворимых в воде).
+REDUCING hexavalent chromium — you can try aluminum foil in an ACIDIC medium (without a strong acid, the foil may become passivated due to the formation of aluminum chromate); hydrochloric acid is best (or electrolyte + NaCl), because with sulfuric acid the foil reacts rather "reluctantly". Iron filings or nails in sulfuric or hydrochloric acid can also reduce the chromate ion (it's an analogous reaction), as can zinc. In strong acids such as sulfuric and hydrochloric, the end result may be a solution of chromium salts, with chromium going all the way down to 2+ — that is, in sulfuric acid the result will be a solution of CrSO4. Salts of divalent chromium are very "useful around the house": they are the strongest reducing agents (in aqueous solution they decompose water very slowly, releasing hydrogen!). This will be a SOLUTION, not a precipitate. To obtain a precipitate, you'll need to make the final solution alkaline enough for Cr(OH)2 hydroxide to precipitate (which will tend to oxidize to hydroxides of trivalent chromium, also insoluble in water).
 
-Про СИНЯК — вот это ОЧЕНЬ интересно!!!! Это ШИКАРНО, что Вы взялись делать эксперименты. ПЕРВЫЕ пробы всегда нужно делать с МИКРОдозами; с ирисами надо начинать с квадратика 5×5мм; с аконитами — ещё меньше. Если доза не подействовала — на следующий день сделать опыт с большей дозой не трудно; а вот если первая доза была взята летальной — тогда следующего дня ужè не будет. 😊
+About COMFREY — now THIS is VERY interesting!!!! It's SHINING that you've taken up experiments. The FIRST trials should always be done with MICROdoses; with iris you should start with a 5×5 mm square; with aconite, even less. If a dose doesn't work, doing another test with a bigger dose the next day is no problem; but if the first dose was a lethal one — then there won't be a next day. 😊
 ```
 
 
@@ -179,44 +180,44 @@ images/chromate/
 
 https://wipedlifepotato.github.io/images/chromate/osashdenije/files.html
 Тут можно видеть, как при добавление меди в виде кристаллогидрата сульфата меди зеленеют кристаллы, а дальше появляется дымок и такие осадки
-Ещё я насыпал смесь окислов и карбоната меди (основная масса) и цитрата меди, дало нормальную так зелену
-Для теста ещё и добавлял сульфат железа он ничего не дал
-В итоге получились на бутылке кристаллы, которые можно было комками собирать, без воды они крассивые и светятся, но я их испачкал водой и они попортились.
-Водой из бутылки, можно видеть предположительно гидроокись хрома, то есть он таки поменял свою степень окисления без так таковой ОВР. Значит со временем это происходит, либо 
-какие-то из примесей вступили в ОВР. Но мне кажется, подобные соединения должны сами по себе разлагаться, например как марганцовая кислота. А ОВР как и степени окисления "натянуты на глобус". Ni(CO)4 = нулевая степень окисления
-
+Here you can see how, when copper is added in the form of copper sulfate crystal hydrate, the crystals turn green, and then a little smoke and these precipitates appear
+I also poured in a mixture of copper oxides and carbonate (the bulk of it) and copper citrate — that gave a decent green as well
+For a test I also added iron sulfate; it did nothing
+In the end, crystals formed on the bottle that could be gathered up in clumps; without water they're pretty and they glow, but I got them dirty with water and they were ruined.
+With the water from the bottle, you can see what is presumably chromium hydroxide — so it really did change its oxidation state without any redox reaction as such. Which means this happens over time, or else
+some of the impurities took part in a redox reaction. But it seems to me that compounds like this should decompose on their own, like permanganic acid, for example. And redox reactions and oxidation states are "stretched over the globe". Ni(CO)4 = oxidation state zero
 ```
-Здравствуйте!
+Hello!
 
-Спасибо за тёплые словà!
+Thanks for the warm words!
 
-Видео с
+The video from
 www.youtube.com/watch?v=AgnCqZNBDYA
-поглядел. 😄 Вы всыпаете в раствор водорастворимых хроматов медный купорос (сухой); но если нужно было выяснить, будет ли какая–либо реакция, — нужно было водный РАСТВОР медного купороса туда влить, а не сухой порошок сыпать. 🙂 Тут могло получиться «пассивирование»: когда твёрдые частицы (купороса) с раствором образуют нерастворимое соединение (хромат меди), — это нерастворимое соединение покрывает частицы купороса плёнкой, и дальше реакция не идёт: на поверхности частиц купороса возникает водонерастворимая плёнка, и на этом всё заканчивается. Зелёные осадки у Вас — это хромат меди, а не оксиды и гидроксиды хрома.
+I watched. 😄 You dump dry copper sulfate (blue vitriol) into a solution of water-soluble chromates; but if the point was to find out whether there would be any reaction at all, you should have poured in an aqueous SOLUTION of copper sulfate, not sprinkled dry powder. 🙂 What may have happened here is "passivation": when solid particles (of copper sulfate) form an insoluble compound with the solution (copper chromate), that insoluble compound coats the particles of copper sulfate with a film, and then the reaction doesn't go any further: a water-insoluble film forms on the surface of the sulfate particles, and that's the end of it. The green precipitates you have are copper chromate, not chromium oxides or hydroxides.
 
-9 ФОТОК бутылки из хроматного раствора все поглядел. Ничего кристаллического не вижу; сие выглядит либо аморфным продуктом, либо он столь микрокристаллический, что — такие продукты даже рентгенофазовый дифрактометр навряд ли распознает (практически, сие АМОРФНО). Ещё раз: когда мы БЫСТРО смешиваем два раствора, реакция которых даёт нерастворимый осадок, — этот осадок выпадает СРАЗУ и оказывается либо АМОРФНЫМ, либо супер МИКРОкристаллическим. У Вас так и случилось. Для выращивания кристаллов нужно, чтобы растворы смешивались НЕДЕЛЯМИ (либо даже месяцами); тогда осадок выпадает МЕДЛЕННО, и при этом у него хватает времени для КРИСТАЛЛИЗАЦИИ: вместо аморфного осадка растут КРИСТАЛЛЫ. Медленная диффузия растворов (два стакана на дне аквариума) — прекрасный способ выращивания кристаллов.
+I looked at all 9 PHOTOS of the bottle from the chromate solution. I see nothing crystalline; it looks either like an amorphous product, or so microcrystalline that even an X-ray diffractometer would hardly recognize such a product (practically speaking, it is AMORPHOUS). Once again: when we FAST mix two solutions whose reaction yields an insoluble precipitate, that precipitate comes out IMMEDIATELY and turns out either AMORPHOUS or super MICROcrystalline. That's just what happened in your case. To grow crystals, the solutions need to mix over WEEKS (or even months); then the precipitate comes out SLOWLY, and it has enough time to CRYSTALLIZE: instead of an amorphous precipitate, CRYSTALS grow. Slow diffusion of solutions (two glasses on the bottom of an aquarium) is a fine way to grow crystals.
 
-Прополис — пёстрая смесь органических веществ, преимущественно смолообразных. Зачем он Вам? 🤔
+Propolis is a motley mixture of organic substances, mostly resin-like. Why do you need it? 🤔
 
-➡️ А у меня интересная информация: меня ОЧЕНЬ заинтересовал Ваш опыт с СИНЯКОМ ОБЫКНОВЕННЫМ, и — я облазил ряд местных сопок, не нашёл его, спросил на «VKontakte» директора местного «Института Леса»; она указала, где он есть; я туда съездил, нашёл его и принёс. Короче. Это ОЧЕНЬ интересное растение!! Во–первых, действие начинается ЧЕРЕЗ СЕМЬ ЧАСОВ после втирания (в виде мази, когда он растёрт с растительным маслом). Во–вторых, после первых двух успешных опытов, когда я довёл дозу до 4 см² сушёных листьев — включилась компенсаторная реакция организма: «снотворно–отравленное» состояние сменилось на супер «взбодренное»; это бывает, когда организм в ответ на попытку себя усыпить реагирует ВЫБРОСОМ АДРЕНАЛИНА. Но когда такое происходит — это не беда: запас адреналина у нас не бесконечен, и если взять дозу яда больше, чем организм сможет компенсировать адреналином, — яд пересилит. Это как с привыканием к водке: маленькую рюмку организм может научиться компенсировать антидотом, но на бутылку антидота у организма не хватит: алкаши всю жизнь каждый день бухают, но полной толерантности ведь НЕ получается: крупная доза всё равно даёт «белочку». 😀 6 см² сушёных листьев оказались дозой, которая чуть круче, чем возможности организма. Идеальную дозу я ещё подыщу. ЭФФЕКТ, я бы сказал, очень похож на интоксикацию от АНГИНЫ. Во рту не то, чтобы «сухо», а как при повышенной температуре. Скажу, что именно АНГИНА всегда была для меня мощнейшим средством для выхода в Астрал!! Если СИНЯК окажется токсином, подобным по действию токсинам ангины, — это будет супер шикарная находка!!! Под синяком у меня было, когда из сна трудно проснуться; ещё было подобие Кастанедовской «остановки мира». Я продолжаю эксперименты и — СОВЕТУЮ ВАМ ЕГО НАБРАТЬ И НАСУШИТЬ для Вас; он выглядит перспективным. Повторю, что действие начинается через 7 часов после втирания мази в запястья; у Вас метаболизм чуть быстрее, и, возможно, эффект будет включаться через 6:30 или 6 часов. Про ДОЗУ — я ведь идеально растираю (так, что визуально заметных твёрдых частиц нет вообще); если растирать халтурно, — доза потребуется намного больше (потому что куча продукта будет просто в виде бесполезных крупных кусочков листьев на руке). Если полностью растереть — скорее всего, доза будет в районе 7 см² сушёных листьев.
+➡️ But I have some interesting information: your experiment with COMMON COMFREY interested me a LOT, and — I crawled all over a number of local hills, didn't find it, asked the director of the local "Institute of Forestry" on "VKontakte"; she pointed out where it grew; I drove there, found it and brought it back. Long story short. This is a VERY interesting plant!! First, the effect sets in SEVEN HOURS after rubbing it in (as an ointment, when it's ground up with vegetable oil). Second, after the first two successful experiments, when I brought the dose up to 4 cm² of dried leaves, the body's compensatory reaction kicked in: the "sleepy–poisoned" state gave way to a super "energized" one; this happens when the body responds to an attempt to put it to sleep with a RELEASE OF ADRENALINE. But when this happens, it's no disaster: our supply of adrenaline isn't infinite, and if you take a dose of poison greater than the body can compensate for with adrenaline — the poison wins. It's like getting used to vodka: a small shot can be compensated for with an antidote, but the body doesn't have enough antidote for a whole bottle: alcoholics booze it up every day all their lives, and yet full tolerance is never achieved: a large dose still gives them the "white fever". 😀 6 cm² of dried leaves turned out to be a dose just a bit beyond what the body can handle. I'll still find the ideal dose. The EFFECT, I'd say, is very much like intoxication from STREP THROAT. The mouth isn't exactly "dry", it's more like when you have a fever. I'll say this: STREP THROAT has always been, for me, the most powerful means of entering the Astral!! If COMFREY turns out to be a toxin similar in action to the toxins of strep throat, that will be a super fantastic find!!! Under comfrey I had times when it was hard to wake up from a dream; there was also something like Castaneda's "stopping of the world". I'm continuing the experiments and — I ADVISE YOU TO GO AND GATHER IT AND DRY IT for yourself; it looks promising. I'll repeat: the effect sets in 7 hours after rubbing the ointment into the wrists; your metabolism is a bit faster, so perhaps the effect will kick in at 6:30 or 6 hours. As for the DOSE — I grind it perfectly (so that there are no visually noticeable solid particles at all); if you grind it carelessly, you'll need a much larger dose (because a lot of the product will just be useless big chunks of leaf on your hand). If you grind it completely, most likely the dose will be around 7 cm² of dried leaves.
 
-➡️ Пока не зима: советую найти «ЧЕРНОКОРЕНЬ ЛЕКАРСТВЕННЫЙ». Это ближайший родственник синяка с практически точно тем же химсоставом. В 2023 году я его сфоткал на одной из местных гор; тогда у меня под рукой был лишь поганый мобильник, и качество фото поршивое, но понять можно (см.): это относительно рослый травянистый куст, очень по типажу напоминающий белену, с мелкими цветками тёмного марганцовочного цвета.
+➡️ While it isn't winter yet: I recommend finding "MEDICINAL BLACKROOT". It's the closest relative of comfrey, with almost exactly the same chemical composition. In 2023 I photographed it on one of the local mountains; back then all I had was a lousy mobile phone and the photo quality was crummy, but you can make it out (see): it's a fairly tall herbaceous bush, very much like henbane in type, with small flowers of a dark permanganate-purple color.
 -
-Там все равно шла реакция не смотря на пассивацию, в первую очередь кристаллы реагировали с водой, тк сольвант вода и все же вода часть перевела в растворе. В эту бутылку сложно было попасть раствору меди, но в теории могла. Возможно, но там уже бассейн зелёного оттенка и оранжевого. То есть сильно испачкалось и хромата почти нет. Вот, я ещё достал с раствора бутылку показать. Они даже блики давали у меня, а когда пролил воду на бумажку, то всё в кашу превратилось, я думал в микроволновке попробовать высушить, но по итогу выкинул. Хм а как проверить на кристалл 
-Просто при смешивание с водой оно стало может коллоидом я не уверен, но там правда аж от света блеск был, но не всех кусков. То есть часть просто комков с такими вот отдельно были/смеси порошка. А потом воду капнул и сломалось все
+The reaction still went on despite the passivation; first and foremost the crystals reacted with water, since water is the solvent and it did transfer part of it into solution. It would have been hard for the copper solution to get into this bottle, but in theory it could have. Maybe, but by then there was already a pool of green and orange hues. In other words, it got badly stained and there's almost no chromate left. Here, I even pulled the bottle out of the solution to show it. They even gave off glints for me, and when I spilled water onto a piece of paper, everything turned to mush; I thought about trying to dry it in the microwave, but in the end I threw it out. Hmm, how do you check whether it's a crystal
+Just mixing it with water turned it into something that may be a colloid, I'm not sure, but there really was a glint of light, though not on every piece. That is, some were just separate clumps like these / mixtures of powder. And then I dropped water on it and everything fell apart
 ...
-ответ:
-Про кристаллы и воду — у Вас ведь помимо осадка был раствор, в котором до чёрта ВОДОРАСТВОРИМЫХ хроматов было растворено. Когда Вы вынули из этого раствора бутыль — на ней при высыхании могли появиться блестящие кристаллики этих РАСТВОРИМЫХ хроматов (влага испарилась, и то, что было растворено, кристаллизовалось). Если Вы после этого обмыли сие водой — эти РАСТВОРИМЫЕ хроматы вновь растворились и смылись. А нерастворимый осадок у Вас выглядит абсолютно АМОРФНЫМ (при увеличении это тем более видно).
+answer:
+As for the crystals and the water — besides the precipitate, you also had a solution with a hell of a lot of WATER-SOLUBLE chromates dissolved in it. When you pulled the bottle out of that solution, shiny little crystals of those SOLUBLE chromates could have formed on it as it dried (the moisture evaporated, and what had been dissolved crystallized). If you then washed this with water — those SOLUBLE chromates dissolved again and were washed away. And your insoluble precipitate looks absolutely AMORPHOUS (under magnification it's all the more obvious).
 
-Про ширицу — да, это, похоже, действительно «щирица запрокинутая» («амарант колосистый»).
+As for the pigweed — yes, this really does seem to be "redroot pigweed" ("spiked amaranth").
 
-А реальный ХМЕЛЬ (лиана с характерными «шишечками») я категорически НЕ советую — я пробовал пить отвар его шишек, и это самая крутая «виагра» из всех растений, с которыми я сталкивался (как Вы знаете, я НЕ любитель оной темы; поэтому — НЕ рекомендую). Хмель рекламируют как седатив, снотворное и даже предупреждают, что он «угнетает» и портит размножалку; но в реальности всё наоборот.
+And real HOPS (a vine with characteristic "cones") I most definitely do NOT recommend — I tried drinking a decoction of its cones, and it's the strongest "Viagra" of all the plants I've ever come across (as you know, I'm NOT a fan of that subject; so — I do NOT recommend it). Hops are advertised as a sedative, a sleep aid, and people even warn that they "suppress" and ruin your ability to reproduce; but in reality it's the other way round.
 
-P.S. Всё подряд вкушать и курить — можно на крутой яд нарваться и в морг отправиться. Например, робиния («белая акация») содержит белковые яды (токсальбумины) типа рицина клещевины, вот, кликните:
+P.S. If you taste and smoke everything in sight, you can run into a powerful poison and end up in the morgue. For example, black locust ("false acacia") contains protein toxins (toxalbumins) like the ricin of the castor bean, here, click:
 http://www.cnshb.ru/AKDiL/0045/base/k0260060.shtm
-В морг от этого отправиться можно запросто. А если и не в морг, то тело повредить можно шикарно. Куча растений разжижают кровь, а есть и такие растения, которые устраивают мириады кровоизлияний по всему организму. Подобие многочисленных инсультов во всех органах. Я к тому, что сперва ОЧЕНЬ НАДЁЖНО определите, что за растение сорвали, и прочитайте про его воздействие на организм; а уж затем экспериментируйте.
-... (про растения дальше, дальше будет отдельная запись, возможно.)
+You can end up in the morgue from this just as easily. And if not in the morgue, you can do a splendid job of damaging your body. A whole bunch of plants thin the blood, and there are also plants that bring on myriads of hemorrhages throughout the body. Like numerous strokes in every organ. My point is: first identify VERY RELIABLY what plant you've picked and read about its effects on the body; and only then experiment.
+... (more about plants later; there will be a separate post, possibly.)
 ```
 
 # UDP
-Того, данный способ, налить реальный бассейн многолитровый и бутылки засунуть как бы работает, но не очень эффективно, получаются грязные аморфные кристаллы, особенно если перемешается. Способ с бутылкой более чистый и эффективный и меньше проблем потом избавиться от излишек.
+That said, this method — pouring a real multi-liter pool and sticking the bottles into it — does work, in a way, but it isn't very effective: you get dirty amorphous crystals, especially if things get stirred up. The bottle method is cleaner and more effective, and causes fewer problems when it comes to getting rid of the leftovers afterwards.

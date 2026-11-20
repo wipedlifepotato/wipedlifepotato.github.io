@@ -3,114 +3,114 @@ layout: text
 lang: en
 title: Obtaining silver chloride
 ---
-# Супер дисклеймер
-**Автор всё делал на свой страх и риск и публикует данный материал как личный опыт, отказывается нести риски за возможные травмы при повторение опытов. работа производилась в малых объемах. потеряно больше половины при очистке. это не является методичкой по растворению. лить кислоту надо в воду, а не наоборот из-за гидратации. понимая объемы и что кислота уже гидратирована это правило было нарушено в материале, но так делать нельзя. кислота может вскипеть. если дышать аммиаком, парами азотки можно получить оттек лёгких, ожоги. при дыхания аэрозолей хлорида аммония тоже можно получить ожог. статья является экспериментом; цель автора было разобраться наглядно в химизмах и дальше уже понимать, как можно работать с серебром; если и собираетесь использовать данный материал как гайд, то разберитесь хотя бы в базовой химии. изучите сначала риски и купите средства защиты. делайте в контролируемых условиях, под вытяжкой. автор же просто привык к рискам и уже работал и с аммиаком и вдыхал его в больших количествах. кто не знает, может быть шокирован и не знать что делать. кислотой можно покрасить свои легкие и кожу, это индикаторная реакция в химии. короче, этот дисклеймер для тех, кто потом может побежать делать иски на меня - ДАННЫЕ ЭКСПЕРИМЕНТЫ ОПАСНЫ БЕЗ ПОНИМАНИЯ. В СТАТЬЕ НАРУШЕНЫ СИЗ И ЦЕЛЬ БЫЛА НЕ ПОЛУЧИТЬ 100% ВЫХОД, А ПРОСТО РАЗОБРАТЬСЯ**
+# SUPER DISCLAIMER
+**The author did everything at their own risk and is publishing this material as personal experience, disclaiming any responsibility for injuries that may result from repeating the experiments. The work was done in small volumes. More than half was lost during purification. This is not a how-to guide for dissolution. You're supposed to pour acid into water, not the other way around, because of hydration. Understanding the volumes and that the acid was already hydrated, this rule was broken in the material here, but you must not do that. The acid can boil over. If you breathe ammonia or nitric acid vapor, you can get pulmonary edema and burns. Breathing ammonium chloride aerosols can also cause burns. This article is an experiment; the author's goal was to understand the chemistry visually and then figure out how to work with silver; if you do plan to use this material as a guide, at least learn basic chemistry first. Study the risks and buy protective gear first. Do it under controlled conditions, under a fume hood. The author is simply used to the risks and has already worked with ammonia and inhaled it in large amounts. Someone who doesn't know better may be shocked and not know what to do. Acid can dye your lungs and skin — that's an indicator reaction in chemistry. In short, this disclaimer is for those who might later run off and sue me — THESE EXPERIMENTS ARE DANGEROUS WITHOUT UNDERSTANDING. THE ARTICLE VIOLATES PPE RULES AND THE GOAL WAS NOT TO GET 100% YIELD, JUST TO FIGURE THINGS OUT**
 
-## ещё один дисклаймер
+## one more disclaimer
 
-То что выше <s>можно не вычитывать</s>, ну вы всё равно это читать не будете, то что снизу можно сразу с 2-ой части читать, кому нужен результат. 
+What's above <s>you can skip reading</s>, well, you're not going to read it anyway; what's below you can jump straight to Part 2 from, if all you need is the result. 
 
-# Растворение серебрянного украшения 925 пробы
+# Dissolving a piece of 925 sterling silver jewelry
 
 ![123](/experimets/Ag/ag925.jpg)
 
-Взял несколько миллитров азотной кислоты 65% и серебрянное украшение, кинул в раствор и закупорил пипетку обычной хлопковой ватой
+Took a few milliliters of 65% nitric acid and a silver piece of jewelry, tossed it into the solution and plugged the pipette with ordinary cotton wool
 
 ![beznagreva](/experimets/Ag/beznagreva65.jpg)
 
-Без нагрева реакция вообще не шла никак (пассивация)
+Without heating the reaction didn't proceed at all (passivation)
 
-При слабом нагреве идет образование окислов и всё же реакция идет, но всё ещё слабо
+With gentle heating oxides start forming and the reaction does proceed after all, but still weakly
 
 ![beznagreva](/experimets/Ag/poslenargevaslabogo.jpg)
 
 
-В сильном нагреве ярко видно окислы азота
+With strong heating nitrogen oxides are clearly visible
 
 ![vnagreve](/experimets/Ag/vnagreve.jpg)
 
-Разбавил раствор и засунул в тепло, реакция пошла лучше
+Diluted the solution and put it somewhere warm, the reaction went better
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Ag/rastvorenijevrazbavlenom.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-# udp Методика Авакяна по получению серебра из зеркал
+# udp Avakyan's method for obtaining silver from mirrors
 
 ```
- 1). Ножом соскребаем покрытие с зеркал; получается порошок, содержащий серебро и примеси (краску, например).
+ 1). Scrape the coating off the mirrors with a knife; you get a powder containing silver and impurities (paint, for example).
 
-2). В фарфоровой миске растворяем много аммиачной селитры в акумуляторном электролите (концентрировать его НЕ нужно) и в этот раствор всыпаем полученный порошок с зеркал. При комнатной температуре реакция не начинается; греем электроплиткой до закипания азотной кислоты; реакция должна идти до полного прекращения выделения бурых клубов нитрозного газа. Появится немало белого осадка малорастворимого сульфата серебра.
+2). In a porcelain bowl dissolve plenty of ammonium nitrate in battery electrolyte (there is NO need to concentrate it) and pour the powder obtained from the mirrors into this solution. At room temperature the reaction doesn't start; heat it on an electric hotplate until the nitric acid boils; the reaction should continue until brown clouds of nitrous gas stop evolving completely. Quite a lot of a white precipitate of sparingly soluble silver sulfate will appear.
 
-3). Всыпаем питьевую соду до ПОЛНОГО прекращения выделения углекислого газа; этим мы нейтрализуем кислòты и превращаем сульфат серебра в тёмно–жёлтый осадок карбоната серебра. Он в воде нерастворим, и всё серебро оказывается в виде этого тёмно–жёлтого осадка.
+3). Add baking soda until carbon dioxide stops evolving COMPLETELY; this neutralizes the acids and converts the silver sulfate into a dark–yellow precipitate of silver carbonate. It's insoluble in water, so all the silver ends up in this dark–yellow precipitate.
 
-4). Вливаем (всё в этой фарфоровой миске) избыток нашатырного спирта. Он растворяет весь карбонат серебра с образованием тёмно–жёлтого (цвет мочи) прозрачного раствора карбоната диамминсеребра. Фильтруем этот раствор через бумажный фильтр (из двух слоёв туалетной бумаги).
+4). Pour in (still in the same porcelain bowl) an excess of ammonia solution. It dissolves all the silver carbonate, forming a transparent dark–yellow (urine-colored) solution of diamminesilver carbonate. Filter this solution through a paper filter (made of two layers of toilet paper).
 
-5). Полученный тёмно–жёлтый прозрачный раствор, выглядящий как моча, можно попросту выпарить (серебро в нём, как правило, оказывается ужè достаточно чистым). На продукт выпаривания нальём азотную кислоту, и получится у нас нитрат серебра (являющийся исходным реагентом для большинства нужных нам химсинтезов). А можно влить в этот раствор насыщенный водный раствор аскорбиновой кислоты, чтобы серебро выпало в виде металла. Но тут есть «НЮАНС»: если раствор с серебром слишком разбавленный, процесс выпадения серебра может растянуться на неделю: потемнение при вливании раствора аскорбиновой кислоты будет слабым, чёрным раствор станет лишь через сутки, а выпадет на дно серебро лишь за несколько дней.
+5). The resulting transparent dark–yellow solution, which looks like urine, can simply be evaporated (the silver in it usually turns out to be already pure enough). Pour nitric acid onto the evaporated product and we get silver nitrate (the starting reagent for most of the chemical syntheses we need). Or you can pour a saturated aqueous solution of ascorbic acid into this solution to make the silver precipitate as metal. But here's the «NUANCE»: if the silver solution is too dilute, the silver precipitation process can drag on for a week: the darkening when you pour in the ascorbic acid solution will be weak, the solution will only turn black after a day, and the silver will only settle to the bottom after several days.
 ```
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Ag/diamminesilver_sulphate_and_ascorbic_acid_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 
 
-# Далее
+# Next
 
-Пока серебро растворялось, мне отписал Авак
+While the silver was dissolving, Avak wrote to me
 
 ```
-Если у Вас появился нитрАТ серебра (если растворили серебро в азотной кислоте), — смешайте его крепкий водный раствор с насыщенным водным раствором нитрИТа натрия: выпадет нитрИТ серебра (выглядит эта реакция вот так):
+If you've ended up with silver nitrATE (if you dissolved silver in nitric acid), — mix its strong aqueous solution with a saturated aqueous solution of sodium nitrITE: silver nitrITE will precipitate (this reaction looks like this):
 https://www.youtube.com/watch?v=h07uf93Y0ng
 ```
 
-Но так вышло, что я передержал раствор на батарее и у меня получилось такое:
+But it turned out that I left the solution on the radiator too long and got this:
 
 ![AutoUparivanijeResult.jpg](/experimets/Ag/AutoUparivanijeResult.jpg)
 
-Как можно видеть, довольно много меди, очень много меди.
-Растворил данный осадок в воде. После чего прилил соляную кислоту и получил осадок хлорида серебра (сначала нужно было бы профильтровать, но что-то тупанул)
+As you can see, quite a lot of copper, a LOT of copper.
+Dissolved this precipitate in water. Then added hydrochloric acid and got a silver chloride precipitate (I should have filtered first, but I had a bit of a brainfart)
 
 ![chloridag](/experimets/Ag/ChloridSerebra1.jpg)
 ![chloridag](/experimets/Ag/ChloridSerebra2.jpg)
 ![chloridag](/experimets/Ag/ChloridSerebra3.jpg)
 ![chloridag](/experimets/Ag/ChloridSerebra4.jpg)
 
-Он получается довольно большим, скорее всего цепляет воду(?)
+It comes out pretty bulky, most likely it's grabbing water(?)
 
-# Растворение аммиаком
+# Dissolving in ammonia
 
-Дальше, понимая что мой хлорид довольно грязный, я его растворил аммиаком. Вот что осталось после растворения аммиаком (будьте осторожны при работе с аммиаком, может обжечь глаза, легкие и всё такое. Даже в респираторе и в очках. Лучше делать под вытяжкой или на открытом воздухе)
+Next, realizing that my chloride was rather dirty, I dissolved it in ammonia. Here's what was left after dissolving in ammonia (be careful working with ammonia, it can burn your eyes, lungs and all that. Even in a respirator and goggles. Best to do it under a fume hood or outdoors)
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Ag/DymachijsaAmmiak.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Остаток (это до фильтрации, после аммиака сразу. То есть белый тот аморфный осадок, который не сразу, но растворяется в аммиаке. Много не лейте, ему просто время нужно):
+The residue (this is before filtration, right after the ammonia. I mean that white amorphous precipitate that does dissolve in ammonia, just not right away. Don't pour too much, it just needs time):
 
 ![OstatokRastvoraNH3.jpg](/experimets/Ag/OstatokRastvoraNH3.jpg)
 
-После чего я профильтровал через туалетку и кстати так потерял наверное половину раствора. (скорее всего, не стоит делать 100 слоев бумаги; ну, я точно слоев так 10 сделал) Сам раствор стал синим, что можно увидеть на видео. Это медь.
+After that I filtered it through toilet paper and by the way probably lost half the solution that way. (most likely you shouldn't make 100 layers of paper; well, I definitely made about 10 layers) The solution itself turned blue, which you can see in the video. That's copper.
 
 ![FiltrovanijeCherezTualetku.jpg](/experimets/Ag/FiltrovanijeCherezTualetku.jpg)
 
 
-Окей, после чего на балконе (так как я устал ждать когда уже аммиак испарится весь) я добавил солянной кислоты в раствор
+Okay, after that out on the balcony (since I got tired of waiting for all the ammonia to evaporate) I added some hydrochloric acid to the solution
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Ag/OsahdenijeSKompleksaAmmiaka[Ag(NH3)2]Cl.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Ag/OsahdenijeSKompleksaAmmiaka[Ag(NH3)2]Cl_2.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Выпал осадок, причем в этот раз он получился более массивным (скорее всего, это больше хлорид аммония, а большая часть серебра вообще осталась в растворе):
+A precipitate formed, and this time it came out more massive (most likely it's more ammonium chloride, while most of the silver stayed in solution altogether):
 
 
 ![NH4ClAndAgCl.jpg](/experimets/Ag/NH4ClAndAgCl.jpg)
@@ -118,112 +118,112 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 ![PosleOsahdenijaNH4Cl.jpg](/experimets/Ag/PosleOsahdenijaNH4Cl.jpg)
 
 
-# Получение коллоидного хлорида серебра
+# Obtaining colloidal silver chloride
 
-Я сразу же прилил водички 250 мл... Получаем коллоид
+I immediately poured in 250 ml of water... and got a colloid
 
 ![ColloidSNH4Cl.jpg](/experimets/Ag/ColloidSNH4Cl.jpg)
 
 
-Седиментировать не хочет, более того фильтровать его через шприц с микрофиброй безтолковое занятие...
+It doesn't want to sediment, what's more, filtering it through a syringe with microfiber is a pointless exercise...
 
 ![FiltrovanijeCherezChpric.jpg](/experimets/Ag/FiltrovanijeCherezChpric.jpg)
 ![FiltrovanijeCherezChpricResult.jpg](/experimets/Ag/FiltrovanijeCherezChpricResult.jpg)
 
-Тогда я нагревал данный раствор импульсами в микроволновой печи и медленно у меня происходила коагуляция (кстати, хлорид аммония сам должен быть коагулянтом, но в данном случае он наоборот всё сделал)
+So I heated this solution in pulses in the microwave and it slowly coagulated (by the way, ammonium chloride itself is supposed to be a coagulant, but in this case it did the opposite)
 
-После нагрева происходит медленное осаждение
+After heating, slow sedimentation occurs
 
 ![Colloid.jpg](/experimets/Ag/Colloid.jpg)
 ![KolloidPosleNargeva.jpg](/experimets/Ag/KolloidPosleNargeva.jpg)
 
-После многократного нагрева (вплоть до кипения, в микроволновой печи вообще перегрев жидкости) у меня раствор стал почти что прозрачным и выпала большая часть. Наверное, если кипятить, то это ещё быстрее будет, но в микроволновой печи тоже норм (микроволновка не сгорела)
-Дальше я деконтацией откачал 250 мл, а после промывал 20мл где-то 3-4 раза и на последний раз залил 20мл и нагрел в микроволновке. После чего пока горячее откачал шприцом. Шприц хорошо высасывает маленькие объемы
+After repeated heating (up to boiling — in a microwave the liquid can even superheat) the solution became almost transparent and most of it precipitated. Probably boiling would be even faster, but the microwave is fine too (the microwave didn't burn out)
+Then I decanted 250 ml, then washed with 20 ml about 3-4 times and for the last round added 20 ml and heated it in the microwave. Then, while still hot, I drew it off with a syringe. A syringe sucks out small volumes well
 
 ![AgClPosleOchistki.jpg](/experimets/Ag/AgClPosleOchistki.jpg)
 
-И таким образом мы получили вот такие кристаллики
+And that's how we got these little crystals
 
 ![AgClResult.jpg](/experimets/Ag/AgClResult.jpg)
 ![AgClResult.jpg](/experimets/Ag/NaVesahAgClResult.jpg)
 
-# Сколько получилось?
+# How much did I get?
 
-Получилось 0.04 грамма примерно
+Got about 0.04 grams
 
-И остатки:
+And the leftovers:
 
 ![Ostatki.jpg](/experimets/Ag/Ostatki.jpg)
 
 
-## Можно ли лучше?
+## Can it be done better?
 
-Да, абсолютно можно! Например, если не про*ть раствор и сразу фильтровать полученную жижу, а только потом добавлять раствор той же поваренной соли. Сразу же нагревать что бы коагулировать всё и потом делать декантацию и немного прилевать воды для промыва. Ну, оно вместе с водой всё равно вытягивается в виде коллоида (я так думаю)
-А ещё можно попробовать растворять через электролиз. Я так пытался получить цитрат свинца и дальше его осадить соляной кислотой, но на практике оно сразу восстанавливается и вот так выглядит:
+Yes, absolutely! For example, if you don't f*ck up the solution and filter the resulting slurry right away, and only then add the same table salt solution. Heat it immediately to coagulate everything, then decant and add a little water for washing. Well, it still gets pulled out with the water as a colloid (I think so)
+You could also try dissolving by electrolysis. I tried that to get lead citrate and then precipitate it with hydrochloric acid, but in practice it reduces right away and looks like this:
 
 ![SvinecElectrolizSOlovom.jpg](/experimets/Ag/SvinecElectrolizSOlovom.jpg)
 
-То есть, так можно растворить сразу же в разбавленной азотке или даже в другой любой кислоте (главное что бы не было пассивация и эта соль бы растворялась. Наверное в лимонной кислоте электролиз будет идти с очень большими затратами. Нужно проверять) и получать на выходе готовые порошки серебра и меди. Ну и в растворе ещё будет нитрат меди и серебра. Порошки уж растворить будет в множество раз проще. Да и этот порошок чисто теоритечки можно потом растворить так, что бы растворилась медь, но серебро осталось в осадке. Например, соляная кислота с катализатором (окислителем). Все эти теории нужно проверять, ну а серебра не так много чистого. Хватит ли 0.04 г хлорида серебра для аналитики? Думаю, для маленьких экспериментов хватит. Но выход довольно низкий у меня вышел.
+That is, this way you can dissolve it right away in dilute nitric acid or even in any other acid (the main thing is that there's no passivation and that this salt dissolves. In citric acid, electrolysis will probably take a lot of energy. Need to test) and get ready-made silver and copper powders as the output. And the solution will also contain copper and silver nitrate. The powders will be many times easier to dissolve. And this powder, purely theoretically, could later be dissolved in such a way that the copper dissolves but the silver stays as a precipitate. For example, hydrochloric acid with a catalyst (oxidizer). All these theories need testing, and besides, there isn't that much pure silver. Will 0.04 g of silver chloride be enough for analytics? I think it's enough for small experiments. But my yield turned out pretty low.
 
 
 
-### Комментарий Авакяна
+### Avakyan's comment
 
 ```
-И Вам здравия!
+And good health to you!
 
-Прочитал всю Вашу страничку https://wipedlifepotato.github.io/experimentsrastvorenieag.html
+I read your whole page https://wipedlifepotato.github.io/experimentsrastvorenieag.html
 
-Во–первых, вот на этом фото:
+First of all, in this photo:
 https://wipedlifepotato.github.io/experimets/Ag/Ostatki.jpg
-— это у Вас, случайно, не РОДИЙ?! Эта блестящая «фольга», похожая на никель? Когда я растворял ювелирное серебряное изделие, у меня точно такая «фольга» осталась из РОДИЕВОГО ПОКРЫТИЯ. Очень надеюсь, что Вы сие НЕ выкинули!! К слову, Ваше ювелирное изделие визуально выглядит, как покрытое родием.
+— is that, by any chance, RHODIUM?! This shiny «foil» that looks like nickel? When I was dissolving a piece of silver jewelry, I had exactly this kind of «foil» left over from the RHODIUM COATING. I really hope you did NOT throw it away!! By the way, your piece of jewelry visually looks like it's coated with rhodium.
 
-Во–вторых, хлорид серебра в крепкой соляной кислоте немного растворим; и ИЗБЫТОК поваренной соли, как и хлорида аммония, повышают растворимость хлорида серебра за счёт образования комплексов: HAgCl2, NaAgCl2, NH4AgCl2. И, понятное дело, что нашатырный спирт идеально растворяет хлорид серебра.
+Secondly, silver chloride is slightly soluble in concentrated hydrochloric acid; and an EXCESS of table salt, as well as ammonium chloride, increase the solubility of silver chloride by forming complexes: HAgCl2, NaAgCl2, NH4AgCl2. And, needless to say, ammonia solution dissolves silver chloride perfectly.
 
-Далее. Вот ЭТО: https://wipedlifepotato.github.io/experimets/Ag/AutoUparivanijeResult.jpg
-— очень хороший продукт. Очистить от МЕДИ можно предельно просто: растворить в НЕБОЛЬШОМ количестве воды и добавить НЕМНОГО водного раствора поваренной соли (НЕ избыток!). ВСЁ серебро выпадет в виде белого осадка, а медь останется в растворе. Второй путь: растворив этот продукт (с Вашей фотографии) в НЕБОЛЬШОМ количестве воды, влить в него насыщенный водный раствор аскорбиновой кислоты: раствор сразу почернеет, и вскоре всё металлическое серебро выпадет в осадок (Вы видели это на моём видео). Аскорбиновая кислота отделит серебро от меди: медь останется в растворе.
+Next. THIS right here: https://wipedlifepotato.github.io/experimets/Ag/AutoUparivanijeResult.jpg
+— a very good product. It's extremely simple to clean it of COPPER: dissolve it in a SMALL amount of water and add A LITTLE aqueous table salt solution (NOT an excess!). ALL the silver will precipitate as a white solid, while the copper stays in solution. Second route: having dissolved this product (from your photo) in a SMALL amount of water, pour a saturated aqueous solution of ascorbic acid into it: the solution will turn black immediately, and soon all the metallic silver will precipitate (you saw this in my video). Ascorbic acid will separate the silver from the copper: the copper stays in solution.
 ...
-Про РОДИЙ — да, он азотной кислоте «не по зубам». 🙂 Именно поэтому когда я сунул серебряное украшение из ювелирного магазина в азотную кислоту, реакция НЕ пошлà. Лишь когда я нагрел пробирку, и кислота начала кипеть, — она нашла ТРЕЩИНКИ в родиевом покрытии, влезла в них. И — пошли струйки пузырьков из этих мест. А затем кислота выела всё серебро с медью, оставив родиевое покрытие в виде ТОЧНО ТАКИХ как у Вас лохмотьев «фольги». То есть родий не «отклеивается»/«плавится», а просто в покрытии имеются микротрещинки.
+About RHODIUM — yes, nitric acid can't get its teeth into it at all. 🙂 That's why when I dropped a silver piece of jewelry from a jewelry store into nitric acid, the reaction did NOT start. Only when I heated the test tube and the acid began to boil did it find CRACKS in the rhodium coating and get into them. And — little streams of bubbles started coming from those spots. Then the acid ate away all the silver and copper, leaving the rhodium coating in the form of EXACTLY THE SAME «foil» rags as yours. That is, rhodium doesn't «peel off»/«melt», it's just that the coating has microcracks.
 
-Помимо ЯВНЫХ потерь серебра, связанных с нашатырным спиртом и комплексами, — Вы фильтры делаете ОГРОМНЫЕ из МНОЖЕСТВА слоёв промокательной бумаги. В таком фильтре чуть ли не полстакана раствора остаётся (впитанного в фильтр). Именно поэтому я пытаюсь и фильтры делать поменьше, и слоёв бумаги меньше, а иногда применяю «ухищрения» вроде шприца с ваткой в носике, — чтобы МИНИМУМ раствора терялось. Осадки тоже к бумаге «приставать» умеют — это опять же ПОТЕРИ.
+On top of the CLEAR silver losses associated with ammonia solution and complexes, you make HUGE filters out of MANY layers of blotting paper. Such a filter holds back nearly half a glass of solution (soaked into the filter). That's exactly why I try to make the filters smaller too, and use fewer layers of paper, and sometimes resort to «tricks» like a syringe with a bit of cotton in the tip — so that a MINIMUM of solution is lost. Precipitates also know how to «stick» to the paper — that's losses again.
 
-Вкушать соединения серебра и золота БЕЗ чёткой медицинской причины, мягко говоря, НЕ советую. Ядовиты они, накапливаться умеют, «долгоиграющие» пакости в организме умеют делать.
+I would NOT advise consuming silver and gold compounds WITHOUT a clear medical reason, to put it mildly. They're toxic, they can accumulate, and they can do «long-playing» mischief in the body.
 ```
 
-# 2 Часть, попытка 2
+# Part 2, attempt 2
 
-Прилил азотную кислоту, 65%. Чуть больше в переизбытке. Где-то на четверть больше объема самой цепочки 1.7 грамм. 
-Положил в водяную баню 100С. Резко пошла реакция и сначала была слабая, но резко начали выделятся NO/NO2. Вату выбило и вытащил с кипятка на воздух
+Poured in nitric acid, 65%. Slightly more than needed, in excess. About a quarter more than the volume of the chain itself, 1.7 grams. 
+Put it in a 100C water bath. The reaction took off sharply; at first it was weak, but then NO/NO2 started evolving rapidly. The cotton wool got blown out and I pulled it out of the boiling water into the air
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Ag/2/rastvorenije.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Можно предположить, что так как был сильный нагрев было и разложение азотной кислоты
-То есть кроме реакции HNO3 + Ag => AgNO3 + HOH + NO (без учетов индексов и стехиометрии), ещё шла и реакция HNO3 + t -> HOH + NO2 + O2 (без учетов стехиометрии и индексов)
-Ну и так как была медь ещё шла реакция с медью Cu + HNO3 => Cu(NO3)2 + HOH + NO2. Но мне кажется, от такого нагрева просто шло и O2 и NO и NO2. Это всё условно на практике мне кажется.
-Так вот, У меня получился сильный осадок (перенасыщенный раствор)
+One can assume that since there was strong heating, the nitric acid also decomposed
+That is, besides the reaction HNO3 + Ag => AgNO3 + HOH + NO (without accounting for coefficients and stoichiometry), the reaction HNO3 + t -> HOH + NO2 + O2 also took place (without accounting for stoichiometry and coefficients)
+And since there was copper, the reaction with copper also went: Cu + HNO3 => Cu(NO3)2 + HOH + NO2. But I think that with that kind of heating it simply produced O2 as well as NO and NO2. This is all approximate, in practice I think so.
+So, I ended up with a heavy precipitate (a supersaturated solution)
 
-(Да, если работать без перчаток и без вытяжки, то можно покрасить себе пальцы, легкие. Немного даже от самого газа покрасилась кожа. Пронитровалась. Может даже вата пронитровалась, так алканы нитруют радикальной атакой. UDP. Проверил, поднес огонь от зажигалки к вате, она вспыхнула и хорошо горела. Остальная часть не вспыхивает при поднесении зажигалки. Жаль не заснял)
+(Yes, if you work without gloves and without a fume hood, you can dye your fingers and lungs. The skin got a bit dyed even from the gas itself. It got nitrated. Maybe the cotton wool got nitrated too, since alkanes are nitrated by radical attack. UDP. I checked — held a lighter flame to the cotton, it caught fire and burned well. The rest doesn't ignite when you bring a lighter to it. Too bad I didn't film it)
 
 ![rastvorenijeresult.jpg](/experimets/Ag/2/rastvorenijeresult.jpg)
 
-Профильтров и получил осадок не растворившегося
+Filtered it and got a precipitate of undissolved material
 
 ![osadok.jpg](/experimets/Ag/2/osadok.jpg)
 
 ![vkipatke.jpg](/experimets/Ag/2/vkipatke.jpg)
 
 
-Приливал по чуть-чуть раствор поваренной соли в кипятке, в переизбытке (где-то 2 ложки) пока не стал не выделяться осадок. Потом проверил оставшуюся жижу синию - там нет осадка если прибавлять.
+Added table salt solution little by little to the boiling water, in excess (about 2 spoonfuls), until the precipitate stopped coming out. Then I checked the remaining blue slurry — no precipitate forms if you add more.
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Ag/2/chloridnatriaandnitrateag.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Отлил жижу получил хлорид серебра, сушил в микроволновке, но из-за странного звука пошёл другим путем и засунул в зиплок, и выдавливал жидкость, а потом отливал. По итогу открытый зиплок оставил в темном месте что бы сушился
+Poured off the liquid and got silver chloride, dried it in the microwave, but because of a strange sound I went another route and stuck it in a ziplock, squeezed out the liquid, and then poured it off. In the end I left the open ziplock in a dark place to dry
 
 
 ![agcl.jpg](/experimets/Ag/2/agcl.jpg)
@@ -231,60 +231,60 @@ https://wipedlifepotato.github.io/experimets/Ag/Ostatki.jpg
 ![svodojves.jpg](/experimets/Ag/2/svodojves.jpg)
 ![vidavlivaemvoduvziplock.jpg](/experimets/Ag/2/vidavlivaemvoduvziplock.jpg)
 
-Как итог, предварительный вес: (тут что-то большой вес. Ну большая часть веса это наверное сам пакетик. Где-то 2 грамма должно быть)
+As a result, preliminary weight: (the weight seems too high here. Well, most of the weight is probably the bag itself. Should be around 2 grams)
 ![predvaritelnijves.jpg](/experimets/Ag/2/predvaritelnijves.jpg)
 
 ```
 Ag+HONO2 => AgONO2 + NO + HOH
-всего кислородов 3 на 5; и азотов 1 на 2; и на 1 водород приходится 2 водорода
+total oxygens 3 to 5; and nitrogens 1 to 2; and for 1 hydrogen there are 2 hydrogens
 
-Тогда как минимум 2 азотной кислоты нужно
-подставляем
+So at least 2 nitric acids are needed
+substitute
 Ag+2HONO2 => AgONO2 + NO + HOH
-5 получается кислородов на 6
-Попробуем умножить на 2
+we get 5 oxygens to 6
+Let's try multiplying by 2
 Ag+4HONO2 => AgONO2 + NO + HOH
 4*3 = 12
-получается у нас кислород уже делится на 6 и всего у нас 6 кислородов
-Попробуем вот эту 3 и подставить к AgONO2
+now our oxygen divides by 6 and we have 6 oxygens in total
+Let's try substituting this 3 into AgONO2
 3Ag+4HONO2 => 3AgONO2 + NO + HOH
-12 кислородов на 9 и остается 1 на NO, тк 1 азот и ещё у нас водородов теперь 4 тогда на 2 воду нужно умножить
-и тогда выходит
+12 oxygens to 9 and 1 left for NO, since 1 nitrogen, and now we have 4 hydrogens, so we need to multiply water by 2
+and then it comes out
 3Ag+4HONO2 => 3AgONO2 + NO + 2HOH
-Ну мне кажется, это всё условно и там ещё NO2 да и в целом нам считать не нужно окислы азота, они нам не нужны и воду не нужно и кислород тут не нужно считать. Да и в конц явно NO2 будет
-тогда 
+Well, I think it's all approximate and there's NO2 as well, and overall we don't need to count nitrogen oxides — we don't need them, and we don't need water either, and no need to count oxygen here. And in the end it's clearly going to be NO2
+then 
 M(Ag) ~ 107
 M(AgNO3) ~ 169
-Тогда
+Then
 1.7/107 = 0.01588785046728972
 0.01588785046728972 * 169 = 2.6850467289719626
-Тогда у нас было примерно 2.686 гр нитрата серебра
+Then we had approximately 2.686 g of silver nitrate
 
-AgNO3 + NaCl => AgCl(осадок) + NaNO3
+AgNO3 + NaCl => AgCl(precipitate) + NaNO3
 M(AgNO3) ~ 169
 M(NaCl) ~ 58
 M(NaNO3) ~ 84
 M(AgCl) ~ 143
 
-2.686 / 169 = 0.015893491124260355 ( для расчетов, можно было дальше 1.7/107 использовать, это уже перерасчет )
-0.015893491124260355 * 58 = 0.9218224852071005 (NaCl что понадобился)
+2.686 / 169 = 0.015893491124260355 ( for calculations, we could have kept using 1.7/107, this is already a recalculation )
+0.015893491124260355 * 58 = 0.9218224852071005 (the NaCl that was needed)
 0.015893491124260355 * 143 = 2.2727692307692307
-То есть, в целом должно было поулчиться 2 грамма с копейками. Пакетик весит где-то 0.64 грамма. А вес 3.30 
+That is, overall it should have come out to 2 grams and change. The bag weighs about 0.64 grams. And the weight is 3.30 
 3.30 - 0.64 ~ 2.6599999999999997
-Ну где-то так и выходит и ещё с учетом того что там чуть-чуть миллиграмм уже было
-Но, так как у нас было 0.925 пробы, то 0.925 * 1.7 = 1.5725 
-~ 2.1015654205607475 столько грамм хлорида серебра должно быть. То есть, Где-то ещё 0.5 грамм воды может. Ну или вообще нужно высыпать с зиплока и на таре нормально измерить и не гадать просто напросто. Ну из всех расчетов, 2 грамма точно имеем.
-Как видим, подставлять индексы для расчетов грамм-моли - излишняя трата времени. Быстрее и проще считается соотношением, чем сидеть ещё формулы высчитывать. Ведь, на практике вообще в той же органике эти индексы вообще не используют. Просто потому-что реакция может идти множество разными путями. Берут в переизбытке то, что нужно, что бы получилось нужное. например если в переизбытке спирта нагревать серную кислоту (этиловый спирт), то будет эфир, А если в переизбытки кислоты, то будет этилен. Что бы понимать почему так, то нужно изучить химизм реакций. То есть, все эти расчеты как мы можем видеть на бумаге красивы, на практике многое не учитывается и даже в неорганике, где реакция должна идти практически по одному пути - есть разницы в процентах получения, а при очистке так вообще можно всё утерять.
+Well, that's about how it works out, and also taking into account that there were a few milligrams already there
+But, since we had 0.925 sterling, 0.925 * 1.7 = 1.5725 
+~ 2.1015654205607475 that's how many grams of silver chloride there should be. That is, maybe another 0.5 grams of water somewhere. Or better yet, just dump it out of the ziplock and weigh it properly on a plate instead of guessing altogether. Well, from all the calculations, we definitely have 2 grams.
+As we can see, plugging coefficients into gram-mole calculations is a waste of time. It's faster and easier to calculate by ratio than to sit around working out formulas. After all, in practice, even in organic chemistry, these coefficients aren't used at all. Simply because a reaction can go many different ways. They take an excess of what's needed in order to get the desired result. For example, if you heat sulfuric acid with an excess of alcohol (ethanol), you get an ether, but if the acid is in excess, you get ethylene. To understand why that is, you need to study the chemistry of the reactions. That is, all these calculations, as we can see, look nice on paper, but in practice a lot isn't taken into account, and even in inorganic chemistry, where the reaction should proceed essentially one way — there are differences in percentage yield, and during purification you can lose everything altogether.
 ```
 
-# Что дальше?
+# What next?
 
-Дальше мне нужен оксид серебра, как и медь оно выпадает в переизбытке щелочи. Дальше можно будет цеплять в осадок почти любые кислоты, что дают растворимые соли и дальше восстанавливать той же аскорбинкой (альдегидами/сахарами) или использовать для других целей получая другие соли серебра. Если таким образом вы хотите получить чистое серебро на перепродажу, то будьте осторожны, могут быть проблемы по супер-крутым правилам. Очень уж важным, из-за которых серебро, цена которому 56 рублей продают по 350р, так ещё и грязное. Мне именно нужен оксид серебра, для дальнейших всевозможных опытов. В той же самой органической химии (в будущем)
+Next I need silver oxide; like copper, it precipitates in an excess of alkali. Then you can precipitate almost any acids that give soluble salts, and then reduce them with the same ascorbic acid (aldehydes/sugars) or use them for other purposes, obtaining other silver salts. If you're trying to get pure silver this way for resale, be careful — there could be problems under the super-tough rules. They're terribly important — the ones because of which silver worth 56 rubles is sold for 350 rubles and is dirty on top of that. I specifically need silver oxide, for all sorts of further experiments. In organic chemistry too (in the future)
 
-## Это законо?
+## Is it legal?
 
-Да, из учета закона ФЗ, растворение своего собственного имущественного серебра является абсолютно законным для исследовательских/научных целей
+Yes, under federal law, dissolving silver that is your own property is absolutely legal for research/scientific purposes
 
 ### P.S
-На саму операцию ушло (во второй части), примерно, час. Вместо специальной фильтровальной бумаги, которую продают по жлобской цене использовалась туалетная бумага из 2 квадратных кусочков. Хорошая, мягкая туалетная бумага, не твердая! Предыдущая часть была экспериментальной для понимания всех механизмов в живую, правда на этот раз, уже в переизбытке азотной кислоты и большом весе реакция пошла ОЧЕНЬ БУРНО. Будьте осторожны при больших весах, не пронитруйтесь. 
-А так-же, я промывал водой 15-20 мл (уже 1 раз, так как раствор воды не менял цвета, то значит большая часть меди ещё при слитии ушла. Ну и когда выдавливал воду в зиплоке, вода была прозрачная, медь практически ушла и промывать компульсивно там не так уж сильно и нужно. Достаточно в первый раз слить большую часть меди в виде нитрата. Оно же растворимо! А второй и 3 раз, я думаю уже достаточно и меньше будет потерь в виде ухода осадка в виде коллоида. Единственный сложный реактив в этом пути азотная кислота, но она сейчас в свободной продаже. Ну на крайняк можете получить с помощью банки и источника "искристого" тока. То есть ионизацией воздуа. То есть, прямо из воздуха можно делать азотную кислоту, ничего там перегонять не обязательно. (это на случай если очень сверхумы решат всё запретить, держите на заметке)
+The whole operation took (in part two) about an hour. Instead of special filter paper, which they sell at a stingy price, I used toilet paper made of 2 square pieces. Good, soft toilet paper, not hard! The previous part was experimental, to understand all the mechanisms live, but this time, with an excess of nitric acid and a large mass, the reaction went VERY VIGOROUSLY. Be careful with large masses, don't get nitrated. 
+Also, I washed with 15-20 ml of water (only once already, since the water didn't change color, which means most of the copper left with the pouring-off. And when I squeezed the water out in the ziplock, the water was clear, the copper had practically gone, so there's no real need to wash compulsively. It's enough to pour off most of the copper as nitrate the first time. It's soluble, after all! And the second and third times, I think, are enough already, and there will be fewer losses from the precipitate going off as a colloid. The only difficult reagent in this route is nitric acid, but it's freely sold these days. Worst case, you can get it using a jar and a source of "sparky" current. That is, by ionization of air. That is, you can make nitric acid straight from air, no need to distill anything. (just in case the big brains upstairs decide to ban everything, keep that in mind)

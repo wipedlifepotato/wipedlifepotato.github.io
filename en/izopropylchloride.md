@@ -3,216 +3,216 @@ layout: text
 lang: en
 title: Attempt to obtain isopropyl chloride, part 1
 ---
-Сделал 3 пробирки, 1 пробирку с соляной кислотой для анализа. Вторую изопропиловый спирт в следах основной соли меди и соляная кислота. 3 переизбыток соляной кислоты и изопропиловый спирт.
-Сама реакция примерно такая:
+I made 3 test tubes, 1 test tube with hydrochloric acid for analysis. The second one: isopropyl alcohol with traces of a basic copper salt and hydrochloric acid. The 3rd: an excess of hydrochloric acid and isopropyl alcohol.
+The reaction itself is roughly like this:
 ```
-Где HOH+ пытаюсь показать оксоний-ион. Где R+ пытаюсь показать карбакатион. В последнем обратимость реакции по Sn2 механизму, который в целом может в теории идти и по Sn1 (по некоторым источникам) [ зависит от галлогеналкана, первичный/вторичный/третичный, а так же растворителя. У В первом случае углерод замещенный имеет разную электроотрицательность, во втором механизм может идти по протонированию и без протонирования, как я понял. ]
+Here HOH+ is my attempt to show the oxonium ion. Here R+ is my attempt to show the carbocation. In the last one the reversibility of the reaction via the Sn2 mechanism, which in general could in theory also go by Sn1 (according to some sources) [ it depends on the haloalkane, primary/secondary/tertiary, as well as the solvent. In the first case the substituted carbon has a different electronegativity, in the second the mechanism can go with protonation or without protonation, as I understood it. ]
 R-OH + (H+) <=> R-(HOH+); R+ + HOH; R+ + Cl- => RCl; 
 RCl + OH => ROH + Cl-
 
-Мог что-то напутать, более подробно и точно про реакцию можно изучить в учебниках по органической химии
+I may have mixed something up; you can study the reaction in more detail and more accurately in organic chemistry textbooks
 ```
-Это нуклеофильная атака, сначала протонирование, а потом отцепление группы и присоединение к карбакатиону. Это Sn1 механизм.
-Стоит учитывать, что из источников, первичные даже с кислотой льюиса ZnCl2 не дают реакции. Только с помощью серной кислоты и сильного нагрева. Скорее всего, требуется то, что смещает реакцию и удаляет воду, либо сильный протонирующий агент. Исходя из того, что ZnCl2 нужен как катализатор, а зная, что хлороводород сложно вступает в реакцию, йодоводород легко, а бромоводород сложнее. Фтороводород вообще не вступает. Что первичный сложнее, вторичный проще и третичный ещё проще (из-за атома углерода, где OH группа. У них разная электроотрицательность). То я предположил, что если взять в переизбытке соляную кислоту и спирт, вторичный, то подождав какое-то время или нагрев я получу галлогеналкил.
+This is a nucleophilic attack: first protonation, then cleavage of the group and attachment to the carbocation. This is the Sn1 mechanism.
+It's worth noting that, from what the sources say, primary ones don't react even with the Lewis acid ZnCl2. Only with sulfuric acid and strong heating. Most likely what's needed is something that shifts the reaction and removes water, or a strong protonating agent. Given that ZnCl2 is needed as a catalyst, and knowing that hydrogen chloride reacts with difficulty, hydrogen iodide reacts easily and hydrogen bromide with more difficulty. Hydrogen fluoride doesn't react at all. That primary is harder, secondary easier and tertiary easier still (because of the carbon atom where the OH group is. They have different electronegativities). So I assumed that if I take an excess of hydrochloric acid and a secondary alcohol, then after waiting a while or heating I'll get a haloalkane.
 [reaction](https://orgchem.ru/chem4/o252_1.htm)
 
-Вот пробирка с соляной кислотой и изопропиловым спиртом:
+Here's the test tube with hydrochloric acid and isopropyl alcohol:
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Alkylhallogenidfromspirit/hclandizopropylspirit_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 
-Вот пробирка с соляной кислотой и изопропиловым спиртом, солью меди:
+Here's the test tube with hydrochloric acid and isopropyl alcohol, with copper salt:
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Alkylhallogenidfromspirit/withcupper_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 ![gazyhclizopropyl.jpg](/experimets/Alkylhallogenidfromspirit/gazyhclizopropyl.jpg)
 
 
-В обычной соляной кислоте, даже если её сувать в кипяток (пробирку) газы не выделяются. Природу газа нужно ещё проверить, но он выделяется. В определенный момент, после долгой реакции газ перестает выделяться даже после нагрева. После чего я оставил пробирку просто на время. 
+In ordinary hydrochloric acid, even if you shove the test tube into boiling water, no gases are released. The nature of the gas still needs checking, but it is released. At a certain point, after a long reaction, the gas stops being released even after heating. After that I just left the test tube for a while. 
 
-Имеется какой-то слой, но примерный слой есть и в соляной кислоте у меня. Наверное, от очень долгого хранения в пластике.
+There's some kind of layer, though I have a roughly similar layer in the hydrochloric acid as well. Probably from being stored in plastic for a very long time.
 
-Слой после реакции изопропилового спирта и кислоты соляной:
+The layer after the reaction of isopropyl alcohol and hydrochloric acid:
 
 ![layer.jpg](/experimets/Alkylhallogenidfromspirit/layer.jpg)
 
-Попробовал заморозить пробирку в морозилке 20 минут, после чего достал и открыл вату. Вата посыпалась, значит либо гидролизовалась, либо к сахару, а это спирты и альдегиды одновременно, прореагировало. Пробовал растворять, получается коллоидный раствор. Скорее всего, разрушается полимерная цепочка.
+I tried freezing the test tube in the freezer for 20 minutes, then took it out and opened the cotton wool. The cotton wool crumbled, meaning it either hydrolyzed or reacted with sugar — that is, with alcohols and aldehydes at the same time. I tried dissolving it; it forms a colloidal solution. Most likely the polymer chain is breaking down.
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/Alkylhallogenidfromspirit/vataposlehcl_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Сверил слои, слой в пробирке с изопропиловым спиртом и соляной кислотой дает прозрачный, а не желтый слой, который под наглоном не сливается. Соляной же кислоте этот слой сливается
+I compared the layers: the layer in the test tube with isopropyl alcohol and hydrochloric acid is transparent, not the yellow layer that doesn't pour off when tilted. But with hydrochloric acid this layer pours off
 
 ![itog1day.jpg](/experimets/Alkylhallogenidfromspirit/itog1day.jpg)
 
-Запах слабо сладковатый, может кажется, нужно больше проверок.
+The smell is faintly sweetish, maybe it just seems that way, need more checks.
 
-## попытка 2
+## attempt 2
 
-В планах было залить соляную кислоту и отделить тот слой, но прилив 25 мл примерно у меня слоя не оказалось (возможно, я по запарке и туда влил изопропиловый спирт или это загрязнение видно только при малых объемах. Либо это загрязнение было слито при первом слитии. Либо ещё куча вариантов, вплоть до того что микроскопические примеси на пробирке такое дали, что конечно же гонево.)
+The plan was to pour in hydrochloric acid and separate that layer, but after adding about 25 ml I didn't have a layer (maybe I was flustered and poured in isopropyl alcohol too, or this contamination shows only at small volumes. Or this contamination got poured off with the first decanting. Or there are a whole bunch of other options, right down to microscopic impurities on the test tube giving it, which is of course total BS.)
 
-Соляная кислота:
+Hydrochloric acid:
 
 ![hcl](/experimets/Alkylhallogenidfromspirit/hcl.jpg)
 
-Плюс спирт:
+Plus alcohol:
 
 ![hclspirit](/experimets/Alkylhallogenidfromspirit/hclspirit.jpg)
 
-Пробовал греть, закрыв стаканчик стаканчиком бумажным, но не смотря на вытяжку чувствуется толи запах спирта, толи неясно чего. В комнате всё же и при нагревании напоминало что-то сладкое, но мог спутать с изопропиловым спиртом
-Выключив нагрев оставил на балконе, получился слой
+I tried heating it, covering the little cup with a paper cup, but even with the fume hood you can feel either the smell of alcohol or of something unclear. In the room, though, when heated it reminded me of something sweet, but I could have confused it with isopropyl alcohol
+Turned off the heat and left it on the balcony; a layer formed
 
 ![layer](/experimets/Alkylhallogenidfromspirit/2.jpg)
 
-К этому слою я прилил ещё соляной кислоты, слой так же был и даже вроде увеличился. Прилил ещё изопропилового спирта - слой уменьшился. Как вариант, изопропиловый спирт очень хорошо это всё растворяет в себе и что бы отделить нужно разбавлять водой, в которой уже что-то растворенно, что бы уменьшать растворимость и отделять слои
+I poured more hydrochloric acid into this layer; the layer was still there and even seemed to grow. I poured in more isopropyl alcohol — the layer shrank. One possibility: isopropyl alcohol dissolves all this very well in itself, and to separate it you need to dilute it with water that already has something dissolved in it, to lower the solubility and separate the layers
 
-Попробовал добавить водный хлорид железа в следовых количествах и оставить на несколько часов. Слой, кстати, вроде увеличился и уже при нагревании не появляется пузырьков так интенсивно, зато видно как появляются шарики что резко вверх идут.
-Наверное, без хлорида цинка или подобной соли это очень плохая затея и стоит всё же достать хлорид цинка, ибо сама по себе соляная кислота даже по литературе, по Тейлору очень плохо вступает в реакцию эту. Да и сама -OH группа плохо замещается, только при протонировании становится основанием сильной кислоты H3O+.
+I tried adding aqueous iron chloride in trace amounts and leaving it for several hours. The layer, by the way, seemed to grow, and when heated bubbles no longer appear so intensively; instead you can see little balls shooting sharply upward.
+Probably without zinc chloride or a similar salt this is a very bad idea and I really should get hold of zinc chloride, because hydrochloric acid on its own, even according to the literature, according to Taylor, enters this reaction very poorly. And the -OH group itself is hard to substitute; only when protonated does it become the base of a strong acid, H3O+.
 
-С солянокислым железом
+With the hydrochloric iron solution
 ![WithFeCl3](/experimets/Alkylhallogenidfromspirit/WithFeCL3.jpg)
 
-Факт - слой появляется, но он может быть и вызван загрязнением соляной кислоты. Может лучше попробовать получить изопропилбромид. Буду думать со следующей зарплаты
-Если взять этот слой и сверить с свежей соляной кислотой, то слой где соляная кислота в таком размере отсутствует или почти не видно, наверное то что кажется слоем вообще приломление света. А вот в правой пробирке, где предположительно изопропил2хлорид как раз есть слой явно выраженный. Тогда в первый раз, не исключено, что сам прилил изопропиловый спирт и забыл. В любом случае, какая разница, если не возобновляется слой с просто приливанием соляной кислоты
+Fact: a layer appears, but it may be caused by contamination of the hydrochloric acid. Maybe it'd be better to try to get isopropyl bromide. I'll think about it after my next paycheck
+If you take this layer and compare it with fresh hydrochloric acid, the layer where the hydrochloric acid is simply isn't there at that size, or is barely visible — probably what seems like a layer is just refraction of light. But in the right-hand test tube, where presumably isopropyl 2-chloride is, there is a clearly pronounced layer. Then the first time, it's quite possible I poured in isopropyl alcohol myself and forgot. In any case, what difference does it make if the layer doesn't reappear just from adding hydrochloric acid
 
-![слой](/experimets/Alkylhallogenidfromspirit/sravnenijesloja.jpg)
+![layer](/experimets/Alkylhallogenidfromspirit/sravnenijesloja.jpg)
 
 
-На балконе, тот слой после FeCl3 уменьшается, не увеличивается. Значит если это и полученный алкилгаллогенид, то он испаряется очень легко и даже на холоде. И тогда реакция на холоде не идет. Тогда если и нужно получать, то в закрытом сосуде, но никак не в открытом. Оно банально улетучивается. Кстати, ощущается легкая слабость. То ли из-за изопропилхлорида, толи из-за изопропилового спирта. Перенес смесь в банку, закрытый сосуд. Если реакция не пойдет, то всё что могло прореагировало. Оставлю на день или больше.
+On the balcony that layer after FeCl3 shrinks, doesn't grow. So if this is an alkyl halide at all, it evaporates very easily, even in the cold. And then the reaction doesn't go in the cold. So if it needs to be obtained at all, then in a closed vessel, definitely not an open one. It simply evaporates away. By the way, I feel a slight weakness. Whether that's from isopropyl chloride or from isopropyl alcohol. I moved the mixture into a jar, a closed vessel. If the reaction doesn't go, then everything that could react has reacted. I'll leave it for a day or more.
 
-UDP. Кажется, слой так-же появляется и при действии соляной кислоты на вату, в закрытой системе, через какое-то время.
+UDP. It seems the layer also appears when hydrochloric acid acts on cotton wool, in a closed system, after some time.
 
-# Проверка этилового спирта 99% и бромида натрия
+# Testing 99% ethyl alcohol and sodium bromide
 
-Взял бромид натрия, на краю ложки чайной. Засыпал в пробирку в раствор серной кислоты, примерно 40%. Кстати, газ выделяться начал уже при прибавление спирта к раствору серной кислоты.
-При прибавление появлялось розоватое свечение, плюс желтый слой и желтел раствор. это окисление бромоводорода до брома. С ортофосфорной 85% я такого не заметил. В обоих случаях появляется вверхний слой. В случае с серной кислотой, скорее всего это эфир диэтиловый.
-В случае с ортофосфорной кислотой 85% это уже этилбромид или этиловый спирт. Но он смешался с ортофосфорной кислотой 85%. Возможно, там ни фига не 99% спирт. Но там по плотности смотрели, но плотность обманчива. Да и воду оно давно могло впитать. Ну не суть. При нагревании слой уменьшается с 2 мм до 1 от силы или вообще пропадает (в растворе  кипятка)
-При охлаждении слой увеличивается. Запах лишь может слабо сладковатый, но больший запах вообще непонятно чего. Вообще ни разу таких запахов не чувствовал и вызывает слабый эффект на психику. 
-Для первичных спиртов пишут, что нужно добавлять конц. серную кислоту в уже готовый раствор бромоводорода. Который нужно получать ни как я делаю in vitro, а по трубочке газ получаемый пускать в воду. Тем самым насыщая раствор до ~50% бромоводорода. Может и моим способом можно получить, но пока-что не логично вообще что-то получается.
-Проверил пробирку, те слои, по большей части это преломление света. Просто если воду влить, тоже будет слой 1мм. Значит реакция не идет без катализаторов/условиях. Стоит попробовать нагреть в микроволновке пробирки
+I took sodium bromide, at the edge of a teaspoon. Poured it into a test tube with a sulfuric acid solution, about 40%. By the way, gas started coming out already when I added the alcohol to the sulfuric acid solution.
+When added, there was a pinkish glow, plus a yellow layer and the solution yellowed. That's oxidation of hydrogen bromide to bromine. With 85% orthophosphoric acid I didn't notice that. In both cases an upper layer appears. In the case of sulfuric acid, it's most likely diethyl ether.
+In the case of 85% orthophosphoric acid it's already ethyl bromide or ethyl alcohol. But it mixed with the 85% orthophosphoric acid. Maybe there's no 99% alcohol in there at all. Though they checked the density, but density is deceptive. And it could have absorbed water long ago. Well, not the point. When heated the layer shrinks from 2 mm to at most 1 mm or disappears altogether (in boiling water)
+When cooled the layer grows. The smell is at most faintly sweetish, but the stronger smell is completely unidentifiable. I've never smelled anything like it before, and it produces a mild effect on the psyche. 
+For primary alcohols they write that you need to add concentrated sulfuric acid to an already prepared solution of hydrogen bromide. And that you need to obtain it not the way I do it in vitro, but by sending the generated gas through a tube into water. Thereby saturating the solution to ~50% hydrogen bromide. Maybe it's possible with my method too, but so far it makes no sense at all that anything forms.
+I checked the test tube — those layers are mostly refraction of light. Just pour in water and you get a 1 mm layer too. So the reaction doesn't go without catalysts/conditions. Worth trying heating the test tubes in the microwave
 
-![слой](/experimets/Alkylhallogenidfromspirit/Layer1.jpg)
-![слой](/experimets/Alkylhallogenidfromspirit/LayerWithPhosphateAcid.jpg)
-![слой](/experimets/Alkylhallogenidfromspirit/NaBrH2SO4Et.jpg)
+![layer](/experimets/Alkylhallogenidfromspirit/Layer1.jpg)
+![layer](/experimets/Alkylhallogenidfromspirit/LayerWithPhosphateAcid.jpg)
+![layer](/experimets/Alkylhallogenidfromspirit/NaBrH2SO4Et.jpg)
 
-Возможно, лучше способ всё же получать через фосфор производные (нужно пробовать). Но так можно и фосфат органический какой случайно получить.
-Скорее всего, без специальной посуды будет очень сложно получать. Вернусь к вопросу позже
+Maybe it's still better to obtain it through phosphorus derivatives (need to try). But this way you could accidentally make some organic phosphate too.
+Most likely, without special glassware it will be very difficult to obtain. I'll come back to this later
 
-Комментарий Авака:
+Avak's comment:
 ```
-https://wipedlifepotato.github.io/experimets/Coffeine/2/crystallization.jpg — это потрясающе; шикарно!!
+https://wipedlifepotato.github.io/experimets/Coffeine/2/crystallization.jpg — this is amazing; gorgeous!!
 
-https://wipedlifepotato.github.io/experimets/Coffeine/2/murexidetest2_web.mp4 — окей.
+https://wipedlifepotato.github.io/experimets/Coffeine/2/murexidetest2_web.mp4 — okay.
 
- Про этилбромид. Я получал этилхлорид, перегоняя водку с аккумуляторным электролитом и поваренной солью. При обычных условиях он газ, так что приёмную пробирку я охлаждал льдом и водой (тогда он получается жидкий). Никаких холодильников, две обычные пробирки: перегонная и приёмная; перегонная заткнута резиновой пробкой с газоотводной стеклянной трубкой формы буквы «Г», которая вставлена в приёмную пробирку, которая заткнута неплотно ватой и помещена в кружку с водой и льдом. Успех был. Я пробовал сделать два–три вдоха запахом этилхлорида, и через несколько секунд нужно было срочно ложиться, потому что тело обмякало, перед глазами получался оранжевый свет, а в ушах сильнейший звон. Состояние практически точно такое, как если на корточках долго дышать очень глубоко и часто а затем резко встать. Это состояние от этилхлорида быстро проходит (длится больше минуты) без последствий. ...
+ About ethyl bromide. I obtained ethyl chloride by distilling vodka with battery electrolyte and table salt. Under normal conditions it's a gas, so I cooled the receiving test tube with ice and water (then it comes out liquid). No refrigerators, just two ordinary test tubes: a distilling tube and a receiving tube; the distilling tube is plugged with a rubber stopper carrying an L-shaped glass gas-outlet tube that goes into the receiving tube, which is loosely plugged with cotton wool and placed in a mug of water and ice. It worked. I tried taking two–three sniffs of the ethyl chloride smell, and after a few seconds I had to lie down urgently, because my body went limp, there was an orange light before my eyes, and an incredibly loud ringing in my ears. The state was almost exactly like when you squat for a long time breathing very deeply and rapidly and then suddenly stand up. This state from ethyl chloride passes quickly (lasts more than a minute) without aftereffects. ...
 ```
  
 # UPD:
-Попробовал получать этилхлорид, как растворяя цинк в соляной кислоте (бурная реакция с порошком и если кислота концетрированна, аж вскипает). Так же появляется слой, но мне кажется это из-за примесей и я такие же слои стал замечать и с другими веществами. То есть, эти слои не показатель реакции. Брал спирт 96% и серную кислоту 1.4 плотностью, поваренную соль. Во всех случаях появлялся какой-то даже запах, слабый и запах хлороводорода и даже немного расслабляло, но эффект плацебо. Пробовал и с водкой, но реакция так же идет слабо и я не могу убедиться понюхав что я получил. Поняв, что на запах проверять не очень практично я решил поджечь. Возможно, можно и подумать что это этилен, Но если я брал водку, то сначала должно было быть протонирование спирта, а потом присоединение -OSO3H группы, которая при действии с водой снова дала бы спирт, при действии спирта эфир, а если протонировалась бы HSO4-, то этилен. 
-Как я делал, я взял смешал 2 четверти ложки соли в пробирку, немного залил капель водки, что она вся в соли растворилась и может миллитров 1-3 серной кислоты. Немного поднагрел до кипения и оставил на долго. А потом попробовал поджечь левую и правую пробирку. Пробовал так же просто с водкой, доведя её до кипения, дав постоять 5+- минут и поджечь - реакции нет. А стояла так пробирка у меня может и пол часа. Пробовал смешивать водку с спиртом и так же греть и оставлять - горения нет. Оставил даже на несколько часов и проверил - горения нет. 
-В химии орг. нельзя просто вот взять, и как на бумаге сделано, Так и работает чисто по одному пути. Должны быть условия и всё такое. Получается, это образовался этилхлорид и кажись меня он слабо берет в таких концентрациях. 
+I tried obtaining ethyl chloride both by dissolving zinc in hydrochloric acid (a vigorous reaction with the powder, and if the acid is concentrated it even boils over). A layer appears here too, but I think it's from impurities, and I've started noticing the same layers with other substances as well. So these layers are not an indicator of a reaction. I used 96% alcohol and sulfuric acid of density 1.4, and table salt. In all cases there was some smell — a faint one, and a smell of hydrogen chloride — and it even relaxed me a bit, but that's the placebo effect. I tried with vodka too, but the reaction is also weak and I can't convince myself by smelling that I got anything. Realizing that checking by smell isn't very practical, I decided to ignite it. Maybe you could think it's ethylene. But if I used vodka, first the alcohol should have been protonated, then the -OSO3H group attached, which with water would give the alcohol again, with alcohol an ether, and if HSO4- were protonated, ethylene. 
+How I did it: I mixed 2 quarter-teaspoonfuls of salt into a test tube, poured in a few drops of vodka so that it all dissolved in the salt, and maybe 1-3 ml of sulfuric acid. Heated it slightly to boiling and left it for a long time. Then I tried igniting the left and right test tubes. I also tried just with vodka, bringing it to a boil, letting it stand 5+- minutes and igniting it — no reaction. And the test tube stood like that for maybe half an hour. I tried mixing vodka with alcohol and heating it the same way and leaving it — no burning. I even left it for several hours and checked — no burning. 
+In organic chemistry you can't just take something and have it work purely by one route the way it's drawn on paper. You need conditions and all that. So it turns out ethyl chloride formed, and it seems it barely affects me at these concentrations. 
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Alkylhallogenidfromspirit/maybechlorethan.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Кто-то может подумать, что горел спирт, но сам спирт больше горит желтым пламенем, вот пример изопропилового спирта:
+Someone might think the alcohol burned, but alcohol itself burns with a more yellow flame, here's an example with isopropyl alcohol:
 
 ![experimets/Alkylhallogenidfromspirit/gorelka.jpg](/experimets/Alkylhallogenidfromspirit/gorelka.jpg)
 
-Да и для получения этилена нужно аж сильная концетрация или выход будет настолько маленький...
-Кстати, вот про упрощения, вот как пример:
+And to obtain ethylene you need a really high concentration, or the yield will be so small...
+By the way, speaking of simplifications, here's an example:
 ![images/examplehccl3.jpg](/images/examplehccl3.jpg)
 
-Как бы ок, но он забыл упомянуть, что там образуется дихлоркарбен и что нужна водяная щелочь, а в спирту будет жетское эмилирование. Оно начнет реагировать со спиртом в теории даже.
-Забыл упомянуть, что сначала идет гидролиз и нуклеофильная атака на хлор OH- группой давая две OH группы, что дают производное формальдегида с хлором, который сразу реагирует с водой и дает уже карбоновую кислоту и что при неопределенных условиях там и реакция Каницаро, а ещё что будет выделяться и фосген через дихлоркабен, а он уже давать углекислый газ и хлороводород с водой. А в переизбытке азотки может и хлорид серебра раствориться в теории, ведь азотная кислота должна быть сильнее. Это проверять нужно.
-Ну и на форум заходим и видим, что растворяется там всё в азотке: [forum](https://forum.xumuk.ru/topic/216314-%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0-%D1%81-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B7%D0%BE%D1%82%D0%BD%D0%BE%D0%B9-%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%BE%D0%B9/)
-А это видео лекция. Поэтому всю инфу нужно всегда проверять и думать. Получается, нужно подобрать условия. С хлоридом цинка идет реакция давая чуть больший слой, но хлорэтан это газ, как там слой образуется не совсем понятно. Это видимо какие-то уже физические явления, а не химические.
+Sure, okay, but he forgot to mention that dichlorocarbene forms there and that you need aqueous alkali, while in alcohol you'll get harsh ethylation. In theory it will even start reacting with the alcohol.
+He forgot to mention that first there's hydrolysis and nucleophilic attack on the chlorine by OH- groups, giving two OH groups that yield a chlorinated formaldehyde derivative, which immediately reacts with water to give a carboxylic acid; and that under unspecified conditions there's also the Cannizzaro reaction there; and also that phosgene will be released via dichlorocarbene, which then gives carbon dioxide and hydrogen chloride with water. And in an excess of nitric acid silver chloride might even dissolve in theory, since nitric acid should be stronger. That needs checking.
+Well, we go to the forum and see that everything dissolves in nitric acid there: [forum](https://forum.xumuk.ru/topic/216314-%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0-%D1%81-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B7%D0%BE%D1%82%D0%BD%D0%BE%D0%B9-%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%BE%D0%B9/)
+And this is a video lecture. So all the info always needs checking and thinking through. So you need to pick the conditions. With zinc chloride the reaction goes, giving a slightly larger layer, but chloroethane is a gas, so it's not entirely clear how a layer forms there. These are apparently physical phenomena already, not chemical ones.
 
-Получается, пробовал водку и натрия бромид, серную кислоту и поваренную соль. если уж долго кипятить бромид, то потом появляется перенасыщенный раствор, который ещё окражен в желтый цвет, возможно из-за примеси брома и не льется никуда. А от поваренной соли если слить немного, то появятся игольчатые кристаллы. Интересное явление, в общем в другой пробирке там если просто греть и во льду держать и следить что бы жижа не поднималась дальше трубки (не перетекала, а именно перегонялась), то может капелька так выходит и то может это конденсат, до этого не пробовал поджигать. Получается, делать это на ГОРЕЛКЕ - плохая идея, оно просто начинает так бурно кипеть, что даже если там на самом дне, оно допрыгивает до конца пробирки и всё равно начинает затекать, либо пробирка просто начинает трескаться. Нужно попробовать водянную баню, но проверить зажигалкой было самым правильным решением за последние 2 суток. 
+So, I tried vodka and sodium bromide, sulfuric acid and table salt. If you boil the bromide for a long time, a supersaturated solution appears afterwards, which is also colored yellow, possibly because of a bromine impurity, and it doesn't pour anywhere. And with table salt, if you pour off a little, needle-like crystals appear. An interesting phenomenon. In general, with another test tube, if you just heat it and keep it in ice and make sure the liquid doesn't rise past the tube (not flow over, but specifically distill), then maybe a drop comes out that way, and even then it might be condensate; I hadn't tried igniting it before that. So doing this over a BURNER is a bad idea — it just starts boiling so vigorously that even if it's at the very bottom, it jumps all the way to the end of the test tube and still starts to flow back, or the test tube just starts cracking. Need to try a water bath, but checking with a lighter was the most sensible decision of the last 2 days. 
 
-Я заметил, что в жидкости, которой выделяется углекислый газ тоже появляется слой, получается, возможно это газы, но я не уверен. То что на бумаге работает, на практике может быть сложнее, как в плане теории, так и на практике
+I noticed that a layer also appears in the liquid from which carbon dioxide is released, so maybe it's gases, but I'm not sure. What works on paper can be more complicated in practice, both in theory and in practice.
 
-Запись моя, которую отправлял Аваку:
+My note that I sent to Avak:
 ```
-Это электролит, плюс поваренная соль и туда спирта прилил. Появился слой. И я понял почему не конденсиравала жижа, она просто уходила в комнату через отверстия в ПВХ трубке
-Цинк, это катализатор, пишут так
-Я так понял, это кислота Льюиса и она влияет на реакцию, но я заметил, что электролит тоже реакцию катализирует. Тогда цинк не нужен, сильная конц. Соляная не нужна. Спирт нужен, серная кислота 1.4 плотности сразу дает с поваренной кислотой запах хлороводорода, а при прививание спирта (конц.) ещё и слой
-Лёд довольно долго делается, неделю раньше сделал его и его выкинули. Попозже может на улице снег наберу. Сейчас ПВХ трубку склеил изолентой, но чуть не разбил все пробирки, пролил все жидкости. Хорошо что большая часть вода была, нужно ножницами резать изоленту, а не рвать её даже осторожно
-И на форуме нашёл, что вода всё же нужна, иначе реакция не идёт (там не написано почему. Я думаю нет протона, кислоты без воды плохо себя как кислоты ведут) 
+This is electrolyte, plus table salt, and I poured alcohol into it. A layer appeared. And I realized why the liquid wasn't condensing — it was simply escaping into the room through the holes in the PVC tube
+Zinc is a catalyst, that's what they write
+As I understand it, it's a Lewis acid and it affects the reaction, but I noticed that the electrolyte also catalyzes the reaction. Then zinc isn't needed, strong conc. hydrochloric isn't needed. Alcohol is needed; sulfuric acid of density 1.4 immediately gives a smell of hydrogen chloride with table salt, and when concentrated alcohol is added, also a layer
+Ice takes quite a long time to make; I made it a week earlier and they threw it out. Maybe later I'll gather snow outside. For now I glued the PVC tube with electrical tape, but I nearly broke all the test tubes and spilled all the liquids. Luckily most of it was water; you need to cut the tape with scissors, not tear it even carefully
+And on the forum I found that water is still needed, otherwise the reaction doesn't go (it doesn't say why there. I think there's no proton; acids without water don't behave like acids very well) 
 ...
-Кажись 96% спирт этиловый плохая идея. Он дает слои и даже немного перегоняется. И даже немного сладкое и даже немного штырит. Но если воду приливать, то там ОЧЕНЬ мало. Кажись нужно больше воды в смеси, как пишут на форуме, что если воды добавить, то реакция мгновенно идет с третичным спиртом. Но если смесь сильно "сухая", то реакция не идёт. Да и так спирт перегоняется мне кажется, нужно водку пробовать
-С бромэтаном примерное поведение, спирт в этом не смешивается, а сверху остается, а потом перегнать не выходит, он просто смешивается. Сейчас всё сливать буду в бутылку. Спирт 96% не катит крч, он сильно сушит смесь
+Seems 96% ethyl alcohol is a bad idea. It gives layers and even distills over a bit. And even slightly sweet, and even slightly kicks. But if you add water, there's VERY little. Seems you need more water in the mixture, as they write on the forum, that if you add water the reaction goes instantly with a tertiary alcohol. But if the mixture is very "dry", the reaction doesn't go. And the alcohol seems to distill over anyway, need to try vodka
+With bromoethane the behavior is roughly similar — the alcohol doesn't mix in this, stays on top, and then you can't distill it, it just mixes. Now I'm going to pour everything into a bottle. 96% alcohol doesn't cut it, basically — it dries the mixture out too much
 ```
-(предположение, может и катит)
-Про слой, что пишу:
+(a guess, maybe it does cut it)
+About the layer I'm writing about:
 
 ![1](/experimets/Alkylhallogenidfromspirit/interesting1.jpg)
 ![2](/experimets/Alkylhallogenidfromspirit/interesting2.jpg)
 
-Что бы его повторить, нужно сначала поваренную соль кипятить с серной кислотой, а только потом прилить 96% спирт. Так же с бромидом, получается слой спирта, что сразу не смешивается. Но если оставить, то смешивается. Интересное физическое явление
+To repeat it, you need to first boil table salt with sulfuric acid, and only then add 96% alcohol. Same with bromide: you get a layer of alcohol that doesn't mix right away. But if you leave it, it mixes. An interesting physical phenomenon
 
-## Попытка, ортофосфорная кислота 85% + конц соляная кислота + водка
-Взял прилил ортофосфорной и соляной кислоты в переизбытке к ортофосфорной. Прилил туда водку и кипятил на водяной бане (железной кружке). Первое время шло обильное выделение газов. Когда я ложился спать в пробирке была маленькая капелька:
+## Attempt, 85% orthophosphoric acid + conc. hydrochloric acid + vodka
+I took and poured orthophosphoric acid and hydrochloric acid in excess relative to the orthophosphoric acid. Poured vodka in there and boiled it in a water bath (an iron mug). At first there was abundant gas evolution. When I went to bed there was a tiny little droplet in the test tube:
 ![kapelka](/experimets/Alkylhallogenidfromspirit/1/2.jpg)
 
-Проснувшись с утра, когда весь снег растаял, в пробирке вообще ничего не оказалось. Она была пустой полностью. Ещё на стенках до того как я спал было что-то типо иния, побеления.
-Фотографировать пустую пробирку я не стал. С утра набрал снега в стакан и уже нагрел до кипения с 1-2 подпрыгиванием жидкости, но жидкость по трубке не лилась явно, может не заметил, а может и полилась. Поэтому и нужно на водянной бане именно это делать. Охладил и получил жидкость в пробирке. Я её вылил на металлическую поверхность и попробовал поджечь, она трудно поджигается, но поджигается и горит синеватым пламенем очень тусклым. Дихлорэтан, например, вообще вспыхивает и сразу тушится и если и горит, то в смеси с чем-то и уже дает зеленоватое пламя. А само по себе не дает. 
+Waking up in the morning, when all the snow had melted, there was nothing at all in the test tube. It was completely empty. Before I went to sleep there was also something like frost and whitening on the walls.
+I didn't photograph the empty test tube. In the morning I gathered snow in a cup and heated it to boiling with 1-2 bounces of the liquid, but the liquid clearly didn't flow along the tube; maybe I didn't notice, maybe it did spill. That's exactly why this needs to be done in a water bath. I cooled it and got liquid in the test tube. I poured it onto a metal surface and tried to ignite it; it's hard to ignite, but it does ignite and burns with a very dim bluish flame. Dichloroethane, for example, just flashes and immediately goes out, and if it burns at all, it's in a mixture with something and then gives a greenish flame. By itself it doesn't. 
 
 ![kapelka](/experimets/Alkylhallogenidfromspirit/1/1.jpg)
 
-Вот пример горения:
+Here's an example of burning:
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Alkylhallogenidfromspirit/1/2_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Alkylhallogenidfromspirit/1_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
 
-Можно предположить, что это этилен, но этилен в кислой среде (серка/ортофосфорка) цепляет к себе группу и далее гидролизуется водой до спирта. Можно предположить, что это спирт, но там настолько разбавленный спирт, что азеотропная смесь обеспечена. Стоит попробовать ещё раз, но с медной проволкой.
+One could assume it's ethylene, but ethylene in an acidic medium (sulfuric/orthophosphoric) attaches a group to itself and is then hydrolyzed by water to alcohol. One could assume it's alcohol, but the alcohol there is so dilute that an azeotropic mixture is guaranteed. Worth trying again, but with copper wire.
 
-H-OSO3H + H2C=CH2 => H3C-H2C-OSO3H; H3C-H2C-OSO3H + HOH => H3C-H2C-OH + H2SO4; OSO3H = HSO4- иону. А алкен это пи-нуклеофил. Туда водород цепляется и появляется заряд на карбокатионе и туда цепляется уже HSO4-. А дальше нуклеофильная атака на -OSO3H группу.
-То есть, после протонирования появляется заряд положительный на углероде и туда отрицательно заряженное цепляется. А потом оно гидролизуется водой
-(мог что-то напутать)
-При этом это происходит при температуре, потом этилен плохо растворим в воде. Диэтиловый эфир ещё мог, но у нас ортофосфорная, она похуже серной будет в этом плане. Тогда вопрос что горит пока-что открыт, нужно проверять. На меня не действует этот запах прям сильно что бы, не понятно, толи действует, то ли нет. 
+H-OSO3H + H2C=CH2 => H3C-H2C-OSO3H; H3C-H2C-OSO3H + HOH => H3C-H2C-OH + H2SO4; OSO3H = the HSO4- ion. And the alkene is a pi-nucleophile. Hydrogen attaches there and a charge appears on the carbocation, and then HSO4- attaches there. And then nucleophilic attack on the -OSO3H group.
+That is, after protonation a positive charge appears on the carbon and the negatively charged one attaches there. And then it's hydrolyzed by water
+(might have mixed something up)
+At the same time this happens when heated; besides, ethylene is poorly soluble in water. Diethyl ether could also [form], but we have orthophosphoric acid, which will be worse than sulfuric in this respect. So the question of what's burning is still open, needs checking. This smell doesn't act on me strongly enough to say for sure — it's unclear whether it acts at all or not. 
 <hr/>
 <div class='pair'>
-    <p>Йод (с опыта получения йодэтан): </p>
+    <p>Iodine (from the experiment obtaining iodoethane): </p>
     <img src="/experimets/Alkylhallogenidfromspirit/iode.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Бумага и йод: </p>
+    <p>Paper and iodine: </p>
     <img src="/images/iodeandpappeer.jpg"/>
 </div>
 <br/>
 
-При реакции йода с фосфором + 38% водка появляется слой, или что-то похожее на слой и ДХМ когда он в воде смешан, как бензин. Через 2 суток йод частично обесцвечивается и выпадает осадок, похожий на фосфор. А сам слой видно при свечении. 
+When iodine reacts with phosphorus + 38% vodka a layer appears, or something resembling a layer, and DCM too when mixed in water, like gasoline. After 2 days the iodine partially decolorizes and a precipitate falls out that looks like phosphorus. And the layer itself is visible when illuminated. 
 
-![фосфор](/experimets/Alkylhallogenidfromspirit/phosphore.jpg)
-![фосфориводка](/experimets/Alkylhallogenidfromspirit/phosphoriodevodka.jpg)
-![фосфорвдка](/experimets/Alkylhallogenidfromspirit/phosphorandvodka1.jpg)
-![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpi1.jpg)
-![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpi2.jpg)
-![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpibanka1.jpg)
-![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpibanka21.jpg)
+![phosphorus](/experimets/Alkylhallogenidfromspirit/phosphore.jpg)
+![phosphorus and iodine vodka](/experimets/Alkylhallogenidfromspirit/phosphoriodevodka.jpg)
+![phosphorus and vodka](/experimets/Alkylhallogenidfromspirit/phosphorandvodka1.jpg)
+![phosphorus and vodka](/experimets/Alkylhallogenidfromspirit/layerpi1.jpg)
+![phosphorus and vodka](/experimets/Alkylhallogenidfromspirit/layerpi2.jpg)
+![phosphorus and vodka](/experimets/Alkylhallogenidfromspirit/layerpibanka1.jpg)
+![phosphorus and vodka](/experimets/Alkylhallogenidfromspirit/layerpibanka21.jpg)
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Alkylhallogenidfromspirit/gas_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support video.
 </video>
 
-Стоит пробовать ещё, но уже в пробирке и экономя реактивы. Не нужно для тестов много брать, даже если кажется, что реакция пройдет успешно.
+Worth trying more, but now in a test tube and saving reagents. You don't need much for tests, even if it seems the reaction will go successfully.
