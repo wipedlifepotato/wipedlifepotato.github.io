@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'ru' }}">
+<html lang="{{ page.lang | default: 'ru' }}"{% if page.translated %} data-translated="true"{% endif %}>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +16,8 @@
     pre, code { background: #f1f5f9; padding: 6px 8px; border-radius: 4px; }
     pre { padding: 12px; }
     hr { border: 0; border-top: 1px solid #e2e8f0; margin: 1.25rem 0; }
-    html[lang="en"] body::before { content: "Machine-translated from Russian. Some parts may be inaccurate."; display: block; margin-bottom: 12px; padding: 6px 10px; font-size: 0.85rem; color: #475569; background: #eef2f7; border: 1px solid #dde3ea; border-radius: 8px; text-align: center; }
+
+    html[lang="en"]:not([data-translated="true"]) body::before { content: "Machine-translated from Russian. Some parts may be inaccurate."; display: block; margin-bottom: 12px; padding: 6px 10px; font-size: 0.85rem; color: #475569; background: #eef2f7; border: 1px solid #dde3ea; border-radius: 8px; text-align: center; }
   </style>
 </head>
 <body>

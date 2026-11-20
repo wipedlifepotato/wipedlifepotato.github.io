@@ -2,18 +2,19 @@
 layout: default
 lang: en
 title: An unsuccessful trip to Kazakhstan
+translated: true
 ---
 
-# Пример моей поездки в Казахстан и некоторые трудности
+# My trip to Kazakhstan and some difficulties
 
-Летом 2025 года я решил съездить в Казахстан, как давно планировал, с палаткой и всем необходимым. Приехав в город, я сразу заметил, что купить симкарту за рубли было сложно. Я начал уточнять у местных, что делать. Сначала посоветовали ехать обратно в Россию, но позже сказали, что можно решить вопрос на вокзале.  
+In the summer of 2025 I decided to travel to Kazakhstan, as I had long planned, with a tent and everything I needed. When I arrived in the city, I immediately noticed that it was difficult to buy a SIM card for rubles. I started asking locals what to do. At first they suggested going back to Russia, but later said the issue could be resolved at the railway station.
 
-Я поехал туда с сопровождающим, но потерял телефон. Полиция забрала моё газовое оружие и проверяла вещи и документы, вместо того чтобы помочь с поиском телефона. Имея сбережения в криптовалюте, я пошёл искать место для обмена валюты и познакомился с местными людьми. Они спрашивали, что я здесь забыл, я отвечал поверхностно, планируя ехать дальше.  
+I went there with someone accompanying me but lost my phone. The police took my gas weapon and checked my belongings and documents instead of helping to find the phone. Having savings in cryptocurrency, I went to look for a place to exchange currency and met some local people. They asked what I was doing there; I answered vaguely, planning to travel further.
 
-Некоторые люди предложили помощь с жильём. В начале всё выглядело дружелюбно: обещали помощь и работу. Однако со временем стало понятно, что обещания не выполняются. Я заметил манипуляции: меня подталкивали к финансовым решениям, на которые я не был готов, оказывали давление и использовали эмоциональные уловки. В итоге часть средств и вещей была потеряна или использована не по назначению.  
+Some people offered help with housing. At first everything seemed friendly: they promised help and work. However, over time it became clear that the promises were not being kept. I noticed manipulation: I was pushed toward financial decisions I was not ready for, pressured, and subjected to emotional tricks. As a result, some of my money and belongings were lost or used inappropriately.
 
-Опыт показал, что доверие новым знакомым требует осторожности. Важно проверять обещания, сохранять резервные средства и иметь независимые способы связи.  
+The experience showed that trusting new acquaintances requires caution. It is important to verify promises, keep reserve funds, and have independent means of communication.
 
-В один момент я лишился важных документов и денег, и пришлось обращаться в полицию. Решения и действия местных органов не помогли полностью восстановить ситуацию. Этот опыт научил меня быть внимательнее к людям, осторожнее в финансовых вопросах и всегда иметь план на случай непредвиденных обстоятельств.
+At one point I lost important documents and money and had to contact the police. The decisions and actions of local authorities did not fully resolve the situation. This experience taught me to be more careful with people, more cautious in financial matters, and to always have a plan for unforeseen circumstances.
 
-Теперь я имею большой долг (~200k rub) и множество проблем из-за излишнего доверия к людям. Мораль - нет доверия даже к тем людям, которые кажутся хорошими.
+Now I have a large debt (~200k RUB) and many problems because of excessive trust in people. Moral: do not trust even those who seem good.

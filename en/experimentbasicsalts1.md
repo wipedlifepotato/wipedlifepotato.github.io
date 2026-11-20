@@ -2,158 +2,155 @@
 layout: text
 lang: en
 title: Experiment on basic salts, part 1 (obtaining malachite)
+translated: true
 ---
-# Супер дисклеймер
-**внимание, соли меди являются тяжёлым металлом. коррозионным и вообще соблюдайте все ТБ и не повторяйте опыт, если ничего не понятно. автор публикует как личный эксперимент и отказывается нести риски за ваши действия**
-# Эксперимент по получению основных солей
+# Super disclaimer
+**Warning: copper salts are heavy metals, corrosive, etc. Follow all safety precautions and do not repeat the experiment if anything is unclear. The author publishes this as a personal experiment and refuses to bear risks for your actions.**
 
-Лазия по просторам ютьюба, я обнаружил некоторые видео
+# Experiment on obtaining basic salts
 
-Автор ролика посчитал, что у него зеленый осадок это сульфат натрия, но я ему написал, что сульфат меди не должен давать окраски. 
-По Рэми, окраску дают ионы побочной подруппы и собственно, предположил, что у него там нитрат меди или малахит (нужно проверять).
-Сами видео вдохновили идеей попробовать получить основные соли той же меди
+Browsing around YouTube, I found some videos.
 
-![NitrateCuprum1](experimets/BasicSalts/NitrateCuprum.jpg)
-![NitrateCuprum2](experimets/BasicSalts/NitrateCuprum1.jpg)
+The author of the video thought that his green precipitate was sodium sulfate, but I wrote to him that copper sulfate should not give a color.
+According to Remy, ions of the d-block give color, and accordingly I assumed that he had copper nitrate or malachite there (needs to be checked).
+The videos themselves inspired the idea to try to obtain basic salts of copper.
 
-Взял гидроокись калия
+![NitrateCuprum1](/experimets/BasicSalts/NitrateCuprum.jpg)
+![NitrateCuprum2](/experimets/BasicSalts/NitrateCuprum1.jpg)
 
-![KOH](experimets/BasicSalts/KOH.jpg)
+I took potassium hydroxide.
 
-Кристаллики похожи на некие поломанные квадратики
-Сначала у меня выпадал синий осадок, сам раствор стал вместо зеленого синим. Я подумал, что мне очень уж видите ли жалко кислоту переводить и мне нужен больше выход (раствор при этом нагревался). Я добавил больше - выпал черный осадок. (как после я убедился это окись меди)
+![KOH](/experimets/BasicSalts/KOH.jpg)
 
-Добавлял кислоту лимонную до pH 7, осадок упал и был зеленый раствор. Помешал - снова появился этот осадок-коллоид. Профильтровал
+The crystals look like some broken squares.
+At first I got a blue precipitate; the solution itself became blue instead of green. I thought I was too stingy with the acid and needed more yield (the solution was heating up). I added more — a black precipitate fell out. (As I later verified, this is copper oxide.)
 
-![CuO](experimets/BasicSalts/CuO1.jpg)
-![CuO_Ph](experimets/BasicSalts/CuOPh.jpg)
+I added citric acid to pH 7; the precipitate settled and there was a green solution. I stirred — this precipitate/colloid appeared again. I filtered it.
 
-Сам раствор при этом был зеленым
+![CuO](/experimets/BasicSalts/CuO1.jpg)
+![CuO_Ph](/experimets/BasicSalts/CuOPh.jpg)
 
-![osadok](experimets/BasicSalts/Osadok.jpg)
-![osadok1](experimets/BasicSalts/osadok1.jpg)
+The solution itself was green.
 
+![osadok](/experimets/BasicSalts/Osadok.jpg)
+![osadok1](/experimets/BasicSalts/osadok1.jpg)
 
-Проверил осадок электролитом, получился синий цвет голубоватый (сульфат меди, мало безводный, серная кислота почти 40% и в переизбытке): 
+I checked the precipitate with electrolyte; I got a bluish-blue color (copper sulfate, slightly anhydrous; sulfuric acid is almost 40% and in excess):
 
-![cuso4](experimets/BasicSalts/CuSO4.jpg)
+![cuso4](/experimets/BasicSalts/CuSO4.jpg)
 
+I poured my solution, already obtained the first time, into a test tube.
 
-Отлил свой раствор уже в первый раз полученный в пробирку
-
-## Само получение Cu(OH)2
+## Obtaining Cu(OH)2 itself
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/BasicSalts/Ca(OH)2.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Осадок профильтровал, закинул фильтрат в колбу и залил 6% уксусом в следовом кол-ве
+I filtered the precipitate, put the filtrate in a flask, and poured in 6% vinegar in trace amounts.
 
-![123](experimets/BasicSalts/Kolba.jpg)
+![123](/experimets/BasicSalts/Kolba.jpg)
 
-## Результат
+## Result
 
-Полупрозрачные зеленовато-синие кристаллы и полупрозрачный синеватый раствор в пробирке (возможно основная соль меди, гидрокси-ацетат)
+Semi-transparent greenish-blue crystals and a semi-transparent bluish solution in the test tube (possibly a basic copper salt, hydroxyacetate).
 
-![321](experimets/BasicSalts/res1.jpg)
-![321](experimets/BasicSalts/res2.jpg)
+![321](/experimets/BasicSalts/res1.jpg)
+![321](/experimets/BasicSalts/res2.jpg)
 
-
-
-## Те самые видео
+## Those videos
 
 1 - https://www.youtube.com/watch?v=70mLVytWdNk
 2 - https://www.youtube.com/watch?v=MZwYG6dG8CY
 
-# Попытка получения малахита
+# Attempt to obtain malachite
 
-Уточнил у Авак Аваковича про основные соли меди и получил весточку:
-
-```
- Про оснòвные сòли меди — тема предельно «пакостная»: медь ПРЕЖДЕ ВСЕГО реагирует на ПОДЩЕЛАЧИВАНИЕ среды ГИДРОЛИЗОМ, давая гидроксоИСХОДНУЮ соль меди. Ионный обмен с другими солями при этом может вообще не происходить. Например, добавляя в водный раствор медного купороса щёлочи, либо тринатрийфосфат, либо питьевую соду, либо другие реактивы, ПОДЩЕЛАЧИВАЮЩИЕ среду, — выпадает ОДИН И ТОТ ЖЕ голубоватый осадок гидроксоСУЛЬФАТА меди. Из дихлорида меди в этих условиях выпадает гидроксоХЛОРИД меди. Даже получение гидроксида меди оказывается не лёгкой задачей: выпадают гидроксоИСХОДНЫЕ сòли меди. В школе нам смешивают медный купорос с содой, и говорят, что «выпал малахит»; из купороса и тринатрийфосфата ждут фосфат меди, но реально ионный обмен практически не происходит, и выпадает ОДИН И ТОТ ЖЕ голубоватый осадок гидроксоСУЛЬФАТА меди.
-```
- 
-И собственно правда, при гидролизе медного купороса образуется серная кислота, которая обратно возвращается в сульфат. Примерно так:
+I clarified with Avak Avakovich about basic copper salts and received a message:
 
 ```
-Аквакомплекс:
-CuSO4 + 6HOH <=> [Cu(HOH)6]+2 + SO4^-2 <=> [Cu(HOH)5(OH)]+ + H+
-Гидролиз примерно таков <=>
-Cu^2+ + HOH <=> Cu(OH)+ + H+ 
+About basic copper salts — this is an extremely "nasty" topic: copper PRIMARILY reacts to ALKALIZATION of the medium by HYDROLYSIS, giving a hydroxy-INITIAL copper salt. Ion exchange with other salts may not occur at all. For example, adding alkalis, or trisodium phosphate, or baking soda, or other reagents that ALKALIZE the medium to an aqueous solution of copper sulfate produces the SAME bluish precipitate of copper hydroxy-SULFATE. From copper dichloride under these conditions, copper hydroxy-CHLORIDE precipitates. Even obtaining copper hydroxide turns out to be not an easy task: hydroxy-INITIAL copper salts precipitate. At school they mix copper sulfate with soda and say that "malachite precipitated"; from sulfate and trisodium phosphate they expect copper phosphate, but in reality ion exchange practically does not occur, and the SAME bluish precipitate of copper hydroxy-SULFATE precipitates.
+```
+
+And indeed, during the hydrolysis of copper sulfate, sulfuric acid is formed, which returns back to sulfate. Roughly like this:
+
+```
+Aqua complex:
+CuSO4 + 6H2O <=> [Cu(H2O)6]+2 + SO4^-2 <=> [Cu(H2O)5(OH)]+ + H+
+Hydrolysis roughly like this <=>
+Cu^2+ + H2O <=> Cu(OH)+ + H+ 
 SO4^-2 + H+ <=> HSO4^-
 HSO4^-1 + H+ <=> H2SO4
-Среда будет кислой из-за того, что серная кислота сильная кислота
-При добавление бикарбоната натрия
-NaHCO3 => Na+ + HCO3- (соединение устойчивое)
+The medium will be acidic because sulfuric acid is a strong acid.
+When sodium bicarbonate is added:
+NaHCO3 => Na+ + HCO3- (stable compound)
 HCO3- + H2SO4 = HSO4- + H2CO3 => HSO4- + H2O + CO2^
 HSO4- + HCO3- + H+ => SO4^-2 + H2CO3 => SO4^-2 + H2O + CO2^
-Или в ионном виде
-HCO3- + H+ => H2CO3 => HOH + CO2^
+Or in ionic form:
+HCO3- + H+ => H2CO3 => H2O + CO2^
 HSO4- + H+ <=> H2SO4
-Тогда в растворе остается CO2 и Cu(OH)+, HCO3- цепляется к этому соединению
-2Cu(OH)HCO3 и сразу же разлагается => Cu2(OH)2CO3 + HOH + CO2
-Последнее падает в осадок
-Таким образом мы получаем основную соль (малахит)
-В растворе остается Na+ + SO4^-2
+Then CO2 and Cu(OH)+ remain in solution, HCO3- attaches to this compound:
+2Cu(OH)HCO3 and immediately decomposes => Cu2(OH)2CO3 + H2O + CO2
+The latter precipitates.
+Thus we obtain a basic salt (malachite).
+Na+ + SO4^-2 remain in solution.
 ```
 
-Высохший осадок с прошлого эксперимента:
+Dried precipitate from the previous experiment:
 
-![123](experimets/BasicSalts/Malahit/C прошлого эксперимента.jpg)
+![123](/experimets/BasicSalts/Malahit/C%20прошлого%20эксперимента.jpg)
 
-Реакция получения малахита:
+Reaction for obtaining malachite:
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/BasicSalts/Malahit/Реакция получения малахита.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Странный синий осадок, возможно азурит:
+Strange blue precipitate, possibly azurite:
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/BasicSalts/Malahit/Странный осадок синий.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-![123](experimets/BasicSalts/Malahit/Странный синий осадок при реакции получения малахита.jpg)
+![123](/experimets/BasicSalts/Malahit/Странный%20синий%20осадок%20при%20реакции%20получения%20малахита.jpg)
 
-Мокрый осадок малахита:
+Wet malachite precipitate:
 
-![123](experimets/BasicSalts/Malahit/Мокрый осадок малахита.jpg)
+![123](/experimets/BasicSalts/Malahit/Мокрый%20осадок%20малахита.jpg)
 
-Раствор сульфата натрия (чистый, следовательно в видео ошибочно автор считал сульфат натрия солью, которая зеленого цвета)
+Sodium sulfate solution (pure; therefore, in the video the author mistakenly considered sodium sulfate to be the green-colored salt):
 
-![123](experimets/BasicSalts/Malahit/Осадок сульфата натрия.jpg)
+![123](/experimets/BasicSalts/Malahit/Осадок%20сульфата%20натрия.jpg)
 
+Finished malachite, after washing, filtration on filter paper, and drying in an oven at 100°C:
 
-Готовый малахит, после промывки, фильтрации на фильтрованной бумаге и сушке в печи при 100С:
+![123](/experimets/BasicSalts/Malahit/Готовый%20малахит.jpg)
 
-![123](experimets/BasicSalts/Malahit/Готовый малахит.jpg)
+Malachite itself behaves like a colloidal solution and coagulates slowly, so I had to remove water by decantation. When the solution is heated, it settles faster. For industrial production, a good filter is needed that filters finely dispersed colloidal solutions so as not to waste time on purification.
 
-Сам малахит себя ведет как коллоидный раствор и долго коагулирует, поэтому приходилось декантацией удалять воду. При нагревании раствора быстрее оседает. Для промышленного производства нужен какой-то хороший фильтр, что фильтрует мелкодисперсные коллоидные растворы, что бы не тратить время на очистку.
+Since CuSO4 is sold as a crystal hydrate CuSO4 * xH2O, the weight obtained from 50 grams, taking losses into account, was ~15 grams. (On the first purification, more than expected by 40%.)
 
+At room temperature, something more like azurite is obtained:
 
-Так как CuSO4 продается в виде кристаллогидрата CuSO4 * xHOH, то вес полученный с 50 грамм у меня с учетом потерь составил ~15 грамм. (при первой очистке больше ожидаемоего на 40%)
+![123](/experimets/BasicSalts/Malahit/maybeazurit.jpg)
 
-при комнатной температуре получается что-то, больше похожее на азурит:
-
-![123](experimets/BasicSalts/Malahit/maybeazurit.jpg)
-
-## Работа Авак Авакяна
+## Work by Avak Avakyan
 
 ```
-Здравствуйте! Скачал, внимательно рассмотрел.
+Hello! I downloaded and carefully reviewed it.
 
-Мне видится, что у Вас всё взаимодействие произошло в первый момент, когда Вы (невольно, опрокинув банку) смешали компоненты. Реагенты смешались и мгновенно прореагировали, образовав эти плавающие корки. И всё: дальше происходить было нечему. 🙂
-А у меня «дошли руки», и я заснял на видео и поместил в Интернет ОТКРЫТУЮ МНОЮ ХИМРЕАКЦИЮ гидроксида меди с водными растворами средних карбонатов (например, стиральной соды). Несколько лет назад вышло англоязычное исследование, где сказано, что пока «НЕ удаётся выяснить», что за очень тёмно–синее соединение возникает при реакции солей меди с крепкими водными растворами стиральной соды. И делается предположение (со ссылками на ряд других исследований), что это, «скорее всего, двойной карбонат» меди и натрия. Однако «двойных карбонатов меди и натрия» два: это известные минералы хуангодойит Na₂[Cu(CO₃)₂] и хальконатронит Na₂[Cu(CO₃)₂]×3H₂O; и они оба НЕРАСТВОРИМЫ в воде, следовательно, они НЕ могут создавать окраску раствора (тем более, такую яркую). А я выяснил, что за соединение даёт эту очень тёмно–синюю «чернильную» окраску, похожую на окраску аммиакатов двухвалентной меди: — это тетрагидроксокуприт натрия Na₂[Cu(OH)₄]. Это я ужè опубликовал в Пермском научном сборнике. Вот мой очерк об этом:
+It seems to me that all your interaction occurred at the first moment, when you (accidentally, by tipping over the jar) mixed the components. The reagents mixed and reacted instantly, forming these floating crusts. And that's it: there was nothing left to happen further. 🙂
+
+And I "got around to it" and recorded a video and posted on the Internet a CHEMICAL REACTION I DISCOVERED of copper hydroxide with aqueous solutions of neutral carbonates (for example, washing soda). Several years ago, an English-language study came out saying that so far it has "not been possible to determine" what that very dark blue compound is that arises in the reaction of copper salts with strong aqueous solutions of washing soda. And it is assumed (with references to a number of other studies) that this is "most likely a double carbonate" of copper and sodium. However, there are two "double carbonates of copper and sodium": these are the known minerals juangodoyite Na₂[Cu(CO₃)₂] and chalconatronite Na₂[Cu(CO₃)₂]×3H₂O; and both of them are INSOLUBLE in water, therefore they CANNOT create the color of the solution (especially such a bright one). And I found out what compound gives this very dark blue "ink" color, similar to the color of ammines of divalent copper: — it is sodium tetrahydroxycuprate Na₂[Cu(OH)₄]. I have already published this in the Perm scientific collection. Here is my essay about it:
 https://avakyanus.wordpress.com/2026/04/27/sodium_tetrahydroxycuprate/
-А вот ссылка на скачивание ВИДЕО с этой химреакцией:
+And here is a link to download the VIDEO with this chemical reaction:
 https://archive.org/download/sodium_tetrahydroxycuprate/Na2Cu%28OH%294.avi
 ```
-<a href="https://archive.org/download/sodium_tetrahydroxycuprate/Na2Cu%28OH%294.avi" target="_blank">Видео Авак Авакяна про тетрагидроксикупират</a><br/>
-<a href="https://avakyanus.wordpress.com/2026/04/27/sodium_tetrahydroxycuprate/" target="_blank">Статья про тетраоксикупират</a><br/>
+<a href="https://archive.org/download/sodium_tetrahydroxycuprate/Na2Cu%28OH%294.avi" target="_blank">Video by Avak Avakyan about tetrahydroxycuprate</a><br/>
+<a href="https://avakyanus.wordpress.com/2026/04/27/sodium_tetrahydroxycuprate/" target="_blank">Article about tetrahydroxycuprate</a><br/>
 
-## Следующий этап 
+## Next stage
 
-Тоже самое, но взять для экспериментов уже готовый хлорид железа 3
+Do the same, but take ready-made iron(III) chloride for experiments.

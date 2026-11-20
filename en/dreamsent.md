@@ -2,61 +2,55 @@
 layout: default
 lang: en
 title: Dreams of September (diary)
+translated: true
 ---
 
-# 12–13 сентября
+# September 12–13
 
-Приснилось, что я ходил куда-то среди каменных построек, пытаясь найти место, где можно прилечь и отдохнуть, но всё было занято, поэтому я ходил туда-сюда. Какая-то женщина думала, что в Белый дом занесут фанеру, но ушла отдыхать — я её сломал.  
+I dreamed that I was walking somewhere among stone buildings, trying to find a place where I could lie down and rest, but everything was occupied, so I kept walking back and forth. Some woman thought plywood would be brought into the White House, but she went to rest — and I broke it.
 
-Я искал что-то с красным квадратом, а в один момент голос спросил меня, доверяю ли я им. До этого я пытался убить какого-то человека, подстроив случайный случай. Во сне мама ругалась на отца, что он не помогает, но скоро приедет, и плакала. Я предложил ей поспать. Голосу я сказал, что даже самому себе нельзя доверять, и вылез на какое-то кладбище. Он сказал, чтобы я больше смотрел на хорошее и придирался к другим. Я придрался до NPC, и начался игровой диалог. Сверху было облако, а голос подогнал мне 60 видов грибов-спор.  
+I was looking for something with a red square, and at one point a voice asked me if I trusted them. Before that I was trying to kill someone by arranging an "accidental accident." In the dream my mother was scolding my father for not helping, but said he would arrive soon, and she was crying. I suggested she sleep. I told the voice that you can't even trust yourself, and climbed out onto some cemetery. It told me to look more at the good things and be more critical of others. I nitpicked at an NPC and a game dialogue started. Above there was a cloud, and the voice brought me 60 kinds of mushroom spores.
 
-Мне приснилась управляющая элита, которая каждый день вела свои дневники, чтобы отслеживать динамику чувств и событий. Часть из них сошла с ума, часть вела себя крайне странно, почти как психи.  
+I dreamed of a ruling elite who kept diaries every day to track the dynamics of feelings and events. Some of them had gone mad, others behaved very strangely, almost like psychos.
 
-Потом мне нужно было позвонить матери. Рядом стоял старый компьютер с очень слабой Windows, на котором были простенькие игры вроде Minecraft и какой-то каминной игрушки. Монитор был ламповый, а Windows выглядела необычно. Я жаловался, что даже этот старый компьютер мне не дают.  
+Then I needed to call my mother. Nearby stood an old computer with a very weak Windows installation, which had simple games like Minecraft and some fireplace toy. The monitor was CRT, and Windows looked unusual. I complained that even this old computer was not given to me.
 
-Когда я пытался позвонить домой, сначала изменил номер мамы, добавив какие-то цифры «86х», но потом забыл их. Чтобы разобраться, я сделал запрос по истории звонков с 14:00 до 17:00. Всё выглядело древне, а на технике было много еды. Собеседники оставались невидимыми.  
+When I tried to call home, I first changed my mother's number by adding some digits "86x", but then forgot them. To figure it out, I made a request for call history from 14:00 to 17:00. Everything looked ancient, and there was a lot of food on the equipment. The people on the other end remained invisible.
 
-Мне показали три конверта, но в них не было номеров — только записи разговоров. Среди них упоминалась Птаха и документы с графиками тяжёлого металла и его хлорида. Казалось, телефон работал «металлически» или химически.  
+I was shown three envelopes, but they had no numbers — only recordings of conversations. Among them "Ptakha" was mentioned and documents with charts of a heavy metal and its chloride. It seemed the phone worked in a "metallic" or chemical way.
 
-В конце сна мне сказали, что звонить следует только из дома, и что нужен какой-то «линк». После этого я проснулся.
+At the end of the dream I was told that calls should only be made from home, and that some kind of "link" was needed. After that I woke up.
 
-# 13–14 сентября  
+# September 13–14
 
-Снилось, что json можно обрабатывать только через вентиляторы — они символизировали библиотеки, ведь напрямую данные не воспринимаются.  
-Чтобы исцелять, нужно было рукой: безымянный палец сложить в кружок и провести им от рта вперёд сбоку, направляя пальцами энергию.  
-А чтобы направить энергию воды, требовалась сложная комбинация перевёртываний рук, словно заворачивал их в пространстве.  
+I dreamed that JSON could only be processed through fans — they symbolized libraries, because data cannot be perceived directly. To heal, you had to use your hand: fold the ring finger into a circle and draw it from the mouth forward to the side, directing energy with your fingers. And to direct the energy of water, a complex combination of hand flips was needed, as if twisting them in space.
 
-Это объяснили мне на островке в невесомости.  
-Вокруг были острова, по которым можно было перепрыгивать.  
-Так я оказался в школе аватаров, где учили владеть подобными техниками.
+This was explained to me on a small island in weightlessness. Around it were islands you could jump between. That's how I ended up in an avatar school where they taught such techniques.
 
-# 19–20 сентября
+# September 19–20
 
-Приснилось, что я во сне пытался узнать о своём происхождении в плане предыдущих жизней. Внутри сна я уснул с наушниками, и оттуда шли фразы обо мне. Я сказал, что просыпаюсь, и действительно проснулся во сне на своём диване, затем снова уснул. Началось бубнение. В конце концов, я полностью проснулся, потому что во сне мою шею крутило, а тело будто выворачивало. Я просил сказать только правду и понял, что подселение, видимо, не моё. Во сне я слышал, как родные что-то обсуждали.  
+I dreamed that within a dream I was trying to learn about my origin in terms of past lives. Inside the dream I fell asleep with headphones on, and phrases about me were coming from them. I said I was waking up and indeed woke up in the dream on my sofa, then fell asleep again. Mumbling began. In the end, I fully woke up because in the dream my neck was being twisted and my body felt as if it was being turned inside out. I asked to be told only the truth and realized that the "inhabiting presence," apparently, was not mine. In the dream I heard my relatives discussing something.
 
-Позже приснился странный мужчина, который пристал ко мне и задавал вопросы, на которые я отвечал поверхностно. Нужно было ехать в какой-то бар. Появился другой мужчина, и они начали обсуждать меня.  
+Later I dreamed of a strange man who pestered me and asked questions to which I answered superficially. We needed to go to some bar. Another man appeared and they started discussing me.
 
-Во сне я также оказался на кухне, где общался с существами, которых сам генерировал. Там происходило взаимодействие за моих родных, и кто-то мог отказаться. Я задавал вопросы о мужчине, он оказался зависимым. Потом я решил ему помочь.
+In the dream I also ended up in a kitchen where I talked to beings I was generating myself. There was interaction on behalf of my relatives, and someone could refuse. I asked questions about the man — he turned out to be dependent. Then I decided to help him.
 
-# 21 сентября
+# September 21
 
-Снилось, что я был в колледже и зачем-то в книгах нашёл молоток и иголки, спрятал их. У меня пытались их забрать, но я перепрятал. Потом я сделал дамп характеристик компьютера М. и локально смотрел устройство. Во сне мне пришла мысль записать старый сон, где я попал под гору и не мог выбраться, обращался куда только можно и высовывал батарею. Потом мне стало страшно из-за молотка, и я делал брейкданс на полу. Потом пошёл узнавать, нужно ли ходить в колледж — сказали, что пока я занят, всё ок, и я проснулся.  
+I dreamed I was in college and for some reason found a hammer and needles in books and hid them. People tried to take them from me, but I hid them again. Then I made a dump of M.'s computer characteristics and examined the device locally. In the dream I got the idea to write down an old dream where I got stuck under a mountain and couldn't get out, turned everywhere for help, and stuck out a battery. Then I became scared because of the hammer and did breakdancing on the floor. Then I went to ask if I needed to go to college — I was told that as long as I was busy, it was fine, and I woke up.
 
-Также приснилось, что ИИ выдал книгу про космос сначала на испанском, но так как я не знал язык, дала книгу с типами гравитации, полукругом и формулами, а также про виды космического топлива и какой-то белый шарик.
+I also dreamed that an AI first gave me a book about space in Spanish, but since I didn't know the language, it gave me a book with types of gravity, a semicircle and formulas, as well as types of space fuel and some white ball.
 
-Снилось, как отец переклеивал объявление возле дома, и провода чуть не убили возле подъезда меня.
+I dreamed how my father was re-gluing a notice near the house, and wires near the entrance almost killed me.
 
-# 22 сентября
+# September 22
 
-Приснилось, как журналисты купили 80 грамм доллара и какое-то количество непонятной травы. Потом я играл в приставку и узнавал возраст людей в VR. Пристал какой-то дед, и гопник сказал, что нужно узнать больше о нём. Потом я был у родственника, который спрашивал, почему кидаю носки, а не мою их, и нужно было с кем-то встретиться. Затем проснулся во сне на лестнице и искал телефон, не мог найти.  
+I dreamed that journalists bought 80 grams of "dollar" and some amount of unclear herb. Then I was playing a console and finding out people's ages in VR. Some old man bothered me, and a guy said I needed to learn more about him. Then I was at a relative's place who asked why I throw socks around instead of washing them, and I needed to meet someone. Then I woke up in a dream on a staircase and was looking for my phone but couldn't find it.
 
-Позже приснилось, что я проснулся в другом городе, хотел домой, рядом были растения, а на часах телефона было 00:00. Я посмотрел время в своем городе и сразу вышел человек и сказал, что сейчас будем кушать. Я убрал растения по просьбе на холодный подоконник.
+Later I dreamed that I woke up in another city, wanted to go home, there were plants nearby, and the phone clock showed 00:00. I checked the time in my city and immediately a person came out and said we would eat now. At their request I moved the plants to a cold windowsill.
 
-# 23 сентября
+# September 23
 
-Приснилось, что был в «вавес мем», назывался `<script>`. Я поделился с другими, оказалось, это фильм про спецслужбы, которых решили убрать полицейские. Потом показывали, как точить карандаш по особому: вытягивая стержень и убирая остальную часть древесины, очищая карандаш. Я астрально делал удары тому, кто потерялся, чтобы помочь — он страдал, и я укусил его. Он предложил деньги, но я договорился, потому что поломал и нанёс вред.  
+I dreamed I was in "vaves meme," it was called `<script>`. I shared it with others; it turned out to be a movie about special services whom the police decided to eliminate. Then they showed how to sharpen a pencil in a special way: pulling out the lead and removing the rest of the wood, cleaning the pencil. I astrally struck someone who was lost to help him — he was suffering, and I bit him. He offered money, but I negotiated because I had broken things and caused harm.
 
-Также снилось, что искал вентилятор в учебном заведении. Потом быстро спускался, упал и попал в яму. Говорили, что в учебном заведении есть магазины.
-
-
-
+I also dreamed that I was looking for a fan in an educational institution. Then I went down quickly, fell, and ended up in a pit. They said there were shops in the educational institution.

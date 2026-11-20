@@ -2,48 +2,47 @@
 layout: fuckallshit
 lang: en
 title: Oleoresin capsicum
+translated: true
 ---
 
 ```
-ВНИМАНИЕ / DISCLAIMER:
-Данная публикация носит исключительно информационный, ознакомительный и теоретический характер.
+WARNING / DISCLAIMER:
+This publication is for informational, educational, and theoretical purposes only.
 ```
 
-## Получение
+## Extraction
 
-Для получения капсаицидов делал следующие действия:
-* Взял 30грамм красного перца, залил соляной кислотой.
-* Проседил, очень плохо даже через колбу бунзена проходит, но проходит. Осталась красная жидкость
-* В красную жидкость добавлял карбонат натрия до pH примерно 10, зеленоватого
-* Залил этилацетат, погрел и очень слабо помешал в ручную. Грел не до кипения.
-* Отделил слой, засунул в морозилку
-* В морозилке был сольват, оставив на 2 дня получил слой, который откшрябывается
+To extract capsaicinoids I did the following:
+* Took 30 grams of red pepper and poured hydrochloric acid over it.
+* Filtered it — it passes very poorly even through a Büchner funnel, but it does pass. A red liquid remained.
+* Added sodium carbonate to the red liquid until the pH was about 10 (greenish).
+* Added ethyl acetate, heated it and stirred gently by hand. Did not heat to boiling.
+* Separated the layer and put it in the freezer.
+* In the freezer there was a solvate; after leaving it for 2 days I obtained a layer that could be scraped off.
 
-белые кристаллики и красные по итогу. На ногте то сладкое сильно, то обжигает. Красное обжигает на удивление 100%, чем белые кристаллы. Быстрое обжигание, быстро перестает
-
+In the end there were white crystals and red ones. On a fingernail it was sometimes very sweet, sometimes burning. The red part burned 100% for sure, more than the white crystals. The burning came on quickly and went away quickly.
 
 <div class='pair'>
-    <p>белый слой по центру очень жгучий: </p>
+    <p>White layer in the center, very pungent:</p>
     <img src="/images/OC/1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Получившееся, смешенная субстанция: </p>
+    <p>Resulting mixed substance:</p>
     <img src="/images/OC/res.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Сольвант: </p>
+    <p>Solvate:</p>
     <img src="/images/OC/solvant.jpg"/>
 </div>
 <br/>
 
-## p.s
+## p.s.
 (
-Химические свойства — Органическая химия
+Chemical properties — Organic chemistry
 XuMuK.ru
 https://xumuk.ru › organika
-Все же с сильными кислотами амиды дают соли, например [CH3CONH3]Cl, легко разлагающиеся водой. С другой стороны, водород группы NH2 в амидах легче, чем в ...
+With strong acids, amides do give salts, for example [CH3CONH3]Cl, which are easily decomposed by water. On the other hand, the hydrogen of the NH2 group in amides is more easily removed than in...
 )
-Остальное как с кофеином. Если смотреть pKa его, то в отличие от фенола слабая кислота
-
+The rest is similar to caffeine. If you look at its pKa, then unlike phenol it is a weak acid.

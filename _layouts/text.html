@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'ru' }}">
+<html lang="{{ page.lang | default: 'ru' }}"{% if page.translated %} data-translated="true"{% endif %}>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -86,8 +86,9 @@
     pre { padding: 12px 14px; }
     hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
     a { color: #2563eb; }
-    /* Machine translation notice for English pages */
-    html[lang="en"] nav::after {
+
+    /* Machine translation notice for English pages (hidden when fully translated) */
+    html[lang="en"]:not([data-translated="true"]) nav::after {
       content: "Machine-translated from Russian";
       flex-basis: 100%;
       text-align: center;

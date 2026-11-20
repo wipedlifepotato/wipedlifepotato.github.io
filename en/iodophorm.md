@@ -2,140 +2,145 @@
 layout: fuckallshit
 lang: en
 title: Iodoform
+translated: true
 ---
 
 ```
-ВНИМАНИЕ / DISCLAIMER:
-Данная публикация носит исключительно информационный, ознакомительный и теоретический характер. Автор описывает сугубо химические наблюдения в рамках изучения галоформной реакции.
-​Закон: Автор настоятельно предупреждает о необходимости соблюдения законодательства. Данный текст не является призывом к действию или руководством по изготовлению чего-либо.
-​Здоровье: Йодоформ и побочные продукты реакции (такие как йодацетон) токсичны, обладают раздражающим действием. Вдыхание паров или контакт с кожей может привести к поражению ЦНС, печени и легких.
-​Отказ от ответственности: Автор не несет ответственности за попытки воспроизведения описанных действий и их последствия. Все химические опыты должны проводиться в сертифицированных лабораториях специалистами с соблюдением норм ТБ.
+WARNING / DISCLAIMER:
+This publication is for informational, educational, and theoretical purposes only. The author describes purely chemical observations in the context of studying the haloform reaction.
+
+Law: The author strongly emphasizes the need to comply with applicable laws. This text is not a call to action or a guide for making anything.
+
+Health: Iodoform and by-products of the reaction (such as iodoacetone) are toxic and irritating. Inhalation of vapors or skin contact can lead to damage to the central nervous system, liver, and lungs.
+
+Disclaimer: The author is not responsible for attempts to reproduce the described actions or for their consequences. All chemical experiments must be carried out in certified laboratories by qualified specialists in compliance with safety regulations.
 ```
 
 
-Есть галоформная реакция, которая идет с метил-кетонами R-CO-CH3, с спиртами R-C(OH)-CH3, а так же этиловым спиртом. (так можно проверить на этиловый спирт)
-Для начала, для теста я взял аптечный йод.
+There is a haloform reaction that proceeds with methyl ketones R-CO-CH3, with alcohols R-C(OH)-CH3, and also with ethanol. (This can be used as a test for ethanol.)
+To begin with, for a test I used pharmacy iodine.
 ```
- 2I* + HOH => HI + HIO (или I2 + HOH. Но я тут вижу I как радикал, поэтому звездочка гомогенный заряд) [личное видение, что радикальный механизм]
- IO- бьет по кето форме и окисляет спирт до кетона. CH2-COH-CH3 и где CH2 там пи-нуклеофильная связь заряд IO- забирает водород и цепляет сам I. Расписывать нужно на бумаге для наглядности,
- но более понятно этот механизм показан в википедии
- С этиловым спиртом останется натрий муравьиной кислоты.
- С изопропиловым CH3-CO и сюда ещё OH- цепляется тк на карбонате положительный зарядл и выходит CH3-COOH то есть от уксусной кислоты.
+ 2I* + HOH => HI + HIO (or I2 + HOH. But here I see I as a radical, hence the asterisk indicating a homolytic/radical character) [my personal view that this is a radical mechanism]
+ IO- attacks the keto form and oxidizes the alcohol to a ketone. CH2-COH-CH3, and where CH2 is there is a pi-nucleophilic character: the IO- charge removes hydrogen and attaches I itself. This needs to be drawn on paper for clarity,
+ but this mechanism is shown more clearly on Wikipedia.
+ With ethanol, sodium formate remains.
+ With isopropyl alcohol, CH3-CO and OH- also attach there because the carbonate has a positive charge, giving CH3-COOH, i.e. acetic acid.
 ```
-p.s вонять будет йодоформ знатно
+p.s. iodoform will stink badly
 
 <div class='pair'>
-    <p>Результат с аптечным йодом, практически на фотке не видно желтизну:</p>
+    <p>Result with pharmacy iodine (the yellow color is barely visible in the photo):</p>
     <img src="/experimets/Alkylhallogenidfromspirit/result_apteka.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Сначала вот так выглядит раствор:</p>
+    <p>At first the solution looks like this:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/rastvoriodobeforecarbonate.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Потом слой такой:</p>
+    <p>Then a layer like this appears:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophormlayer.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Потом слой такой:</p>
+    <p>Then a layer like this appears:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophormstep2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Потом слой такой:</p>
+    <p>Then a layer like this appears:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophormfial.jpg"/>
 </div>
 <br/>
 
-То есть, от красного становится полностью прозрачным. Остается формиат в нашем случае натрия. Тк мы работали первоночально с аптечным йодом, который в спирту этиловом. 
-В случае изопропилового спирта или любого другого хватает одной ложки карбоната на весь раствор. Иначе спирт уйдет в отдельный слой и реакция прекратится
+That is, it goes from red to completely transparent. Formate remains in our case as sodium formate, because we initially worked with pharmacy iodine, which is in ethanol.
+In the case of isopropyl alcohol or any other alcohol, one spoon of carbonate is enough for the whole solution. Otherwise the alcohol will separate into its own phase and the reaction will stop.
 
 <div class='pair'>
-    <p>Изопропиловый спирт отделился в фазу:</p>
+    <p>Isopropyl alcohol separated into a phase:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/izopropilincarbonate.jpg"/>
 </div>
 <br/>
 
 <div class='pair'>
-    <p>Йодоформ в дихлорметане (растворим, но не очень уж хорошо, если не греть. Примерно как сода в воде):</p>
+    <p>Iodoform in dichloromethane (soluble, but not very well unless heated; roughly like baking soda in water):</p>
     <img src="/experimets/Alkylhallogenidfromspirit/dcmiodophorm.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Из раствора ДХМ получаются такие кристаллы, ПРИЧем ещё красивее, но я не сфоткал и перегрел. Иголки прям были красивые, жёлтые</p>
+    <p>Crystals obtained from the DCM solution (they were even more beautiful before, but I did not take a photo and overheated it; there were very nice yellow needles):</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophormafterdichlormthane.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Перегретый йодоформ: </p>
+    <p>Overheated iodoform:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/peregretijiodophorm.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Перегретый йодоформ: </p>
+    <p>Overheated iodoform:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/peregretijodophorm1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Йод (с опыта получения йодэтан): </p>
+    <p>Iodine (from the experiment on obtaining ethyl iodide):</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iode.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Бумага и йод: </p>
+    <p>Paper and iodine:</p>
     <img src="/images/iodeandpappeer.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Броуновское движение при фильтрации йода от йодоформа:</p>
+    <p>Brownian motion while filtering iodine from iodoform:</p>
     <video width="640" height="360" controls>
       <source src="{{ 'experimets/Alkylhallogenidfromspirit/brounmove_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
+      Your browser does not support the video tag.
     </video>
 </div>
 <br/>
 <div class='pair'>
-    <p>Грязный йодоформ: </p>
+    <p>Dirty iodoform:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/graznijiodophorm.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Свежий йодоформ: </p>
+    <p>Fresh iodoform:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophorm1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Свежий йодоформ: </p>
+    <p>Fresh iodoform:</p>
     <img src="/experimets/Alkylhallogenidfromspirit/iodophorm2.jpg"/>
 </div>
 <br/>
-Инструкция:
+
+Instructions:
 ```
-Растворить в спирту йод. При перекресталлизации и сушке большая часть уйдет в атмосферу, поэтому не перекресталлизуем. Сделать слабый раствор с щелочным pH 11-14 с карбонатом, но не в переизбытке, а то спирт отделится. Ложки достаточно почти на 10 грамм йода, чайной для сахара. Воды должно быть такое кол-во, что спирт смешался с раствором. Оставить обесцвечиваться.
-Через ~15 минут будет осадок. Сильно много йода не нужно, иначе его потом отделять нужно будет от йодоформа. Лучше добавлять йод по надобности. Потом седиментацией оно упадет в осадок. Нужно сделать декантацию шпрпицом, потом ни в коем случае не сушить в микроволновке и на свету. Лучше оставить прям так, немного, с водой, вода стабилизирует йодоформ
+Dissolve iodine in alcohol. During recrystallization and drying, a large part will escape into the atmosphere, so do not recrystallize it. Make a weakly alkaline solution with pH 11–14 using carbonate, but not in excess, otherwise the alcohol will separate. A teaspoon for sugar is enough for almost 10 g of iodine. There should be enough water for the alcohol to mix with the solution. Leave it to decolorize.
+After about ~15 minutes a precipitate will form. Do not use too much iodine, otherwise you will have to separate it from iodoform later. It is better to add iodine as needed. Then, by sedimentation, it will settle. You need to decant with a syringe, and under no circumstances dry it in a microwave or in light. It is better to leave it as is, with a little water; water stabilizes iodoform.
 ```
 
-Общение с Аваком на эту тему:
+Discussion with Avak on this topic:
 ```
-> Здравствуйте! И Вас с Новым Годом!
+> Hello! And Happy New Year!
 
-Рад Вашему успеху с иодоформом; судя по фоткам, это действительно он. Иодоформ получается весьма легко и количественно. Я его получал в своё время. Иодоформ — полезнейшая вещь. С аммиаком он даёт синильную кислоту — это лучший путь к ЦИАНИДАМ. С аминами он даёт изонитрилы. Гидролиз иодоформа даёт муравьиную кислоту и формиаты. С нитритом серебра получается нитроформ...
+I am glad about your success with iodoform; judging by the photos, that is indeed it. Iodoform is obtained very easily and quantitatively. I obtained it in my time. Iodoform is a very useful substance. With ammonia it gives hydrocyanic acid — this is the best route to cyanides. With amines it gives isonitriles. Hydrolysis of iodoform gives formic acid and formates. With silver nitrite, nitroform is obtained...
 
->> довольно много того, до чего можно прийти самостоятельно если подумать. неизвестно ещё сколько всего можно додуматься. По идее йодоформ не растворим в воде, поэтому гидролиз будет медленный. Аммиак скорее всего как с хлороформом  CCl2 соединение можно получить дийодкабен. То есть HCI3 + NH3 по идее может давать Амины через карбен вторичный, через свободную пару на азоте первичный и так далее. В переизбытке Йодрформа уже отцеплять водород и йод давай йодоводород. Валентность и заряд при этом азота и углерода сохраняется. Типа ионов заряженных от тока. Тем самым делая синилку. В общем и правда, да. А с нитритом ещё и нитроформу частично даст NO2 и ONO да. Ваще норм. Я думал этим ток вонять ходить. А формиат я тоже думал, когда делал, но оно же плохо растворимо, тем самым эта реакция будет идти очень медленно если не мешать или не греть. Вообще у меня больше половины в микроволновой печи и в комнате наверно улетело этого йодоформа. Очень летучее соединение. Благодарю за информацию! 
+>> there is quite a lot you can arrive at independently if you think. It is still unknown how much more can be figured out. In theory iodoform is insoluble in water, so hydrolysis will be slow. Ammonia will most likely give a CCl2-type compound as with chloroform — diiodocarbene. That is, HCI3 + NH3 can in theory give amines through a secondary carbene, through the lone pair on nitrogen a primary one, and so on. In excess iodoform it can already detach hydrogen and iodine to give hydrogen iodide. In this way the valence and charge of nitrogen and carbon are preserved. Thus producing hydrocyanic acid. In general, yes, indeed. And with nitrite it will also partially give nitroform, NO2 and ONO, yes. That's quite good. I thought I would just have to walk around stinking from this. And I also thought about formate when I was making it, but since it is poorly soluble, that reaction will proceed very slowly unless stirred or heated. In general, more than half of my iodoform probably evaporated in the microwave and in the room. A very volatile compound. Thank you for the information!
 
-> Карбены — ДА, их можно из иодоформа получать. Синтез синильной кислоты из иодоформа — это частный случай изонитрильной реакции Гофмана. Кстати, я в своё время шикарный видеоролик изваял, как делать иодоформ; вот, СКАЧАЙТЕ:
+> Carbenes — yes, they can be obtained from iodoform. The synthesis of hydrocyanic acid from iodoform is a special case of the Hofmann isonitrile reaction. By the way, in my time I made a great video on how to make iodoform; here, download it:
 http://www.efkahomepage.ktk.ru/CHI3.avi
-Инструкция в видео (текст) СПРАВА, читайте. 😊
-...В продолжение предыдущей темы. Про реакцию аммиака с галоформами. Я знаю, что эту реакцию нынче объясняют «карбеновым» механизмом, но я с этим механизмом протекания этой реакции НЕ согласен. Я считаю, что это КЛАССИЧЕСКАЯ реакция аммиака с алкилгалогенидами (где карбенами и «не пахнет!»). Во−первых, если в банку с газообразным аммиаком поместить несколько капель хлороформа и поместить эту банку на яркий солнечный свет — за несколько дней эти капли превратятся в смесь кристаллов хлорида и цианида аммония. То есть эта реакция идёт и без спирта, и без щёлочи. Я вижу следующий механизм. Как известно, аммиак с алкилгалогенидами может реагировать в несколько стадий: вначале образуется первичный амин; затем он может реагировать с ещё одной молекулой алкилгалогенида, образуя вторичный амин; далее может получиться третичный амин и четвертичная аммониевая соль. Но есть особенность: на каждой из этих стадий образование амина приводит к образованию галогеноводорода, который связывает получившийся амин в СОЛЬ. А соль дальше ни в какие реакции не вступает. Чтобы образовались вторичный, третичный амины и четвертичная соль, — амины нужно ВЫСВОБОДИТЬ в свободном виде, то есть выделить их из образовавшейся соли. Только свободные амины (а не их соли) вступают в эти реакции. ВОТ ДЛЯ ЭТОГО и оказывается нужна ЩЁЛОЧЬ (а НЕ для синтеза карбенов!). То есть: аммиак среагировал с алкилгалогенидом и образовал СОЛЬ — гидрогалогенид этого амина; и тут подскакивает щёлочь и ВЫТЕСНЯЕТ этот амин из этой соли. Вытесненный свободный амин получает возможность реагировать дальше — со следующей молекулой алкилгалогенида; и так далее вплоть до образования четвертичной соли. В случае с галоформами это ТО ЖЕ САМОЕ, только образование «вторичного» и «третичного» амина оказывается внутримолекулярными реакциями: вначале аммиак даёт с галоформом первичный амин: дигалогенметиламин, например, HCl₂CNH₂. Этот амин связывается выделающимся галогеноводородом в соль — гидрогалогенид, например, HCl₂CNH₃⁺Cl⁻. Благодаря атомам галогена в молекуле, такие амины оказываются более слабыми основаниями, чем аммиак, и не только щёлочь, но и сам свободный аммиак может вытеснить их, например: HCl₂CNH₃⁺Cl⁻ + NH₃ = HCl₂CNH₂ + NH₄Cl. А дальше такой амин даёт внутримолекулярные реакции: аминогруппа «откусывает» атомы галогена от собственной метильной группы по образцу образования вторичного и третичного амина: HCl₂C−NH₂ → HClC=NH×HCl и далее: HClC=NH → HC≡N + HCl. Вот так образуется синильная кислота. Щёлочь может помогать, разрушая промежуточно образующиеся соли аминов. Но если используется не спиртовой, а водный раствор, — то получаются реакции ГИДРОЛИЗА: и аммиак, и щёлочь ГИДРОЛИЗУЮТ галоформ, превращая его в муравьиную кислоту и формиаты.
+The instructions in the video (text) are on the right, read them. 😊
+...Continuing the previous topic. About the reaction of ammonia with haloforms. I know that nowadays this reaction is explained by a "carbene" mechanism, but I do not agree with this mechanism for this reaction. I believe that this is a classic reaction of ammonia with alkyl halides (where there is no smell of carbenes!). First of all, if you place a few drops of chloroform in a jar with gaseous ammonia and place this jar in bright sunlight, in a few days these drops will turn into a mixture of ammonium chloride and ammonium cyanide crystals. That is, this reaction proceeds even without alcohol and without alkali. I see the following mechanism. As is known, ammonia can react with alkyl halides in several stages: first a primary amine is formed; then it can react with another molecule of alkyl halide to form a secondary amine; then a tertiary amine and a quaternary ammonium salt can be obtained. But there is a feature: at each of these stages, the formation of an amine leads to the formation of hydrogen halide, which binds the resulting amine into a salt. And the salt does not participate in further reactions. To form secondary and tertiary amines and a quaternary salt, the amines must be liberated in free form, that is, isolated from the resulting salt. Only free amines (not their salts) enter these reactions. That is why alkali is needed (and not for the synthesis of carbenes!). That is: ammonia reacted with an alkyl halide and formed a salt — the hydrohalide of this amine; and then alkali comes in and displaces this amine from this salt. The displaced free amine gets the opportunity to react further — with the next molecule of alkyl halide; and so on up to the formation of a quaternary salt. In the case of haloforms this is the same thing, only the formation of the "secondary" and "tertiary" amine turns out to be intramolecular reactions: first ammonia gives a primary amine with the haloform: a dihalomethylamine, for example HCl2CNH2. This amine is bound by the released hydrogen halide into a salt — a hydrohalide, for example HCl2CNH3+Cl-. Thanks to...
 
 ```
 <div class='pair'>
     <video width="640" height="360" controls>
       <source src="{{ 'videos/Avak/CHI3_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
+      Your browser does not support the video tag.
     </video>
 </div>
 <br/>
