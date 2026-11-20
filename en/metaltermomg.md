@@ -3,85 +3,85 @@ layout: fuckallshit
 lang: en
 title: Checking a USSR-era story about airplane wheels
 ---
-**Важно!**
-Эксперименты, описанные в этой статье, могут быть опасными и потенциально вредными для здоровья и безопасности. Проводите их только в контролируемых условиях и с соблюдением всех мер предосторожности. Автор не несет ответственности за любые последствия, возникшие в результате проведения описанных экспериментов. Не повторяйте эти эксперименты без соответствующей подготовки и разрешения.
+**Important!**
+The experiments described in this article can be dangerous and potentially harmful to health and safety. Conduct them only under controlled conditions and with all safety precautions observed. The author is not responsible for any consequences arising from carrying out the described experiments. Do not repeat these experiments without appropriate preparation and permission.
 
-**Юридическое предупреждение:**
-Информация, представленная в этой статье, предназначена исключительно для образовательных целей и не должна использоваться для проведения экспериментов без соответствующего разрешения и соблюдения всех законодательных норм и правил безопасности. Автор не несет ответственности за любые юридические последствия, возникшие в результате использования этой информации.
+**Legal warning:**
+The information presented in this article is intended solely for educational purposes and should not be used to conduct experiments without appropriate permission and compliance with all legislative norms and safety rules. The author is not responsible for any legal consequences arising from the use of this information.
 
-**Предупреждение:**
-Эксперименты, описанные в этой статье, требуют специальной подготовки и знаний в области химии. Не проводите их без соответствующей квалификации и оборудования. Автор не несет ответственности за любые последствия, возникшие в результате неправильного проведения экспериментов.
+**Warning:**
+The experiments described in this article require special preparation and knowledge in chemistry. Do not conduct them without appropriate qualifications and equipment. The author is not responsible for any consequences arising from improper conduct of the experiments.
 
-**Предупреждение о безопасности:**
-Все описанные в этой статье эксперименты должны проводиться в строгом соответствии с правилами безопасности и под наблюдением квалифицированного специалиста. Автор не несет ответственности за любые травмы, повреждения или другие негативные последствия, возникшие в результате проведения экспериментов.
+**Safety warning:**
+All experiments described in this article must be carried out in strict accordance with safety rules and under the supervision of a qualified specialist. The author is not responsible for any injuries, damage, or other negative consequences arising from the experiments.
 
-**Предупреждение:**
-Эксперименты, описанные в этой статье, не предназначены для повторения в домашних условиях. Все описанные процедуры должны проводиться только в специализированных лабораториях и под наблюдением квалифицированного персонала. Автор не несет ответственности за любые последствия, возникшие в результате неправильного или несанкционированного проведения экспериментов.
+**Warning:**
+The experiments described in this article are not intended to be repeated at home. All described procedures must be carried out only in specialized laboratories and under the supervision of qualified personnel. The author is not responsible for any consequences arising from improper or unauthorized conduct of the experiments.
 
 **...**
-Состав не является орудием, не является чем-то плохим. Он просто есть, это просто демонстрация металлотермической реакции в научно-позновательных целях
+The composition is not a weapon, not something bad. It simply exists; this is just a demonstration of a thermite-type reaction for educational and informative purposes.
 
-**НЕЛЬЗЯ делать в закрытом помещение**
-могут выделяться соединения серы, сероводород и окислы, которые могут вызвать сильную интоксикацию, если какие-то бапки говорят делать дома реакцию, а не на улицу, то изучите статью о пожарной безопасности
+**DO NOT do this indoors**
+sulfur compounds, hydrogen sulfide and oxides may be released, which can cause severe intoxication. If some "experts" say to do the reaction at home rather than outside, study fire safety.
 
-Видео является демонстрацией, без призывов, без позывов. Орудиев нет.
+The video is a demonstration, without calls or incitement. No weapons.
 ---
 
-Очень часто можно услышать от людей, уже в возрасте, как они какие-то колеса пилили для того что бы получать магний и потом смешивали с кое-чем. 
-Если их распрашивать, то каждый раз показания разные. То появляется и "сера" от спичек, то появляется турбо-зажигалка, то от спичек головка. То нельзя долго хранить иначе окислится.
-В общем целый набор всего, что я сам пошёл и решил проверить.
-Для эксперимента нам понадобится ...
-Распрашивая и показывая пришли к тому, что магний у них в кислороде там горит и это не металлотермия, хотя явно по Бекетову будет восстанавливать, но не так хорошо, как чистый оксид марганца 4. Некоторые подобные составы сложно "заводятся", так что не стоит удивляться. Копаясь в интернете я находил, что если растирать и само может возгореться, если это правда, то это не просто магний нагревается и разлагается до манганата и далее до гипоманганта, а как раз металлотермия. Да магний может гореть и в углекислом газе, но при нагреве.
-Цинк тоже может вспыхнуть, но тут нужна горелка и температуры там под 1000С градусов. А пыль, пироформное железо даже на воздухе просто самовозгорается
-Для эксперимента я брял растертые элементы (состав не рабочий, брал с интернета, не сам считал сначала)
+You can often hear from older people how they used to saw some wheels to get magnesium and then mixed it with something.
+If you ask them, the accounts differ every time. Sometimes "sulfur" from matches appears, sometimes a turbo lighter, sometimes match heads. Sometimes they say you can't store it for long or it will oxidize.
+In general, a whole set of everything — so I went and decided to check it myself.
+For the experiment we will need...
+After asking around and showing, we came to the conclusion that their magnesium burns in oxygen there and this is not thermite, although according to Beketov's series it will reduce, but not as well as pure manganese(IV) oxide. Some similar compositions are hard to "start", so that's not surprising. Browsing the internet I found that if you grind it, it may even ignite on its own — if that is true, then it is not just magnesium heating up and decomposing to manganate and then to hypomanganate, but rather a thermite reaction. Yes, magnesium can also burn in carbon dioxide, but when heated.
+Zinc can also flash, but there you need a burner and temperatures around 1000°C. And dust, pyrophoric iron, can even self-ignite in air.
+For the experiment I took ground components (a non-working composition, I took it from the internet, did not calculate it myself at first).
 
-<h2>Фотографии/видео: </h2>
+<h2>Photos/videos: </h2>
 
 <div class='pair'>
-    <p>После заведения спиртом, горит и издает звуки:</p>
+    <p>After ignition with alcohol, burning and making sounds:</p>
     <video width="640" height="360" controls>
       <source src="{{ 'experimets/metalotermija/test_after_spirit_1_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
+      Your browser does not support the video tag.
     </video>
 </div>
 <br/>
 <div class='pair'>
-    <p>После заведения спиртом, горит и издает звуки (уже лучше слышно, тут чуть больше взято): видео нет</p>
+    <p>After ignition with alcohol, burning and making sounds (already better heard, a bit more was taken here): no video</p>
 </div>
 <br/>
 <div class='pair'>
-    <p>Проверка с цинком (как видно, как и с магнием, причина не в разложение перманганата до кислорода. Скорее уже потом, второстепенное после):</p>
+    <p>Test with zinc (as can be seen, as with magnesium, the cause is not the decomposition of permanganate to oxygen. Rather that is secondary, afterwards):</p>
     <video width="640" height="360" controls>
       <source src="{{ 'experimets/metalotermija/test_with_zn_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
+      Your browser does not support the video tag.
     </video>
 </div>
 <br/>
 <div class='pair'>
-    <p>Проверка заведется ли смесь от спички? (не завелась. может мало) [без добавок]: нет видео</p>
+    <p>Test whether the mixture will ignite from a match? (it did not ignite. maybe too little) [without additives]: no video</p>
 </div>
 <br/>
 <div class='pair'>
-    <p>Примерный состав со стороны X/Y: нет фото</p>
+    <p>Approximate composition from source X/Y: no photo</p>
 </div>
 <br/>
 <div class='pair'>
-    <p>Отходы после реакции (если смотреть, то много магния непрореагированного есть, нужно проверять кислотой).</p>
+    <p>Waste after the reaction (if you look, there is a lot of unreacted magnesium; needs to be checked with acid).</p>
     <img src="/experimets/metalotermija/othodi.jpg"/>
 </div>
 <br/>
 <hr/>
-В спичках нет серы, там хлорат в смеси с другими веществами. Таблица Бекетова для понимания металлотермии:
+There is no sulfur in matches; there is chlorate in a mixture with other substances. Beketov's table for understanding thermite reactions:
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fznaesh-kak.com%2Fwp-content%2Fuploads%2F2022%2F02%2F31-1200x464.jpg&f=1&nofb=1&ipt=158a12daa45139f37ea9d1666f2347cf6059d6de420bf9fd4d3f1bf768f6c249"/>
 
 <hr/>
 
-Состав не пишу, но я его посчитал стехиометрически. Я его не нашёл в интернете, а высчитал самостоятельно. Я его не публикую во избежания проблем. Добавил один компонент, который помог.
-(довольно опасная смесь)
+I am not publishing the composition, but I calculated it stoichiometrically. I did not find it on the internet, I calculated it myself. I am not publishing it to avoid problems. I added one component that helped.
+(a rather dangerous mixture)
 ```
 Mg+S = MgS
-KMnO4 + Mg => MgO + K2O + MnO2 (Может и до чистого марганца дойти. Коэффиценты не пишу)
+KMnO4 + Mg => MgO + K2O + MnO2 (May also reach pure manganese. Coefficients not written)
 
 Mn +7 -3e = > Mn+4
 Mg 0 + 2e => Mg+2
@@ -90,21 +90,21 @@ Mg 0 + 2e => Mg+2
 6/2 = 3
 6/3 = 2
 
-2KMnO4 + 3Mg => 3MgO + K2O + 2MnO2 (Может и до чистого марганца дойти. Коэффиценты не пишу)
+2KMnO4 + 3Mg => 3MgO + K2O + 2MnO2 (May also reach pure manganese. Coefficients not written)
 
 ```
-Сделал я таков состав и пошёл с банкой искать подходящее место, в жилом помещение нельзя такое проверять, даже если потом убирать потом за собой. Пожарная безопасность. Думал на улице, но до меня "прикопались" какие-то пожилые люди и проклинали меня на неудачу и обзывались. Допрашивали "что" делаю. Сказал, что проверял смесь и достаточно им в целом. Во избежания набутыливания на бутылку пришлось проверить данную смесь (без хлората, тут другой компонент) в другом месте. Вспышка ослепляющая, ничего не сказать, но заводится таки сложно даже от спирта. Чисто компонент помог. Вот результаты:
+I made such a composition and went with a jar to look for a suitable place — you cannot test this in a residential area, even if you clean up afterwards. Fire safety. I thought of doing it outside, but some elderly people "harassed" me, cursed me for bad luck and called me names. They interrogated me about what I was doing. I said I was testing a mixture and that was enough for them. To avoid being bothered further, I had to test this mixture (without chlorate, there is a different component here) in another place. A blinding flash, nothing to say, but it is indeed hard to ignite even with alcohol. The added component helped. Here are the results:
 <div class='pair'>
-    <p>Порошочек: нет фото</p>
+    <p>Powder: no photo</p>
 </div>
 <br/>
 <div class='pair'>
-    <p>Реакция.</p>
+    <p>Reaction.</p>
     <video width="640" height="360" controls>
       <source src="{{ 'experimets/metalotermija/withsulfur_web.mp4' | relative_url }}" type="video/mp4">
-      Ваш браузер не поддерживает видео.
+      Your browser does not support the video tag.
     </video>
 </div>
 <br/>
-**Дисклаймер**
-Полный состав смеси не даю, а то плохим буду, не делайте это дома ни в коем случае, ни в коем случае вообще не делайте этого это очень плохо и данный эксперимент был научно интересных побуждений, без призывов и позывов и вообще вспышка такая, что зайчик потом. Можно так и в травмпункт попасть, поэтому не делайте такое. Ну, а без одного элемента оно чот не работает нифега. Короче говоря, теперь вот можно понять примерно как это работает на практике, кому интересно.
+**Disclaimer**
+I am not giving the full composition of the mixture, so as not to be a bad person. Do not do this at home under any circumstances, do not do this at all — it is very bad, and this experiment was done out of scientific curiosity, without calls or incitement, and in general the flash is such that you see spots afterwards. You can end up in the emergency room, so do not do this. Well, and without one element it didn't work at all. In short, now you can roughly understand how this works in practice, for those who are interested.

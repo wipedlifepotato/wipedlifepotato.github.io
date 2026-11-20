@@ -3,7 +3,7 @@ layout: fuckallshit
 lang: en
 title: Aluminum foil and iron(II) sulfate
 ---
-Фотки/Видео:
+Photos/Videos:
 <div class='pair'>
     <img src="/images/feso4/1.jpg"/>
 </div>
@@ -74,74 +74,76 @@ title: Aluminum foil and iron(II) sulfate
 <br/>
 <video width="640" height="360" controls>
   <source src="{{ 'images/feso4/magnetic_1.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 <br/>
 <video width="640" height="360" controls>
   <source src="{{ 'images/feso4/magnetic_2.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 <hr/>
 
-## Предисловие
+## Preface
 
-Очень давно зашла речь про реакцию аллюминивой фольги, поваренной соли и медного купороса. Мне говорили, что там получаются не окислы/оксид (Cu2O) меди I, а чистая медь. Но получается не желтовато-металлический осадок, а красный. При электролизе я получал чистую медь, она не красного оттенка. Что бы это доказать я произвел опыт.
-Тут можно мою переписку с ИИ и споры почитать с ним - https://g.co/gemini/share/47533d6d9818
-Пример того, на сколько он/я глючный. Железный купорос 100 мл на 600 мл воды очень плохо растворялся, при добавление фольги лишь слабо шли пузыри (водород, тк гидролиз и серная кислота и её очень-очень мало там). Я попробовал добавить кислоты серной в следовых кол-вах как энергию активации, это не дало результатов. При добавление хлорида железа тоже реакция не ускорилась. При добавление поваренной соли незначительно, возможно образуется аллюминат натрия, но мне кажется, просто сдвигается pH. При добавление щелочи в следовых кол-вах сразу пошёл осадок гидроокислов и пошли пузыри через какое-то время, реакция пошла бурно и можно наблюдать образование FeO(OH)/FeO/Fe2O3. Медь в щелочи Cu(OH)2 / Cu(OH) не стабильные соединения как и серебра и сразу разлагаются, у меня уже есть опыт с солью серебра и получения оксида серебра через щелочь. Примерно тоже самое. То следовое кол-во водорода не способно восстановить всё кол-во оксидов, <s>да и там по бекетову</s>(не работает с окислами) в фольге оксидная пленка, это не амальгама. Поэтому реакция идет медленно в плане восстановления водородом, ... и поэтому с медным купоросом так получается в основном <s>Cu2O</s>(Cu), который так же можно получить <s>из CuO</s>, если долго греть горелкой с сильным напором (краснеет порошок, может чистая медь)...<s> При этом Cu2O более активный, чем CuO(перепроверять нужно). При восстановление железа я получил черный сгусток с маленьким металлическим блеском, в основном черные сгустки почти что порошок слипшийся. Все материалы выше (за компанию зачеркнул)</s>
+A long time ago there was a discussion about the reaction of aluminum foil, table salt, and copper(II) sulfate. I was told that it produces not copper(I) oxides/oxide (Cu2O), but pure copper. But the result is not a yellowish-metallic precipitate, it is red. During electrolysis I obtained pure copper, and it did not have a red tint. To prove this, I carried out an experiment.
+You can read my correspondence and arguments with AI here — https://g.co/gemini/share/47533d6d9818
+An example of how glitchy it/I can be. Iron(II) sulfate, 100 ml in 600 ml of water, dissolved very poorly; when foil was added, only weak bubbling occurred (hydrogen, due to hydrolysis and sulfuric acid, and there is very, very little of it there). I tried adding a trace amount of sulfuric acid as activation energy — it gave no results. Adding iron(III) chloride also did not significantly speed up the reaction. Adding table salt did so insignificantly; perhaps sodium aluminate forms, but I think it simply shifts the pH. When a trace amount of alkali was added, a precipitate of hydroxides immediately formed and bubbling started after some time; the reaction became vigorous and you can observe the formation of FeO(OH)/FeO/Fe2O3. Copper compounds in alkali, Cu(OH)2 / Cu(OH), are not stable, like those of silver, and decompose immediately — I already have experience with a silver salt and obtaining silver oxide via alkali. It is roughly the same. That trace amount of hydrogen is not able to reduce the entire amount of oxides, <s>and also, according to Beketov's series</s> (it does not work with oxides), there is an oxide film on the foil — it is not an amalgam. Therefore the reaction proceeds slowly in terms of reduction by hydrogen, ... and that is why with copper sulfate it mostly produces <s>Cu2O</s> (Cu), which can also be obtained <s>from CuO</s> if you heat it for a long time with a strong flame (the powder turns red, maybe pure copper)... <s>At the same time Cu2O is more active than CuO (needs to be rechecked). When reducing iron I obtained a black lump with a slight metallic sheen, mostly black lumps almost like caked powder. All the materials above (crossed out for company)</s>
 
-## Переписка (по стилю)
+## Correspondence (by style)
 
 
 ```
-Про кусок железки попозже, сообщение удалилось что писал. Кажется нашёл. Проверял магнийтермией смесь. Один писал что натрий хлорид + фольга + медный купорос получается не окиси, а чистая медь. Я проверил с железным купоросом. Хлорид железа не ускорил значительно реакцию, поваренная соль тоже, зато щелочь сразу пузыри пошли, но сначала осадок я так понимаю гидроокиси. В основном черный/зеленоватыц осадок, немного бурый. При нагреве дал FeO(OH), а под слоем возможно FeO*Fe2O3 но факт того, что не чистое железо, чистое железо не дало бы оттенок и не было бы бурым прям в воде и слоем на фольге. Позже выложу исследование
+About the piece of iron later, the message I wrote was deleted. Seems I found it. I tested the mixture by magnesiothermy. One person wrote that sodium chloride + foil + copper sulfate gives not oxides but pure copper. I tested it with iron(II) sulfate. Iron(III) chloride did not significantly speed up the reaction, table salt also did not, but alkali immediately caused bubbles, although at first I think a hydroxide precipitate formed. Mostly a black/greenish precipitate, with some brown. When heated it gave FeO(OH), and under the layer possibly FeO*Fe2O3, but the fact is that it is not pure iron — pure iron would not give a tint and would not be brown directly in water and as a layer on the foil. I will post the research later
 
 ....
 ```
 
-Ответ:
+Reply:
 
 ```
-Это абсолютно ТОЧНО котовник. Разотрите его лист — будет мятообразный запах. Змееголовники (и похожие на них шлемники) такого запаха не имеют; у змееголовников запах слабый и малохарактерный, у шлемников запаха вообще практически нет. Такой супер пышный ветвистый огромный мощный куст образуют котовники, но НЕ змееголовники. Однако это не плохо, а очень шикарно: советую распробовать этот котовник (вкушать цветущие верхушки перед сном); на первый раз дозу возьмите маленькую (всегда первая проба должна быть маленькая — мало ли, может будет индивидуальная негативная реакция)! В Красноярске котовник тоже встречается, но у меня пока до него руки не дошли. Змееголовник поникший нынче в Красноярске ОТЦВЕТАЕТ; скоро может стать малозаметным (когда цветов нет). В данный момент (сегодня) я нарвал шлемник скордиелистный (он сейчас только начинает зацветать) и съел, сегодня первая проба. Это похожее растение из этого же семейства, но с более узкими листьями и несколько отличающимися цветками.
+This is absolutely EXACTLY catnip. Crush a leaf — it will have a minty smell. Dragonheads (and skullcaps similar to them) do not have such a smell; dragonheads have a weak and uncharacteristic smell, skullcaps have practically no smell at all. Such a super lush, branched, huge powerful bush is formed by catnip, but NOT by dragonheads. However, this is not bad, but very wonderful: I recommend trying this catnip (consume flowering tops before bed); for the first time take a small dose (the first try should always be small — you never know, there may be an individual negative reaction)! In Krasnoyarsk catnip is also found, but I haven't gotten around to it yet. Moldavian dragonhead is currently blooming in Krasnoyarsk; it may soon become inconspicuous (when there are no flowers). At the moment (today) I picked skullcap scordiifolia (it is just beginning to bloom) and ate it, today is the first try. This is a similar plant from the same family, but with narrower leaves and slightly different flowers.
 
-Про МЕДЬ — я тоже на это натыкался, и судя по всему ДА: там получается губчатая медь (осадок металлической меди, а не Cu2O). К раствору медного купороса добавляется (и растворяется в нём) поваренная соль; затем кладётся алюминиевая фольга. Фольга, выделяя водород, растворяется, и выпадает красновато-буроватый осадок, и это, судя по всему, именно металлическая медь.
+About COPPER — I also came across this, and apparently YES: what forms there is spongy copper (a precipitate of metallic copper, not Cu2O). Table salt is added to (and dissolves in) a solution of copper sulfate; then aluminum foil is placed in it. The foil dissolves, releasing hydrogen, and a reddish-brown precipitate falls out, and this, apparently, is precisely metallic copper.
 ```
  
-Мои сообщения:
+My messages:
 
 ```
 https://wipedlifepotato.github.io/experimentfeso4al2o3.html
 
-Мне кажется там смесь будет гидрооксидов/оксидов/... А именно только с поваренной солью попозже проверю
+I think there will be a mixture of hydroxides/oxides/... And I will check with table salt only later
 ...
-У меня старое видео где я электролизом восстанавливал порошок меди мелкий из купороса. Где на аноде + была медь и шла к катоду -, на нём порошок образовывался на гвозде и гвоздь если засунуть в раствор медного купороса, то другой оттенок, чем когда с фольгой
+I have an old video where I recovered copper powder by electrolysis from copper sulfate. Where copper was at the + anode and went to the - cathode, powder formed on the nail, and if you put the nail into a copper sulfate solution, you get a different tint than when using foil
 ...
-Может и чистая медь, но почему такого оттенка и в .........  Может перепроверю ещё раз, а на готовый осадок кислоту налью. Если растворится, то окислы/окисел.
+Maybe it is pure copper, but why such a tint and in ......... Maybe I will recheck again, and pour acid on the finished precipitate. If it dissolves, then it is oxides/oxide.
 ```
 
-Суть:
+Summary:
+
 ```
-Интернет пишет, что [CuCl4]2- ion появляется кислоты в NaCl
-Тогда у нас кислота H2[CuCl4] что реагирует с фольгой и потом сразу же реагирует с водой и выделяется водород, и тогда там даже интереснее всё если так. И сравнивать с железным купоросом, можно было не сравнивать
+The internet says that the [CuCl4]2- ion appears with acid in NaCl
+Then we have the acid H2[CuCl4] which reacts with the foil and then immediately reacts with water and hydrogen is released, and then everything is even more interesting if so. And comparing it with iron(II) sulfate may not have been necessary
 
 https://g.co/gemini/share/f010ce76feca
 
-С ИИ обсудили. При хороших условиях там восстанавливается водородом Na2[CuCl4] что может и так. Я не знаю как водород выбьет хлор из иона. Ему сначала электрон надо дать. Если только радиацией, но если ИИ не врет, то так все объясняется. И там правда от разных условий может по разному реакция пойти. Я например на даче брал вместо поваренной соли сыпал следовые количества соды пищевой, когда шипение кончалось и у меня не красный малахит, а синий осадок вышел. Фольга тоже пузыри давала
+I discussed it with AI. Under good conditions, Na2[CuCl4] is reduced by hydrogen, which may be the case. I don't know how hydrogen would knock chlorine out of the ion. It would first need to give an electron. Unless by radiation, but if the AI is not lying, that explains everything. And indeed, under different conditions the reaction can go differently. For example, at the dacha I used trace amounts of baking soda instead of table salt; when the fizzing stopped I got a blue precipitate instead of red malachite. The foil also gave bubbles
 
-Если котовник нужен будет, то могу нарвать
+If you need catnip, I can pick some
 
-И давно Вы писали что так с фольгой окисел получается, в общем при разных условиях разный результат. Может  и вообще никакого результата не дать..........
+And a long time ago you wrote that this gives oxide with foil — in general, under different conditions you get different results. Maybe it won't give any result at all...........
 
-Не зелёный малахит*
+Not green malachite*
 
-И Бекетова пишет ряд с окислами не работает. Тогда все не так думаю, на передумать
+And Beketov's series says it does not work with oxides. So I think everything is different, I need to rethink it
 ```
-(Na2[CuCl4] там)
+(Na2[CuCl4] there)
 
-Ответы:
+Replies:
+
 ```
-ЖЕЛЕЗО значительно активнее меди, поэтому если даже оно на миг и возникнет в виде металлической пылинки — она сразу же окислится в окислы и гидроокислы. Я пробовал электролизом водных растворов осаждать железо и получал железное покрытие на графитовом электроде, но оно за считанные минуты после выключения тока окислялось в ржавчину. Медь же гораздо инертнее — настолько, что в ряду напряжений находится до водорода. Поэтому ни из воды, ни из кислот она водород не выделяет. Поэтому и остаётся медная пудра под водным раствором не окисленной. ДА: раньше я читал (в Интернете), что в этих условиях медь даёт Cu2O (и Вам об этом писàл), но последующие опыты с этим красновато-буроватым осадком указывают, что это всё-таки именно металлическая медь. Про роль поваренной соли — тут дело экзотичнее. Дело в том, что алюминий с соляной кислотой реагирует значительно легче, чем с серной. Соли в водных растворах находятся в виде молекулярных ассоциатов; например, CuCl2 в воде существует в виде Cu(OH)2×2HCl. Таким образом, в водных растворах хлоридов реально имеется соляная кислота, а в растворах сульфатов — серная. Причём гидролиз может приводить к тому, что, например, водные растворы FeCl3 имеют обжигающий «запах» HCl. То есть в водных растворах хлоридов слабых оснований имеется «свободная» соляная кислота.
+IRON is significantly more active than copper, so even if it appeared for a moment as metallic dust, it would immediately oxidize into oxides and hydroxides. I tried to deposit iron from aqueous solutions by electrolysis and obtained an iron coating on a graphite electrode, but within minutes after turning off the current it oxidized into rust. Copper, on the other hand, is much more inert — so much so that in the reactivity series it is to the right of hydrogen. Therefore it does not displace hydrogen from water or acids. That is why copper powder remains unoxidized under an aqueous solution. YES: earlier I read (on the internet) that under these conditions copper gives Cu2O (and I wrote this to you), but subsequent experiments with this reddish-brown precipitate indicate that it is still metallic copper. About the role of table salt — this is more exotic. The fact is that aluminum reacts with hydrochloric acid much more easily than with sulfuric acid. Salts in aqueous solutions exist as molecular associates; for example, CuCl2 in water exists as Cu(OH)2×2HCl. Thus, in aqueous solutions of chlorides there is actually hydrochloric acid, and in solutions of sulfates — sulfuric acid. Moreover, hydrolysis can lead to the fact that, for example, aqueous solutions of FeCl3 have a burning "smell" of HCl. That is, in aqueous solutions of chlorides of weak bases there is "free" hydrochloric acid.
 ..
-Про медь хотел сказать «ПРАВЕЕ» водорода, то есть «ПОСЛЕ» водорода (написал «до», пардон).
+About copper I meant to say "TO THE RIGHT" of hydrogen, that is "AFTER" hydrogen (I wrote "before", pardon).
 ..
-Вообще, отмечу, что тема Cu2O весьма «сырая»; однозначную информацию ещё предстоит получить. Чтобы получить «однозначный» Cu2O, я воспользовался «классическим» способом: получил Na2[Cu(OH)4] и его водный раствор нагрел с глюкозой и NaOH. Осадок получился. Однако этот осадок «обязан» легко растворяться в нашатырном спирте с образованием бесцветного раствора [Cu(NH3)2]OH, а он этого не стал делать: лишь на воздухе ОЧЕНЬ неохотно лишь крошечная его часть растворилась (после ОЧЕНЬ долгого интенсивного перемешивания) с образованием чернильно-синего раствора [Cu(NH3)4](OH)2. Аналогично но более активно вёл себя осадок, полученный из алюминиевой фольги и водного раствора медного купороса с добавлением поваренной соли. По утверждениям из литературы, Cu2O «обязан» легко растворяться в нашатырном спирте с образованием бесцветного раствора [Cu(NH3)2]OH. А металлическая медь лишь на воздухе медленно окисляется в нашатырном спирте (поглощая кислород из воздуха) с образованием чернильно-синего раствора [Cu(NH3)4](OH)2. То есть мои опыты и с глюкозой, и с фольгой дают результат, который РАСХОДИТСЯ с официальными утверждениями. Поэтому точную информацию: там CuO, Cu2O или Cu — ещё предстоит получить. Мало того, про «опыт с глюкозой» учебники дают явную лажу: утверждают, что «осадок Cu(OH)2 не выпадает из купороса и едкого натра в присутствии глюкозы благодаря тому, что глюкоза имеет свойства многоатомного спирта». В качестве доказательства показывают чернильно-синий раствор. ОДНАКО чернильно-синий раствор вместо осадка Cu(OH)2 получается и БЕЗ глюкозы просто потому, что получается Na2[Cu(OH)4]. Нам говорят, что глицерин и сорбит «растворяют гидроксид меди», но реально Cu(OH)2 в воде с ними НЕ реагирует!!! Реакция идёт только при добавлении NaOH. Но с NaOH получается чернильно-синий раствор Na2[Cu(OH)4] и БЕЗ многоатомных спиртов и глюкозы! То есть сами авторы учебников эти процессы не понимают. Мало того, если к водному раствору медного купороса с глюкозой добавить едкий натр — результат может быть иным, чем если сперва получить раствор Na2[Cu(OH)4] и затем добавить к нему глюкозу и нагреть. То есть, ещё раз констатирую, тема «сырая»: нужно провести дополнительные исследования, чтобы надёжно узнать, что там получатся.
+In general, I note that the topic of Cu2O is quite "raw"; unambiguous information is yet to be obtained. To obtain "unambiguous" Cu2O, I used the "classical" method: I obtained Na2[Cu(OH)4] and heated its aqueous solution with glucose and NaOH. A precipitate was obtained. However, this precipitate "should" easily dissolve in aqueous ammonia forming a colorless solution of [Cu(NH3)2]OH, but it did not do so: only in air did a VERY small part of it dissolve VERY reluctantly (after VERY long intensive stirring), forming an ink-blue solution of [Cu(NH3)4](OH)2. Similarly but more actively behaved the precipitate obtained from aluminum foil and an aqueous solution of copper sulfate with added table salt. According to literature claims, Cu2O "should" easily dissolve in aqueous ammonia forming a colorless solution of [Cu(NH3)2]OH. And metallic copper only slowly oxidizes in aqueous ammonia in air (absorbing oxygen from the air), forming an ink-blue solution of [Cu(NH3)4](OH)2. That is, my experiments with both glucose and foil give a result that DIFFERS from official claims. Therefore, exact information — whether it is CuO, Cu2O, or Cu — is yet to be obtained. Moreover, about the "glucose experiment" textbooks give an obvious mistake: they claim that "the Cu(OH)2 precipitate does not fall out from copper sulfate and caustic soda in the presence of glucose because glucose has the properties of a polyhydric alcohol." As proof they show an ink-blue solution. HOWEVER, an ink-blue solution instead of a Cu(OH)2 precipitate is also obtained WITHOUT glucose simply because Na2[Cu(OH)4] is formed. We are told that glycerin and sorbitol "dissolve copper hydroxide", but in reality Cu(OH)2 in water does NOT react with them!!! The reaction occurs only when NaOH is added. But with NaOH an ink-blue solution of Na2[Cu(OH)4] is obtained even WITHOUT polyhydric alcohols and glucose! That is, the textbook authors themselves do not understand these processes. Moreover, if caustic soda is added to an aqueous solution of copper sulfate with glucose, the result... (correspondence continues)
 ```
