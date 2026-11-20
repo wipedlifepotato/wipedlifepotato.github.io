@@ -1,1 +1,6 @@
 notallowed
+assets/notincluded/input.txt
+assets/notincluded/output.txt
+notebooks/.ipynb_checkpoints/
+assets/notincluded/encrypt.py
+assets/notincluded/encrypt.py
