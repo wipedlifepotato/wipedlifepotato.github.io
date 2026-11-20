@@ -2,54 +2,54 @@
 layout: text
 lang: en
 title: Attempt to break protein bonds in hair with alkali without boiling and biuret reaction example with egg
+translated: true
 ---
-# Супер дисклеймер
-**ПРИ РАБОТЕ С ЩЁЛОЧЬЮ НУЖНО ИСПОЛЬЗОВАТЬ СИЗ, МОЖЕТ РАЗЪЕСТЬ ГЛАЗА. АВТОР ПУБЛИКУЕТ КАК ЛИЧНЫЙ ЭКСПЕРИМЕНТ И ОТКАЗЫВАЕТСЯ НЕСТИ РИСКИ ЗА НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ ИНФОРМАЦИИ, ОСОБЕННО БЕЗ ПОНИМАНИЯ ПРОИСХОДЯЩЕГО**
 
-# Цель
+# Strong disclaimer
+**WHEN WORKING WITH ALKALI YOU MUST USE PPE — IT CAN DESTROY EYES. THE AUTHOR PUBLISHES THIS AS A PERSONAL EXPERIMENT AND ACCEPTS NO RESPONSIBILITY FOR IMPROPER USE OF THIS INFORMATION, ESPECIALLY WITHOUT UNDERSTANDING WHAT IS HAPPENING.**
 
-Проверить, возможно ли разрушить белковые связи в волосах щелочью без нагревания
+# Goal
 
-Реагенты: KOH в количестве, обеспечивающем pH 14. Даже немного в переизбытке.
-Сульфат меди (CuSO4*nH2O) в следовых кол-вах. С волосами пытался добавлять до максимума ожидая фиолетовый оттенок, лишь реакция похожая на получения малахита.
+To check whether it is possible to break protein bonds in hair with alkali without heating.
 
-# Сами волосы
+Reagents: KOH in an amount sufficient to provide pH 14, even slightly in excess.
+Copper sulfate (CuSO₄·nH₂O) in trace amounts. With the hair I tried adding up to the maximum, expecting a violet tint, but only got a reaction similar to obtaining malachite.
 
-![volosy](experimets/Biuret/volosi.jpg)
+# The hair
 
-Положил волосы с головы и немного не с головы в раствор щелочи (едкого кали). Оставил на дня 3.
+![volosy](/experimets/Biuret/volosi.jpg)
 
-Через 3 дня отделил волосы по максимум от раствора и залил туда немного раствора сульфата меди, как результат вообще не биуретовая реакция, а зеленый осадок (возможно малахита)
-При этом, pH за несколько дней поменялся, а сам раствор на ложке был желтоватым. Запах не из приятных
+I placed hair from my head and some not from my head into the alkali solution (potassium hydroxide). I left it for about 3 days.
 
-![volosy](experimets/Biuret/nachaloreactionsvolosami.jpg)
-![volosy](experimets/Biuret/otvolosmalahit.jpg)
-![volosy](experimets/Biuret/otvolosmalahit1.jpg)
+After 3 days I separated the hair as much as possible from the solution and added a little copper sulfate solution. As a result there was no biuret reaction at all, but a green precipitate (possibly malachite). The pH changed over several days, and the solution on the spoon was yellowish. The smell was unpleasant.
 
-Как видно, никакой биуретовой реакции вообще нет. Следовательно, либо реакция гидролиза белков не идет без агрессивной реакции (нагревания, энергия активации), либо настолько сильна связь в волосах. Стоит учесть, что волосы не с головы всё же вроде растворились или стали жижой. 
+![volosy](/experimets/Biuret/nachaloreactionsvolosami.jpg)
+![volosy](/experimets/Biuret/otvolosmalahit.jpg)
+![volosy](/experimets/Biuret/otvolosmalahit1.jpg)
 
-# Биуретовая реакция с яйцом
+As you can see, there is no biuret reaction at all. Therefore, either protein hydrolysis does not proceed without aggressive conditions (heating, activation energy), or the bonds in hair are simply too strong. It should be noted that the hair not from the head seemed to dissolve or turn into a slurry.
 
-Биуретовая реакция с белками, пептидами, это такая реакция, при которой белки дают фиолетовый оттенок в щелочной среде с солями меди. Эта реакция имеет только практическое применение в аналитической химии.
+# Biuret reaction with egg
 
-Как пример биуретовой реакции взял яйцо и размешал его до массы однородной (с желтком). Добавил щелочи до pH 14
+The biuret reaction with proteins and peptides is a reaction in which proteins give a violet tint in an alkaline medium with copper salts. This reaction has only practical application in analytical chemistry.
 
-![egg](experimets/Biuret/egg.jpg)
+As an example of the biuret reaction I took an egg and mixed it into a homogeneous mass (with the yolk). I added alkali to pH 14.
 
-Прилил немного раствора сульфата меди
+![egg](/experimets/Biuret/egg.jpg)
 
-![egg](experimets/Biuret/vnachale.jpg)
-![egg](experimets/Biuret/vnachale2.jpg)
-![egg](experimets/Biuret/vnachale3.jpg)
+I added a little copper sulfate solution.
 
+![egg](/experimets/Biuret/vnachale.jpg)
+![egg](/experimets/Biuret/vnachale2.jpg)
+![egg](/experimets/Biuret/vnachale3.jpg)
 
-Через время
+After some time:
 
-![egg](experimets/Biuret/cherezvrema_violet.jpg)
-![egg](experimets/Biuret/violet1.jpg)
+![egg](/experimets/Biuret/cherezvrema_violet.jpg)
+![egg](/experimets/Biuret/violet1.jpg)
 
-Видно явное образование фиолетовго оттенка - биуретовая реакция, а в конце вообще весь раствор почти что фиолетового-синий. Можно увидеть на фотографиях
+A clear formation of a violet tint is visible — the biuret reaction — and in the end almost the entire solution became violet-blue. This can be seen in the photos.
 
-# Вывод
+# Conclusion
 
-Волосы очень устойчивы к щелочам при комнатной температуре. В начале реакции pH была 14, когда начинал добавлять сульфат меди, pH была между 11 до 13.
+Hair is very resistant to alkalis at room temperature. At the beginning of the reaction the pH was 14; when I started adding copper sulfate, the pH was between 11 and 13.

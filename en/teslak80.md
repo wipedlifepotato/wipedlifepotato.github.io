@@ -2,65 +2,67 @@
 layout: default
 lang: en
 title: Tesla K80 for gaming on Windows
+translated: true
 ---
 
-# Tesla k80
+# Tesla K80
 
-![TeslaK80](images/teslak80.jpg)
+![TeslaK80](/images/teslak80.jpg)
 
-- Использование в новых ядрах линукса драйвера Tesla k80, нужен патч - https://gist.github.com/joanbm/d0cb8790ca610fbd2c2e43f30707ce18
-- Перевод статьи [reddit](https://www.reddit.com/r/pcmods/comments/nhfwh7/guide_using_an_nvidia_tesla_k80_datacenter_gpu)
+- To use the Tesla K80 driver on newer Linux kernels, a patch is needed: https://gist.github.com/joanbm/d0cb8790ca610fbd2c2e43f30707ce18
+- Translation of a [Reddit article](https://www.reddit.com/r/pcmods/comments/nhfwh7/guide_using_an_nvidia_tesla_k80_datacenter_gpu)
 
 ---
 
-## Руководство: как использовать NVIDIA Tesla K80 (серверный GPU) для игр на Windows
+## Guide: how to use an NVIDIA Tesla K80 (datacenter GPU) for gaming on Windows
 
-### Что нужно и как подготовить
+### What you need and how to prepare
 
-1. **BIOS — включите "Above 4G decoding"** (декодирование адресов выше 4 ГБ).
+1. **BIOS — enable "Above 4G decoding"**.
 
-2. **Установите драйвер NVIDIA для Tesla K80 (Windows)** — скачайте официальную версию драйвера с сайта NVIDIA. ([Reddit][1])
+2. **Install the NVIDIA driver for Tesla K80 (Windows)** — download the official driver version from NVIDIA's website. ([Reddit][1])
 
-3. **Перезагрузите** компьютер.
+3. **Restart** the computer.
 
-4. **Правка реестра Windows**:
+4. **Edit the Windows registry**:
 
-   * Откройте редактор `regedit`
-   * Перейдите по пути:
+   * Open `regedit`
+   * Go to:
      `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0001`
-   * Сделайте резервную копию раздела.
-   * Удалите ключ `AdapterType`.
-   * Создайте параметр `EnableMsHybrid` (32-бит DWORD) и установите его значение = 1.
-   * Снова **перезагрузите**.
+   * Back up the key.
+   * Delete the `AdapterType` value.
+   * Create an `EnableMsHybrid` value (32-bit DWORD) and set it to `1`.
+   * **Restart** again.
 
-5. **Переключитесь из режима compute (TCC) в графический режим (WDDM)**:
+5. **Switch from compute mode (TCC) to graphics mode (WDDM)**:
 
-   * Запустите командную строку от администратора.
-   * Выполните команду `nvidia-smi -L`, чтобы узнать ID твоего GPU.
-   * Затем `nvidia-smi -g {ID} -dm 0`, где `{ID}` — номер Tesla K80.
+   * Run Command Prompt as administrator.
+   * Run `nvidia-smi -L` to find your GPU ID.
+   * Then run `nvidia-smi -g {ID} -dm 0`, where `{ID}` is the Tesla K80 number.
 
-6. **Перезагрузитесь** ещё раз.
+6. **Restart** once more.
 
-7. **Назначьте игру запускаться на Tesla K80**:
+7. **Assign a game to run on the Tesla K80**:
 
-   * Откройте параметры экрана (правый клик на рабочем столе → «Параметры экрана» → «Графические параметры»).
-   * Добавьте exe-файл игры в список.
-   * Выберите игру → «Параметры» → укажите «Высокая производительность» → Tesla K80.
+   * Open display settings (right-click on the desktop → Display settings → Graphics settings).
+   * Add the game's `.exe` file to the list.
+   * Select the game → Options → choose "High performance" → Tesla K80.
 
-8. **(Опционально) Разгон (Overclocking)** — пользователь упомянул, можно попытаться ускорить работу, но без подробностей. ([Reddit][1])
+8. **(Optional) Overclocking** — the author mentioned you can try to speed it up, but without details. ([Reddit][1])
 
-### Быстрая сводка:
+### Quick summary
 
-| Шаг | Действие                                                  |
-| --- | --------------------------------------------------------- |
-| 1–3 | Включение BIOS и установка драйвера                       |
-| 4   | Правка реестра: удаление AdapterType + EnableMsHybrid = 1 |
-| 5–7 | Переключение режима и назначение игры                     |
-| 8   | (Опционально) Разгон                                      |
+| Step | Action |
+| --- | --- |
+| 1–3 | Enable the BIOS option and install the driver |
+| 4   | Edit the registry: delete `AdapterType` + set `EnableMsHybrid = 1` |
+| 5–7 | Switch mode and assign the game to the GPU |
+| 8   | (Optional) Overclocking |
 
 ---
 
 [1]: https://www.reddit.com/r/pcmods/comments/nhfwh7/guide_using_an_nvidia_tesla_k80_datacenter_gpu/?utm_source=chatgpt.com "(Guide) Using an NVIDIA Tesla K80 Datacenter GPU for ..."
 
-### Пояснение
-Дальше просто тыкаете правой кнопкой мышки по ярлыку с игрой и выбираете в списке запуск на видеокарте Tesla k80. Либо правый клик мыши и параметры графики нужны и там выбрать производительность для приложения. Точно не помню как оно там выглядит, но при нажатии правой кнопкой мыши по ярлыку будет видно вариант запуска приложения.
+### Note
+
+After that, you can simply right-click the game shortcut and choose to run it on the Tesla K80 GPU. Alternatively, you can open the system graphics/performance settings for the application and select the Tesla K80 there. I don't remember the exact menu names, but when you right-click the shortcut you should see an option to run the application on a specific GPU.

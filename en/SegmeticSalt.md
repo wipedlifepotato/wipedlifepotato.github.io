@@ -2,103 +2,111 @@
 layout: text
 lang: en
 title: Seignette salt / Fehling's solution
+translated: true
 ---
 
 <div class='pair'>
-    <p>Начало реакции с фелинговой жидкостью (сегметова соль + медный купорос + добавленная щелочь) (внизу мёд)</p>
+    <p>Start of the reaction with Fehling's solution (Seignette salt + copper sulfate + added alkali) (honey at the bottom)</p>
     <img src="/images/SegmeticSALT/feling/11.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Промежуточное</p>
+    <p>Intermediate stage</p>
     <img src="/images/SegmeticSALT/feling/22.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Почти итог, в конце будет прозрачный раствор с краснокирпичным осадком (Cu2O)</p>
+    <p>Almost final result; in the end there will be a clear solution with a brick-red precipitate (Cu₂O)</p>
     <img src="/images/SegmeticSALT/feling/33.jpg"/>
 </div>
 
-## Дополнительно
+## Additional
 
 ---
 
-## Процессы с гидроксидом меди Cu(OH)₂
+## Processes with copper(II) hydroxide, Cu(OH)₂
 
 <div class='pair'>
-    <p>Cu(OH)₂ Свежий</p>
+    <p>Fresh Cu(OH)₂</p>
     <img src="/images/SegmeticSALT/Cu(OH)2Свежий.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Через несколько часов (изменения структуры/осадка)</p>
+    <p>After several hours (changes in structure/precipitate)</p>
     <img src="/images/SegmeticSALT/Cu(OH)2_ЧерезНесколькоЧасов.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>В шприце через несколько часов</p>
+    <p>In a syringe after several hours</p>
     <img src="/images/SegmeticSALT/Cu(OH)2ВШприцеЧерезНесколькоЧасов.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Автоупаривание — процесс пошел, раствор синеет</p>
+    <p>Auto-evaporation — process started, the solution turns blue</p>
     <img src="/images/SegmeticSALT/Cu(OH)2_АвтоУпаривание_Упаривание_Синеет.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Автоупаренное — начинает греться</p>
+    <p>Auto-evaporated — starting to heat up</p>
     <img src="/images/SegmeticSALT/Cu(OH)2_АвтоУпаренное_НачинаетГреться.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Автоупаренное — начинает греться: выпал осадок вместо синего цвета</p>
+    <p>Auto-evaporated — starting to heat up: a precipitate fell out instead of the blue color</p>
     <img src="/images/SegmeticSALT/Cu(OH)2_АвтоУпаренное_НачинаетГреться_выпалосадоквместосинего.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Промежуточный результат экспериментов</p>
+    <p>Intermediate result of the experiments</p>
     <img src="/images/SegmeticSALT/ПромежуточныйРезультат.jpg"/>
 </div>
 
 <div class='pair'>
-    <p>Конечный результат</p>
+    <p>Final result</p>
     <img src="/images/SegmeticSALT/Cu(OH)2_КонечныйРезультат.jpg"/>
 </div>
 
-### Как итог
+### Conclusion
 
-Как итог - сегметова соль с Cu(OH)2 и сахарами дает желтоватый осадок, в дальнейшем красным. Реакция без нагревания идёт не сразу
-Сам же Cu(OH)2 если его оставить сначала долгое время синий, через несколько часов, как в шприце так и без шприца зеленеет. Похоже на среднию соль меди, дальше вообще выпадает черный осадок.
-При его автоупарывание он становится черной массой. Эту пассу если начать упаривать она кипит и дальше часть синеет, остальная часть желтеет и чернеет по итогу получается что на последней фото.
-То есть, Cu(OH)2 какое-то время выдает не чистый CuO, а что-то другое, но это показывает, что сегметова соль и сахара проявляют себя по другому
+As a result, Seignette salt with Cu(OH)₂ and sugars gives a yellowish precipitate, which later becomes red. Without heating the reaction does not proceed immediately.
 
-# Комментарий Авака
+Cu(OH)₂ itself, if left alone, stays blue for a while at first, but after several hours it turns green, both in a syringe and without it. It looks like a basic copper salt; later a black precipitate falls out.
+
+During auto-evaporation it becomes a black mass. If this paste is heated/evaporated, it boils and then part turns blue, the rest turns yellow and black, and in the end you get what is shown in the last photo.
+
+So Cu(OH)₂ for some time does not yield pure CuO but something else, which shows that Seignette salt and sugars behave differently.
+
+# Comment from Avak
+
 ```
-Глянул. Во–первых, «сегНетова» (там «Н»). :−)
-Во–вторых, там есть интересный «нонсенс», о котором мало кто пишет. Именно присутствие соды (карбоната) приводит к тому, что даже просто при хранении выделяется CuO (чёрный оксид ДВУХвалентной меди). Я с этим сталкивался, когда получал хальконатронит и гидроксосòли меди 2+. Подробно об этом — читайте в моём докладе про хальконатронит (на стр. 6), скачать его ТУТ:
+I took a look. First, it's "SegNetova" (with an "N"). :−)
+Second, there is an interesting "paradox" that few people write about. It is precisely the presence of soda (carbonate) that causes CuO (black copper(II) oxide) to precipitate even during simple storage. I encountered this when obtaining chalconatronite and basic copper(II) salts. Read more in my report on chalconatronite (p. 6), download it HERE:
 https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf
 (o) https://privatebin.wildberries.ru/?e872845....
-(o) (пароль ...)
+(o) (password ...)
 (o) https://wipedlifepotato.github.io/SegmeticSalt.html
 (o)
-(o) Здравствуйте, с сахара остаток что был
+(o) Hello, about the residue left from the sugars
 (o)
-(o) Причем я в остатки засыпал лимонную кислоту и воду. сначала была взвесь черная и шипение, то есть карбонат откуда то там имелся (?)
+(o) I also added citric acid and water to the residue. At first there was a black suspension and fizzing, so there was carbonate there from somewhere (?)
 (o)
-(o) Кстати, яндекс не знаю как сейчас ещё работает
+(o) By the way, I don't know how Yandex works now
 (o)
-(o) По итогу такой раствор за ночь стал, то есть растворилось.
+(o) In the end this solution became like that overnight, meaning it dissolved.
 ```
 <hr/>
 
-<a href="https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">archive org</a>
-<a href="https://wipedlifepotato.github.io/docs/Avak/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">Документ исследования</a>
+<a href="https://archive.org/download/About_the_genesis_and_properties_of_the_chalconatronite/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">archive.org</a>
+<a href="https://wipedlifepotato.github.io/docs/Avak/About_the_genesis_and_properties_of_the_chalconatronite.pdf" target="_blank">Research document</a>
 
-## Мои наблюдения
+## My observations
+
 https://archive.org/details/sodium_tetrahydroxycuprate
-Если верить данному ролику, то (я не силен в неорганике), но на сколько мне известно, есть медная кислота. Следовательно, это соединение амфотерное. Следовательно, Может как и аллюминий (Na[Al(OH)4] тетга(4)-гидрокси(OH)-аллюминат(Al)натрия(Na)) образовывать комплексные соединения. Тогда, Возможно, при растворение CuAnion + KationOHx образуется комплексная соль, а не Cu(OH)2. Которая, в последствие разлагается из-за щелочной среды, что даже происходит в NaHCO3. 
-При этом, я обнаружил, что данный полученный осадок при разложение частично это некая соль, которая даже меняет оттенок при потери воды и последующей гидратации энной. А часть вообще переходит в карбонат или подобное соединение, ведь при растворение в лимонной кислоте происходит газ и взвесь, которая только потом превращается в синию жижу.
+
+If that video is to be believed (I am not strong in inorganic chemistry), as far as I know there is a "cupric acid." Therefore this compound is amphoteric. Consequently, like aluminum (Na[Al(OH)₄], sodium tetrahydroxoaluminate), it may form complex compounds. Then, possibly, when dissolving a copper anion + cation hydroxide, a complex salt is formed rather than Cu(OH)₂, which subsequently decomposes due to the alkaline environment — something that even happens in NaHCO₃.
+
+I also found that part of the obtained precipitate upon decomposition is some kind of salt that even changes shade when it loses water and is subsequently hydrated again. And part of it turns into carbonate or a similar compound, because when dissolved in citric acid there is gas and a suspension that only later turns into a blue slurry.
 
 <img src='/images/CitrateCuprum.png' />
 
-Возможно, данная соль существует N-ое время, пока не насытится углекислым газом. Но тогда, откуда оно взялось в шприце? Можно и проверить с известью, она карбонатом будет в осадке. Но это лишь идея. Если щелочная среда с каким-то временем разрушает соли меди, а она это делает. Если в раствор медного купороса налить очень насыщенный раствор щелочи, то медь не выпадет в Cu(OH)2, а сразу в осадок в виде черной массы. Которая даже и не ведет себя как CuO толком нормально.
+Possibly this salt exists for some time until it becomes saturated with carbon dioxide. But then where did it come from in the syringe? It could be checked with limewater — it would precipitate as carbonate. But this is just an idea. If an alkaline environment destroys copper salts over time, and it does — if you pour a very concentrated alkali solution into a copper sulfate solution, the copper will not precipitate as Cu(OH)₂ but immediately as a black mass, which does not really behave like CuO properly.

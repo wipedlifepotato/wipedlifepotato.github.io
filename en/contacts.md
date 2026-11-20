@@ -2,6 +2,7 @@
 layout: default
 title: About / Contacts
 lang: en
+translated: true
 ---
 
 <p>For now I think there will be nothing that breaks the brain here. I would like to remove all the clutter from this page.</p>

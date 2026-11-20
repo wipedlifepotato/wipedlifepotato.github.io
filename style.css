@@ -185,8 +185,8 @@ footer {
   font-size: 0.92rem;
 }
 
-/* Machine translation notice for English pages */
-html[lang="en"] body::before {
+/* Machine translation notice for English pages (hidden when fully translated) */
+html[lang="en"]:not([data-translated="true"]) body::before {
   content: "Machine-translated from Russian. Some parts may be inaccurate.";
   display: block;
   max-width: 980px;
@@ -220,7 +220,7 @@ html[lang="en"] body::before {
     padding: 0.4rem 0.7rem;
   }
 
-  html[lang="en"] body::before {
+  html[lang="en"]:not([data-translated="true"]) body::before {
     width: calc(100% - 1rem);
     border-radius: 12px;
     margin-top: 0.5rem;

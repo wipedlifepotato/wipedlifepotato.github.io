@@ -2,133 +2,134 @@
 layout: fuckallshit
 lang: en
 title: Caffeine extraction from tea, part 2 (draft)
+translated: true
 ---
-1 часть: <a href="/en/coffeine.html" target="_blank">Попытка экстракции кофеина из чая ч1</a><br/>
-Есть первая часть, где есть другие подводные камни и способ как получить вообще без расторителей. Похожий способ из часовых стекол я находил и в других источниках. Думаю это реально, тк при упаривании раствора с ДХМ больше половины улетучивается
+Part 1: <a href="/en/coffeine.html" target="_blank">Attempt to extract caffeine from tea, part 1</a><br/>
+There is a first part that covers other pitfalls and a way to obtain it without solvents at all. I have seen a similar method using watch glasses in other sources as well. I think it is realistic, because when evaporating a solution with DCM, more than half of it evaporates.
 
 <div class='pair'>
-    <p>Чай + лимонная кислота (лучше экстрагирует):</p>
+    <p>Tea + citric acid (extracts better):</p>
     <img src="/experimets/Coffeine/3/1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Известь + чай, фильтрация:</p>
+    <p>Lime + tea, filtration:</p>
     <img src="/experimets/Coffeine/3/2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Известь + чай, фильтрация:</p>
+    <p>Lime + tea, filtration:</p>
     <img src="/experimets/Coffeine/3/2_1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Кристаллы с ДХМ при заморозке р-ва:</p>
+    <p>Crystals from DCM when freezing the solution:</p>
     <img src="/experimets/Coffeine/3/crystalls_1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Кристаллы с ДХМ при заморозке р-ва:</p>
+    <p>Crystals from DCM when freezing the solution:</p>
     <img src="/experimets/Coffeine/3/crystalls_2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Кристаллы с ДХМ при заморозке р-ва:</p>
+    <p>Crystals from DCM when freezing the solution:</p>
     <img src="/experimets/Coffeine/3/crystalls_3.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Кристаллы с ДХМ при заморозке р-ва:</p>
+    <p>Crystals from DCM when freezing the solution:</p>
     <img src="/experimets/Coffeine/3/crystalls_4.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>После поднятия температуры перенасыщенный р-вр (нужно досушиват в тепле на ровной поверхности, не грея, иначе испарится):</p>
+    <p>After the temperature rises, a supersaturated solution (it needs to be dried further in a warm place on a flat surface without heating, otherwise it will evaporate):</p>
     <img src="/experimets/Coffeine/3/crystalls_fail1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Вес кристаллов с остатками ДХМ:</p>
+    <p>Weight of crystals with DCM residues:</p>
     <img src="/experimets/Coffeine/3/crystalls_weight.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>ДХМ:</p>
+    <p>DCM:</p>
     <img src="/experimets/Coffeine/3/dxm.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>ДХМ в отдельной фазе:</p>
+    <p>DCM in a separate phase:</p>
     <img src="/experimets/Coffeine/3/dxm4.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Ожог от перекиси, убирается губкой которой моются:</p>
+    <p>Burn from peroxide; can be wiped off with a washing sponge:</p>
     <img src="/experimets/Coffeine/3/h2o2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Попытка мурексида:</p>
+    <p>Murexide test attempt:</p>
     <img src="/experimets/Coffeine/3/murexide_1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Попытка мурексида:</p>
+    <p>Murexide test attempt:</p>
     <img src="/experimets/Coffeine/3/murexide_2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Попытка мурексида:</p>
+    <p>Murexide test attempt:</p>
     <img src="/experimets/Coffeine/3/murexide_3.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Попытка мурексида:</p>
+    <p>Murexide test attempt:</p>
     <img src="/experimets/Coffeine/3/murexide_6.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Неудачный мурексид:</p>
+    <p>Failed murexide test:</p>
     <img src="/experimets/Coffeine/3/murexide_fail.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Неудачный мурексид:</p>
+    <p>Failed murexide test:</p>
     <img src="/experimets/Coffeine/3/murexide_fail1.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Неудачный мурексид:</p>
+    <p>Failed murexide test:</p>
     <img src="/experimets/Coffeine/3/murexide_fail2.jpg"/>
 </div>
 <br/>
 <div class='pair'>
-    <p>Известь брызгает:</p>
+    <p>Lime splashes:</p>
     <img src="/experimets/Coffeine/3/warn.jpeg"/>
 </div>
 <br/>
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/3/1_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/3/2_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
 ```
-Растворить чай в воде, в кипятке. Можно добавить лимонную кислоту немного, но не сильно нужно.
-Потом известью добиться осадка дубильных веществ и профильтровать.
-В полученный раствор нужно растворитель, который не смешивается с водой и экстрагирует кофеин.
-Помешать ложкой/чем-то ещё. Откачать слой шприцом. Поставить в холод+проветриваемое место. Выпадут кристаллы. Отделить. Убрать излишки растворителя. Оставить кристаллы в теплом, сухом месте и дать лишнему растворителю уйти. Либо можете упарить, но так часть уйдет в атмосферу. Ещё из 1 части есть информация, что можно нагреть блюдце и сверху блюдце с водой. На блюдце с водой будут кристаллы.
-Мурексид можете делать по методичке, но я брял соляную в переизбытке, 37% перекись немного и ставил на батарею
+Dissolve tea in water, in boiling water. You can add a little citric acid, but not too much.
+Then use lime to precipitate tannins and filter.
+Add a solvent that is immiscible with water and extracts caffeine to the resulting solution.
+Stir with a spoon or something else. Draw off the solvent layer with a syringe. Place it in a cold, well-ventilated place. Crystals will precipitate. Separate them. Remove excess solvent. Leave the crystals in a warm, dry place and let the remaining solvent evaporate. Alternatively, you can evaporate it, but some will be lost to the atmosphere. Part 1 also mentions that you can heat a dish and place another dish with water on top of it; crystals will form on the dish with water.
+
+You can perform the murexide test according to a standard procedure, but I used an excess of hydrochloric acid, a small amount of 37% peroxide, and placed it on a radiator.
 https://www.scribd.com/document/824812454/murex1952
-acidic conditions, murexide changes color depending on the pH: it's 
-yellow in strong acid, reddish-purple in weak acid, and blue-purple in alkaline solutions, making it a useful pH indicator and metal indicator in titrations. Strong acids protonate murexide, shifting its color from its usual reddish-purple (weak acid/neutral) towards yellow, as seen in the historical murexide test where it's treated with strong acid (like HCl or 
+Under acidic conditions, murexide changes color depending on pH: it is yellow in strong acid, reddish-purple in weak acid, and blue-purple in alkaline solutions, making it useful as a pH indicator and metal indicator in titrations. Strong acids protonate murexide, shifting its color from the usual reddish-purple (weak acid/neutral) toward yellow.
 
-Получается, при упарывании у вас будет розоватый слой. В остатке желто-красный осадок. При прилитии аммиака оно краснеет/немного более розовеет. Кофеина для исследованя я брал остатки, что не отшкрябаны
+As a result, during evaporation you will get a pinkish layer. The residue will be a yellow-red precipitate. When ammonia is added, it turns redder or slightly more pink. For the test I used the residues of caffeine that were not scraped off.
 
-Мурексидная проба может дать красные(на розоватом остатке на крою)/розовые(след, где кислотность понижается или прилит аммиак)/коричневые(если не довыпарить)/зеленые(если передержать)/желтые(до кислот/аммиака) оттенки, а не чисто розовый как пишут (мои наблюдения). С медью может дать специфичный оттенок и видимо с другими ионами металлов тоже. Похоже на розовый оттенок, аммиачного раствора, который со временем краснеет или это ложное наблюдение
+The murexide test can give red (on a pinkish residue at the edge), pink (a trace where acidity decreases or ammonia is added), brown (if not evaporated enough), green (if overheated), or yellow (before acids/ammonia) shades, not a pure pink as often described (my observations). With copper it can give a specific shade, and apparently with other metal ions as well. It can resemble the pink shade of an ammoniacal solution that turns red over time, although this may be a false observation.
 
-Имеет смысл присоединить органическую/неорганическую кислоту к основанию кофеина и перекресталлизовать. Стоимость кофеина в розницу 25гр за +- 300р. Поэтому это больше для понимания процесса
+It makes sense to attach an organic or inorganic acid to the caffeine base and recrystallize it. The retail price of caffeine is about 300 RUB for 25 g, so this is more for understanding the process.
 ```
