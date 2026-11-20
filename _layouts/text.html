@@ -1,99 +1,126 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="{{ page.lang | default: 'ru' }}">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/gallery.css"/>
   <style>
-   body {
-      font-family: Arial, sans-serif;
+    *, *::before, *::after { box-sizing: border-box; }
+    :root {
+      --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+      --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+      --mono: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    }
+    body {
+      font-family: var(--sans);
       margin: 0;
       padding: 0;
-      background: linear-gradient(to right, #f0f4f8, #ffffff);
-      color: #333;
-    }
-    code {
-      display: block;
-      max-width: 900px;
-      overflow-x: auto;
-      white-space: pre;
-      background: #f6f8fa;
-      padding: 6px;
-      border-radius: 4px;
-      word-break: break-all;
-      white-space: pre-wrap;
-      word-break: break-all;
+      background: linear-gradient(180deg, #f4f7fa 0%, #e9eef5 100%);
+      color: #1f2937;
+      line-height: 1.7;
+      font-size: 16px;
     }
     .content {
-      max-width: 900px;
+      max-width: 860px;
       margin: 0 auto;
-      padding: 20px;
+      padding: 20px 16px 32px;
     }
-
     nav {
-      background-color: #2a2a2a;
-      padding: 10px 20px;
-      text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px 10px;
+      background-color: #1f2937;
+      padding: 10px 14px;
+      border-radius: 12px;
     }
-
     nav a {
-      color: white;
+      color: #f9fafb;
       text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
+      font-weight: 500;
+      font-size: 0.95rem;
+      padding: 4px 10px;
+      border-radius: 999px;
     }
-  img, video {
-    max-width: 75%;  
-    height: auto;  
-    display: block;    
-    margin: 20px auto; 
-  }
-
-    nav a:hover {
-      color: #76c7c0;
-    }
-
+    nav a:hover { background: rgba(255,255,255,0.12); }
     main {
-      background: linear-gradient(to bottom right, #fefefe, #d0eaff);
-      border-radius: 10px;
-      padding: 30px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      margin-top: 20px;
-      font-size: 1.1rem;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 14px;
+      padding: 28px 32px;
+      box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06);
+      margin-top: 16px;
+      overflow-wrap: anywhere;
     }
-
-    footer {
+    h1 {
+      margin: 0 0 0.75rem;
+      font-family: var(--serif);
+      font-weight: 600;
+      line-height: 1.25;
+      font-size: clamp(1.6rem, 2.5vw, 2rem);
+      color: #111827;
+    }
+    img, video {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 18px auto;
+      border-radius: 8px;
+    }
+    pre, code {
+      font-family: var(--mono);
+      font-size: 0.92em;
+    }
+    pre, code {
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+    pre, main code {
+      background: #f3f4f6;
+      padding: 8px 10px;
+      border-radius: 6px;
+      border: 1px solid #e5e7eb;
+    }
+    pre { padding: 12px 14px; }
+    hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
+    a { color: #2563eb; }
+    /* Machine translation notice for English pages */
+    html[lang="en"] nav::after {
+      content: "Machine-translated from Russian";
+      flex-basis: 100%;
       text-align: center;
-      margin-top: 50px;
-      color: #777;
+      font-size: 0.8rem;
+      color: #cbd5e1;
+      font-weight: 400;
+      padding-top: 2px;
     }
-
-    footer a {
-      color: #76c7c0;
-      text-decoration: none;
-    }
-
-    footer a:hover {
-      color: #58b7b2;
+    @media (max-width: 600px) {
+      .content { padding: 12px 10px 20px; }
+      main { padding: 18px 16px; border-radius: 12px; }
     }
   </style>
 </head>
 <body>
-
   <div class="content">
     <nav>
-      <a href="/index.html">Главная</a> |
+      {% if page.lang == 'en' %}
+      <a href="/en/">Home</a>
+      <a href="/en/contacts.html">Contacts</a>
+      <a href="/index.html">RU</a>
+      {% else %}
+      <a href="/index.html">Главная</a>
       <a href="/contacts.html">Контакты</a>
+      <a href="/en/">EN</a>
+      {% endif %}
     </nav>
-
     <main>
       <h1>{{ page.title }}</h1>
       <div>{{ content }}</div>
     </main>
-
-    <footer>
-    </footer>
   </div>
-
+  <script src="/assets/js/gallery.js" defer></script>
 </body>
 </html>
 
