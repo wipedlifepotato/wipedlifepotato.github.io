@@ -2,35 +2,36 @@
 layout: default
 lang: en
 title: I2P network research, 2025
+translated: true
 ---
 
-# Исследования сети I2P
+# I2P network research
 
-## Визуализации сети I2P
+## I2P network visualizations
 
-В рамках анализа сети I2P были созданы следующие визуализации:
+As part of an analysis of the I2P network, the following visualizations were created:
 
 ### 1. bokeh_plot.png
-![bokeh_plot](images/i2pnet/bokeh_plot.png)  
-Интерактивная визуализация сети I2P, созданная с использованием библиотеки Bokeh. Позволяет исследовать структуру сети, узлы и их связи.
+![bokeh_plot](/images/i2pnet/bokeh_plot.png)  
+An interactive visualization of the I2P network created with the Bokeh library. It allows you to explore the network structure, nodes, and their connections.
 
 ### 2. IPCountries.png
-![IPCountries](images/i2pnet/IPCountries.png)  
-Географическое распределение узлов сети I2P по странам, основанное на IP-адресах и геолокации.
+![IPCountries](/images/i2pnet/IPCountries.png)  
+Geographic distribution of I2P network nodes by country, based on IP addresses and geolocation.
 
 ### 3. IPv.png
-![IPv](images/i2pnet/IPv.png)  
-Распределение узлов сети I2P по версиям IP-протокола (IPv4/IPv6), показывает преобладание одной версии.  
-**точность данных:** на роутере отключен ipv6, эти данные не точны  
+![IPv](/images/i2pnet/IPv.png)  
+Distribution of I2P network nodes by IP protocol version (IPv4/IPv6), showing the prevalence of one version.  
+**Data accuracy:** IPv6 is disabled on the router, so this data is not accurate.
 
 ### 4. RouterVersion.png
-![RouterVersion](images/i2pnet/RouterVersion.png)  
-Распределение узлов по версиям маршрутизаторов, помогает оценить распространенность версий ПО в сети.
+![RouterVersion](/images/i2pnet/RouterVersion.png)  
+Distribution of nodes by router version, helping to assess how widely different software versions are used in the network.
 
 ### 5. Top20MostPorts.png
-![Top20MostPorts](images/i2pnet/Top20MostPorts.png)  
-Топ-20 наиболее часто используемых портов в сети I2P, выявляет популярные порты и потенциальные точки внимания.
-Скорее всего, это ботнеты. Вот несколько из таких адресов:
+![Top20MostPorts](/images/i2pnet/Top20MostPorts.png)  
+Top 20 most frequently used ports in the I2P network, highlighting popular ports and potential points of interest.
+Most likely, these are botnets. Here are some of those addresses:
 - 65.60.185.121
 - 90.221.67.166
 - 156.34.15.110
@@ -43,37 +44,36 @@ title: I2P network research, 2025
 - 24.132.50.14
 
 ### 6. TopRegion_.png
-![TopRegion](images/i2pnet/TopRegion_.png)  
-Топ-10 регионов с наибольшим количеством узлов сети I2P, показывает географическую концентрацию.
+![TopRegion](/images/i2pnet/TopRegion_.png)  
+Top 10 regions with the largest number of I2P network nodes, showing geographic concentration.
 
 ### 7. VersionByCount.png
-![VersionByCount](images/i2pnet/VersionByCount.png)  
-Распределение узлов по количеству подключений, демонстрирует версии маршрутизаторов с наибольшим числом активных соединений.
+![VersionByCount](/images/i2pnet/VersionByCount.png)  
+Distribution of nodes by number of connections, showing router versions with the highest number of active connections.
 
 ---
 
-## Технические детали
+## Technical details
 
-- **Инструменты:** Python, Bokeh, Jupyter Notebook  
-- **Источник данных:** NetDB, stats.i2p  
-- **Метод сбора данных:** Анализ публичных данных сети I2P (NetDB)  
-- **Достоверность данных:** так как один источник данных, один роутер сети I2P, то эти данные не предоставляют общей картины всей сети, а лишь часть  
+- **Tools:** Python, Bokeh, Jupyter Notebook  
+- **Data sources:** NetDB, stats.i2p  
+- **Data collection method:** Analysis of public I2P network data (NetDB)  
+- **Data reliability:** since there is only one data source and one I2P router, this data does not represent the entire network, only a part of it  
 
-## Дополнительные данные из stats.i2p
+## Additional data from stats.i2p
 
 ### 1. routers2_1w.png
-![routers2_1w](images/i2pnet/routers2_1w.png)  
-Динамика числа роутеров сети I2P за последнюю неделю. Помогает видеть рост или спад активности сети.
+![routers2_1w](/images/i2pnet/routers2_1w.png)  
+Dynamics of the number of I2P routers over the last week. Helps to see growth or decline in network activity.
 
 ### 2. 8-tunnel.exploSuccess.10m_1ddb.png
-![8-tunnel.exploSuccess.10m_1ddb](images/i2pnet/8-tunnel.exploSuccess.10m_1ddb.png)  
-Успешность эксплуатации туннелей за последние 10 минут. Можно использовать для оценки стабильности соединений и нагрузки на сеть.
+![8-tunnel.exploSuccess.10m_1ddb](/images/i2pnet/8-tunnel.exploSuccess.10m_1ddb.png)  
+Tunnel exploitation success over the last 10 minutes. Can be used to assess connection stability and network load.
 
 ### 3. 5-versionsm_1ddb.png
-![5-versionsm_1ddb](images/i2pnet/5-versionsm_1ddb.png)  
-Распределение версий маршрутизаторов за последний период. Дает понимание актуальности версий в сети и обновляемости узлов.
+![5-versionsm_1ddb](/images/i2pnet/5-versionsm_1ddb.png)  
+Distribution of router versions over the recent period. Provides insight into how up to date the nodes in the network are.
 
 ---
 
-**Примечание:** Эти данные собраны с stats.i2p и дополняют предыдущий анализ NetDB. Динамика по роутерам и туннелям позволяет видеть изменения в сети в режиме реального времени и делать более точные наблюдения.
-
+**Note:** This data was collected from stats.i2p and complements the previous NetDB analysis. Router and tunnel dynamics make it possible to observe changes in the network in near real time and draw more accurate conclusions.

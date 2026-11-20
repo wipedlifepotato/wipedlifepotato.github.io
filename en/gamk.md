@@ -2,29 +2,33 @@
 layout: text
 lang: en
 title: GABA in high doses (supplement) [draft]
+translated: true
 ---
-# Супер дисклеймер
-**РЕАКЦИИ ВЕЩЕСТВ НА ОРГАНИЗМ ИНДИВИДУАЛЬНЫ И ЕСЛИ ВЫ РЕШИТЕ ПОСЛЕ ТАКОГО ДОКУМЕНТА СЛОПАТЬ 5 ЛОЖЕК СТОЛОВЫХ, ТО АВТОР НЕ НЕСЕТ РИСК ЗА ВАШЕ ЗДОРОВЬЕ. ПУБЛИКУЕТСЯ КАК ЛИЧНЫЙ ОПЫТ, БЕЗ ПРИЗЫВОВ И УКАЗАНИЯ ВСЕХ ВОЗМОЖНЫХ РИСКОВ**
-# Как действует ГАМК в больших дозах (субьективно, на себе испытал)
-- Повышает агрессивность
-- Понижает либидо
-- Иногда усиливает сонливость (при очень больших дозировках)
-- Состояние головокружения, тяжести в дыхание при больших дозировках
-- Вибрация в лице (легкая очень, мало заметная)
-- Улучшается аппетит, пищеварение
-(через какое-то время дозировки выше вызывают уже меньше тяжести в том же дыхание, но появляется тогда вибрация в лице мало заметные)
-## Вкус
-Вкус сначала сладкий, потом переходит в маслянистый вкус, а дальше в непереодоваемый вкус, неприятный.
-# Большие это сколько?
 
-Это столовая, чайная ложечка. От половины ложки растворенной в чае при большом компе в высоту, уже появляется такое состояние (тяжесть в дыхание).
-При маленьких (четверть ложечки, без комочка вверх), в чае растворять - накопительный эффект. Сначала эффекта нет, но если продолжать добовлять в чай (а чая я пью много), то эффект всё же приходит, как если сразу чайную ложку слопать.
+# Strong disclaimer
+**Reactions to substances are individual. If you decide, after reading this, to eat 5 tablespoons, the author takes no responsibility for your health. This is published as a personal experience, without encouragement and without listing all possible risks.**
 
-# Стоит ли повторять эксперимент
+# How GABA acts in high doses (subjectively, tested on myself)
+- Increases aggressiveness
+- Decreases libido
+- Sometimes increases sleepiness (at very high doses)
+- Dizziness and a feeling of heaviness in breathing at high doses
+- A very slight, barely noticeable vibration in the face
+- Improves appetite and digestion
 
-Если производитель БАД пишет, что нужны дозировки под 1грамм для там какого-то гормона роста, я бы не стал нарушать биохимию организма, так как хоть это просто аминокислота, она довольно активно действует на организм. Более того, это один из главных нейромедиаторов. В качестве опасных дозировок не знаю, но производитель пишет под 3грамма даже. Не знаю, что будет если например слопать все 30 грамм за раз, но и от поваренной соли можно умереть. Поэтому лучше ешьте маленькими дозировками, ищите свою. Либо, вообще не принимайте эту пищевую добавку. Какую-то суперсилу оно не дает, супермышления тоже нет. Супер сильным я от неё не стал. В малых дозах, особенно после нарушения работы мозга, я думаю полезное и уже изученное... А так что бы безрасудно лопать это вещество я бы не стал. Как по мне, оно безопасно, но с ним нужно быть осторожным. (это мнение автора статьи)
+(After some time, higher doses caused less heaviness in breathing, but a barely noticeable facial vibration appeared.)
 
+## Taste
+At first the taste is sweet, then it becomes oily, and after that turns into an unbearable, unpleasant taste.
 
-## Мой вывод
+# How much is "high"?
 
-Аминокислота хорошая, полезная, плохо проходит барьер ГЭБ; но, вот всё же действует. Нужно быть осторожнее
+A tablespoon or a teaspoon. From half a teaspoon dissolved in tea (a large mug filled high), that state (heaviness in breathing) can already appear. With small amounts (a quarter teaspoon, not heaped) dissolved in tea there is a cumulative effect: at first there is no effect, but if you keep adding it to tea (and I drink a lot of tea), the effect eventually comes, as if you had eaten a teaspoon at once.
+
+# Is it worth repeating the experiment?
+
+If a supplement manufacturer writes that doses around 1 gram are needed for some kind of growth hormone effect, I would not disrupt the body's biochemistry, because even though this is just an amino acid, it acts quite strongly on the body. Moreover, it is one of the main neurotransmitters. I do not know what dangerous doses are, but the manufacturer even mentions around 3 grams. I do not know what would happen if, for example, someone ate all 30 grams at once, but you can die from table salt too. So it is better to use small doses and find your own, or not take this supplement at all. It does not give super strength or super thinking. I did not become super strong from it. In small doses, especially after impaired brain function, I think it can be useful and is already studied... but I would not recklessly consume this substance. In my opinion it is relatively safe, but it must be treated with caution. (this is the author's opinion)
+
+## My conclusion
+
+It is a good, useful amino acid that poorly crosses the blood-brain barrier; but it still has an effect. Caution is needed.

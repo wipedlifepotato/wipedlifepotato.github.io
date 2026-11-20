@@ -12,22 +12,22 @@ title: Obtaining silver chloride
 
 # Растворение серебрянного украшения 925 пробы
 
-![123](experimets/Ag/ag925.jpg)
+![123](/experimets/Ag/ag925.jpg)
 
 Взял несколько миллитров азотной кислоты 65% и серебрянное украшение, кинул в раствор и закупорил пипетку обычной хлопковой ватой
 
-![beznagreva](experimets/Ag/beznagreva65.jpg)
+![beznagreva](/experimets/Ag/beznagreva65.jpg)
 
 Без нагрева реакция вообще не шла никак (пассивация)
 
 При слабом нагреве идет образование окислов и всё же реакция идет, но всё ещё слабо
 
-![beznagreva](experimets/Ag/poslenargevaslabogo.jpg)
+![beznagreva](/experimets/Ag/poslenargevaslabogo.jpg)
 
 
 В сильном нагреве ярко видно окислы азота
 
-![vnagreve](experimets/Ag/vnagreve.jpg)
+![vnagreve](/experimets/Ag/vnagreve.jpg)
 
 Разбавил раствор и засунул в тепло, реакция пошла лучше
 
@@ -68,15 +68,15 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 
 Но так вышло, что я передержал раствор на батарее и у меня получилось такое:
 
-![AutoUparivanijeResult.jpg](experimets/Ag/AutoUparivanijeResult.jpg)
+![AutoUparivanijeResult.jpg](/experimets/Ag/AutoUparivanijeResult.jpg)
 
 Как можно видеть, довольно много меди, очень много меди.
 Растворил данный осадок в воде. После чего прилил соляную кислоту и получил осадок хлорида серебра (сначала нужно было бы профильтровать, но что-то тупанул)
 
-![chloridag](experimets/Ag/ChloridSerebra1.jpg)
-![chloridag](experimets/Ag/ChloridSerebra2.jpg)
-![chloridag](experimets/Ag/ChloridSerebra3.jpg)
-![chloridag](experimets/Ag/ChloridSerebra4.jpg)
+![chloridag](/experimets/Ag/ChloridSerebra1.jpg)
+![chloridag](/experimets/Ag/ChloridSerebra2.jpg)
+![chloridag](/experimets/Ag/ChloridSerebra3.jpg)
+![chloridag](/experimets/Ag/ChloridSerebra4.jpg)
 
 Он получается довольно большим, скорее всего цепляет воду(?)
 
@@ -91,11 +91,11 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 
 Остаток (это до фильтрации, после аммиака сразу. То есть белый тот аморфный осадок, который не сразу, но растворяется в аммиаке. Много не лейте, ему просто время нужно):
 
-![OstatokRastvoraNH3.jpg](experimets/Ag/OstatokRastvoraNH3.jpg)
+![OstatokRastvoraNH3.jpg](/experimets/Ag/OstatokRastvoraNH3.jpg)
 
 После чего я профильтровал через туалетку и кстати так потерял наверное половину раствора. (скорее всего, не стоит делать 100 слоев бумаги; ну, я точно слоев так 10 сделал) Сам раствор стал синим, что можно увидеть на видео. Это медь.
 
-![FiltrovanijeCherezTualetku.jpg](experimets/Ag/FiltrovanijeCherezTualetku.jpg)
+![FiltrovanijeCherezTualetku.jpg](/experimets/Ag/FiltrovanijeCherezTualetku.jpg)
 
 
 Окей, после чего на балконе (так как я устал ждать когда уже аммиак испарится весь) я добавил солянной кислоты в раствор
@@ -113,39 +113,39 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 Выпал осадок, причем в этот раз он получился более массивным (скорее всего, это больше хлорид аммония, а большая часть серебра вообще осталась в растворе):
 
 
-![NH4ClAndAgCl.jpg](experimets/Ag/NH4ClAndAgCl.jpg)
+![NH4ClAndAgCl.jpg](/experimets/Ag/NH4ClAndAgCl.jpg)
 
-![PosleOsahdenijaNH4Cl.jpg](experimets/Ag/PosleOsahdenijaNH4Cl.jpg)
+![PosleOsahdenijaNH4Cl.jpg](/experimets/Ag/PosleOsahdenijaNH4Cl.jpg)
 
 
 # Получение коллоидного хлорида серебра
 
 Я сразу же прилил водички 250 мл... Получаем коллоид
 
-![ColloidSNH4Cl.jpg](experimets/Ag/ColloidSNH4Cl.jpg)
+![ColloidSNH4Cl.jpg](/experimets/Ag/ColloidSNH4Cl.jpg)
 
 
 Седиментировать не хочет, более того фильтровать его через шприц с микрофиброй безтолковое занятие...
 
-![FiltrovanijeCherezChpric.jpg](experimets/Ag/FiltrovanijeCherezChpric.jpg)
-![FiltrovanijeCherezChpricResult.jpg](experimets/Ag/FiltrovanijeCherezChpricResult.jpg)
+![FiltrovanijeCherezChpric.jpg](/experimets/Ag/FiltrovanijeCherezChpric.jpg)
+![FiltrovanijeCherezChpricResult.jpg](/experimets/Ag/FiltrovanijeCherezChpricResult.jpg)
 
 Тогда я нагревал данный раствор импульсами в микроволновой печи и медленно у меня происходила коагуляция (кстати, хлорид аммония сам должен быть коагулянтом, но в данном случае он наоборот всё сделал)
 
 После нагрева происходит медленное осаждение
 
-![Colloid.jpg](experimets/Ag/Colloid.jpg)
-![KolloidPosleNargeva.jpg](experimets/Ag/KolloidPosleNargeva.jpg)
+![Colloid.jpg](/experimets/Ag/Colloid.jpg)
+![KolloidPosleNargeva.jpg](/experimets/Ag/KolloidPosleNargeva.jpg)
 
 После многократного нагрева (вплоть до кипения, в микроволновой печи вообще перегрев жидкости) у меня раствор стал почти что прозрачным и выпала большая часть. Наверное, если кипятить, то это ещё быстрее будет, но в микроволновой печи тоже норм (микроволновка не сгорела)
 Дальше я деконтацией откачал 250 мл, а после промывал 20мл где-то 3-4 раза и на последний раз залил 20мл и нагрел в микроволновке. После чего пока горячее откачал шприцом. Шприц хорошо высасывает маленькие объемы
 
-![AgClPosleOchistki.jpg](experimets/Ag/AgClPosleOchistki.jpg)
+![AgClPosleOchistki.jpg](/experimets/Ag/AgClPosleOchistki.jpg)
 
 И таким образом мы получили вот такие кристаллики
 
-![AgClResult.jpg](experimets/Ag/AgClResult.jpg)
-![AgClResult.jpg](experimets/Ag/NaVesahAgClResult.jpg)
+![AgClResult.jpg](/experimets/Ag/AgClResult.jpg)
+![AgClResult.jpg](/experimets/Ag/NaVesahAgClResult.jpg)
 
 # Сколько получилось?
 
@@ -153,7 +153,7 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 
 И остатки:
 
-![Ostatki.jpg](experimets/Ag/Ostatki.jpg)
+![Ostatki.jpg](/experimets/Ag/Ostatki.jpg)
 
 
 ## Можно ли лучше?
@@ -161,7 +161,7 @@ https://www.youtube.com/watch?v=h07uf93Y0ng
 Да, абсолютно можно! Например, если не про*ть раствор и сразу фильтровать полученную жижу, а только потом добавлять раствор той же поваренной соли. Сразу же нагревать что бы коагулировать всё и потом делать декантацию и немного прилевать воды для промыва. Ну, оно вместе с водой всё равно вытягивается в виде коллоида (я так думаю)
 А ещё можно попробовать растворять через электролиз. Я так пытался получить цитрат свинца и дальше его осадить соляной кислотой, но на практике оно сразу восстанавливается и вот так выглядит:
 
-![SvinecElectrolizSOlovom.jpg](experimets/Ag/SvinecElectrolizSOlovom.jpg)
+![SvinecElectrolizSOlovom.jpg](/experimets/Ag/SvinecElectrolizSOlovom.jpg)
 
 То есть, так можно растворить сразу же в разбавленной азотке или даже в другой любой кислоте (главное что бы не было пассивация и эта соль бы растворялась. Наверное в лимонной кислоте электролиз будет идти с очень большими затратами. Нужно проверять) и получать на выходе готовые порошки серебра и меди. Ну и в растворе ещё будет нитрат меди и серебра. Порошки уж растворить будет в множество раз проще. Да и этот порошок чисто теоритечки можно потом растворить так, что бы растворилась медь, но серебро осталось в осадке. Например, соляная кислота с катализатором (окислителем). Все эти теории нужно проверять, ну а серебра не так много чистого. Хватит ли 0.04 г хлорида серебра для аналитики? Думаю, для маленьких экспериментов хватит. Но выход довольно низкий у меня вышел.
 
@@ -207,13 +207,13 @@ https://wipedlifepotato.github.io/experimets/Ag/Ostatki.jpg
 
 (Да, если работать без перчаток и без вытяжки, то можно покрасить себе пальцы, легкие. Немного даже от самого газа покрасилась кожа. Пронитровалась. Может даже вата пронитровалась, так алканы нитруют радикальной атакой. UDP. Проверил, поднес огонь от зажигалки к вате, она вспыхнула и хорошо горела. Остальная часть не вспыхивает при поднесении зажигалки. Жаль не заснял)
 
-![rastvorenijeresult.jpg](experimets/Ag/2/rastvorenijeresult.jpg)
+![rastvorenijeresult.jpg](/experimets/Ag/2/rastvorenijeresult.jpg)
 
 Профильтров и получил осадок не растворившегося
 
-![osadok.jpg](experimets/Ag/2/osadok.jpg)
+![osadok.jpg](/experimets/Ag/2/osadok.jpg)
 
-![vkipatke.jpg](experimets/Ag/2/vkipatke.jpg)
+![vkipatke.jpg](/experimets/Ag/2/vkipatke.jpg)
 
 
 Приливал по чуть-чуть раствор поваренной соли в кипятке, в переизбытке (где-то 2 ложки) пока не стал не выделяться осадок. Потом проверил оставшуюся жижу синию - там нет осадка если прибавлять.
@@ -226,13 +226,13 @@ https://wipedlifepotato.github.io/experimets/Ag/Ostatki.jpg
 Отлил жижу получил хлорид серебра, сушил в микроволновке, но из-за странного звука пошёл другим путем и засунул в зиплок, и выдавливал жидкость, а потом отливал. По итогу открытый зиплок оставил в темном месте что бы сушился
 
 
-![agcl.jpg](experimets/Ag/2/agcl.jpg)
-![microwave.jpg](experimets/Ag/2/microwave.jpg)
-![svodojves.jpg](experimets/Ag/2/svodojves.jpg)
-![vidavlivaemvoduvziplock.jpg](experimets/Ag/2/vidavlivaemvoduvziplock.jpg)
+![agcl.jpg](/experimets/Ag/2/agcl.jpg)
+![microwave.jpg](/experimets/Ag/2/microwave.jpg)
+![svodojves.jpg](/experimets/Ag/2/svodojves.jpg)
+![vidavlivaemvoduvziplock.jpg](/experimets/Ag/2/vidavlivaemvoduvziplock.jpg)
 
 Как итог, предварительный вес: (тут что-то большой вес. Ну большая часть веса это наверное сам пакетик. Где-то 2 грамма должно быть)
-![predvaritelnijves.jpg](experimets/Ag/2/predvaritelnijves.jpg)
+![predvaritelnijves.jpg](/experimets/Ag/2/predvaritelnijves.jpg)
 
 ```
 Ag+HONO2 => AgONO2 + NO + HOH

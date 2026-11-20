@@ -31,7 +31,7 @@ RCl + OH => ROH + Cl-
   Ваш браузер не поддерживает видео.
 </video>
 
-![gazyhclizopropyl.jpg](experimets/Alkylhallogenidfromspirit/gazyhclizopropyl.jpg)
+![gazyhclizopropyl.jpg](/experimets/Alkylhallogenidfromspirit/gazyhclizopropyl.jpg)
 
 
 В обычной соляной кислоте, даже если её сувать в кипяток (пробирку) газы не выделяются. Природу газа нужно ещё проверить, но он выделяется. В определенный момент, после долгой реакции газ перестает выделяться даже после нагрева. После чего я оставил пробирку просто на время. 
@@ -40,7 +40,7 @@ RCl + OH => ROH + Cl-
 
 Слой после реакции изопропилового спирта и кислоты соляной:
 
-![layer.jpg](experimets/Alkylhallogenidfromspirit/layer.jpg)
+![layer.jpg](/experimets/Alkylhallogenidfromspirit/layer.jpg)
 
 Попробовал заморозить пробирку в морозилке 20 минут, после чего достал и открыл вату. Вата посыпалась, значит либо гидролизовалась, либо к сахару, а это спирты и альдегиды одновременно, прореагировало. Пробовал растворять, получается коллоидный раствор. Скорее всего, разрушается полимерная цепочка.
 
@@ -51,7 +51,7 @@ RCl + OH => ROH + Cl-
 
 Сверил слои, слой в пробирке с изопропиловым спиртом и соляной кислотой дает прозрачный, а не желтый слой, который под наглоном не сливается. Соляной же кислоте этот слой сливается
 
-![itog1day.jpg](experimets/Alkylhallogenidfromspirit/itog1day.jpg)
+![itog1day.jpg](/experimets/Alkylhallogenidfromspirit/itog1day.jpg)
 
 Запах слабо сладковатый, может кажется, нужно больше проверок.
 
@@ -61,16 +61,16 @@ RCl + OH => ROH + Cl-
 
 Соляная кислота:
 
-![hcl](experimets/Alkylhallogenidfromspirit/hcl.jpg)
+![hcl](/experimets/Alkylhallogenidfromspirit/hcl.jpg)
 
 Плюс спирт:
 
-![hclspirit](experimets/Alkylhallogenidfromspirit/hclspirit.jpg)
+![hclspirit](/experimets/Alkylhallogenidfromspirit/hclspirit.jpg)
 
 Пробовал греть, закрыв стаканчик стаканчиком бумажным, но не смотря на вытяжку чувствуется толи запах спирта, толи неясно чего. В комнате всё же и при нагревании напоминало что-то сладкое, но мог спутать с изопропиловым спиртом
 Выключив нагрев оставил на балконе, получился слой
 
-![layer](experimets/Alkylhallogenidfromspirit/2.jpg)
+![layer](/experimets/Alkylhallogenidfromspirit/2.jpg)
 
 К этому слою я прилил ещё соляной кислоты, слой так же был и даже вроде увеличился. Прилил ещё изопропилового спирта - слой уменьшился. Как вариант, изопропиловый спирт очень хорошо это всё растворяет в себе и что бы отделить нужно разбавлять водой, в которой уже что-то растворенно, что бы уменьшать растворимость и отделять слои
 
@@ -78,12 +78,12 @@ RCl + OH => ROH + Cl-
 Наверное, без хлорида цинка или подобной соли это очень плохая затея и стоит всё же достать хлорид цинка, ибо сама по себе соляная кислота даже по литературе, по Тейлору очень плохо вступает в реакцию эту. Да и сама -OH группа плохо замещается, только при протонировании становится основанием сильной кислоты H3O+.
 
 С солянокислым железом
-![WithFeCl3](experimets/Alkylhallogenidfromspirit/WithFeCL3.jpg)
+![WithFeCl3](/experimets/Alkylhallogenidfromspirit/WithFeCL3.jpg)
 
 Факт - слой появляется, но он может быть и вызван загрязнением соляной кислоты. Может лучше попробовать получить изопропилбромид. Буду думать со следующей зарплаты
 Если взять этот слой и сверить с свежей соляной кислотой, то слой где соляная кислота в таком размере отсутствует или почти не видно, наверное то что кажется слоем вообще приломление света. А вот в правой пробирке, где предположительно изопропил2хлорид как раз есть слой явно выраженный. Тогда в первый раз, не исключено, что сам прилил изопропиловый спирт и забыл. В любом случае, какая разница, если не возобновляется слой с просто приливанием соляной кислоты
 
-![слой](experimets/Alkylhallogenidfromspirit/sravnenijesloja.jpg)
+![слой](/experimets/Alkylhallogenidfromspirit/sravnenijesloja.jpg)
 
 
 На балконе, тот слой после FeCl3 уменьшается, не увеличивается. Значит если это и полученный алкилгаллогенид, то он испаряется очень легко и даже на холоде. И тогда реакция на холоде не идет. Тогда если и нужно получать, то в закрытом сосуде, но никак не в открытом. Оно банально улетучивается. Кстати, ощущается легкая слабость. То ли из-за изопропилхлорида, толи из-за изопропилового спирта. Перенес смесь в банку, закрытый сосуд. Если реакция не пойдет, то всё что могло прореагировало. Оставлю на день или больше.
@@ -99,9 +99,9 @@ UDP. Кажется, слой так-же появляется и при дей�
 Для первичных спиртов пишут, что нужно добавлять конц. серную кислоту в уже готовый раствор бромоводорода. Который нужно получать ни как я делаю in vitro, а по трубочке газ получаемый пускать в воду. Тем самым насыщая раствор до ~50% бромоводорода. Может и моим способом можно получить, но пока-что не логично вообще что-то получается.
 Проверил пробирку, те слои, по большей части это преломление света. Просто если воду влить, тоже будет слой 1мм. Значит реакция не идет без катализаторов/условиях. Стоит попробовать нагреть в микроволновке пробирки
 
-![слой](experimets/Alkylhallogenidfromspirit/Layer1.jpg)
-![слой](experimets/Alkylhallogenidfromspirit/LayerWithPhosphateAcid.jpg)
-![слой](experimets/Alkylhallogenidfromspirit/NaBrH2SO4Et.jpg)
+![слой](/experimets/Alkylhallogenidfromspirit/Layer1.jpg)
+![слой](/experimets/Alkylhallogenidfromspirit/LayerWithPhosphateAcid.jpg)
+![слой](/experimets/Alkylhallogenidfromspirit/NaBrH2SO4Et.jpg)
 
 Возможно, лучше способ всё же получать через фосфор производные (нужно пробовать). Но так можно и фосфат органический какой случайно получить.
 Скорее всего, без специальной посуды будет очень сложно получать. Вернусь к вопросу позже
@@ -127,11 +127,11 @@ https://wipedlifepotato.github.io/experimets/Coffeine/2/murexidetest2_web.mp4 �
 
 Кто-то может подумать, что горел спирт, но сам спирт больше горит желтым пламенем, вот пример изопропилового спирта:
 
-![experimets/Alkylhallogenidfromspirit/gorelka.jpg](experimets/Alkylhallogenidfromspirit/gorelka.jpg)
+![experimets/Alkylhallogenidfromspirit/gorelka.jpg](/experimets/Alkylhallogenidfromspirit/gorelka.jpg)
 
 Да и для получения этилена нужно аж сильная концетрация или выход будет настолько маленький...
 Кстати, вот про упрощения, вот как пример:
-![images/examplehccl3.jpg](images/examplehccl3.jpg)
+![images/examplehccl3.jpg](/images/examplehccl3.jpg)
 
 Как бы ок, но он забыл упомянуть, что там образуется дихлоркарбен и что нужна водяная щелочь, а в спирту будет жетское эмилирование. Оно начнет реагировать со спиртом в теории даже.
 Забыл упомянуть, что сначала идет гидролиз и нуклеофильная атака на хлор OH- группой давая две OH группы, что дают производное формальдегида с хлором, который сразу реагирует с водой и дает уже карбоновую кислоту и что при неопределенных условиях там и реакция Каницаро, а ещё что будет выделяться и фосген через дихлоркабен, а он уже давать углекислый газ и хлороводород с водой. А в переизбытке азотки может и хлорид серебра раствориться в теории, ведь азотная кислота должна быть сильнее. Это проверять нужно.
@@ -156,19 +156,19 @@ https://wipedlifepotato.github.io/experimets/Coffeine/2/murexidetest2_web.mp4 �
 (предположение, может и катит)
 Про слой, что пишу:
 
-![1](experimets/Alkylhallogenidfromspirit/interesting1.jpg)
-![2](experimets/Alkylhallogenidfromspirit/interesting2.jpg)
+![1](/experimets/Alkylhallogenidfromspirit/interesting1.jpg)
+![2](/experimets/Alkylhallogenidfromspirit/interesting2.jpg)
 
 Что бы его повторить, нужно сначала поваренную соль кипятить с серной кислотой, а только потом прилить 96% спирт. Так же с бромидом, получается слой спирта, что сразу не смешивается. Но если оставить, то смешивается. Интересное физическое явление
 
 ## Попытка, ортофосфорная кислота 85% + конц соляная кислота + водка
 Взял прилил ортофосфорной и соляной кислоты в переизбытке к ортофосфорной. Прилил туда водку и кипятил на водяной бане (железной кружке). Первое время шло обильное выделение газов. Когда я ложился спать в пробирке была маленькая капелька:
-![kapelka](experimets/Alkylhallogenidfromspirit/1/2.jpg)
+![kapelka](/experimets/Alkylhallogenidfromspirit/1/2.jpg)
 
 Проснувшись с утра, когда весь снег растаял, в пробирке вообще ничего не оказалось. Она была пустой полностью. Ещё на стенках до того как я спал было что-то типо иния, побеления.
 Фотографировать пустую пробирку я не стал. С утра набрал снега в стакан и уже нагрел до кипения с 1-2 подпрыгиванием жидкости, но жидкость по трубке не лилась явно, может не заметил, а может и полилась. Поэтому и нужно на водянной бане именно это делать. Охладил и получил жидкость в пробирке. Я её вылил на металлическую поверхность и попробовал поджечь, она трудно поджигается, но поджигается и горит синеватым пламенем очень тусклым. Дихлорэтан, например, вообще вспыхивает и сразу тушится и если и горит, то в смеси с чем-то и уже дает зеленоватое пламя. А само по себе не дает. 
 
-![kapelka](experimets/Alkylhallogenidfromspirit/1/1.jpg)
+![kapelka](/experimets/Alkylhallogenidfromspirit/1/1.jpg)
 
 Вот пример горения:
 
@@ -203,13 +203,13 @@ H-OSO3H + H2C=CH2 => H3C-H2C-OSO3H; H3C-H2C-OSO3H + HOH => H3C-H2C-OH + H2SO4; O
 
 При реакции йода с фосфором + 38% водка появляется слой, или что-то похожее на слой и ДХМ когда он в воде смешан, как бензин. Через 2 суток йод частично обесцвечивается и выпадает осадок, похожий на фосфор. А сам слой видно при свечении. 
 
-![фосфор](experimets/Alkylhallogenidfromspirit/phosphore.jpg)
-![фосфориводка](experimets/Alkylhallogenidfromspirit/phosphoriodevodka.jpg)
-![фосфорвдка](experimets/Alkylhallogenidfromspirit/phosphorandvodka1.jpg)
-![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpi1.jpg)
-![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpi2.jpg)
-![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpibanka1.jpg)
-![фосфорвдка](experimets/Alkylhallogenidfromspirit/layerpibanka21.jpg)
+![фосфор](/experimets/Alkylhallogenidfromspirit/phosphore.jpg)
+![фосфориводка](/experimets/Alkylhallogenidfromspirit/phosphoriodevodka.jpg)
+![фосфорвдка](/experimets/Alkylhallogenidfromspirit/phosphorandvodka1.jpg)
+![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpi1.jpg)
+![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpi2.jpg)
+![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpibanka1.jpg)
+![фосфорвдка](/experimets/Alkylhallogenidfromspirit/layerpibanka21.jpg)
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Alkylhallogenidfromspirit/gas_web.mp4' | relative_url }}" type="video/mp4">
   Ваш браузер не поддерживает видео.

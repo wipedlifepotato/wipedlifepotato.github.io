@@ -2,311 +2,306 @@
 layout: text
 lang: en
 title: Attempt to extract caffeine from tea, part 1 (and 1.2)
+translated: true
 ---
 
-Взял растворил в 75 мл 2 ложки столовых (которыми едят) чая рассыпного. Заварил в микроволновке. 
+I dissolved 2 tablespoons (eating spoons) of loose tea in 75 ml of water. Brewed it in a microwave.
 
-чай сначала
+Tea at first:
 
-![tea](experimets/Coffeine/tea.jpg)
+![tea](/experimets/Coffeine/tea.jpg)
 
-После фильтрации от листьев
+After filtering out the leaves:
 
-![tea](experimets/Coffeine/teaafterfilter.jpg)
+![tea](/experimets/Coffeine/teaafterfilter.jpg)
 
+I threw in a piece of quicklime; it was hard to break (only with a hammer) [CaO].
+It immediately slaked, but the color of the solution changed.
 
+![tea](/experimets/Coffeine/teaaftercao.jpg)
 
-Кинул кусок негашенный извести, он сложно ломался (только молотком ломается) [CaO] 
-Он сразу спассевировался, но цвет раствор поменял
+I crushed more lime, added it, and filtered the precipitate that formed (these are tannins).
 
-![tea](experimets/Coffeine/teaaftercao.jpg)
+![osadok.jpg](/experimets/Coffeine/osadok.jpg)
 
-Разбил побольше извести, насыпал и профильтровал осадок, который выпал (это дубильные вещества)
+After that it didn't help much; I repeated the procedure, but each filtration lost some liquid. Therefore, to make sure the caffeine converted to the basic form, I added NaOH.
 
-![osadok.jpg](experimets/Coffeine/osadok.jpg)
+![naoh.jpg](/experimets/Coffeine/naoh.jpg)
 
-Дальше не сильно помогало; повторял процедуру, но каждая фильтрация теряла жижу. Поэтому что бы наверняка кофеин перешёл в основную соль добавил NaOH
+After caustic soda, the toilet-paper filters began to break down very quickly, and I couldn't remove almost all of the precipitate that was forming, so although the solution was partially transparent it retained some color. I added very little alkali, only trace amounts, but that was enough for the remaining part to precipitate.
 
-![naoh.jpg](experimets/Coffeine/naoh.jpg)
+I took dichloromethane:
 
-После каустической соды, фильтры из туалетной бумаги очень быстро стали разрушаться и удалить почти весь осадок что осаждался не вышло, поэтому раствор хоть и был частично прозрачен у него осталась окраска. Щелочи кидал очень мало, следовые кол-ва, но этого хватило, что бы оставшиеся часть упала в осадок.
+![dichlormethan.jpg](/experimets/Coffeine/dichlormethan.jpg)
 
-Взял дихлорметан
+I added about 5± ml. The solution began to behave like gasoline in a puddle or even oil in alcohol — bubbling with strange spheres — and eventually became one sphere, which I drew off with a syringe. (It separated into liquid phases.)
 
-![dichlormethan.jpg](experimets/Coffeine/dichlormethan.jpg)
+![fazy.jpg](/experimets/Coffeine/fazy.jpg)
+![fazy1.jpg](/experimets/Coffeine/fazy1.jpg)
 
-Добавил примерно 5+- мл. Раствор стал себя вести как бензин в луже или даже масло в спирте, то есть пузыриться непонятными шариками и по итогу стал одним шариком, который я высосал шприцом. (разделился на фазы жидкостные)
+Before that I bubbled it more and shook it to extract better (almost like extracting iodine from an aqueous solution with a nonpolar solvent).
 
+![chric.jpg](/experimets/Coffeine/chric.jpg)
+![rastvorvip.jpg](/experimets/Coffeine/rastvorvip.jpg)
 
-![fazy.jpg](experimets/Coffeine/fazy.jpg)
-![fazy1.jpg](experimets/Coffeine/fazy1.jpg)
+The resulting solution was left to evaporate by itself at an open window; even at a lower temperature this didn't take very long. Despite that, while examining the solution I still inhaled dichloromethane, even though the glass was above my head. The smell is very sweet and even pleasant, though very toxic. If there were perfumes with a similar smell, I would buy them.
 
-Побулькал перед этим побольше, потряс что бы лучше экстрагировать (почти как йод экстрагировать из водного раствора неполярным растворителем)
+I obtained crystals:
 
-![chric.jpg](experimets/Coffeine/chric.jpg)
-![rastvorvip.jpg](experimets/Coffeine/rastvorvip.jpg)
+![crystalls.jpg](/experimets/Coffeine/crystalls.jpg)
 
-Полученный раствор автоупаривал у открытого окна; даже при пониженной температуре это не заняло очень много времени. При этом несмотря на это, когда я рассматривал раствор я всё же вдохнул дихлорметан, при этом стакан стоял выше моей головы. Запах очень сладкий и даже приятный, правда очень токсичный. Если бы были духи с подобным запахом, то я бы приобрел.
+I added lime until the precipitate stopped remaining on the filter in such large quantities.
 
-Получил кристаллы:
+The next possible step, when I have peroxide, is to check with the murexide test. But even from the crystals you can see there are needles that look like pure caffeine. Most likely this is caffeine with impurities, or a peculiarity of caffeine crystallization. The murexide test will only answer whether there is caffeine there; it will be difficult to determine product purity that way. Only by checking the melting point.
 
-![crystalls.jpg](experimets/Coffeine/crystalls.jpg)
+**Not a very interesting point, <s>you can skip it</s>**: always use PPE and a fume hood. Dichloromethane vapors are carcinogenic and can damage the kidneys, liver, and so on. And alkali can make you lose your eyes. And you can accidentally suffocate from ammonia. (In rats, dichloromethane has been shown to cause lung, liver, and pancreatic cancer. Latex or nitrile gloves are not suitable for regular work with dichloromethane.)
 
+## Attempt to perform the murexide test
 
-Известь сыпал до того момента, пока осадок +- не перестанет оставаться на фильтре в таком большом кол-ве. 
+I added nitric acid until all the precipitate dissolved. It dissolved well. I left it overnight; by morning most of it had evaporated and white crystals remained. But they should have been red, so I decided that the nitric acid had not decomposed enough to release oxygen and there was no real oxidation. I evaporated it under a fume hood and obtained a reddish residue. But when I added ammonia in a small amount I got a red slurry. And when I added more ammonia I just got a yellow color. As options: either there was too little caffeine and its derivatives, or it was very contaminated. For the next attempt I plan to do it with a larger quantity and ethyl acetate as the solvent. Simply because I have more of it. Also, in the second attempt I plan to give up on caustic soda and instead crush my pieces of quicklime into a good powder.
 
-Следующий, возможный, этап, когда будет перекись, проверить на мурексидную пробу. Но и так по кристаллам видно, есть иголки, которые похожи на чистый кофеин. Скорее всего, это кофеин с примесями, либо особенности кристаллизации кофеина. Мурексидная проба лишь даст ответ, есть ли там кофеин, чистоту продукта так будет сложно определить. Если только проверять по точке плавления.
+By the way, this is related to the topic of AI... Even small changes can cause a complete failure. And what is on paper does not always correspond to full reality, so all these AIs should not claim that they are better than teachers (as Grok insisted to me) [NoAI](/en/aiishipemachine.html)
 
-**Не очень интересный момент, <s>можно не читать</s>**: используйте всегда СИЗ и вытяжку. Пары дихлорметана канцерогенны и могут повредить почки, печень и всё такое. А щелочью можно лешиться глаза. А от аммиака случайно задохнуться. (На крысах показано, что дихлорметан может вызывать рак лёгких, печени и поджелудочной железы. Для регулярной работы с дихлорметаном не подходят перчатки из латекса или нитриловые.)
-
-## Попытка сделать муриксидную пробу
-
-Прилил азотной кислоты до полного растворения всех осадков. Они хорошо растворились. Оставил на ночь, на утра большая часть испарилась и оказались белые кристаллы. А должны были красные, поэтому я решил что азотная кислота вообще не разлагалась толком на кислород и окисления так такового не было. Выпарил под вытяжкой, получил красноватый остаток. Но, при приливании аммиака в малом количестве получил красную жижу. А при прибалвении ещё аммиака просто желтый цвет. Как вариант, либо слишком мало кофеина и его производных, либо очень загрязненно. Следующая попытка собираюсь делать с большим кол-вом и этилацетатом как растворителя. Просто потому-что у меня его больше. Так же, во второй попытки собираюсь отказаться от каустической соды и всё же доломать камушки своей негашенной извести в хорошую пыль.
-
-Это кстати к теме про AI... Даже маленькие изменения могут вообще дать сбой. А то что на бумаге не всегда соответствует полной реальности, поэтому все эти ИИ вообще не должны утверждать, что они лучше учителей (как это мне втирал Grok) [NoAI](/aiishipemachine.html)
-
-![murixidefail](experimets/Coffeine/murixidefail1.jpg)
-![murixidefail](experimets/Coffeine/murixidefail2.jpg)
+![murixidefail](/experimets/Coffeine/murixidefail1.jpg)
+![murixidefail](/experimets/Coffeine/murixidefail2.jpg)
 
 
-# Попытка с этилацетатом ч1.2
+# Attempt with ethyl acetate, part 1.2
 
-Взял раствор чая 200 мл, 3 ложки столовых. Кипяток. Прям без фильтрации первоночальной осторожно добовлял куски CaO. В один момент, поняв, что со временем при нагревании вместо пассивации идет активная реакция 2CaO + 2HOH -> 2Ca(OH)2. Тогда я просто кинул кусок и у меня часть даже вылелась. 
-В прошлый раз я аж ложкой давил кусок извести, не ломался он и не реагировал так. Не знаю почему. Но тогда явно холоднее раствор был. Может нужно было просто подождать, но да ладно уже.
-В интернете пишут, что сразу должно реагировать и с холодной водой. Очень странно, так как на практике у меня сразу не прореагировало. А с горячим раствором сразу прореагировало, хоть и закипело, что нормально если емкость будет очень большой. А вот то, что нужно добавлять порциями, это однозначно правильно пишут (обжечься и получить от щелочи лютые лулзы можно, поэтому я работал в защитных очках)
+I took a 200 ml tea solution, 3 tablespoons. Boiling water. Without initial filtration, I carefully added pieces of CaO. At one point, realizing that over time with heating, instead of passivation, an active reaction 2CaO + 2H2O -> 2Ca(OH)2 was taking place, I just threw in a piece and part of it even spilled out.
+Last time I even pressed a piece of lime with a spoon — it didn't break and didn't react like that. I don't know why. But the solution was clearly colder then. Maybe I just needed to wait, but oh well.
+On the internet they write that it should react immediately with cold water. Very strange, because in practice it didn't react immediately for me. But with a hot solution it reacted immediately, although it boiled — which is normal if the container is very large. But adding it in portions is definitely correct (you can burn yourself and get nasty consequences from alkali, so I worked in protective goggles).
 
-Полученную жижу я профильтровал. Сначала у меня порвался фильтр и часть осадка всё же попала в раствор. Сам раствор, в отличии от случая, когда я следовое кол-во щелочи добавлял менее прозрачно и более желтое
+I filtered the resulting slurry. At first my filter tore and part of the precipitate got into the solution. The solution itself, unlike the case when I added only trace amounts of alkali, was less transparent and more yellow.
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/2/caohandrastvor.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Получил раствор и осадок, остаток:
+I obtained a solution and a precipitate/residue:
 
-![osadok](experimets/Coffeine/2/osadok.jpg)
-![ostatok](experimets/Coffeine/2/ostatok.jpg)
-![ph.jpg](experimets/Coffeine/2/ph.jpg)
-![rastvor.jpg](experimets/Coffeine/2/rastvor.jpg)
+![osadok](/experimets/Coffeine/2/osadok.jpg)
+![ostatok](/experimets/Coffeine/2/ostatok.jpg)
+![ph.jpg](/experimets/Coffeine/2/ph.jpg)
+![rastvor.jpg](/experimets/Coffeine/2/rastvor.jpg)
 
-Прилил этилацетат, примерно 25 мл к полученной жиже.
+I added ethyl acetate, about 25 ml, to the resulting liquid.
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/2/fazy_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Перелил и побулькал. В отличии от дихлорметана полученный слой намного сложнее отделить шприцом, более того он более неприятный по запаху и никак не похож ни на груши и не на яблоки. Запах слабо напоминает фрукты, скорее уксусная нотка, только вместо кислотного запаха непонятно что. А сам запах довольно неприятный, очень быстро распространяется. Так же, в отличии от дихлорметана, этилацетат у открытого окна практически не испаряется, на батарее тоже сложно испаряется. При этом азеотропная смесь не исключена (гипотетически), так как в фарфоре я получил меньше готового вещества, чем при первичной кристаллизации. 
-Короче говоря, дихлорметан мне понравился для этих целей больше.
+I poured it over and bubbled it. Unlike dichloromethane, the resulting layer is much harder to separate with a syringe; moreover, it smells more unpleasant and is not at all like pears or apples. The smell faintly resembles fruit, more of a vinegar note, only instead of an acidic smell it's something unclear. And the smell spreads quite quickly. Also, unlike dichloromethane, ethyl acetate practically does not evaporate at an open window, and it is also hard to evaporate on a radiator. At the same time, an azeotropic mixture is not excluded (hypothetically), since in porcelain I obtained less finished substance than during the initial crystallization.
+In short, I liked dichloromethane more for these purposes.
 
-![crystallization.jpg](experimets/Coffeine/2/crystallization.jpg)
+![crystallization.jpg](/experimets/Coffeine/2/crystallization.jpg)
 
-## Мурексид и ИИ
+## Murexide and AI
 
-использовать ИИ как источник достоверности, когда один ИИ пишет одно, другой второе. Когда он сам себе противоречит очень опасно.
-Вот одни из пруфов:
+Using AI as a source of reliability is very dangerous when one AI says one thing, another says something else, and it contradicts itself. Here are some proofs:
 
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk1_0.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk1_1.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk1_2.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk2_0.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk2_1.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk3_1.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk4_0.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk4_1.jpg)
-![aigluk1_0.jpg](experimets/Coffeine/2/aigluk4_2.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk1_0.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk1_1.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk1_2.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk2_0.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk2_1.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk3_1.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk4_0.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk4_1.jpg)
+![aigluk1_0.jpg](/experimets/Coffeine/2/aigluk4_2.jpg)
 
-Для тех кто в танке, ии этилацетат пишет не имеет наркотический эффект, хотя логично предположить; в организме оно гидролизуется до этилового спирта, что даст как таковой наркотический эффект. А ещё оно на этот вопрос предлагает изучить о фент*н** (видимо, разработчики сами на чем-то серьезном там сидят)
+For those who missed it: AI writes that ethyl acetate has no narcotic effect, although it is logical to assume that in the body it hydrolyzes to ethyl alcohol, which would produce a narcotic effect. And on this question it even suggests studying fentanyl (apparently the developers themselves are on something serious there).
 
-Потом оно пишет, что мурексидная проба не дает красный цвет (хотя если методички читать, то как раз дает и не только пурпурный)
-ПОтом оно говорит, что PET используют для хранения этилацетата, а в другом случае нельзя хранить (двойная работа, перепроверять ходить за этим ИИ)
-А в другом случае, говорит что можно замораживать перекись, а другие (человеческие источники) пишут, что медицинскую перекись нельзя вообще хранить ниже 0С
-Поэтому довольно ненадежное это всё.
+Then it writes that the murexide test does not give a red color (although if you read manuals, it does give red, not only purple).
+Then it says that PET is used for storing ethyl acetate, and in another case says it cannot be stored in PET (double work, having to go and check after this AI).
+And in another case, it says you can freeze peroxide, while other (human) sources write that medical peroxide cannot be stored below 0°C at all.
+So all of this is quite unreliable.
 
-[аи = хайп машины](https://wipedlifepotato.github.io/aiishipemachine.html)
+[AI = hype machine](/en/aiishipemachine.html)
 
-## Мурексидная проба
+## Murexide test
 
-Она у меня не вышла, получилось желтый раствор, как и с азотной кислотой. Который при добавлении аммиака, как и с азотной кислотой дал красный цвет. А попытка выпарить аммиак с этим раствором (что по идее и нужно, кстати), дала вообще другой оттенок и осадок какой-то розоватый. При этом если изучать методички, то в разных литературных источниках, как раз и получается то оранжевый, то красный...
+It didn't work for me: I got a yellow solution, as with nitric acid. When ammonia was added, as with nitric acid, it gave a red color. And an attempt to evaporate the ammonia from this solution (which, in principle, is what needs to be done, by the way) gave a completely different shade and some pinkish precipitate. At the same time, if you study manuals, different literary sources report orange or red...
 
-![about_murexide_inwiki.jpg](experimets/Coffeine/2/about_murexide_inwiki.jpg)
+![about_murexide_inwiki.jpg](/experimets/Coffeine/2/about_murexide_inwiki.jpg)
 
-По вики и должен быть желтый раствор, что при нагревании дает красный (у меня слабо окрашивался в красный)
-
-```
-Тетраметилпурпуровая кислота дает специфическое пурпурное окрашивание в присутствии аммиака или солей аммония. Возникновение характерной пурпурной окраски для тетраметилпурпуровой кислоты объясняется кето-енольной таутомерией, которая обуславливается единой р-п сопряженной системой гетероцикла [9, С. 508]. Сравнительный анализ литературных источников [4], [8], [10] приводит к определенному противоречию в описании цвета итогового продукта: оранжевый или краснокирпичный осадок выдается за характерный цвет мурексида.
-```
+According to Wikipedia, it should be a yellow solution, which upon heating gives red (mine turned slightly red).
 
 ```
-Нагревание в присутствии пероксида водорода приводит к расщеплению имидазольного ядра кофеина до мочевины и последующему окислению пиримидинового кольца до диметилаллоксана и диметилдиалуровой кислоты. Соляная кислота выступает в роли кислотного катализатора на стадии конденсации: протонирование кислорода диметилаллоксана приводит к делокализации положительного заряда, стабилизированного двумя резонансными структурами, это облегает нуклеофильную атаку гидроксильной группы диметилдиалуровой кислоты и приводит к образованию тетраметилаллоксантина (амалиновой кислоте), раствор которой имеет характерную насыщенную желто -лимонную окраску (см. рисунок 2).
+Tetramethylpurpuric acid gives a specific purple coloration in the presence of ammonia or ammonium salts. The appearance of the characteristic purple coloration for tetramethylpurpuric acid is explained by keto-enol tautomerism, which is due to a single π-conjugated system of the heterocycle [9, p. 508]. A comparative analysis of literary sources [4], [8], [10] leads to a certain contradiction in the description of the color of the final product: an orange or brick-red precipitate is given as the characteristic color of murexide.
 ```
 
-У меня получилось так:
+```
+Heating in the presence of hydrogen peroxide leads to cleavage of the imidazole ring of caffeine to urea and subsequent oxidation of the pyrimidine ring to dimethylalloxan and dimethyldialuric acid. Hydrochloric acid acts as an acid catalyst at the condensation stage: protonation of the oxygen of dimethylalloxan leads to delocalization of the positive charge, stabilized by two resonance structures, which facilitates nucleophilic attack by the hydroxyl group of dimethyldialuric acid and leads to the formation of tetramethylalloxantin (amalinic acid), whose solution has a characteristic rich lemon-yellow color (see Figure 2).
+```
 
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail0.jpg)
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail1.jpg)
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail2.jpg)
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail3.jpg)
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail4.jpg)
-![murexidefail.jpg](experimets/Coffeine/2/murexidefail5.jpg)
+This is what I got:
 
-
-Сам раствор, кстати желтый и поэтому, может из-за примесей получается совсем другой оттенок и это может и нормально, но можно тогда экстрагировать намного больше кофеина. Может целую пачку самого дешманского чая из которого делают чифиры в местах не столь отдаленных. Но тогда это нужно всё делать в кастрюле какой и нужна нормальная делительная воронка.
-Для повышения растворимости кофеина можно добавить лимонной кислоты. Но мне, всё же кажется, дело не в кол-ве, а в чистоте. 
-
-
-
-Первоночально, как и на первой самой фотографии, только чуть более яркое окрашивание было при добавление аммиака к желтому раствору (не сухому остатку). Наверное, нужно кипятить ещё аммиак этот что бы он в молекулу присоединился. 
-
-Пероксид водорода 37 и рука: 
-![peroxydehand.jpg](experimets/Coffeine/2/peroxydehand.jpg)
-
-Взял стеклянную пипетку, промыл водой побольше (что бы меньше попало грязи что может разложить перекись) и накапал в стакан. Видимо немного всё же оказалось на стенках сосуда и прикоснулся к этому. Неприятное жжение приходит лишь потом и не сразу. Появляются белые точки. Они у меня сами по себе прошли, причем меньше чем за 30 минут. Но я так понимаю, при концетрациях не следовых и дольше если поддержать, то будет нормально так белая рука. Даже щелочь при попадании на кожу не так сразу реагирует. Думаю ещё круче последствия для глаз будут, чем от щелочи. Юзайте очки защитные с перекисью, это важно и перчатки тут уже очень желательны
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail0.jpg)
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail1.jpg)
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail2.jpg)
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail3.jpg)
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail4.jpg)
+![murexidefail.jpg](/experimets/Coffeine/2/murexidefail5.jpg)
 
 
-Авак пишет:
+The solution, by the way, is yellow, and therefore, because of impurities, a completely different shade may result — and that may be normal — but then you could extract much more caffeine. Maybe a whole pack of the cheapest tea, the kind used to make chifir in not-so-remote places. But then all this would need to be done in some kind of pot, and a proper separatory funnel would be needed.
+To increase caffeine solubility, you can add citric acid. But I still think the issue is not quantity, but purity.
+
+
+
+Initially, as in the very first photo, only a slightly brighter coloration appeared when ammonia was added to the yellow solution (not the dry residue). Perhaps the ammonia needs to be boiled so that it attaches to the molecule.
+
+Hydrogen peroxide 37% and hand:
+![peroxydehand.jpg](/experimets/Coffeine/2/peroxydehand.jpg)
+
+I took a glass pipette, washed it well with water (so that less dirt that could decompose the peroxide would get in) and dripped it into a glass. Apparently a little ended up on the walls of the vessel and I touched it. An unpleasant burning sensation comes only later, not immediately. White spots appear. They went away on their own in less than 30 minutes for me. But I understand that at non-trace concentrations and if held longer, the hand would turn properly white. Even alkali does not react so quickly when it gets on the skin. I think the consequences for the eyes will be even worse than from alkali. Use protective goggles with peroxide — this is important — and gloves are very desirable here.
+
+
+Avak writes:
 
 ```
-Глянул Вашу страницу про КОФЕИН. Пакостно то, что в чае, кофе и т.п. кофеина достаточно мало, и при этом есть мириады других соединений. Я сам выделять (осаждать) кофеин не пробовал. ПИШУТ:
+I looked at your page about CAFFEINE. The nasty thing is that there is quite little caffeine in tea, coffee, etc., and at the same time there are myriad other compounds. I have not tried to isolate (precipitate) caffeine myself. THEY WRITE:
 https://www.chem21.info/pic1/130026168223234123181188232190039042147048224216.png
-, что кофеин образует бурый осадок перйодида «с раствором иода в кислой среде»; и ещё, что кофеин образует белый осадок с раствором танина, растворимый в избытке танина. НО какая концентрация кофеина может быть определена этими способами? Одно дело, если у Вас готовый кристаллический кофеин, подлинность которого нужно подтвердить качественными реакциями, и совсем другое дело, когда нужно осадить кофеин из растительных продуктов, в которых его мало. Про ВЫПАРИВАНИЕ (у Вас) — выпаривание водных растворов большинства органических продуктов даёт ОСМОЛЕНИЕ. Так что «потемнение» при выпаривании — это в первую очередь результат разложения (осмоления). Выпаривание применяется при МУРЕКСИДНОЙ ПРОБЕ, НО только на водяной бане (потому что водяная баня НЕ даёт нагреться выше 100°C)! Про образование мурексида, — если действие азотной кислоты и затем аммиака даёт красный цвет — это оно и есть. «Для проведения реакции препа­рат нагревают на водяной бане до полного упаривания с окислите­лем (Н2O2, Вг2, HNO3) в кислой среде. Затем добавляют раствор аммиака; появляется пурпурно–красное окрашивание.» https://studfile.net/preview/3977582/
-В этой цитате я бы исключил бром, потому что с бромом куча побочных явлений будет. Растворимость мурексида в воде плохая, НО чтобы он выпал в осадок — его должно быть достаточно не мало, а ведь кофеина в чае и кофе весьма мало. Так что «красное окрашивание» будет, а осадок — навряд ли.
+that caffeine forms a brown precipitate of periodide "with an iodine solution in an acidic medium"; and also that caffeine forms a white precipitate with tannin solution, soluble in excess tannin. BUT what concentration of caffeine can be determined by these methods? It is one thing if you have ready-made crystalline caffeine whose authenticity needs to be confirmed by qualitative reactions, and quite another when you need to precipitate caffeine from plant products in which there is little of it. About EVAPORATION (you) — evaporation of aqueous solutions of most organic products gives RESINIFICATION. So "darkening" during evaporation is primarily the result of decomposition (resinification). Evaporation is used in the MUREXIDE TEST, BUT only in a water bath (because a water bath does NOT allow heating above 100°C)! About the formation of murexide — if the action of nitric acid and then ammonia gives a red color — that is it. "To carry out the reaction, the preparation is heated in a water bath until completely evaporated with an oxidizer (H2O2, Br2, HNO3) in an acidic medium. Then ammonia solution is added; a purple-red coloration appears." https://studfile.net/preview/3977582/
+In this quote I would exclude bromine, because with bromine there will be a lot of side effects. The solubility of murexide in water is poor, BUT for it to precipitate there must be quite a lot of it, and after all there is very little caffeine in tea and coffee. So there will be "red coloration", but a precipitate — hardly.
 
-Про красную кровяную соль как окислитель. ВОЗМОЖНО! Надо попробовать (ацетон и изопропанола).
+About potassium ferricyanide as an oxidizer. POSSIBLY! You need to try (acetone and isopropanol).
 ...
-Для теста на кофеин нужно НА ВОДЯНОЙ БАНЕ кипятить с РАЗБАВЛЕННОЙ азотной кислотой. Разбавленная HNO3 не нитрует, а просто ОКИСЛЯЕТ, что и оказывается нужным процессом (после чего аммиак образует мурексид).
+For a caffeine test, you need to boil in a WATER BATH with DILUTED nitric acid. Diluted HNO3 does not nitrate, but simply OXIDIZES, which turns out to be the necessary process (after which ammonia forms murexide).
 ```
 
-Нужно пробовать, получается, разбавленную и не греть напрямую от плиты. Сначала буду пробовать на препарате, который явно содержит кофеин.
+So, apparently, I need to try diluted acid and not heat directly from the stove. I will first try on a preparation that definitely contains caffeine.
 
-Почтовые отправления
-1,2 (от меня). 
+Mail correspondence
+1, 2 (from me).
 ```
-Аскофен взял таблетку, размолол. Кинул в стакан. Прилил почти что 10-25 мл может даже больше воды и несколько капель кислоты азотной. Мл может ± 
-Поставил на водяную баню, пока запах кислоты совсем не перестал чувствоваться. Раствор пожелтел. Я налил туда аммиака. От аммиака падал осадок, красноватого/коричневого оттенка. Прилил ещё и оттенок стал коричневым. Такой же, как с веществом из чая
-Если вглядываться, то коричневый это то ли смесь зеленого, то ли смесь бледно-красноватого чего-то. Но это всё не точно. То есть, если не выпаривать до конца, то другой оттенок совсем получается или вообще мало кипятил на водяной бане. Но минут 30 точно. 
+I took an Askofen tablet, crushed it. Put it in a glass. Added almost 10–25 ml, maybe even more water, and a few drops of nitric acid. Ml may be ±
+Put it in a water bath until the smell of acid was completely gone. The solution turned yellow. I poured ammonia into it. From the ammonia a precipitate fell, reddish/brownish. I added more and the shade became brown. The same as with the substance from tea.
+If you look closely, the brown is either a mixture of green or a mixture of something pale reddish. But that's not certain. That is, if you don't evaporate to the end, you get a different shade altogether, or I didn't boil long enough in the water bath. But 30 minutes for sure.
 
-Нашёл на форуме и на сайте лабораторную работу, где окись магния берут и чай. А потом возгоняют на холодную поверхность кристаллы кофеина. К которым приливают конц. раствор азотной кислоты (неск капель) и выпаривают насухо. А потом 10 капель аммиака и получают красную/пурпурную соль - https://studfile.net/preview/9820379/page:11/ (неизвестно, сами ли они пробуют это делать или нет. но выглядит реалистично)
-Вот ещё нашёл:
+I found a lab procedure on a forum and on a site where they take magnesium oxide and tea. And then sublime caffeine crystals onto a cold surface. Then add concentrated nitric acid solution (a few drops) to them and evaporate to dryness. And then 10 drops of ammonia and get a red/purple salt - https://studfile.net/preview/9820379/page:11/ (it is unknown whether they actually tried this themselves or not, but it looks realistic)
+I also found this:
 "
-    Возгонка кофеина из сухого чая. Небольшое количество растертого чая помещают на часовое стекло и накрывают его вторым часовым стеклом. Осторожно нагревая, наблюдают возгонку кофеина. Он оседает на верхнем стекле в виде длинных, слегка окрашенных игл. [c.203]
+Sublimation of caffeine from dry tea. A small amount of crushed tea is placed on a watch glass and covered with a second watch glass. Heating carefully, observe the sublimation of caffeine. It settles on the upper glass in the form of long, slightly colored needles. [p.203]
 "
-То есть, можно и не экстрагировать, а просто возгнать. А окись нужна чтобы связать полифенолы и остальное. Мне кажется, при высокой температуре аддукт кислоты и кофеина сам может разделиться. Так вот, у меня в общем не получается это пурпурное окрашивание. А даже с аскофеном получается коричневое/красновато-зеленое окрашивание. Я может в цветах не разбираюсь просто, но этот метод определения кофеина в загрязненных системах очень сложный. Нужно соблюдать точные пропорции. А если кофеин не чистый, то пропорции уже меняются. Получается не пурпурный, а совсем другой цвет. Буду дальше пробовать/думать
+That is, you can sublimate it instead of extracting it. And the oxide is needed to bind polyphenols and the rest. It seems to me that at high temperature the acid-caffeine adduct can separate by itself. So, in general, I don't get this purple coloration. And even with Askofen I get a brown/reddish-green coloration. Maybe I just don't understand colors, but this method of detecting caffeine in contaminated systems is very difficult. You need to observe exact proportions. And if the caffeine is not pure, the proportions already change. You get not purple, but a completely different color. I will keep trying/thinking.
 ---
-На ютъюбе поискал эти реакции. Один просто уротропином сжог все в Уголёк. Другой просто йод смешал. Просто раствор йода зачем-то снимают. Один только показал, что зелёный раствор. Но там не спиртовой раствор, а реактив готовый и соляная кислота. Дало зелёный цвет. Это всё не очень реакции. Нужно может соль кофеина подобрать, которая просто не растворяется. Пикрат кофеина не растворим, значит должны быть подобные соединения и с меньшими вопросами. По типу зачем мне пикриновые кислоты. Но мне кажется, это самый оптимальный способ подтвердить что выделены алкалоиды. Они в осадок именно выпадут. Это очень надежная реакция должна быть. 
-Либо, нужно физический метод искать. А если физический метод, то нужно много вещества выделить. Что бы, например, растворимость в воде посмотреть и плотность раствора
-Кофеин в щелочи разлагается
+I searched for these reactions on YouTube. One just burned everything to charcoal with urotropine. Another just mixed iodine. One just shows some iodine solution for no reason. Only one showed a green solution. But that was not an alcoholic solution, but a ready-made reagent and hydrochloric acid. It gave a green color. These are not very good reactions. Maybe you need to find a caffeine salt that simply doesn't dissolve. Caffeine picrate is insoluble, so there must be similar compounds with fewer issues. Like, why would I need picric acids. But I think this is the most optimal way to confirm that alkaloids have been isolated. They will precipitate. This should be a very reliable reaction.
+Or you need to look for a physical method. And if a physical method, then you need to isolate a lot of substance. To check, for example, solubility in water and solution density.
+Caffeine decomposes in alkali.
 
 https://studfile.net/preview/3977706/page:2/
-И тут тоже пишут водяная 
+And here too they write water bath.
 
-    Характерной особенностью пуриновых алкалоидов является их нестойкость цри нагревании в щелочной среде (при рН>9). В этом случае кофеин разлагается до кофеидин-карбоновой кислоты и далее до кофеидина (физиологически неактивное вещество).  [c.363]
+A characteristic feature of purine alkaloids is their instability when heated in an alkaline medium (at pH>9). In this case, caffeine decomposes to caffeidine-carboxylic acid and further to caffeidine (a physiologically inactive substance). [p.363]
 
-То есть, нужно еще и не перегревать раствор или не сильно щелочную среду делать. Много подводных камней
-В общем, попробую авто упаривать на батарее раствор перекиси, соляной кислоты и аскофена в фарфоровой чашке. Надеюсь получится. А азотная кислота дает окраску, которая всё путает. Думаю получится. В батарее вода горячая
+That is, you also need not to overheat the solution or not make the medium too alkaline. Many pitfalls.
+In general, I will try to auto-evaporate a solution of peroxide, hydrochloric acid, and Askofen in a porcelain dish on a radiator. I hope it works. And nitric acid gives a coloration that confuses everything. I think it will work. The water in the radiator is hot.
 ```
 
-Мне (Авак Авакян):
+To me (Avak Avakyan):
 ```
-Про возгонку кофеина — это абсолютно ГЕНИАЛЬНО!!! Конечно же, это ИДЕАЛЬНЫЙ путь.
+About caffeine sublimation — that's absolutely BRILLIANT!!! Of course, this is the IDEAL way.
 
-С аскофеном, судя по всему, всё правильно получается. Наверное, мурексид так и должен выглядеть.
+With Askofen, it seems, everything turns out correctly. Probably murexide should look like that.
 
-«Кофеин, морфин, аконитин, теобромин НЕ осаждаются пикриновой кислотой»:
+"Caffeine, morphine, aconitine, theobromine are NOT precipitated by picric acid":
 https://edu.vspu.ru/members/rfnzufkz/docs/231119/download
-По этой ссылке вордовский файл, где подробно сказано, как возгонять кофеин. К слову, можно попробовать из аскофена возогнать кофеин. Ещё (в этом файле) сказано, что азотная кислота с кофеином может дать амалиновую кислоту, которая оранжевого цвета. Амалиновая кислота — это тетраметилаллоксантин. Формула аллоксантина:
+At this link there is a Word file where it is described in detail how to sublime caffeine. By the way, you can try to sublime caffeine from Askofen. It also says there (in this file) that nitric acid with caffeine can give amalinic acid, which is orange. Amalinic acid is tetramethylalloxantin. Formula of alloxantin:
 https://www.optimum-lab.ru/wa-data/public/shop/products/38/48/24838/images/73367/73367.0x500.png
-Вот этот продукт с 4 метильными группами на атомах азота (вместо водорода). Он с аммиаком даёт мурексид.
+This is that product with 4 methyl groups on nitrogen atoms (instead of hydrogen). It gives murexide with ammonia.
 
-Кофеин практически не основен. Сравните его с мочевой кислотой:
+Caffeine is practically not basic. Compare it with uric acid:
 https://upload.wikimedia.org/wikipedia/commons/9/9b/Harns%C3%A4ure_Ketoform.svg
-Так что «алкалоидом» его называют «с натяжкой»: слово «алкалоид» произошло от «alkaline» = «щелочной»; то есть «алкалоидами» называют органические соединения, обладающие щелочными свойствами. «По классике» это соединения азота, в которых азот ведёт себя подобно аммонию. Но не все органические соединения азота щелочные (мочевая и циануровая кислоты тому пример). Это я к тому, что осадить некую соль кофеина — это надо поискать некую «специфическую» соль типа нитрата мочевины (мочевина тоже практически не основна, но с азотной кислотой берёт, да образует малорастворимую и стабильную в твёрдом виде соль).
+So calling it an "alkaloid" is a bit of a stretch: the word "alkaloid" comes from "alkaline"; that is, "alkaloids" are organic compounds that have alkaline properties. "Classically" these are nitrogen compounds in which nitrogen behaves like ammonium. But not all organic nitrogen compounds are alkaline (uric and cyanuric acids are examples). I say this because precipitating some caffeine salt means you need to look for some "specific" salt like urea nitrate (urea is also practically not basic, but with nitric acid it does form a poorly soluble and stable salt in solid form).
 
-Вот ТУТ:
+HERE:
 https://www.reddit.com/r/chemistry/comments/x3odfu/extracting_coffee_aromatics_and_caffeine_without/?tl=ru
-обсуждают извлечение и осаждение кофеина. Рекомендуют экстрагировать этилацетатом (в результате обещают кристаллы кофеина). Ещё пишут: «Смешиваешь напиток с раствором Люголя (йод + йодид калия) и концентрированной серной кислотой. Кофеин образует нерастворимый комплекс с йодом в кислой среде. Я проверил эту процедуру на чистом растворённом кофеине и чёрном чае, и вроде как всё сработало отлично.».
+they discuss extraction and precipitation of caffeine. They recommend extracting with ethyl acetate (as a result they promise caffeine crystals). They also write: "Mix the drink with Lugol's solution (iodine + potassium iodide) and concentrated sulfuric acid. Caffeine forms an insoluble complex with iodine in an acidic environment. I tested this procedure on pure dissolved caffeine and black tea, and it seemed to work perfectly."
 ```
 
-Сейчас сделал раствор воды, соляной кислоты, перекиси 37% и 1 таблетки аскофена (размолотой). Пока-что чувствовался запашок, может производного хлора (гипохлоритная/хлорноватистая кислота может) хлора, но при открытии окна запаха нет. Скорее всего хлор. HCl + O* => HO-Cl / HO* + Cl* / HOH + ClO* + Cl2 + ещё органика хлорированная и может ещё чего-то не учёл [радикальный механизм типа. Где звездочка это гомогенный заряд, не плюс и не минус, а между этими зарядами, радикал проще говоря]. Оно в свою очередь на хлор может распадаться и воду с кислородом, либо дальше до хлорной кислоты вплоть, на практике мне кажется не дальше хлоратной кислоты (хлорноватой кислоты). Ну и тем самым хлорировать ещё органику. Давно получал хлор в банке и уже забыл запах, да и чувствуя странный запах мгновенно открыл окно и запах перестал чувствоваться.
-Могу что-то путать, тк не сильно из источников беру эту информацию и свои додумки/гипотизы.
+I have now made a solution of water, hydrochloric acid, 37% peroxide, and 1 crushed Askofen tablet. So far there was a smell, maybe of a chlorine derivative (hypochlorous/chlorous acid may form) — chlorine — but when I opened the window the smell disappeared. Most likely chlorine. HCl + O* => HO-Cl / HO* + Cl* / H2O + ClO* + Cl2 + also chlorinated organic matter and maybe something else I didn't account for [a radical-type mechanism. Where the asterisk is a homolytic charge, not plus and not minus, but between these charges — a radical, simply speaking]. It, in turn, can decompose into chlorine and water with oxygen, or further to chloric acid, up to — in practice I think not beyond chloric (perchloric?) acid. And thus also chlorinate organic matter. I obtained chlorine in a jar a long time ago and have already forgotten the smell, and sensing a strange smell I immediately opened the window and the smell stopped being noticeable.
+I may be confusing something, since I don't take this information much from sources and it's my own guesses/hypotheses.
 
-Случайно нашёл статью, что там и хемилюменесценцию можно словить (в щелочи).
-Не нашёл никакой инфы про хлор-производные салициловой кислоты
+I accidentally found an article that you can even catch chemiluminescence there (in alkali).
+I didn't find any information about chlorine derivatives of salicylic acid.
 
 ```
-При обработке барбитуровой кислоты дымящей азотной кислотой образуется 5-нитробарбитуровая кислота (Байер, 1861), которая при восстановлении дает 5-аминобарбитуровую кислоту, или урамил (Байер) урамил был получен Праутом (1818) разложением мурексида кислотами. Праут назвал его пурпуровой кислотой. Действуя цианатом калия на аминобарбитуровую кислоту, получают псевдомочевую кислоту (Шлипер и Байер, 1863 Байер, 1869), которая может быть переведена в мочевую кислоту (см. ниже)  [c.360]
+When barbituric acid is treated with fuming nitric acid, 5-nitrobarbituric acid is formed (Baeyer, 1861), which upon reduction gives 5-aminobarbituric acid, or uramil (Baeyer). Uramil was obtained by Prout (1818) by decomposition of murexide with acids. Prout called it purpuric acid. By treating cyanate of potassium with aminobarbituric acid, pseudouric acid is obtained (Schlieper and Baeyer, 1863; Baeyer, 1869), which can be converted to uric acid (see below) [p.360]
 ```
+
 ![123](https://studfile.net/html/2706/195/html_XucCi0twco.9Ajy/img-Mrp5B8.png)
 ```
-Для кофеина и других производных ксантина, а также мочевой кислоты характерна мурексидная проба , основанная на образовании аллоксантина (или продуктов его метилирования) при окислении хлором, перекисью водорода и др. Соединения эти дают с аммиаком соли красного цвета, а с едкими щелочами — красно-фиолетового  [c.514]
+A characteristic feature of caffeine and other xanthine derivatives, as well as uric acid, is the murexide test, based on the formation of alloxantin (or its methylation products) upon oxidation with chlorine, hydrogen peroxide, etc. These compounds give red-colored salts with ammonia, and red-violet with alkalis [p.514]
 ```
 
-Цвет аллоксантина не нашёл, цвет производных (5аминобарбиторовой кислоты и аллоксана) тоже не нашёл в русскоязычном сегменте. В англоязычном:
-[alloxan](https://en.wikipedia.org/wiki/Alloxan) -> **Appearance 	pale yellow solid**     
-Про салициловую/хлорпроизводные фенола и так далее не нашёл цветов:
-[chlorsalycilic](https://en.wikipedia.org/wiki/Chlorosalicylic_acid)
+I did not find the color of alloxantin, nor the color of derivatives (5-aminobarbituric acid and alloxan) in the Russian-language segment. In English:
+[alloxan](https://en.wikipedia.org/wiki/Alloxan) -> **Appearance: pale yellow solid**
+I also did not find colors for salicylic/chlorophenol derivatives and so on:
+[chlorosalicylic](https://en.wikipedia.org/wiki/Chlorosalicylic_acid)
 
-В общем, аллоксан как раз должен быть желтым и как раз должен краснеть от аммиака. От кислоты он разлагается (высококонц) и дает уже зеленовато-коричневый оттенок. Ну и у меня от щелочи он такой-же оттенок дает со временем. Да и в целом, сам мурексид неустойчив.
+In general, alloxan should be yellow and should turn red with ammonia. In acid it decomposes (high concentration) and gives a greenish-brown tint. And with alkali it gives me the same tint over time. And in general, murexide itself is unstable.
 
 --
-Проверил ещё до конца не высушенный раствор с аммиаком, получил сначала как раз пурпурный цвет, который сразу же разложился на коричневый, как был с пробами с чаем.
+I checked the solution with ammonia again before it was completely dried and at first got exactly the purple color, which immediately decomposed into brown, as in the tests with tea.
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/2/murexidetest1_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Вот сама ступка:
+Here is the mortar itself:
 
-![yellow.jpg](experimets/Coffeine/2/yellow.jpg)
+![yellow.jpg](/experimets/Coffeine/2/yellow.jpg)
 
-Обсуждение с Аваком:
-мое сообщение:
+Discussion with Avak:
+my message:
 ```
-Если в водном растворе, не дожидаясь полного сухого остатка и правда что-то красновато-розовое видится. Но не долго
-Попробую полностью высушить. Мурексид, пишут, разлагается в той же кислой среде
-Очень долго выпаривается на батарее. Ну и перекись + соляную кислоту я взял в соотношении так, что соляной больше, перекиси меньше и немного воды. То есть, очень кислая среда и там должна хлорноватая кислота и хлор образоваться. С йодом попробовать стоит
-Сейчас дальше упариваю до полного сухого остатка и повторю приливание аммиака, но уже выглядит более похоже на розовые оттенки
+If in aqueous solution, without waiting for a completely dry residue, something reddish-pink really is visible. But not for long.
+I'll try to dry it completely. Murexide, they write, decomposes in the same acidic medium.
+It evaporates very slowly on the radiator. And I took peroxide + hydrochloric acid in a ratio such that there is more hydrochloric acid, less peroxide, and a little water. That is, a very acidic medium, and hypochlorous acid and chlorine should form there. It's worth trying with iodine.
+I'm continuing to evaporate to a completely dry residue now and will repeat adding ammonia, but it already looks more like pink shades.
 ```
-Мне:
+To me:
 ```
-Поглядел Ваше видео; всё идеально, так и должно быть! Всё правильно. В Википедии сказано, что мурексид — «тёмно-красные, КОРИЧНЕВАТЫЕ или пурпурные мелкие кристаллы с зеленоватым блеском»:
+I watched your video; everything is perfect, as it should be! Everything is correct. Wikipedia says that murexide is "dark red, BROWNISH or purple small crystals with a greenish luster":
 https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B5%D0%BA%D1%81%D0%B8%D0%B4
-Так то «не надо присматриваться к оттенкам». 😆😂🤣
-Ещё нужно помнить, что «водный раствор мурексида устойчив один день»:
+So "you don't need to look closely at the shades." 😆😂🤣
+You also need to remember that "an aqueous solution of murexide is stable for one day":
 https://xumuk.ru/encyklopedia/2719.html
-И ведь это при КОМНАТНОЙ температуре. А при кипячении, да ещё и не в нейтральных средах, — он может крайне быстро «скончаться». Кстати, при приливании аммиака, если оного МАЛО, окраска вскоре исчезает, потому что кислая среда разлагает мурексид. Поэтому нужно разом приливать ИЗБЫТОК аммиака. Иначе: упала в раствор азотки капля аммиака; ВОЗЛЕ НЕЁ сразу образовался мурексид, В ЭТОМ МЕСТЕ сразу покраснело. А в следующий момент азотка из окружающего пространства разлагает мурексид — и мы видим, что окраска сразу же «меркнет». А продукты разложения с новой порцией аммиака мурексид не дадут. ПОЭТОМУ нужно ➡️ БЫСТРО влить СРАЗУ ИЗБЫТОК аммиака.
-Лучше всего такие водонестойкие соединения НЕ выпаривать. Просто желательно получить достаточно много кофеина, а затем В МИНИМУМЕ воды делать из него мурексид, чтобы мурексид выпал в осадок. А осадок СРАЗУ отфильтровать БЕЗ нагрева и быстро с силой отжать между слоями бумаги, чтобы быстро высушить БЕЗ нагрева. А лучше всего мурексид получать из мочевой кислоты, которой очень много в птичьем помёте, в частности, в голубином.
- 
+And that's at ROOM temperature. And when boiling, especially in non-neutral media, it can "die" extremely quickly. By the way, when adding ammonia, if there is LITTLE of it, the coloration soon disappears because the acidic medium decomposes murexide. Therefore, you need to add an EXCESS of ammonia at once. Otherwise: a drop of ammonia falls into the acid solution; NEAR IT murexide immediately forms, IT immediately turns red IN THAT PLACE. And in the next moment the acid from the surrounding space decomposes the murexide — and we see that the coloration immediately "fades". And the decomposition products will not give murexide with a new portion of ammonia. THEREFORE you need to ➡️ QUICKLY pour in an EXCESS of ammonia AT ONCE.
+It is best not to evaporate such water-unstable compounds. It is simply desirable to obtain enough caffeine, and then make murexide from it in a MINIMUM of water, so that the murexide precipitates. And the precipitate should be IMMEDIATELY filtered WITHOUT heating and quickly pressed hard between layers of paper to dry quickly WITHOUT heating. And best of all, obtain murexide from uric acid, of which there is a lot in bird droppings, in particular pigeon droppings.
 ```
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/2/murexidetest2_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-(газ, это оставшаяся соляная кислота, которая реагирует с аммиаком. она взята в переизбытке к отношению к перекиси)
+(the gas is remaining hydrochloric acid reacting with ammonia; it was taken in excess relative to the peroxide)
 
-С щелочью:
+With alkali:
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/Coffeine/2/murexidetest_naoh1_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
 
-В аскофене уж точно 40 мг кофеина есть и был. СТоит попробовать с раствором люголя в кислой среде. Уж может и проще хроматографию провести, но если смотреть на цены хроматографов, оверпрайснутые, то не проще. Непонятно за что такие большие цены, будто там сверхсложное устройство. Просто мало кому нужное и мало покупок будет, себе стоимости такой не может быть такой.
-Ну и на ebay, хроматограф газовый, что у нас под 900к, на ebay уже можно и под 1125$ купить. А 990950р > 87 700.05р. Где-то в 11 раз минимум.
+Askofen definitely contains and contained 40 mg of caffeine. It's worth trying with Lugol's solution in an acidic medium. Maybe it's even easier to do chromatography, but if you look at chromatograph prices — overpriced — it's not easier. It's unclear why the prices are so high, as if it were an extremely complex device. Just not needed by many and there won't be many purchases; the cost can't really be that high.
+Well, on eBay, a gas chromatograph that costs under 900k here can be bought for $1125. And 990,950 RUB > 87,700.05 RUB. About 11 times more at minimum.
 [overpriceproof](https://www.ebay.com/itm/257111084466)
-ну, а газовые хроматографы, по цене миллиона рублей можете и сами найти
+well, and you can find gas chromatographs for a million rubles yourself.
 
-То есть, если исключить салициловую кислоту и парацетамол, то у нас в аскофене кофеин, и он и должен был давать такое поведение. Как можно увидеть, если мурексидную пробу делать в других составах уже, при других условиях, то совсем другое поведение. Да и сам мурексид довольно не стойкое соединение. Стоит пробовать раствор люголя и кислую среду.
-По личному опыту, мурексидная проба очень специфичная и обидчивая к условиям. А сам оттенок высматривать в загрязненном растворе то ещё наслаждение. Красный оттенок может дать и производные салициловой кислоты, если немного изменить формулу... 
+That is, if we exclude salicylic acid and paracetamol, then we have caffeine in Askofen, and it should have given such behavior. As you can see, if you do the murexide test in other compositions, under other conditions, you get completely different behavior. And murexide itself is a rather unstable compound. It's worth trying Lugol's solution and an acidic medium.
+In my personal experience, the murexide test is very specific and sensitive to conditions. And spotting the shade in a contaminated solution is quite a pleasure. Salicylic acid derivatives can also give a red tint if you change the formula a bit...
 
-Конец 1 части.
+End of part 1.
 
-Неизвестно до конца что, прореагировавшее с остатками после работы с чаем/мурексидом. Восстановился сульфат меди и образовался раствор красноватого цвета:
-Просто попало на воронку не мытую и стакан. Засыпал для окрашивания раствора, что бы увидеть есть ли слои и отложил
+It is not entirely clear what reacted with the residues after working with tea/murexide. Copper sulfate was reduced and a reddish-colored solution formed:
+It just got onto an unwashed funnel and glass. I added it to color the solution to see if there were layers and set it aside.
 
-![unknown.jpg](experimets/Coffeine/2/unknown.jpg)
-
+![unknown.jpg](/experimets/Coffeine/2/unknown.jpg)

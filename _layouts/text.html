@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'ru' }}">
+<html lang="{{ page.lang | default: 'ru' }}"{% if page.translated %} data-translated="true"{% endif %}{% if page.url == '/en/crystalls.html' %} data-machine-translated="true"{% endif %}>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -86,8 +86,9 @@
     pre { padding: 12px 14px; }
     hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
     a { color: #2563eb; }
-    /* Machine translation notice for English pages */
-    html[lang="en"] nav::after {
+
+    /* Machine translation notice for English pages (hidden when fully translated) */
+    html[lang="en"]:not([data-translated="true"]) nav::after {
       content: "Machine-translated from Russian";
       flex-basis: 100%;
       text-align: center;
@@ -100,7 +101,20 @@
       .content { padding: 12px 10px 20px; }
       main { padding: 18px 16px; border-radius: 12px; }
     }
-  </style>
+      /* Machine translation notice - rendered via CSS content */
+    html[data-machine-translated="true"] body::before {
+      content: "Machine-translated from Russian. Some parts may be inaccurate.";
+      display: block;
+      margin-bottom: 12px;
+      padding: 6px 10px;
+      font-size: 0.85rem;
+      color: #475569;
+      background: #eef2f7;
+      border: 1px solid #dde3ea;
+      border-radius: 8px;
+      text-align: center;
+    }
+</style>
 </head>
 <body>
   <div class="content">

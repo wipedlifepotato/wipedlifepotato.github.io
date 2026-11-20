@@ -1,230 +1,231 @@
 ---
 layout: text
 lang: en
-title: Part 2: Attempt to obtain magnesium citrate
+title: "Part 2: Attempt to obtain magnesium citrate"
+translated: true
 ---
 
-> ⚠️ **Важно:** Не рекомендуется получать цитрат магния для приёма внутрь —  
-> такие вещества могут содержать примеси.
+> ⚠️ **Important:** It is not recommended to obtain magnesium citrate for internal use —  
+> such substances may contain impurities.
 
-## 🧭 Оглавление
-- [Попытка получения через карбонат](#попытка-получения-через-карбонат)
-- [Реакция Авака, которую Он мне прислал (Na2CO3 + MgSO4)](#реакция-авака-которую-он-мне-прислал-na2co3--mgso4)
-- [Мои наблюдения](#мои-наблюдения)
-- [Попытка получить через гидрокарбонат](#попытка-получить-через-гидрокарбонат)
-- [Сушка](#сушка)
-- [Получение самого цитрата](#получение-самого-цитрата)
-- [Кристаллизация](#кристаллизация)
-- [Бонус (искуственные камни)](#бонус-искуственные-камни)
-- [Какие варианты кристаллизации перепробованы](#какие-варианты-кристаллизации-перепробованы)
-- [Весточка от Авака](#весточка-от-авака)
-- [Что по итогу получается](#что-по-итогу-получается)
+## 🧭 Table of contents
+- [Attempt to obtain it via carbonate](#attempt-to-obtain-it-via-carbonate)
+- [Avak's reaction that he sent me (Na2CO3 + MgSO4)](#avaks-reaction-that-he-sent-me-na2co3--mgso4)
+- [My observations](#my-observations)
+- [Attempt to obtain it via bicarbonate](#attempt-to-obtain-it-via-bicarbonate)
+- [Drying](#drying)
+- [Obtaining the citrate itself](#obtaining-the-citrate-itself)
+- [Crystallization](#crystallization)
+- [Bonus (artificial stones)](#bonus-artificial-stones)
+- [Crystallization options tried](#crystallization-options-tried)
+- [Message from Avak](#message-from-avak)
+- [What you get in the end](#what-you-get-in-the-end)
 
-# Попытка получения через карбонат
-Не было времени, но по таблице видел, что CO3(-^2) ион магния не растворим. Всё же решил попробовать, в прошлой части была попытка через углекислый натрий.
-Я мог предположить, что сода за такое время слежилась и превратилась в гидрокарбонат натрия, то есть банально впитала воду. Но по идее, она была закрыта.
-Поэтому я проверял её слабый раствор на вкус и с помощью раствора черного чая. Раствор чёрного чая поменял окраску и выпал осадок. Без лакмуса было сложно понять точно.
-Когда я совсем не стал ничего понимать, как и чего, я написал Авак Авакяну и получил ответ:
+# Attempt to obtain it via carbonate
+I didn't have time, but from the table I saw that the CO3(2-) ion of magnesium is insoluble. I still decided to try; in the previous part there was an attempt via sodium carbonate.
+I could assume that the soda had caked over time and turned into sodium bicarbonate, that is, it simply absorbed water. But in principle, it was closed.
+Therefore, I checked its weak solution by taste and with a solution of black tea. The black tea solution changed color and a precipitate fell out. Without litmus it was difficult to understand exactly.
+When I stopped understanding anything at all, I wrote to Avak Avakyan and received a reply:
 "
- А про магний и кальций — кликнул Вашу страничку; Вы какой–то ужас творите… 😳🥶😱 Во–первых, мне видится, что Ваш камень с улицы — не известняк, а бетон. В нём до чёрта чего. Карбонат кальция там, конечно же, присутствует. А раствор окрасился ЖЕЛЕЗОМ, которое в Земной природе вообще «вездесущее».
+And about magnesium and calcium — I clicked on your page; you are doing some kind of horror... 😳🥶😱 First of all, it seems to me that your street stone is not limestone, but concrete. There is all sorts of stuff in it. Calcium carbonate is certainly present there. And the solution was colored by IRON, which is generally "omnipresent" in nature.
 
-Идея получать так цитрат магния вообще непонятна. Во–первых, цитрат кальция почти нерастворим в воде и значительно менее растворим, чем цитрат магния. Сульфат кальция (гипс) растворим лучше цитрата кальция. Так что даже если бы Вам удалось получить цитрат кальция — его реакция с сульфатом магния не пойдёт (равновесие смещено к исходным реагентам, потому что цитрат кальция в этом уравнении самый нерастворимый). Растворять мел в лимонной кислоте — реакция идёт, но весьма медленно и с замедлением, потому что продукт — цитрат кальция — почти нерастворим и ещё и пассивирует мел, покрывая его плёнкой.
+The idea of obtaining magnesium citrate this way is generally unclear. First, calcium citrate is almost insoluble in water and significantly less soluble than magnesium citrate. Calcium sulfate (gypsum) is more soluble than calcium citrate. So even if you managed to obtain calcium citrate, its reaction with magnesium sulfate would not proceed (the equilibrium is shifted toward the starting reagents, because calcium citrate is the least soluble in this equation). Dissolving chalk in citric acid — the reaction proceeds, but rather slowly and with slowing down, because the product — calcium citrate — is almost insoluble and also passivates the chalk by covering it with a film.
 
-Если не охота покупать готовый цитрат магния, то я бы поступил так:
-1) реакцией сульфата магния с СОДОЙ (любой) я получил бы осадок карбоната магния (растворы брал бы крепкие, чтобы реакция лучше шла).
-2) Отфильтровал бы полученный осадок карбоната магния (и ещё воду через него на фильтре лил бы, чтобы убрать водный раствор сульфата натрия) и затем положил бы этот карбонат магния в водный раствор лимонной кислоты. Реакция пойдёт достаточно не медленно, и Вы получите цитрат магния.
+If you don't want to buy ready-made magnesium citrate, I would do this:
+1) by reacting magnesium sulfate with SODA (any kind) I would obtain a precipitate of magnesium carbonate (I would take strong solutions so that the reaction proceeds better).
+2) I would filter the resulting magnesium carbonate precipitate (and also pour water through it on the filter to remove the aqueous solution of sodium sulfate) and then put this magnesium carbonate into an aqueous solution of citric acid. The reaction will proceed fairly quickly, and you will get magnesium citrate.
 "
 
-Добавил, что пробовал, но не вышло и попробую ещё раз.
-Не успев попробовать мне пришёл ответ:
+I added that I had tried, but it didn't work, and I would try again.
+Before I had time to try, I received a reply:
 "
-➾ Попробовал: оказывается, да, действительно, ГИДРОкарбонат натрия (пищевая сода) НЕ даёт осадок с сульфатом магния, причём при любом соотношении реагентов. В справочниках об этом не говорится, но это факт. Судя по всему, гидрокарбонат даёт слишком кислую среду, и в ней устойчивыми оказываются растворимые двойные сòли типа MgSO4×2NaHCO3.
+➾ I tried: it turns out, yes, indeed, sodium BIcarbonate (baking soda) does NOT give a precipitate with magnesium sulfate, regardless of the ratio of reagents. This is not mentioned in reference books, but it is a fact. Apparently, bicarbonate gives too acidic an environment, and in it soluble double salts like MgSO4×2NaHCO3 turn out to be stable.
 
-Зато кальцинированная сода Na2CO3, которую можно получить, нагрев на спиртовке пищевую соду (а можно и купить, она продаётся), — она мгновенно даёт осадок карбоната магния с сульфатом магния.
+But washing soda Na2CO3, which can be obtained by heating baking soda on a spirit lamp (or you can buy it, it is sold), instantly gives a precipitate of magnesium carbonate with magnesium sulfate.
 
-Раз дело в щёлочности, я поступил так: смешал в примерно равных объёмных количествах сульфат магния и пищевую соду, полностью растворил их в воде и затем накàпал туда нашатырный спирт (водный раствор аммиака; в роли подщелочителя). И — ура: мгновенно полностью выпал карбонат магния.
+Since the matter is alkalinity, I did this: I mixed roughly equal volumes of magnesium sulfate and baking soda, completely dissolved them in water, and then dripped ammonia solution (aqueous ammonia; as an alkalizer) into it. And — hooray: magnesium carbonate precipitated instantly and completely.
 
-То есть в раствор сульфата магния и пищевой соды, взятых в примерно равных объёмных количествах, — накàпайте водный раствор аммиака. И всё получится (весь магний выпадет в виде карбоната магния).
+That is, into a solution of magnesium sulfate and baking soda taken in roughly equal volumes, drip aqueous ammonia. And everything will work out (all the magnesium will precipitate as magnesium carbonate).
 
-Мораль: даже самые «элементарные» реакции в реальности могут идти НЕ ТАК, КАК В УЧЕБНИКАХ. И вот так «на ровном месте», начав пробовать на практике «элементарные» «азы», — мы делаем открытия. И, как минимум, создаём новые технологии.
+Moral: even the most "elementary" reactions in reality may not go AS IN TEXTBOOKS. And so "out of nowhere", starting to try "elementary" "basics" in practice, we make discoveries. And, at a minimum, create new technologies.
 "
-По поводу соды, что добавить - [reddit](https://www.reddit.com/r/chemistry/comments/1e46xwg/mgso4_nahco3_na2so4_mgco3_co2/) такое пишут и в интернетах. Якобы должно разлагаться, но я на ночь оставлял раствор ничего в осадок НЕ падало. Может быть если и нагреть, то будет реакция, но это нужно проверять, а сульфат магния заканчивается... Поэтому потом как-нить
+Regarding soda, to add — [reddit](https://www.reddit.com/r/chemistry/comments/1e46xwg/mgso4_nahco3_na2so4_mgco3_co2/) they write this on the internet. Supposedly it should decompose, but I left the solution overnight and nothing precipitated. Maybe if heated, there will be a reaction, but this needs to be checked, and magnesium sulfate is running out... So later sometime.
 
-## Реакция Авака, которую Он мне прислал (Na2CO3 + MgSO4)
+## Avak's reaction that he sent me (Na2CO3 + MgSO4)
 
-![Na2CO3_and_MgSO4.png](experimets/AceMg/2/Avak/Na2CO3_and_MgSO4.png)
+![Na2CO3_and_MgSO4.png](/experimets/AceMg/2/Avak/Na2CO3_and_MgSO4.png)
 
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/AceMg/2/Avak/Na2CO3_and_MgSO4_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-## Мои наблюдения
+## My observations
 
-Решил всё же я получить точно карбонат натрия, а не верить буковкам на бумажке.
-Купил соду и проколол её на сковороде, что бы не дышать сильно пылью и углекислым газом включал вытяжку.
+I still decided to obtain sodium carbonate for sure, and not trust the letters on paper.
+I bought soda and calcined it in a pan; to avoid breathing too much dust and carbon dioxide, I turned on the hood.
 
-![NaHCO3](experimets/AceMg/2/NaHCO3.jpg)
+![NaHCO3](/experimets/AceMg/2/NaHCO3.jpg)
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/AceMg/2/NaHCO3toNaCO3H2OCO2_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Сама реакция:
+The reaction itself:
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/AceMg/2/Na2CO3andMgSO4_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-Дальше фильтрование и сушка
+Then filtration and drying:
 
-![MgCO3](experimets/AceMg/2/MgCO3.jpg)
-![MgCO3a4](experimets/AceMg/2/MgCO3_a4.jpg)
+![MgCO3](/experimets/AceMg/2/MgCO3.jpg)
+![MgCO3a4](/experimets/AceMg/2/MgCO3_a4.jpg)
 
-## Попытка получить через гидрокарбонат
+## Attempt to obtain it via bicarbonate
 
-Наполнил дно банки содой и магния сульфата 25 грамм пакетика. По отдельности их растворил в воде и после чего смешал. Оставил до утра. Реакция не прошла.
+I filled the bottom of a jar with soda and a 25 g packet of magnesium sulfate. I dissolved them separately in water and then mixed them. Left it until morning. The reaction did not proceed.
 
-![NaHCO3MgSO4](experimets/AceMg/2/NaHCO3MgSO4.jpg)
+![NaHCO3MgSO4](/experimets/AceMg/2/NaHCO3MgSO4.jpg)
 
-В арсенал пошёл аммиачный раствор 25%
+A 25% ammonia solution came into play:
 
-![Amonium](experimets/AceMg/2/Ammonium.jpg)
+![Amonium](/experimets/AceMg/2/Ammonium.jpg)
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/AceMg/2/MgSO4NaHCO3NH4OH_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
-И о чудо, даже лучше осадок чем при карбонате. При быстром разделение его проще будет отделить, потому-что расствор становится не коллоидным, а прям навверху остаются куски прям
-Потом они становятся как паста и если как-то по особому фильтровать, то даже проще
-Вот как выглядит в начале:
+And lo and behold, the precipitate was even better than with carbonate. With quick separation it will be easier to separate, because the solution does not become colloidal, but pieces remain directly on top.
+Then they become like a paste, and if filtered in a special way, it can be even easier.
+Here is what it looks like at the beginning:
 
-![ResultatNH4OH](experimets/AceMg/2/ResultatNH4OH.jpg)
+![ResultatNH4OH](/experimets/AceMg/2/ResultatNH4OH.jpg)
 
-## Сушка
+## Drying
 
-Сошкрябал с тряпки куски и положил их сначала в стаканчик бумажный, потом высыпал на бумагу. От реакции с аммиаком просто ножом сошкрябал, но эффективнее я так понимаю будет какой-то другой способ отделения от воды. Возможно, какие-то коагулянты могут понизить коллоидность. Можно проверить с хлоридом аммония.
+I scraped pieces off the cloth and put them first in a paper cup, then poured them onto paper. From the reaction with ammonia I simply scraped it off with a knife, but I understand a different method of separating from water would be more effective. Perhaps some coagulants can reduce colloidality. You can check with ammonium chloride.
 
-Взял лимонную кислоту и добавил к высохшему, оно в воде не растворялось, но вода немного становилось белой. То есть, образовывать коллоид, кажется может, но слабо.
+I took citric acid and added it to the dried material; it did not dissolve in water, but the water became slightly white. That is, it seems it can form a colloid, but weakly.
 
-## Получение самого цитрата
+## Obtaining the citrate itself
 
-![CitrateAcid](experimets/AceMg/2/CitrateAcid.jpg)
+![CitrateAcid](/experimets/AceMg/2/CitrateAcid.jpg)
 
 <video width="640" height="360" controls>
   <source src="{{ '/experimets/AceMg/2/AcidAndMgCO3_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
 
-Поставил на водяную баню, до состояния, когда начало появляться стеклышко на вверхней части и выпадать что-то аморфное
+I put it in a water bath until a glassy layer began to appear on the upper part and something amorphous began to precipitate.
 
-![banya](experimets/AceMg/2/banya.jpg)
+![banya](/experimets/AceMg/2/banya.jpg)
 
-Пришлось понизить на ~1/3 объем что бы началась хоть какая-то кристаллизация
+I had to reduce the volume by ~1/3 before any crystallization began.
 
-## Кристаллизация
+## Crystallization
 
-С кристаллизацией проблема вышла, как у меня, так и у Авака. Оставляя на 2 дня после выпаривания не дало результатов дальше тягучей жижы.
-
-
-
-Спросил на форуме [xumuk](https://forum.xumuk.ru/topic/314673-%D0%BA%D0%B0%D0%BA-%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80-%D1%86%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%B0-%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%8F/)
+Crystallization was a problem, both for me and for Avak. Leaving it for 2 days after evaporation gave no results beyond a viscous slurry.
 
 
-Посоветовали сушку в вакууме, сделал подобие вакуума - тоже без результатно, тягуая жидкость лишь стала жидкостью.
+
+I asked on the forum [xumuk](https://forum.xumuk.ru/topic/314673-%D0%BA%D0%B0%D0%BA-%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80-%D1%86%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%B0-%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%8F/)
+
+
+They advised drying in a vacuum; I made a kind of vacuum — also without results, the viscous liquid only became a liquid.
 
 ![shisha1.jpg](/experimets/AceMg/2/shisha1.jpg)
 
-Сообщения Авака на эту тему:
+Messages from Avak on this topic:
 
 ```
-Ещё раз здравия. 😊
-Глянул на форуме: совет с вакуумом не поможет. 😊 Я обнаружил, что этот сироп очень гигроскопичен: за считанные часы он увеличивается в объёме и делается всё жиже, поглощая влагу из воздуха. Даже если положить его в эксикатор над 94% серной кислотой, — да, он обезводится, но останется АМОРФНЫМ (НЕ кристаллизуется), и как только мы его достанем из эксикатора — он тут же вновь расплывётся в сироп, впитывая влагу из воздуха. Такая проблема НЕ уникальна. То же самое демонстрирует кальциевая селитра. Термически она устойчивее и её можно смело выпарить и прокалить (она НЕ разложится); при этом получается сухая белая АМОРФНАЯ пористая масса, но как только мы выключаем нагрев — она впитывает влагу из воздуха, превращаясь в не кристаллизующийся гигроскопичный сироп. Как её кристаллизовать? — Достаточно сконцентрировать до НУЖНОЙ концентрации, ДО превращения в сироп, и — она кристаллизуется в тетрагидрат. Этот тетрагидрат — НЕ гигроскопичен, устойчив на воздухе (НЕ расплывается); это красивые кристаллы.
+Hello again. 😊
+I looked at the forum: the advice with vacuum won't help. 😊 I discovered that this syrup is very hygroscopic: in a matter of hours it increases in volume and becomes thinner and thinner, absorbing moisture from the air. Even if you put it in a desiccator over 94% sulfuric acid, yes, it will dehydrate, but it will remain AMORPHOUS (it will NOT crystallize), and as soon as we take it out of the desiccator, it will immediately turn back into syrup again, absorbing moisture from the air. This problem is NOT unique. Calcium nitrate demonstrates the same thing. It is more thermally stable and can be safely evaporated and calcined (it will NOT decompose); this produces a dry white AMORPHOUS porous mass, but as soon as we turn off the heating, it absorbs moisture from the air, turning into a non-crystallizing hygroscopic syrup. How to crystallize it? — It is enough to concentrate it to the RIGHT concentration, BEFORE it turns into syrup, and — it crystallizes as a tetrahydrate. This tetrahydrate is NOT hygroscopic, stable in air (does NOT deliquesce); these are beautiful crystals.
 
-Цитрат магния, я уверен, тоже удастся кристаллизовать. Есть куча приёмов. Просто сейчас я «подтормаживаю», потому что 1) чиню свои компьютеры, 2) разработал новый тест на СТИРОЛ и 3) сегодня у меня получилось ОТКРЫТИЕ: в растворе, полученном после фильтрования карбоната магния, синтезированного с применением аммиака, — в этом растворе у меня кристаллизовался АРТИНИТ!!! По английски «Artinite», формула MgCO3•Mg(OH)2•3H2O. Это тригидрат гидроксокарбоната магния, природный минерал, он НЕрастворим в воде. Выглядит — сферолиты (шарики–ёжики из игольчатых кристаллов), очень похожие на сферолиты питьевой соды. Вот он в природе:
+I am sure that magnesium citrate can also be crystallized. There are a lot of techniques. I'm just "slowing down" now because 1) I'm fixing my computers, 2) I developed a new test for STYRENE, and 3) today I made a DISCOVERY: in the solution obtained after filtering magnesium carbonate synthesized using ammonia, ARTINITE crystallized for me!!! In English "Artinite", formula MgCO3•Mg(OH)2•3H2O. This is the trihydrate of magnesium hydroxycarbonate, a natural mineral, it is INSOLUBLE in water. It looks like spherulites (spiky balls of needle-like crystals), very similar to spherulites of baking soda. Here it is in nature:
 https://www.mindat.org/gm/377
-Искусственное выращивание водоНЕрастворимых минералов из водных растворов — классная штука. Изучу подробности условий его кристаллизации, и — это будет моим очередным докладом в Пермский научный геолсборник. 👍
+Artificial cultivation of water-INSOLUBLE minerals from aqueous solutions is a cool thing. I will study the details of the conditions of its crystallization, and — this will be my next report in the Perm scientific geological collection. 👍
 ...
-И Вам здравия!
-Личные сообщения цитируйте сколько угодно — это даже хорошо.
-Поглядел Вашу страничку, рад, что с аммиаком у Вас получилось. Кстати, мощная у Вас электроплитка: это шикарно, как у Вас питьевая сода обезвоживалась в кальцинированную (я все Ваши видео и глядел и скачал, классно). Прекрасно, что результат с кальцинированной содой тоже получился.
+And greetings to you!
+You can quote private messages as much as you like — it's even good.
+I looked at your page, glad that it worked out with ammonia. By the way, you have a powerful hot plate: it's great how baking soda was dehydrated into washing soda in your video (I watched and downloaded all your videos, great). It's wonderful that the result with washing soda also worked out.
 
-А вот с лимонной кислотой — что–то у Вас не то. Я отфильтровал тот карбонат магния, синтез которого прислал Вам на видео. Затем приготовил водный раствор лимонной кислоты и — этот карбонат магния мгновенно (БЕЗ всякого нагрева!) «зашипел», выделив углекислый газ, и растворился в лимонной кислоте, образовав идеально прозрачный раствор. Он повёл себя, как если бы я бросил в лимонную кислоту питьевую соду. Даже ещё быстрее и охотнее растворился, чем сода.
+But with citric acid — something is wrong with you. I filtered that magnesium carbonate whose synthesis I sent you in the video. Then I prepared an aqueous solution of citric acid and — this magnesium carbonate instantly (WITHOUT any heating!) "fizzed", releasing carbon dioxide, and dissolved in citric acid, forming a perfectly transparent solution. It behaved as if I had thrown baking soda into citric acid. It dissolved even faster and more readily than soda.
 
-К слову, я придумал «лайфхак»: дело в том, что на обычных фильтрах, представляющих собой воронку из туалетной бумаги или тряпки, — ТЕРЯЕТСЯ много и раствора (оставаясь впитанным в фильтре), и осадка (прилипшего к фильтру). Я стал делать иначе: запихивать В НОСИК воронки или шприца, из которого убран поршень, кусочек ваты (или туалетной бумаги, но бумага — хуже). Потери на этом крошечном кусочке ваты — незначительны. Шлю Вам ВИДЕО, где я фильтрую раствор, полученный в моём предыдущем видеоролике (можете положить это видео на Ваш блог). В носик шприца (из которого убран поршень) вставлен крошечный кусочек ваты (нужно только, чтобы он легко НЕ выпадал). Заметьте, что это ничтожное количество осадка полностью бы «въелось» в фильтры из промокашки или тряпки, а тут — потерь вообще нет, и осадок НЕ загрязняется бумагой.
+By the way, I came up with a "life hack": the fact is that on ordinary filters, which are a funnel made of toilet paper or cloth, — a lot of both solution (remaining absorbed in the filter) and precipitate (stuck to the filter) is LOST. I started doing it differently: stuffing a piece of cotton wool (or toilet paper, but paper is worse) INTO THE SPOUT of a funnel or a syringe with the plunger removed. Losses on this tiny piece of cotton wool are insignificant. I am sending you a VIDEO where I filter the solution obtained in my previous video (you can put this video on your blog). In the spout of the syringe (with the plunger removed) a tiny piece of cotton wool is inserted (it only needs to not fall out easily). Note that this negligible amount of precipitate would be completely "eaten" by filters made of blotting paper or cloth, but here — there are no losses at all, and the precipitate is NOT contaminated by paper.
 
-А далее, я решил получить цитрат магния в виде кристаллов, и — вот тут оказалась «проблемка». Я попробовал его выпарить, но по краям выпаривающегося раствора получается темнеющая корка — такая органика при нагревании разлагается. Та же часть, которая не потемнела, стала крайне вязким не кристаллизующимся сиропом (как вязкая бесцветная смола). В воде она идеально растворяется (даже в капле воды), превращаясь в не вязкий прозрачный раствор. Попытка осадить из этого раствора цитрат магния приливанием изопропилового спирта НЕ привела к успеху: маленькое количество спирта ничего не меняет; если же спирта больше — при перемешивании раствор мутнеет, но в микроскоп видно, что это НЕ кристаллы цитрата магния, а микрокапельки водного раствора в окружении спирта (то есть эмульсия). То есть: греть нельзя; выпаривание не даёт результат (получается смолообразный не кристаллизующийся бесцветный сироп); спиртом не осаждается. Надо будет попробовать другие пути: в первую очередь, попробовать ВЫМОРОЗИТЬ (положить водный раствор цитрата магния в морозильник). В ряде подобных случаев, когда вода становится льдом, растворённое в ней вещество становится кристаллами. Есть и другие пути. «Высаливание» можно делать не только спиртом; можно, подобрать таую соль, которая НЕ среагирует с цитратом магния, но будет более водорастворимой. Добавление таких соединений заставляет наш продукт выпадать из раствора. Будем’с пробовать. 🤔
+And further, I decided to obtain magnesium citrate in the form of crystals, and — here there was a "problem". I tried to evaporate it, but along the edges of the evaporating solution a darkening crust is obtained — such organic matter decomposes when heated. The part that did not darken became an extremely viscous non-crystallizing syrup (like viscous colorless resin). It dissolves perfectly in water (even in a drop of water), turning into a non-viscous transparent solution. An attempt to precipitate magnesium citrate from this solution by adding isopropyl alcohol did NOT lead to success: a small amount of alcohol changes nothing; if there is more alcohol, the solution becomes cloudy when stirred, but under a microscope you can see that these are NOT magnesium citrate crystals, but microdroplets of aqueous solution surrounded by alcohol (that is, an emulsion). That is: you can't heat it; evaporation gives no result (a resinous non-crystallizing colorless syrup is obtained); it does not precipitate with alcohol. We will have to try other ways: first of all, try to FREEZE (put the aqueous solution of magnesium citrate in the freezer). In a number of similar cases, when water becomes ice, the substance dissolved in it becomes crystals. There are other ways. "Salting out" can be done not only with alcohol; you can select a salt that will NOT react with magnesium citrate but will be more water-soluble. Adding such compounds forces our product to precipitate from the solution. We'll try. 🤔
 ```
 
-Видео Авакяна с фильтрацией:
+Video from Avakyan with filtration:
 
 <video width="640" height="360" controls>
   <source src="{{ 'experimets/AceMg/2/Avak/Фильтрование_web.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
+  Your browser does not support the video tag.
 </video>
 
 
-## Бонус (искуственные камни из цитрата кальция/карбоната)
-Камни делал так:
-Взял ~2 ложки лимонной кислоты, сделал раствор. добавлял к раствору карбонат кальция и так пока реакция не затихала, иногда мешал
-В один момент всё выпало в осадок, когда уже реакция толком и не шла
-Потом слепил формы, поставил в печь на 3 часа при 50 градусов, на бумаге. Потом поставил на 100 градусов на полтора часа. После оставил охлаждаться в печи.
-Потом сделал смесь акрилового лака с люминофором и покрасил.
-Полученный мною камень можно сжимать и при падение на пол не ломается
+## Bonus (artificial stones from calcium citrate/carbonate)
+I made the stones like this:
+I took ~2 spoons of citric acid, made a solution. Added calcium carbonate to the solution until the reaction subsided, stirring occasionally.
+At one point everything precipitated, when the reaction was hardly proceeding anymore.
+Then I molded shapes, put them in the oven for 3 hours at 50 degrees, on paper. Then put them at 100 degrees for an hour and a half. After that I left them to cool in the oven.
+Then I made a mixture of acrylic varnish with a phosphor and painted them.
+The stone I obtained can be squeezed and does not break when dropped on the floor.
 
 
-![stone](experimets/AceMg/2/stone1.jpg)
-![stone](experimets/AceMg/2/stone2.jpg)
+![stone](/experimets/AceMg/2/stone1.jpg)
+![stone](/experimets/AceMg/2/stone2.jpg)
 
 
-## Какие варианты кристаллизации перепробованы
-- Добавление спирта в раствор
-- Полу вакуум
-- Добавление чего-то в раствор (органика, лимонная кислота)
-- Замораживание
-## Весточка от Авака
+## Crystallization options tried
+- Adding alcohol to the solution
+- Partial vacuum
+- Adding something to the solution (organic matter, citric acid)
+- Freezing
+## Message from Avak
 
 ```
 
-Здравствуйте!
+Hello!
 
-ПОЛУЧИЛ Все Ваши письма. Компьютерную и видеотехнику ПОЧИНИЛ. С цитратом магния исследования продолжаю. Выморозить не получилось: раствор идеально становится льдом в морозилке, но при этом не разделяется на кристаллы цитрата и кристаллы льда. Высолить тоже пока не получилось. Зато я нашёл полезную информацию о ПОДОБНЫХ соединениях: цитрате железа2 и цитрате свинца2:
+I RECEIVED all your letters. I FIXED the computer and video equipment. Research on magnesium citrate continues. I couldn't freeze it out: the solution turns perfectly into ice in the freezer, but does not separate into citrate crystals and ice crystals. I also haven't managed to salt it out yet. But I found useful information about SIMILAR compounds: iron(II) citrate and lead(II) citrate:
 
 https://ru.crystalls.info/%D0%A6%D0%B8%D1%82%D1%80%D0%B0%D1%82_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0%28II%29
 
 https://ru.crystalls.info/%D0%A6%D0%B8%D1%82%D1%80%D0%B0%D1%82_%D1%81%D0%B2%D0%B8%D0%BD%D1%86%D0%B0%28II%29
 
-Про цитрат железа сказано: «Избыток лимонной кислоты замедляет испарение раствора, вплоть до полной остановки.». Про цитрат свинца сказано: «Избыток лимонной кислоты приводит к загустеванию раствора, вплоть до полной остановки испарения». Таким образом, с этой проблемой химики уже сталкивались: и, оказывается, получение не испаряющегося вязкого гигроскопичного сиропа происходит от ИЗБЫТКА ЛИМОННОЙ КИСЛОТЫ.
+About iron citrate it says: "Excess citric acid slows down the evaporation of the solution, up to a complete stop." About lead citrate it says: "Excess citric acid leads to thickening of the solution, up to a complete stop of evaporation." Thus, chemists have already encountered this problem: and it turns out that obtaining a non-evaporating viscous hygroscopic syrup occurs from an EXCESS OF CITRIC ACID.
 
-К слову, сама лимонная кислота кристаллизуется из воды прекрасно; и ещё, она ОЧЕНЬ растворима. При интенсивном помешивании в капле воды можно растворить несколько объёмов (равных капле) твёрдой лимонной кислоты. Ещё. Я обнаружил, что из питьевой соды и аммиака получается более пассивная форма карбоната магния, чем из кальцинированной соды. Реагирует с лимонной кислотой медленнее, но при перемешивании реакция всё равно быстро заканчивается.
+By the way, citric acid itself crystallizes from water perfectly; and also, it is VERY soluble. With intensive stirring, several volumes (equal to a drop) of solid citric acid can be dissolved in a drop of water. Another thing. I discovered that from baking soda and ammonia a more passive form of magnesium carbonate is obtained than from washing soda. It reacts with citric acid more slowly, but with stirring the reaction still ends quickly.
 
-Я сделал насыщенный водный раствор лимонной кислоты и положил в него избыток карбоната магния (из кальцинированной соды); раствор оставил на сутки. Через сутки отфильтровал от не среагировавшего избыточного карбоната магния. Получился прозрачный не вязкий раствор. Я налил его в миску и положил эту миску на батарею отопления. И — он высох! Получилось прозрачное сморщенное нечто. Уже больше часа как я убрал миску с радиатора, но этот продукт влагу воздуха пока не впитал (то есть, надеюсь, гигроскопичности нет). ➡️ То есть твёрдым цитрат магния я уже получил. Но буду ещё экспериментировать. Попробую получить его из лимонной кислоты и избытка ГИДРОКСИДА магния (не карбоната). 👉🏼 Возможно, что с карбонатом реакция до идеала не доходит, и некоторый избыток лишней лимонной кислоты остаётся. Так что возможно, что с избытком ГИДРОКСИДА магния результатом станет не прозрачная сморщенная корка, а кристаллы цитрата магния.
-
-```
-
-## Что по итогу получается
-
-Повторил опыт. Да, получается аморфный осадок, его я промыл изопропиловым спиртом
-
-![AmorphCytrateMg](images/MgCytrateAmorph.jpeg)
-
-Воспользовавшись микроволновкой:
-
-![cmg](experimets/AceMg/microwave.jpeg)
-
-Стехиометрические расчеты, которыми я пользовался:
+I made a saturated aqueous solution of citric acid and put an excess of magnesium carbonate (from washing soda) into it; I left the solution for a day. A day later I filtered it from the unreacted excess magnesium carbonate. A transparent non-viscous solution was obtained. I poured it into a bowl and put this bowl on a heating radiator. And — it dried! A transparent wrinkled something was obtained. It has been more than an hour since I removed the bowl from the radiator, but this product has not yet absorbed moisture from the air (that is, I hope there is no hygroscopicity). ➡️ That is, I have already obtained solid magnesium citrate. But I will experiment further. I will try to obtain it from citric acid and an excess of magnesium HYDROXIDE (not carbonate). 👉🏼 Perhaps with carbonate the reaction does not go to completion, and some excess of extra citric acid remains. So perhaps with an excess of magnesium HYDROXIDE the result will be not a transparent wrinkled crust, but magnesium citrate crystals.
 
 ```
-192,124 — лимонная кислота.
-M(MgCO₃) ≈ 84.3 г/моль.
-CytratAcidMg M = 214,41 г/моль.
-Всего у нас 8 g MgCO₃ — это 50% от ожидаемой реакции сульфата магния и карбоната натрия.
 
-Это 8 / 84.3 = 0.094 Mol'.
+## What you get in the end
+
+I repeated the experiment. Yes, you get an amorphous precipitate; I washed it with isopropyl alcohol.
+
+![AmorphCytrateMg](/images/MgCytrateAmorph.jpeg)
+
+Using a microwave:
+
+![cmg](/experimets/AceMg/microwave.jpeg)
+
+Stoichiometric calculations I used:
+
+```
+192.124 — citric acid.
+M(MgCO₃) ≈ 84.3 g/mol.
+CitrateMg M = 214.41 g/mol.
+In total we have 8 g of MgCO₃ — this is 50% of the expected reaction of magnesium sulfate and sodium carbonate.
+
+This is 8 / 84.3 = 0.094 mol.
 
 2
 H₂C-COOH
@@ -235,75 +236,75 @@ H₂C-COO Mg OOC-CH₂
 HC-COO Mg OOC-CH
 H₂C-COO Mg OOC-CH₂
 
-192.124 * 2 = 384.248 — всего грамм молекула на молекулу.
-0.094 / 3 = 0.03133333333333333 (потому что 3 молекулы нужно, поэтому высчитываем отсюда 3 массы).
-0.03133333333333333 * 384.248 ~ 12 (итого нам нужно 12 грамм лимонной кислоты).
+192.124 * 2 = 384.248 — total grams molecule to molecule.
+0.094 / 3 = 0.03133333333333333 (because 3 molecules are needed, so we calculate 3 masses from here).
+0.03133333333333333 * 384.248 ~ 12 (so we need 12 grams of citric acid).
 
-Или проще:
+Or simpler:
 0.094 * 2 / 3 = 0.06266666666666666.
 192.124 * 0.06266666666666666 ~ 12.
 
-А магния надо на 12:
+And magnesium needed for 12:
 (12 / 192.124) = 0.06245966146863484.
-0.06245966146863484 * 3 / 2 = 7.898024192708875 (так как 3 молекулы магния нужно на 2 молекулы лимонной).
+0.06245966146863484 * 3 / 2 = 7.898024192708875 (since 3 molecules of magnesium are needed for 2 molecules of citric acid).
 
-Итого, чтобы был переизбыток, нужно взять где-то 8 грамм лимонной кислоты, или ещё лучше — 6.
+So, to have an excess, you need to take about 8 grams of citric acid, or even better — 6.
 
-Или, более понятно и разумно, считать через соотношение:
-192.124 * 2 = 384.248 — столько у нас г/моль лимонной кислоты.
-84.3 * 3 = 252 г/моль карбоната магния.
+Or, more clearly and reasonably, count by ratio:
+192.124 * 2 = 384.248 — this is how many g/mol of citric acid we have.
+84.3 * 3 = 252 g/mol of magnesium carbonate.
 
 384.248 / 252
-или
+or
 3.84242 : 2.52
 
-3.84242 моли лимонной приходится на 2.52 моли карбоната.
-В 8 граммах у нас:
+3.84242 moles of citric acid per 2.52 moles of carbonate.
+In 8 grams we have:
 8 / 2.52 = 3.1746031746031744.
 
-И тогда:
+And then:
 3.1746031746031744 * 3.84242 = 12.19815873015873.
 
 ```
 
-На 8 грамм у меня ушло 5 грамм кислоты и вышло: 161.70 - 155.87 ~ 5 грамм (возможно водного) цитрата магния
+For 8 grams I used 5 grams of acid and got: 161.70 - 155.87 ~ 5 grams (possibly hydrated) of magnesium citrate.
 
 
-![cmg.jpeg](experimets/AceMg/cmg.jpeg)
+![cmg.jpeg](/experimets/AceMg/cmg.jpeg)
 
 
 # Post Script
 
 ```
-То есть, так же получил сморщенное чудо и засунул на 30 секунд в микроволновку. Потом достал. Помешал. Снова на 30 секунд. Повторил. Потом увидел что появляются кристаллы, засунул на минуту и у меня вздулась смурщенное. Скорее всего вода испарялась и спирт. Да, оно ещё было в растворе изопропилового спирта при этом, очень малом количестве
-Потом получились такие кристаллы. По идее в микроволновке только вода нагревается
+So, I also got a wrinkled wonder and put it in the microwave for 30 seconds. Then took it out. Stirred. Again for 30 seconds. Repeated. Then I saw crystals starting to appear, put it in for a minute and my wrinkled mass swelled up. Most likely water and alcohol were evaporating. Yes, it was still in an isopropyl alcohol solution at that point, a very small amount.
+Then such crystals formed. In principle, in a microwave only water is heated.
 
-Извиняюсь, что уже 8 сообщение и все обрывистые. Это может отвлекать от более важных дел. Я думаю, химизм образования в переизбытке лимонной кислоты это кислый цитрат магния, он имеет свойства совсем другие, чем не кислый. Когда мы получали в переизбытке карбоната магния, то вся лимонная кислота прореагировала и следовательно не осталось свободной кислоты. Уже это вещество и кристаллизуется. А та кислая форма, скорее всего сама с собой реагирует обратимо и очень быстро. Я думаю, стоит попробовать так же её высушить в микроволновке. В микроволновой печи СВЧ волны избирательно бьют по воде, но беда в том, что будет нагреваться само вещество. Всё же микроволновку, я думаю уже можно начать использовать в химических процессах как инструмент и даже посвятить этому целое направление....
+I apologize for this being the 8th message and all of them fragmentary. This can be distracting from more important matters. I think the chemistry of formation in an excess of citric acid is acidic magnesium citrate; it has completely different properties than the neutral one. When we obtained it in an excess of magnesium carbonate, all the citric acid reacted and therefore no free acid remained. This substance then crystallizes. And that acidic form most likely reacts with itself reversibly and very quickly. I think it is worth trying to dry it in the microwave as well. In a microwave oven, microwave waves selectively act on water, but the trouble is that the substance itself will heat up. Still, I think the microwave can already be used in chemical processes as a tool and even dedicate a whole direction to this...
 ```
 
-# Доп фотки Авака
+# Additional photos from Avak
 
 ```
-Раствор с цитратом магния (раствор цитрата натрия с сульфатом магния) у меня стал вязким сиропом; но на его поверхности (более чем через 2 суток) начали появляться кристаллы. Шлю 5 фоток в микроскоп 800x этих кристаллов. Заметьте, что это такие же округлые формы, как у кристаллов цитрата магния, фотки которого я слал ранее (из карбоната магния). Заметьте, что именно в сильный микроскоп можно распознать соединение: видно, что это такие же кристаллы, то есть это именно цитрат магния (для этого и нужен микроскоп). Это похоже на вышеприведенную информацию про «поверхностную корку» цитрата железа(II). В этом моём растворе есть главным образом только ещё одна соль — сульфат натрия («Глауберова соль»), но она значительно более растворима в воде, и пока не стала выпадать из этого вязкого сиропа. То, что смесь цитрата магния с лимонной кислотой даёт сироп, И ТАКОЙ ЖЕ сироп даёт смесь цитрата магния с цитратом натрия, — это значит, что сироп — это двойная соль цитрата магния с цитратами ОДНОвалентных элементов (лимонная кислота = «цитрат водорода», а водород тоже одновалентный, как и натрий). То есть сиропами являются ассоциаты цитрата магния с лимонной кислотой либо с цитратом натрия. Что будет дальше с этим сиропом — погляжу (он у меня в открытой прозрачной миске из кварца; кстати, тёмные шары на фото — это пузырьки воздуха внутри кварцевого стекла).
+The solution with magnesium citrate (a solution of sodium citrate with magnesium sulfate) became a viscous syrup for me; but on its surface (after more than 2 days) crystals began to appear. I am sending 5 photos in a microscope at 800x of these crystals. Note that these are the same rounded forms as the magnesium citrate crystals whose photos I sent earlier (from magnesium carbonate). Note that it is precisely in a strong microscope that you can recognize the compound: you can see that these are the same crystals, that is, it is precisely magnesium citrate (that's what a microscope is for). This is similar to the above information about the "surface crust" of iron(II) citrate. In this solution of mine there is mainly only one other salt — sodium sulfate ("Glauber's salt"), but it is significantly more soluble in water and has not yet begun to precipitate from this viscous syrup. The fact that a mixture of magnesium citrate with citric acid gives a syrup, AND THE SAME syrup is given by a mixture of magnesium citrate with sodium citrate — means that the syrup is a double salt of magnesium citrate with citrates of MONOvalent elements (citric acid = "hydrogen citrate", and hydrogen is also monovalent, like sodium). That is, syrups are associates of magnesium citrate with citric acid or with sodium citrate. What will happen next with this syrup — I'll see (I have it in an open transparent quartz bowl; by the way, the dark spheres in the photo are air bubbles inside the quartz glass).
 ```
 
-![1](experimets/AceMg/2/Avak/Цитрат магния из цитрата натрия и MgSO4, кристаллы на поверхности сиропа - Tue Oct 21 22-08-02.png)
-![2](experimets/AceMg/2/Avak/Цитрат магния из цитрата натрия и MgSO4, кристаллы на поверхности сиропа - Tue Oct 21 22-14-35.png)
-![3](experimets/AceMg/2/Avak/Цитрат магния из цитрата натрия и MgSO4, кристаллы на поверхности сиропа - Tue Oct 21 22-17-07.png)
-![4](experimets/AceMg/2/Avak/Цитрат магния из цитрата натрия и MgSO4, кристаллы на поверхности сиропа - Tue Oct 21 22-24-07.png)
-![5](experimets/AceMg/2/Avak/Цитрат магния из цитрата натрия и MgSO4, кристаллы на поверхности сиропа - Tue Oct 21 22-26-51.png)
+![1](/experimets/AceMg/2/Avak/Цитрат%20магния%20из%20цитрата%20натрия%20и%20MgSO4,%20кристаллы%20на%20поверхности%20сиропа%20-%20Tue%20Oct%2021%2022-08-02.png)
+![2](/experimets/AceMg/2/Avak/Цитрат%20магния%20из%20цитрата%20натрия%20и%20MgSO4,%20кристаллы%20на%20поверхности%20сиропа%20-%20Tue%20Oct%2021%2022-14-35.png)
+![3](/experimets/AceMg/2/Avak/Цитрат%20магния%20из%20цитрата%20натрия%20и%20MgSO4,%20кристаллы%20на%20поверхности%20сиропа%20-%20Tue%20Oct%2021%2022-17-07.png)
+![4](/experimets/AceMg/2/Avak/Цитрат%20магния%20из%20цитрата%20натрия%20и%20MgSO4,%20кристаллы%20на%20поверхности%20сиропа%20-%20Tue%20Oct%2021%2022-24-07.png)
+![5](/experimets/AceMg/2/Avak/Цитрат%20магния%20из%20цитрата%20натрия%20и%20MgSO4,%20кристаллы%20на%20поверхности%20сиропа%20-%20Tue%20Oct%2021%2022-26-51.png)
 
 
-# Кислый цитрат магния
+# Acidic magnesium citrate
 
-Тот магний, что я оставил в банке, под "ваккумом", на самом деле игла перестала пускать воздух - превратилась в белую жижу.
+The magnesium I left in the jar under "vacuum" — in fact the needle stopped letting air through — turned into a white slurry.
 
-![1](experimets/AceMg/3/1.jpeg)
-![2](experimets/AceMg/3/2.jpeg)
+![1](/experimets/AceMg/3/1.jpeg)
+![2](/experimets/AceMg/3/2.jpeg)
 
-Засунув в микроволновку, как и в первый раз я получил кристаллы
+After putting it in the microwave, as in the first time, I got crystals.
 
-![3](experimets/AceMg/3/3.jpeg)
-![4](experimets/AceMg/3/4.jpeg)
+![3](/experimets/AceMg/3/3.jpeg)
+![4](/experimets/AceMg/3/4.jpeg)
 
-Как вывод, теперь имеется (предположительно) кислый и средний цитрат магния.
+As a conclusion, I now have (presumably) acidic and neutral magnesium citrate.

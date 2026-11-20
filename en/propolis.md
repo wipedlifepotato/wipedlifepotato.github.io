@@ -2,21 +2,22 @@
 layout: default
 lang: en
 title: Propolis notes
+translated: true
 ---
 
+[Photos/files](/images/propolis/files.html)
 
-https://wipedlifepotato.github.io/images/propolis/files.html
+```
+Hello. The first is propolis in isopropyl alcohol (a supersaturated solution) and the second is in ethyl acetate. Ethyl acetate dissolves it better. At the same time it feels like these solvents mixed, even though one is polar and the other is very weakly polar.
+```
 
-```Здравствуйте. Первое это прополис в изопропиловом спирте перенасыщенный раствор и второе в этилацетате. Этилацетат лучше растворяетПри этом такое ощущение что эти растворители смешались. Хотя один полярный, а другой очень слабо полярный```
+When water is added to the resulting solution (less than 10 ml into a larger volume), a white precipitate appears immediately. Most likely waxes (a friend told me about this before I noticed).
 
+This is also a way to remove salts from solutions: take a supersaturated salt solution and add alcohol — a precipitate will fall out.
 
-При добавлении воды в полученный раствор. Менее 10 мл на больший объем сразу выпадает белое. Скорее всего воски (сообщил друг об этом, ещё до меня)
-Так можно соли выводить из растворов. Перенасыщенный раствоо соли и подливать спирт. Выпадет осадок
+Ethyl acetate mixed with isopropyl alcohol, and there was no phase separation like with water. When the solution dried, a resin formed on the floor, and transparent resins remained in the glass. A finger that got the solution on it first smelled of resins and then became coated with them.
 
-Этилацетат смешался с изопропиловым спиртом, причем расслоения как с водой не было. На полу образовалась смола при высыхание раствора, в стакане остались прозрачные смолы.
-Палец на который попал раствор сначала вонял смолами, а после покрылся ею. 
-Интересное замечание, поведение, видно расслоение уже в перенасыщенном растворе и снизу оседает как бы слоем осадок со временем. То есть (там больше Изопропилового спирта), может быть такое, что расслоение всё же есть, но слабое и незаметное.
+An interesting observation: in the supersaturated solution some separation becomes visible over time, with a layer of sediment settling at the bottom. That is (there is more isopropyl alcohol there), it may be that there is some separation, but weak and not obvious.
 
-Это не похоже на "водородные связи", которые как бы есть, но их как бы и нет, в этил ацетате два кислорода. В изопропиловом спирте один кислород. Минус должен отталкиваться от минуса.
-Видимо, есть слабый положительный заряд. Скорее всего он более выражен в этилацетате, но стоит проверить по RDKit. из-за двух кислородов и большой связи уксусной, думаю где-то после двух кислородов прыгает положительный заряд и цеплятся на -OH группу спирта, но это лишь додумки.
+This does not look like "hydrogen bonds" that are kind of there but kind of not — ethyl acetate has two oxygens, isopropyl alcohol has one. Negative charge should repel negative charge. Apparently there is a weak positive charge. It is probably more pronounced in ethyl acetate, but this should be checked with RDKit. Because of the two oxygens and the acetate bond, I think a positive charge may shift somewhere after the two oxygens and attach to the -OH group of the alcohol, but this is just speculation.
 

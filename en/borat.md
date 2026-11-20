@@ -2,65 +2,67 @@
 layout: text
 lang: en
 title: Notes on boric acids
+translated: true
 ---
 
 ```
-Тема: Борная кислота
-Здравствуйте!
+Topic: Boric acid
+Hello!
 
-Я обнаружил, что борной кислотой пытаются лечить воспаленный зубы. Видимо, такая медицина народная.
+I discovered that boric acid is sometimes used to try to treat inflamed teeth. Apparently, this is folk medicine.
 
-Сразу же вспомнил, что когда-то мне нужен был тетраборат и я чуть с дуба не рухнул, как много всего. Метабораты, бораты, в целом все свойства мне напоминали спирты из органики.
-Я стал читать более точно и заметил, что правда пишут, что обычные свойства органических кислот с отдачей протона оно не проявляет. Я проверил лакмусовой бумагой, действительно, не проявляет. Бумага остается желтоватой. Это вообще буферный раствор.
+I immediately remembered that I once needed tetraborate and was almost shocked by how many things there are. Metaborates, borates — overall, all the properties reminded me of alcohols in organic chemistry.
+I started reading more carefully and noticed that it is indeed written that it does not exhibit the usual properties of organic acids with proton donation. I checked with litmus paper — indeed, it does not. The paper remains yellowish. It's essentially a buffer solution.
 
-Более того, я собирался содой пищевой проверить, но как обычно, она куда-то пропала. Классика. 
-Ну это не страшно, так как сейчас я буду проверять кальцинированной содой. Так как с каустической будет неясно.
-В википедии пишут, что оно проявляет кислотные свойства акцепторно-донорном уровне (кислота Льюиса. Где кислота это акцептор электронной пары, а донор это основание. То есть, где не идет H+ (отдача), а наоборот как основание. Запутаться в этом можно, но я так запоминаю, что аммиак это основание и там он как бы принимает на себя протон, то есть как акцептор... Но при этом в NH3 он существует и ещё у него 2 свободных электрона, которые он дает. Поэтому можно запутаться)
-В общем, сейчас я буду проверять с кальцинированной содой.
+Moreover, I was going to test it with baking soda, but as usual, it disappeared somewhere. Classic.
+Well, that's not a big problem, since now I will test it with washing soda (sodium carbonate). Testing with caustic soda would be ambiguous.
 
-Хм, отмена. Я проверил с обычной пищевой содой. Я посыпал щепотку её и сначала газ вообще не шёл и я думал википедия и ИИ мне накинули граммотно, что реакция с содой не будет идти. Но нет, ИИ обманули - реакция идет. Но лакмус показывает среду как буфер и при этом сразу же идет осадок, но не вниз, а всплывает. Газ выделяется в очень малом кол-ве. 
+Wikipedia says that it exhibits acidic properties at the acceptor-donor level (Lewis acid, where an acid is an electron pair acceptor and a base is a donor. That is, where there is no H+ donation, but rather the opposite, like a base. It can be confusing, but I remember it this way: ammonia is a base and there it accepts a proton, acting as an acceptor... But at the same time in NH3 it exists and also has 2 free electrons that it donates. So it can be confusing.)
 
-Мне кажется, почему-то, уже давно. Что борная кислота это подобие спиртов в органической химии. Можно проверить чуть позже, нужна прицепить какую жирную кислоту или тому подобное. Посмотреть, будет ли подобие жира, но потом займусь. 
+In general, now I will test it with washing soda.
 
-Лакмус был выкинут в мусорку и сейчас был достан с целью того, что бы убедиться, что лакмус не среагировал. Неа, он всё же среагировал... Но только в местах и кажется где я трогал пальцами. То есть, если лакмус реагирует только на pH в целом, то всё же H+ там есть. Тогда википедия в целом вводит в заблуждение 
+Hmm, cancel that. I tested it with ordinary baking soda. I sprinkled a pinch of it and at first no gas came out at all, and I thought Wikipedia and the AI had confidently misled me that there would be no reaction with soda. But no, the AI was wrong — the reaction does proceed. But litmus shows the medium as a buffer, and at the same time a precipitate immediately forms, but not sinking down — it floats up. Very little gas is released.
+
+For some reason, I've felt for a long time that boric acid is similar to alcohols in organic chemistry. This can be checked later: you need to attach some fatty acid or something similar and see if you get something like a fat, but I'll do that later.
+
+The litmus was thrown in the trash and now I took it out again to make sure it hadn't reacted. No, it did react after all... But only in places, and it seems where I touched it with my fingers. So if litmus reacts only to pH in general, then H+ is present there. Then Wikipedia is somewhat misleading.
 
 https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D1%8B
 
-и причем как в органике с помощью серной кислоты делается, этерификация
+and moreover, as in organic chemistry, it is made with sulfuric acid — esterification.
 
-Что бы не "дышать парами" (вряд-ли у чего есть явная кристаллическая решетка в обычном виде может делать пары, азеотропные смеси с водой, способные покрыть все легкие быстрее чем воздух на улице, но раз сказали) всё же закрыл в бутылке. Но, как я и раньше писал, стехиометрия в органике не особо используется. Либо берут недостаток, либо переизбыток, от необходимости нужной реакции. Я засыпал в бутылку стеклянную от есентуки соды пищевой и залил туда этот раствор, очень сильно размешал и уже такого не увидел. Сода уже толком и не растворяется. Оставляю на дольше. 
+So as not to "breathe vapors" (it's unlikely that something with a clear crystal lattice in its ordinary form can produce vapors — azeotropic mixtures with water capable of covering all the lungs faster than outdoor air, but since they said so) I still closed it in a bottle. But as I wrote earlier, stoichiometry is not particularly used in organic chemistry. Either a deficiency or an excess is taken, depending on the desired reaction. I poured baking soda into a glass bottle from Essentuki and poured this solution there, mixed it very well, and didn't see that anymore. The soda hardly dissolves anymore. I'll leave it for longer.
 
-https://studfile.net/preview/7264660/page:11/ токсикология говорит, что сода пищевая связывает. То есть реакция идёт
-Отравление даже задействует мозг. То есть, в целом проходит барьер, в который многие органические соединения нормально не попадают и взаимодействие с органикой есть. 
+https://studfile.net/preview/7264660/page:11/ toxicology says that baking soda binds it. That means the reaction does occur.
+Poisoning even affects the brain. That is, in general it crosses the barrier that many organic compounds do not normally cross, and there is interaction with organic matter.
 
 https://chemister.ru/Databases/Chemdatabase/properties.php?dbid=1&id=397
 
-Летуча с паром. То есть, таки может ещё и вести себя как жидкость в растворе. Видимо, при нагреве. 
+Volatile with steam. So it can indeed behave like a liquid in solution. Apparently, when heated.
 
-Летальная доза большая, то есть можно было в бутылку не убирать. Но уже ладно
+The lethal dose is large, so I didn't need to put it in a bottle. But oh well.
 
-Боялись что будет испарятся, хоть я сразу сказал, что должно скорее кристаллизоваться. Но сказали вдруг животные слопают. Я не знаю. Они только на кровати ссут, но растворы не пьют. 
+They were afraid it would evaporate, although I immediately said it should rather crystallize. But they said what if animals eat it. I don't know. They only pee on the bed, but don't drink solutions.
 
-Кстати, где цитрат меди должен быть, появилась Пенка похожаа на бактериальную жизнь 
+By the way, where the copper citrate should be, a foam appeared that looks like bacterial life.
 
-c кислотами органическими реагирует видимо только через ангидрид. нашёл есть что-то вроде "триацетилбората"
+With organic acids it apparently reacts only through the anhydride. I found something like "triacetyl borate".
 
-Химия и Химики № 2 2008. Очистка органических ...
+Chemistry and Chemists No. 2 2008. Purification of organic ...
 
 image.png
-журнал Химия и Химики
-... триацетилборатом охлаждают и образовавшиеся кристаллы отфильтровывают. После перегонки получают безводную кислоту. Уксусную кислоту обезвоживают также ...
+Chemistry and Chemists journal
+... the triacetyl borate is cooled and the resulting crystals are filtered off. After distillation, anhydrous acid is obtained. Acetic acid is also dehydrated by ...
 
+(THE JOURNAL IS BANNED IN THE RF. TOO SCIENTIFIC FOR THIS COUNTRY.)
+So, it turns out, such a compound exists.
 
-(ЖУРНАЛ ЗоПРЕЩЕН В РФ. СЛИШКОМ НАУЧНО ДЛЯ ЭТОЙ СТРАНЫ.)
-Вот, получается, есть такое соденине
+I found it on archive.org https://archive.org/stream/djvu14519/djvu%3D14519_djvu.txt
+As I understood, these compounds immediately turn back into acid and boric acid, which apparently dissolves very poorly in organic solvents and precipitates, since it would remain during distillation otherwise. At first I didn't quite understand why it should be kept in a reflux condenser with an oxidizer. To oxidize what wasn't oxidized — but how and where does permanganate have such solubility there? I think the main thing is distillation and, as it turns out, triacetyl borate.
 
-нашёл на acrhive org https://archive.org/stream/djvu14519/djvu%3D14519_djvu.txt
-Эти соединения, как я понял сразу обратно в кислоту превращаются и борную кислоту, что видимо в органике очень плохо растворяется и идет в осадок, тк при перегонке бы тогда оно оставалось. Первоночально не совсем понял зачем в обратном холодильнике держать в окислителе. Окислить не оокисленное, но как там и откуда растворимость такая перманганата. Думаю основное это перегонка и как раз триацетилборат 
-
-фосфорные кислоты ж тоже эфиры делают, но это уже ядовитое и там не этерификацией обычно (был какой-то немецкий способ, есть при сильном нагреве сразу цепляют изопропиловый спирт например. Но я уже забыл, обычно к хлорпроизводным цепляют вроде. Подзабыл, нужно реакции Арбузова смотреть и другие.), а тут этерификацией
+Phosphoric acids also form esters, but that's already toxic and there it's usually not done by esterification (there was some German method; there is one where isopropyl alcohol is attached directly under strong heating, for example. But I've already forgotten — usually they attach to chloro derivatives, I think. I need to review the Arbuzov reaction and others.), but here it's by esterification.
 ```
-<h2> Фото: </h2>
+<h2> Photos: </h2>
 
 <img src='/images/borat/tetraboratenatria.png' /> 
 <br/>
@@ -73,43 +75,45 @@ image.png
 <img src='/images/borat/CuCitrateBacteria1.png' />
 <hr/>
 
-<h2> Ответ: </h2>
+<h2> Reply: </h2>
 
 ```
-Здравствуйте!
+Hello!
 
-Борная кислота умеет быть «настоящей» кислотой; в водных растворах она образует олигомеры; чаще всего, тетраборную кислоту. Это продукт поликонденсации, формула H2B4O7. Структурную формулу натриевой соли этой кислоты (натрия тетраборат) прикрепил во вложении. Соды (и Na2CO3, и NaHCO3) в борной кислоте «шипят», образуя тетраборат натрия в виде гидрата; потому что тетраборная кислота немного сильнее угольной. Но именно «немного», потому и лакмус они «не сильно впечатляют». Борные кислоты НЕ летучи АБСОЛЮТНО; их водные растворы, как и сами эти кислоты (они все твёрдые), можно открыто держать в спальне; никаких «паров» от них НЕ будет. Ядовиты — ДА; но речь не про «запах» (они НЕлетучие, пахнуть НЕ могут), а про то, что внутрь организма лучше, чтобы они НЕ попадали. ЭФИРЫ ортоборной кислоты можно получать так же, как эфиры фосфорной, мышьяковой, серной или карбоновых кислот. Их свойства показывают огромную разницу между бором и его гомологом по периодической таблице — алюминием. Алкоголяты алюминия — это типичные алкоголяты металла. А с бором получаются вещества со свойствами сложных эфиров. Кстати, Я ПОЛУЧАЛ супер экзотику (возможно, впервые в мире): взрывчатые эфиры пероксиборных кислот. Получал я их, растворяя борную кислоту в ацетоне, аккуратно растворяя в полученном растворе 94% серную кислоту и затем добавляя туда сухой гидроперит и перемешивая. Получался пропилиденпероксиборат — борный сложный эфир «кисы». Это белый твёрдый взрывчатый продукт, по пиротехническим свойствам уступающий «кисе». Про сходство борных кислот со спиртами — да, сходство есть, как и у кремниевых кислот. Потому что бор и кремний по свойствам близки к углероду. Алкилпроизводные бора и кремния могут образовывать подобия простых эфиров; например, (CH3)2BOCH3. Сходство в том, что кислотность (CH3)2BOH не очень уж отличается от кислотности спиртов, например, метанола CH3OH. Для сравнения, олово и свинец (тяжёлые гомологи углерода), в отличие от кремния, образуют подобные соединения, но по свойствам их можно назвать ониевыми, потому что соответствующие структуры ведут себя как катионы, подобные весьма щелочным; например, (CH3)3PbCl и (CH3)3SnCl — ведут себя как соли (хлориды) весьма не слабых щелочей, чего не скажешь о (CH3)3SiCl, который подобен алкилхлоридам.
+Boric acid can be a "real" acid; in aqueous solutions it forms oligomers, most often tetraboric acid. This is a polycondensation product, formula H2B4O7. I attached the structural formula of the sodium salt of this acid (sodium tetraborate). Soda (both Na2CO3 and NaHCO3) "fizzes" in boric acid, forming sodium tetraborate as a hydrate, because tetraboric acid is slightly stronger than carbonic acid. But only "slightly," which is why litmus is "not very impressed." Boric acids are ABSOLUTELY non-volatile; their aqueous solutions, like the acids themselves (they are all solid), can be kept openly in a bedroom; there will be NO "vapors" from them. They are toxic — YES; but this is not about "smell" (they are non-volatile and cannot smell), but about the fact that it is better that they do not enter the body. Esters of orthoboric acid can be obtained in the same way as esters of phosphoric, arsenic, sulfuric, or carboxylic acids. Their properties show a huge difference between boron and its homologue in the periodic table — aluminum. Aluminum alkoxides are typical metal alkoxides. But with boron, substances with the properties of esters are obtained. By the way, I OBTAINED a super exotic substance (possibly for the first time in the world): explosive esters of peroxyboric acids. I obtained them by dissolving boric acid in acetone, carefully dissolving 94% sulfuric acid in the resulting solution, and then adding dry hydroperite and stirring. Propylidene peroxyborate was obtained — a boron ester of "the acid". This is a white solid explosive product, inferior in pyrotechnic properties to "the acid". As for the similarity of boric acids to alcohols — yes, there is similarity, as with silicic acids. Because boron and silicon are similar in properties to carbon. Alkyl derivatives of boron and silicon can form analogues of ethers; for example, (CH3)2BOCH3. The similarity is that the acidity of (CH3)2BOH does not differ very much from the acidity of alcohols, for example, methanol CH3OH. For comparison, tin and lead (heavy homologues of carbon), unlike silicon, form similar compounds, but in terms of properties...
 ```
 
 <img src='/images/borat/Na2B4O7.PNG' />
 
 <hr/>
 
-<h2>Попытка получение пероксиборатной кислоты</h2>
+<h2>Attempt to obtain peroxyboric acid</h2>
 ```
-Смешал 50 мл перекиси, туда насыпал борную кислоту у меня целый 1кг есть сейчас где-то. Налил туда 50 мл 95% ортофосфорной кислоты. У меня появился осадок. Этот осадок я через колбу бунзена профильтровал, шприцом плохо фильтруется (декантация плохо работает), если только сеточкой отделять с раствора и так даже лучше будет. Так вот, взял частично высушенное, направил на зажигалку, оно кипело и заметных изменений пламени я не замечал после. Только в начале и видимо от перекиси, а полученное обуглилось. Скорее всего сажа от зажигалки. Потом рассыпал и пробовал на кристаллы, очень слабо часть пламени становилось зеленой. Больше не было изменений. Буду пробовать ещё вместо кислоты щелочь. Но факт того, что смешав кислоту и борную кислоту с перекисью, само по себе оно не горючее.
+Mixed 50 ml of peroxide, poured boric acid into it (I have a whole 1 kg somewhere right now). Poured 50 ml of 95% orthophosphoric acid into it. A precipitate appeared. I filtered this precipitate through a Büchner flask; filtration with a syringe works poorly (decantation works poorly), it would be better to separate it from the solution with a mesh. So, I took the partially dried material, directed it at a lighter, it boiled and I didn't notice any noticeable changes in the flame afterward. Only at the beginning, apparently from the peroxide, and the resulting material charred. Most likely soot from the lighter. Then I scattered it and tested the crystals — a very small part of the flame turned green. There were no other changes. I will try again, using alkali instead of acid. But the fact is that mixing acid and boric acid with peroxide by itself does not produce a combustible substance.
 
-p.s.p.s Когда убирал остатки полужидкий остаток, на флюс для металлов, то получил ожог схожий с перекисью, даже после нескольких часов нахождение на свету и открытом воздухе. (лучше мыться и принимать душ сразу после работы и использовать средства защиты при работе с сыпучими веществами. Волосы набирают пыль и потом оно может попасть в глаза, например или еду. Но это нужно работать с большим кол-вом и на производстве. При этом эти ожоги вызванные перекисью, если это кожа при следовых количествах мало опасно, так как ожог проходит довольно быстро)
+p.s.p.s When I was cleaning up the semi-liquid residue on metal flux, I got a burn similar to a peroxide burn, even after several hours in the light and open air. (It is better to wash and shower immediately after work and use protective equipment when working with powdered substances. Hair collects dust and then it can get into the eyes, for example, or food. But this requires working with large quantities and in production. At the same time, these burns caused by peroxide, if on the skin in trace amounts, are not very dangerous, as the burn passes quite quickly.)
+
 "
-ICSC 1046 - ПЕРБОРАТ НАТРИЯ
+ICSC 1046 - SODIUM PERBORATE
 
 International Labour Organization
 https://chemicalsafety.ilo.org › icsc › showcard.display
-Не горючее, но способствует возгоранию других веществ. При пожаре выделяет раздражающие
+Non-combustible but promotes combustion of other substances. Releases irritating substances in a fire.
 "
 ```
 
-(p.s серная кислота, так как я предположил, что можно протонировать OH группу, что бы она была уходящей и следовательно замещалась OOH группой, но это в теории, на практике, может получилось BPO5/BPO4 и скорее всего это и был фосфат бора, более чем его пероксид)
+(p.s. sulfuric acid — because I assumed it was possible to protonate the OH group so that it would become a leaving group and consequently be replaced by an OOH group, but that's in theory; in practice, BPO5/BPO4 may have formed, and most likely it was boron phosphate rather than its peroxide)
 
 <hr/>
 
-Попытка сделать из буры. Взял тетраборат натрия его кристаллогидрат, налил следовые кол-ва ортофосфорной кислоты. Залил 25 мл перекиси и поддержал. Была мутная вода как от коллоида. Прилил следовое кол-во ацетона и коллоид разъединился. Дальше сливал лишнию воду и кашу уже налил на бумагу и с неё сошкрябал.
-Жидкая смесь, что при нагреве зажигалкой плавится и огонь подпрыгивает будто, так же следы тетрабората появлялись тк шли брызги. Далее из жидкой формы сплавилась такая форма на зажигалке. Немного горит, но это не похоже на следы ацетона, может остатки перекиси или пероксид бората натрия.
+Attempt to make it from borax. I took sodium tetraborate, its crystal hydrate, poured in trace amounts of orthophosphoric acid. Poured in 25 ml of peroxide and kept it warm. The water was cloudy like a colloid. Added a trace amount of acetone and the colloid separated. Then I poured off the excess water and poured the slurry onto paper and scraped it off.
 
-Как вывод: не то и не другое не могло дать реакцию похожее на органические пероксиды, тогда либо у нас аддукт или новое соединение. 
+The liquid mixture, when heated with a lighter, melts and the flame seems to jump, and traces of tetraborate also appeared as splashes occurred. Then from the liquid form it fused into this shape on the lighter. It burns a little, but it doesn't look like traces of acetone — maybe peroxide residues or sodium borate peroxide.
+
+As a conclusion: neither one nor the other could produce a reaction similar to organic peroxides, so either we have an adduct or a new compound.
 
 <hr/>
-Фото:
+Photos:
 
 <img src='/images/borat/peroxyboratacid/1.jpg' />
 <br/>
@@ -133,64 +137,64 @@ https://chemicalsafety.ilo.org › icsc › showcard.display
 <br/>
 <hr/>
 
-<h4>Важные замечания</h4>
+<h4>Important notes</h4>
 
-Ортфосфорная кислота + Борная кислота = фосфат борной кислоты (точно ли она кислота, а не основание?) [https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%84%D0%B0%D1%82_%D0%B1%D0%BE%D1%80%D0%B0]
+Orthophosphoric acid + boric acid = boron phosphate (is it really an acid, or a base?) [https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%84%D0%B0%D1%82_%D0%B1%D0%BE%D1%80%D0%B0]
 
-
-Неорганические соединения могут и проявляют органические свойства, как пример AgCl (хлорид серебра), у него связь полярно ковалентная, а не ионная, как нас учит школьная химия. Для этого можно проверить по электроотрицательности, 
-при определенном кол-ве электроотрицательности будет ковалетная связь.
-
+Inorganic compounds can and do exhibit organic properties; for example AgCl (silver chloride) has a polar covalent bond, not an ionic one, as school chemistry teaches us. This can be checked by electronegativity: at a certain electronegativity difference there will be a covalent bond.
 
 ```
 delta X = |Xa - Xb|
-delta X ~ 0-.4 -> Ковалетная неполярная
-delta X ~ .4-1.7 -> Полярная ковалетная
-delta X > 1.7 -> ионная
-Xa (Ag) По Полингу -> 1.93
+delta X ~ 0-.4 -> nonpolar covalent
+delta X ~ .4-1.7 -> polar covalent
+delta X > 1.7 -> ionic
+Xa (Ag) by Pauling -> 1.93
 Xb (Cl) -> 3.16
-|3.16 - 1.93| => 1.23 -> ковалетная полярная связь, но школа учит что всегда ионная будет. Как-то так.
+|3.16 - 1.93| => 1.23 -> polar covalent bond, but school teaches that it will always be ionic. Something like that.
 ```
 <hr/>
-Про бороводороды -> https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B8%D0%B4%D1%8B_%D0%B1%D0%BE%D1%80%D0%B0
+About boranes -> https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B8%D0%B4%D1%8B_%D0%B1%D0%BE%D1%80%D0%B0
 <br/>
-Про кремневодороды/силаны -> https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%B0%D0%BD%D1%8B
+About silanes -> https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%B0%D0%BD%D1%8B
 <br/>
-Дифосфин/Гидразин - подобие. Азотные разлагаются с бешеной скоростью
+Diphosphine/hydrazine — an analogy. Nitrogen compounds decompose at a tremendous rate.
 <br/>
-Сероводород на самом деле может полимеризоваться, как пример полисульфиды/сульфаны (полисероводороды)
+Hydrogen sulfide can actually polymerize, for example polysulfides/sulfanes (polyhydrosulfides).
 
 ```
-Исходя с всего этого, мне кажется, могут/существуют иные формы жизни, альтернативные. В том числе из тех неорганических веществ, которые в голову не придут, как способные давать какую либо жизнедеятельность. Всё зависит от условий планеты. Поэтому поиск воды и углеводородов это наивная ветвь для поиска инородной формы жизни. Не факт что они в целом обладают физическими телами в обычном понимание, но если и обладают, то чисто теоретически могут быть жидкими или даже газообразными. Но в таком случае, если они газообразные, то под вопросом существование их сознания. С другой стороны, есть ли сознание у водоросли. Но оно живое. Мы привыкли считать, что то, что может вообще что либо чувствовать обладает сознанием. Например принято считать, что насекомые не чувствуют боль, но они даже от ФОВ подобно человеку умирают.. 
+Based on all this, it seems to me that other, alternative forms of life may exist. Including those made of inorganic substances that would never occur to you as capable of supporting any life activity. Everything depends on the conditions of the planet. Therefore, the search for water and hydrocarbons is a naive branch for searching for alien life forms. It is not certain that they possess physical bodies in the usual sense at all, but if they do, then theoretically they could be liquid or even gaseous. But in that case, if they are gaseous, the existence of their consciousness is questionable. On the other hand, does algae have consciousness? But it is alive. We are used to thinking that whatever can feel anything at all has consciousness. For example, it is commonly believed that insects do not feel pain, but they even die from FOV similarly to humans...
 ```
 
 <hr/>
-Возможная реакция:
+Possible reaction:
 ```
-Ацетон + H+ => енол-ацетона
-енол-ацетона + :B(OH)3 -> ...CH2:B(OH)3 и дальше полимеризация, так как у ацетона вторая группа свободная. Дальше нужно по хорошему знать точную формулу конечного вещества.
-Дальше OH группа у ацетона в его кисло-енольной форме может отцепляться и получаться гем соединение (https://en.wikipedia.org/wiki/Geminal_diol) с -OOH группой в теории. А дальше ещё цепляться олигомер или даже полимер при определенных условиях.
-Тогда теоретическую формулу можно додуматься. То есть, чисто теоретически, такое реально. И если оно есть, то вряд-ли там аддукт, особенно если выпадает в осадок не смесь веществ, а одно.
+Acetone + H+ => enol of acetone
+enol of acetone + :B(OH)3 -> ...CH2:B(OH)3 and further polymerization, since acetone has a second free group. Then one would need to know the exact formula of the final substance.
 
-p.s для тех кто будет проверять через ии, исходим из отрицательного заряда на CH2 группе в еноле... А то ИИ не согласен, пока ему не объяснишь... Когда объяснишь, то согласен, но не согласен. В общем, пи-нуклеофильная связь в еноле, при мезомерие может повиться отрицательный заряд, в нем переизбыток электронов. борная кислота это кислота Льюиса и она принимает свободную пару электронов. Дальше можно додуматься.. (но это всё теория, но в ии такое особо нет смысла пихать, это выходит за рамки его обучения, хотя это очевидные вещи. В целом, если не понятно, то лучше не ии, а учебник открыть)
+Then the OH group in acetone in its keto-enol form can be detached and a geminal compound can be obtained (https://en.wikipedia.org/wiki/Geminal_diol) with an -OOH group in theory. And then an oligomer or even a polymer can attach under certain conditions.
+
+Then a theoretical formula can be imagined. That is, purely theoretically, this is possible. And if it exists, then it is unlikely to be an adduct, especially if a single substance precipitates rather than a mixture.
+
+p.s. for those who will check with AI: proceed from the negative charge on the CH2 group in the enol... Otherwise the AI disagrees until you explain it... When you explain it, it agrees but still disagrees. In general, the pi-nucleophilic bond in the enol can produce a negative charge due to mesomerism — it has an excess of electrons. Boric acid is a Lewis acid and accepts a free electron pair. Then you can figure it out... (but this is all theory; there is not much point in feeding it to AI, it goes beyond its training, although these are obvious things. In general, if it's not clear, it's better to open a textbook than use AI)
 ```
-<h4>Резюме: </h4>
+<h4>Summary: </h4>
 
-- некоторые неорганические вещества могут и проявляют свойства органических веществ, даже не состоя из углерода
-- не все соединения, что называются кислотой, проявляют в обычном понимание кислоту. В целом, уксусная кислота холодная, без воды, вообще проявляет лишь свойства растворителя
-- Не все соединения металл-основание ионные
-- возможно, существуют другие альтернативные формы жизни. В том числе состоящие из бора.
-- борная кислота больше проявляет свойства основания в обычном понимание, кислоту Льюиса и вообще спиртов из органической химии. Более того, с ангидридами кислот может образоывать сложные эфиры, правда они быстро гидролизуются. А с самими спиртами органическими делать этерификацию и так же получать эфиры борной кислоты. Ключевое тут, этерификацией.
-- могут существовать новые соединения, просто мало изученные, даже в банальной борной кислоте, которую можно купить, почти что, в любом магазине удобрений
+- some inorganic substances can and do exhibit properties of organic substances, even without consisting of carbon
+- not all compounds called acids exhibit acidity in the usual sense. In general, cold acetic acid without water exhibits only the properties of a solvent
+- not all metal-base compounds are ionic
+- possibly, other alternative forms of life exist. Including those consisting of boron.
+- boric acid behaves more like a base in the usual sense, as a Lewis acid, and generally like alcohols in organic chemistry. Moreover, with acid anhydrides it can form esters, although they hydrolyze quickly. And with organic alcohols themselves it can undergo esterification and also produce boric acid esters. The key point here is esterification.
+- new, little-studied compounds may exist, even in ordinary boric acid, which can be bought in almost any fertilizer store
 
-(поправьте выше где не так)
+(correct where needed above)
 <hr/>
 
-<h4>OTBET: </h4>
+<h4>Reply: </h4>
 
 ```
-А «перекись» — это у Вас водный раствор H2O2, или гидроперит? Если гидроперит — с фосфорной кислотой будет фосфат мочевины (похож на нитрат мочевины). Если без мочевины, то да — фосфатом бора сие действительно может быть, скорее всего, так и есть.
-Про жизнь из не углеродной основы — углерод не случайно породил жизнь; дело в том, что он образует прочнейшие связи сам с собой, в результате молекулы полиэтилена могут быть бесконечными и при этом прочными; мало того, углерод и сам с собой, и с рядом других элементов образует идеально ковалентные не ионные связи, которые НЕ реагируют даже с сильнейшими кислотами и щелочами. Поэтому из углеводородов можно творить любые витиеватые конструкции, прицеплять к этим конструкциям функциональные группы, и этот остов оказывается незыблемо прочным, НЕ разрушается даже сильнейшими кислотами и щелочами. Углероду в этом нет равных. Ни один элемент даже близко не приближается к этим свойствам, поэтому такого бесконечного разнообразия сложнейших и при этом прочнейших молекул из других элементов не сотворить. Так что не углеродную жизнь сотворить, мягко говоря, навряд ли возможно.
+And "peroxide" — do you mean an aqueous solution of H2O2, or hydroperite? If hydroperite — with phosphoric acid you will get urea phosphate (similar to urea nitrate). If without urea, then yes — it may indeed be boron phosphate, most likely so.
+
+About life not based on carbon — carbon did not give rise to life by accident; the fact is that it forms the strongest bonds with itself, as a result of which polyethylene molecules can be infinite and at the same time strong; moreover, carbon forms ideally covalent, non-ionic bonds both with itself and with a number of other elements, which do NOT react even with the strongest acids and alkalis. Therefore, from hydrocarbons you can create any intricate structures, attach functional groups to these structures, and this backbone turns out to be unshakably strong — it is NOT destroyed even by the strongest acids and alkalis. Carbon has no equal in this. No other element even comes close to these properties, so such infinite diversity of the most complex and yet strongest molecules cannot be created from other elements. So creating non-carbon life is, to put it mildly, hardly possible.
 ```
 
-Конец статьи.
+End of article.

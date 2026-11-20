@@ -2,51 +2,54 @@
 layout: fuckallshit
 lang: en
 title: Myth about hydrogen sulfide and worms in eggs
+translated: true
 ---
 
-# Суть
-Купил яйца. Хотел достать из них белок и заодно проверить на миф про сероводород. Белок я уже вроде как доставал, но ещё раз хочу буферный раствор сделать и осадить.
-Оставил яйцо разбитое в стаканчике. Прошло 5 дней, пошёл ОЧЕНЬ неприятный запах. Я сначала думал, что от меня где-то, Но потом понял что в комнате.
-Вспомнил про яйцо.
-Записи эксперимента:
+# Point
+
+I bought eggs. I wanted to extract the protein from them and at the same time check the myth about hydrogen sulfide. I think I had already extracted protein before, but I wanted to make a buffer solution and precipitate it again.
+
+I left a broken egg in a glass. 5 days passed and a VERY unpleasant smell appeared. At first I thought it was coming from somewhere on me, but then I realized it was in the room. I remembered the egg.
+
+Experiment notes:
 ```
 [26.08.2026 16:14] A: [ Photo ]
-[26.08.2026 16:14] A: Воняет не сероводородом. А бьядь аминокислотой
+[26.08.2026 16:14] A: It doesn't smell like hydrogen sulfide. It smells like damn amino acids.
 [26.08.2026 16:15] A: [ Photo ]
-[26.08.2026 16:15] A: При добавлении электролита (серки) перестало так сильно вонять. Это белок
-[26.08.2026 16:16] A: Миф разрушен. А ещё яйцо с червями продали
-[26.08.2026 16:17] A: Вообще почти что прошёл запах. Пахнет чем-то не знакомым, но это не сероводород. Возможно это какие-то другие продукты. Оставляю ещё на несколько часов.
-[26.08.2026 16:17] A: Кстати, этим червям похуй на кислоту
-[26.08.2026 16:17] A: Они в ней плавают. Поэтому на часа 3 оставим
-[26.08.2026 16:18] A: а норм что яйца сразу с червимя продают?
-[26.08.2026 16:19] A: да
-[26.08.2026 16:19] A: нет сероводорода
+[26.08.2026 16:15] A: After adding an electrolyte (sulfuric acid) it stopped smelling so strongly. This is protein.
+[26.08.2026 16:16] A: Myth busted. And also they sold me an egg with worms.
+[26.08.2026 16:17] A: The smell is almost gone. It smells like something unfamiliar, but it's not hydrogen sulfide. Maybe some other products. I'll leave it for a few more hours.
+[26.08.2026 16:17] A: By the way, these worms don't care about the acid.
+[26.08.2026 16:17] A: They're swimming in it. So let's leave it for about 3 hours.
+[26.08.2026 16:18] A: is it normal that they sell eggs with worms right away?
+[26.08.2026 16:19] A: yeah
+[26.08.2026 16:19] A: no hydrogen sulfide
 [26.08.2026 16:19] B in reply to A:
-> Миф разрушен
-про сероводород?
+> Myth busted
+about hydrogen sulfide?
 [26.08.2026 16:19] B in reply to A:
-> ‎⁨а норм что яйца сразу с червимя продают?⁩
-нет, это пиздец
-[26.08.2026 16:19] A: а про яйца я отдельный запрос производителю пошлю
-[26.08.2026 16:19] A: так я не видел червей
-[26.08.2026 16:19] B: надо было сфоткать и отправить производителю
-[26.08.2026 16:19] A: я даже много яиц этих слопал
-[26.08.2026 16:19] A: я думаю они в желудке умерли надеюсь
-[26.08.2026 16:20] B: не все могут быть заражены
-[26.08.2026 16:20] B: в одном лотке могут быть яйца от разных куриц
-[26.08.2026 16:20] A: так они должны перекисью обрабатывать
-[26.08.2026 16:20] A: и куриц проверять на глистов
-[26.08.2026 16:21] A: ну у меня в организме они вряд-ли долго проживут, но вот в курице видимо да
-[26.08.2026 16:21] A: меня больше приколяет что им пофиг на кислоту 40%+ серную
-[26.08.2026 16:21] A: я уже не помню сколько там
-[26.08.2026 16:21] A: смотреть надо плотность
-[26.08.2026 16:22] A: но я максимальную брал которую только по рынку можно найти
+> ‎⁨is it normal that they sell eggs with worms right away?⁩
+no, that's fucked up
+[26.08.2026 16:19] A: I'll send a separate request to the manufacturer about the eggs
+[26.08.2026 16:19] A: I just didn't see the worms
+[26.08.2026 16:19] B: you should have taken a photo and sent it to the manufacturer
+[26.08.2026 16:19] A: I've even eaten a lot of these eggs
+[26.08.2026 16:19] A: I hope they died in my stomach
+[26.08.2026 16:20] B: not all of them may be infected
+[26.08.2026 16:20] B: eggs in one tray can come from different hens
+[26.08.2026 16:20] A: but they're supposed to treat them with peroxide
+[26.08.2026 16:20] A: and check hens for worms
+[26.08.2026 16:21] A: well, they probably won't live long in my body, but in a hen apparently yes
+[26.08.2026 16:21] A: what amuses me more is that they don't care about 40%+ sulfuric acid
+[26.08.2026 16:21] A: I don't remember how much it was exactly
+[26.08.2026 16:21] A: need to check the density
+[26.08.2026 16:22] A: but I took the strongest one you can find on the market
 ```
 # PS:
-Личинки могли появиться за 5 дней, через насекомых, но кто это
+The larvae could have appeared over 5 days, via insects, but who knows.
 # end ps
 
-Фотки/Видео:
+Photos/Videos:
 <div class='pair'>
     <img src="/images/egg/1.jpg"/>
 </div>
@@ -56,10 +59,9 @@ title: Myth about hydrogen sulfide and worms in eggs
 </div>
 <br/>
 
-
 ====
 ```
-Прочитал про яйцо. 🙂 Конечно же, серная кислота уберёт базовую часть запаха, ПОТОМУ ЧТО запах тухлого яйца — это НЕ сероводород, а АМИНЫ — те же самые, которые возникают при протухании мяса (Вы ПРАВИЛЬНО идентифицировали запах). Амины бывают разные: при протухании селёдки возникают иные амины, чем из, например, свинины. Серная кислота образует с такими аминами сульфаты и таким образом «намертво» их «связывает». Щёлочи усиливают запах, потому что с аминами не реагируют, зато вытесняют амины из солей (часть аминов оказываются связаны в виде солей разных кислот в тухлятине, а щёлочи эти соли разлагают, образуя соответствующую соль щелочного металла и свободный амин, который и «воняет»).
+I read about the egg. 🙂 Of course sulfuric acid will remove the basic part of the smell, BECAUSE the smell of a rotten egg is NOT hydrogen sulfide but AMINES — the same ones that arise when meat spoils (you CORRECTLY identified the smell). Amines vary: when herring spoils, different amines arise than from, say, pork. Sulfuric acid forms sulfates with such amines and thus "binds" them "permanently." Alkalis intensify the smell because they do not react with amines but displace amines from salts (some amines end up bound as salts of various acids in the rot, and alkalis decompose these salts, forming the corresponding alkali metal salt and a free amine, which "stinks").
 
-Бабушке посоветуйте пить АСПАРКАМ. И ещё: принимает ли она бета-блокаторы? Если да, то КАКИЕ? У моей матери тоже и с сердцем, и с почками проблема. И самый лучший из бета-блокаторов оказывается ЛОКРЕН. Есть отечественный аналог под названием «бетаксолол», но этот «бетаксолол» НЕ действует (проверено на опыте; возможно, это просто шарлатанский продукт типа гипса или мела).
+Advise grandmother to take ASPARKAM. And also: is she taking beta-blockers? If so, WHICH ones? My mother also has problems with both heart and kidneys. And the best beta-blocker turns out to be LOCREN. There is a domestic analogue called "betaxolol", but this "betaxolol" does NOT work (tested by experience; perhaps it is just a bogus product like gypsum or chalk).
 ```
