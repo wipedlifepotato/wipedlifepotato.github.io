@@ -1,22 +1,29 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="{{ page.lang | default: 'ru' }}">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="style.css"/>
-  <style>
-  </style>
+  <link rel="stylesheet" href="/style.css"/>
+  <link rel="stylesheet" href="/assets/css/gallery.css"/>
 </head>
-<body style="">
-  <canvas id="matrix"></canvas>
+<body>
   <div class="content">
-  <nav>
-    <a href="/index.html">Главная</a> |
-    <a href="/contacts.html">Контакты</a>
-  </nav>
-  <main>
-    {{ content }}
-  </main>
+    <nav>
+      {% if page.lang == 'en' %}
+      <a href="/en/">Home</a>
+      <a href="/en/contacts.html">Contacts</a>
+      <a href="/index.html">RU</a>
+      {% else %}
+      <a href="/index.html">Главная</a>
+      <a href="/contacts.html">Контакты</a>
+      <a href="/en/">EN</a>
+      {% endif %}
+    </nav>
+    <main>
+      {{ content }}
+    </main>
   </div>
+  <script src="/assets/js/gallery.js" defer></script>
 </body>
 </html>
