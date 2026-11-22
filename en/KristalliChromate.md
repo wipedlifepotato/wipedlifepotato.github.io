@@ -83,7 +83,6 @@ CrO3 is the best of them. It is the most active of the chromium oxides, and the 
 </video>
 
 ```
-Здравствуйте!
 Hello!
 YOU DON'T need to open the aquarium; crystallization is NOT caused by evaporation! The solution does NOT need to evaporate. Let it sit closed; crystals will grow over time. The crystals are the result of slow mixing of solutions (slow diffusion). If you mix them quickly — an amorphous yellow powder of zinc chromate will precipitate; but if you do it like this, slowly, then instead of an amorphous powder the precipitate "comes out" as growing yellow crystals. If all the solution in the aquarium is yellowish (from the chromate), the crystals will grow somewhere in the neck of the bottle with zinc sulfate. By the way, I watched your video about zinc sulfate. Yours is just too dirty; it should be colorless crystals, and what you have looks earthy. I would dissolve it in water, filter it and evaporate it (to purify it). I made it from zinc and battery electrolyte; I've attached a picture (in the attachment, take a look); it should be colorless crystals like these (in my photo it's a little wet from the leftover electrolyte). As for the caustic burning gas when zinc dissolves in the electrolyte — first, there may be an aerosol of sulfuric acid ("smoke" made of microdroplets of electrolyte; tiny splashes from bursting bubbles); second, technical electrolyte always contains an impurity of hydrochloric acid, and its "caustic fumes" (hydrogen chloride) are a real thing.
 In dreams and in the Astral a DOG is the goddess of death; IN THE BATHTUB is her favorite place in our apartments, after all she is an elemental of WATER. That's why in the BATHTUB is where you'll most often meet her.
@@ -121,8 +120,8 @@ images/chromate/
 <br/>
 
 ```
-Поглядел, ужОс!!!! 😊
 I took a look — horror!!!! 😊
+
 In the attachment — see how it's done (you may publish this picture wherever you like). I decided to "get fancy" and used a two-liter plastic bottle lying on its side as the "aquarium". With two strips of narrow tape I tied it to a board that became the stand (see: those strips of tape are barely visible under the left and right bottles). The neck of this bottle is screwed on tight. On top (that is, in the side of this bottle) I cut a "hatch" with manicure scissors, like a submarine's (see the upper-right frame). Through this "hatch" I inserted into the bottle little jars filled to the brim with solutions: the left jar has an aqueous solution of Kalceks; the right jar has an aqueous solution of washing soda. Carefully I put these jars in the right places. And then CAREFULLY (WITHOUT STIRRING THINGS UP!!!) I poured water through the "hatch" into the common bottle so that the jars ended up UNDER water (not deeply). After that I closed the "hatch" and "walled it up" (sealed it) with a strip of wide tape. Taking Kalceks (as the calcium salt) was a mistake: the urotropine in it gave flakes of its own decomposition products. The distance between the jars turned out to be too great: the reaction was downright slow. Over time (more than a month) the neck of the left jar (the one with Kalceks) became completely overgrown with CALCITE crystals (the reaction product). The crystals came out small (see the millimeter scale of the ruler in the second frame from the bottom on the right), and their growth stopped because the overgrown neck cut off contact between the solutions.
 
 Yours — horror!!!! 😊 WHY such HUGE dimensions: a giant aquarium… It's simply a shame to waste that many reagents! In the aquarium there's a jar upside down (why?) and a blue cup whose top is ABOVE the water in the aquarium (it should be UNDER the water — otherwise WHY is it there at all?). There is an abundant ragged crust on the surface, which says that you did NOT try to "not stir things up" when you were pouring it all in (to put it mildly). 😊 In my experiment (see above), no crusts or precipitates formed in the common container, BECAUSE I filled that container with water extremely smoothly, WITHOUT STIRRING IT UP, after which the whole contraption lay in perfect stillness.
@@ -172,20 +171,20 @@ PRECIPITATING hexavalent chromium is easy in the form of insoluble and sparingly
 
 REDUCING hexavalent chromium — you can try aluminum foil in an ACIDIC medium (without a strong acid, the foil may become passivated due to the formation of aluminum chromate); hydrochloric acid is best (or electrolyte + NaCl), because with sulfuric acid the foil reacts rather "reluctantly". Iron filings or nails in sulfuric or hydrochloric acid can also reduce the chromate ion (it's an analogous reaction), as can zinc. In strong acids such as sulfuric and hydrochloric, the end result may be a solution of chromium salts, with chromium going all the way down to 2+ — that is, in sulfuric acid the result will be a solution of CrSO4. Salts of divalent chromium are very "useful around the house": they are the strongest reducing agents (in aqueous solution they decompose water very slowly, releasing hydrogen!). This will be a SOLUTION, not a precipitate. To obtain a precipitate, you'll need to make the final solution alkaline enough for Cr(OH)2 hydroxide to precipitate (which will tend to oxidize to hydroxides of trivalent chromium, also insoluble in water).
 
-About COMFREY — now THIS is VERY interesting!!!! It's SHINING that you've taken up experiments. The FIRST trials should always be done with MICROdoses; with iris you should start with a 5×5 mm square; with aconite, even less. If a dose doesn't work, doing another test with a bigger dose the next day is no problem; but if the first dose was a lethal one — then there won't be a next day. 😊
+About COMFREY — now THIS is VERY interesting!!!! It's FANTASTIC that you've taken up experiments. The FIRST trials should always be done with MICROdoses; with iris you should start with a 5×5 mm square; with aconite, even less. If a dose doesn't work, doing another test with a bigger dose the next day is no problem; but if the first dose was a lethal one — then there won't be a next day. 😊
 ```
 
 
 # UDP
 
 https://wipedlifepotato.github.io/images/chromate/osashdenije/files.html
-Тут можно видеть, как при добавление меди в виде кристаллогидрата сульфата меди зеленеют кристаллы, а дальше появляется дымок и такие осадки
 Here you can see how, when copper is added in the form of copper sulfate crystal hydrate, the crystals turn green, and then a little smoke and these precipitates appear
 I also poured in a mixture of copper oxides and carbonate (the bulk of it) and copper citrate — that gave a decent green as well
 For a test I also added iron sulfate; it did nothing
 In the end, crystals formed on the bottle that could be gathered up in clumps; without water they're pretty and they glow, but I got them dirty with water and they were ruined.
 With the water from the bottle, you can see what is presumably chromium hydroxide — so it really did change its oxidation state without any redox reaction as such. Which means this happens over time, or else
 some of the impurities took part in a redox reaction. But it seems to me that compounds like this should decompose on their own, like permanganic acid, for example. And redox reactions and oxidation states are "stretched over the globe". Ni(CO)4 = oxidation state zero
+
 ```
 Hello!
 

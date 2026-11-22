@@ -38,7 +38,7 @@ body {
     linear-gradient(rgba(4, 10, 18, 0.55), rgba(4, 10, 18, 0.72)),
     url('Kekulene.svg'),
     linear-gradient(var(--bg-2), var(--bg-1));
-  background-size: auto, cover, 900px auto, cover;
+  background-size: cover;
   background-position: center top, center, center top, center;
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
   background-attachment: fixed, fixed, fixed, fixed;
