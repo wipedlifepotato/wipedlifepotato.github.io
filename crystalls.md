@@ -51,3 +51,8 @@ title: Кристаллы [черновик]
 # Радиация от соли калия (радиактивный изотоп)
 
 ![1](assets/radiation_kali.jpg)
+
+# Железо, восстановленное с окисла
+
+![1](images/Fe_metallic.jpg)
+![1](images/Fe_metallic1.jpg)
