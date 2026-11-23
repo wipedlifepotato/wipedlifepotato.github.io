@@ -94,6 +94,11 @@
       border: 1px solid #e5e7eb;
     }
     pre { padding: 12px 14px; }
+    /* Keep source line breaks/spacing in normal text too, so you don't need <pre> everywhere. */
+    p, li, td { white-space: pre-wrap; overflow-wrap: anywhere; word-break: break-word; }
+    /* Preserve line breaks inside raw-HTML blocks such as <details>. */
+    details { white-space: pre-wrap; overflow-wrap: anywhere; word-break: break-word; }
+    details ul { padding-left: 1.4rem; }
     hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
     a { color: #2563eb; }
 

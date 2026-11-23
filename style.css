@@ -171,9 +171,21 @@ pre {
   overflow-x: auto;
 }
 
+/* Preserve source line breaks and spacing in ordinary text without wrapping it in <pre>. */
+p, li, td {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 details {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+details ul {
+  padding-left: 1.4rem;
 }
 
 footer {
